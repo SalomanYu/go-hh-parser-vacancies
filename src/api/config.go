@@ -13,7 +13,7 @@ var RelevantCurrencies  = []models.Currency{}
 const TOKEN = "QQAVSIBVU4B0JCR296THKB22JP05A92H329U49TDD9CRIS8DT9BRPPT7M9OLQ6HD"
 
 var headers = map[string]string{
-	"User-Agent": "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+	"User-Agent": "Mozilla/5.0 (iPad; CPU OS 7_2_1 like Mac OS X; en-US) AppleWebKit/533.14.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6533.14.6",
 	"Authorization": fmt.Sprintf("Bearer %s", TOKEN),
 }
 
@@ -25,6 +25,7 @@ func GetJson(url string) (json string, err error) {
 	client := http.Client{
 		Timeout: 30 * time.Second,
 	}
+	
 	req, err := http.NewRequest("GET", url, nil)
 	checkErr(err)
 	req.Header.Set("User-Agent", headers["User-Agent"])

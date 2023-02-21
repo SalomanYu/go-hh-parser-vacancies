@@ -2,20 +2,23 @@ package main
 
 import (
 	"fmt"
+	"strings"
+	"sync"
+	"time"
+
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/api"
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/logger"
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/models"
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/postgres"
-	"sync"
-	"time"
-
 )
 
-const GroupSize = 10
+const GroupSize = 6
 
 func main(){
 	start := time.Now().Unix()
 	logger.Log.Printf("Старт программы")
+
+
 	UpdateCurrency()
 	professions := postgres.GetProfessions()
 	for _, prof := range professions {
@@ -41,7 +44,7 @@ func UpdateCurrency() {
 }
 
 func parseProfession(profession models.Profession) {
-	logger.Log.Printf("Ищем профессию %s", profession.Name)
+	logger.Log.Printf("Ищем профессию `%s`", profession.Name)
 	groups := groupCities()
 	for _, group := range groups {
 		var wg sync.WaitGroup
@@ -50,7 +53,6 @@ func parseProfession(profession models.Profession) {
 			go parseProfessionInCity(city, profession, &wg)
 		}
 		wg.Wait()
-		break
 	}
 	postgres.SetParsedStatusToProfession(profession.Id)
 	logger.Log.Printf("Профессия %s спарсена", profession.Name)
@@ -72,10 +74,13 @@ func groupCities() (groups [][]models.City) {
 }
 
 func parseProfessionInCity(city models.City, profession models.Profession, wg *sync.WaitGroup) {
-	logger.Log.Printf("Ищем профессию %s в городе %s", profession.Name, city.Name)
+	logger.Log.Printf("Ищем профессию `%s` в городе %s", profession.Name, city.Name)
 	api.GetVacanciesByQuery(city, profession.Name, profession.Id)
 	for _, other_name := range profession.OtherNames {
-		logger.Log.Printf("Ищем профессию %s в городе %s", other_name, city.Name)
+		if len(other_name) <= 3 || strings.ToLower(strings.TrimSpace(other_name)) == strings.ToLower(strings.TrimSpace(profession.Name))  {
+			continue
+		}
+		logger.Log.Printf("Ищем профессию `%s` в городе %s", other_name, city.Name)
 		api.GetVacanciesByQuery(city, other_name, profession.Id)
 	}
 	wg.Done()
