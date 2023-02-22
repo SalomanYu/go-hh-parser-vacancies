@@ -9,12 +9,12 @@ import (
 )
 
 func UpdateCurrencyRate(currencies []models.Currency) {
-	db := connect()
+	db := Connect2()
 	defer db.Close()
 
 	for _, cur := range currencies {
-		query := fmt.Sprintf(`UPDATE "%s" SET rate=%f WHERE code='%s'; UPDATE "%s" SET date_update=current_timestamp WHERE code='%s'`, 
-			TableCurrencies, cur.Rate, cur.Code, TableCurrencies, cur.Code)
+		query := fmt.Sprintf(`UPDATE %s SET rate=%f WHERE code="%s";`, 
+			TableCurrencies, cur.Rate, cur.Code)
 		fmt.Println(query)
 		tx, _ := db.Begin()
 		_, err := db.Exec(query)
@@ -27,7 +27,7 @@ func UpdateCurrencyRate(currencies []models.Currency) {
 }
 
 func InsertNew(currencies []models.Currency) {
-	db := connect()
+	db := Connect2()
 	defer db.Close()
 
 	valueStrings := []string{}
@@ -35,7 +35,8 @@ func InsertNew(currencies []models.Currency) {
 	valueInsertCount := 1
 
 	for _, cur := range currencies{
-		valueStrings = append(valueStrings, fmt.Sprintf("($%d, $%d, $%d, $%d)", valueInsertCount, valueInsertCount+1, valueInsertCount+2, valueInsertCount+3))
+		// valueStrings = append(valueStrings, fmt.Sprintf("($%d, $%d, $%d, $%d)", valueInsertCount, valueInsertCount+1, valueInsertCount+2, valueInsertCount+3))
+		valueStrings = append(valueStrings, "(?, ?, ?, ?)")
 		valueInsertCount += 4
 		valueArgs = append(valueArgs, cur.Code)
 		valueArgs = append(valueArgs, cur.Abbr)
@@ -44,8 +45,11 @@ func InsertNew(currencies []models.Currency) {
 	}
 	smt := fmt.Sprintf("INSERT INTO %s (code, abbr, name, rate) VALUES", TableCurrencies)
 	smt = fmt.Sprintf(smt + "%s", strings.Join(valueStrings, ","))
-	tx, _ := db.Begin()
-	_, err := db.Exec(smt, valueArgs...)
+	tx, err := db.Begin()
+	if err != nil {
+		fmt.Println(err)
+	}
+	_, err = db.Exec(smt, valueArgs...)
 	if err != nil {
 		logger.Log.Printf("Ошибка: Не удалось добавить валюту в базу - %s", err)
 		return

@@ -1,4 +1,4 @@
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1,1,'Москва'),
 	 (0,2,'Рим'),
 	 (2020,3,'Балашиха'),
@@ -9,7 +9,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2049,8,'Голицыно'),
 	 (2084,9,'Дзержинский'),
 	 (2023,10,'Дмитров');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2085,11,'Долгопрудный'),
 	 (2025,12,'Домодедово'),
 	 (2086,13,'Дубна'),
@@ -20,7 +20,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2089,18,'Ивантеевка'),
 	 (2028,19,'Истра'),
 	 (2032,20,'Клин');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2033,21,'Коломна'),
 	 (0,22,'Королёв'),
 	 (2038,23,'Котельники'),
@@ -31,7 +31,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2092,28,'Лобня'),
 	 (2037,29,'Луховицы'),
 	 (2093,30,'Лыткарино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2039,31,'Люберцы'),
 	 (2040,32,'Можайск'),
 	 (2041,33,'Мытищи'),
@@ -42,7 +42,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2058,38,'Орехово-Зуево'),
 	 (2059,39,'Павловский Посад'),
 	 (0,40,'Подольск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2071,41,'Протвино'),
 	 (0,42,'Пушкино'),
 	 (2072,43,'Пущино'),
@@ -53,7 +53,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2074,48,'Солнечногорск'),
 	 (2075,49,'Ступино'),
 	 (0,50,'Троицк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2082,51,'Фрязино'),
 	 (2077,52,'Химки'),
 	 (2070,53,'Хотьково'),
@@ -64,7 +64,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2096,58,'Щербинка'),
 	 (2098,59,'Электросталь'),
 	 (1988,60,'Бокситогорск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1989,61,'Волхов'),
 	 (1990,62,'Всеволожск'),
 	 (1991,63,'Выборг'),
@@ -75,7 +75,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1997,68,'Кириши'),
 	 (2554,69,'Колпино'),
 	 (2000,70,'Лодейное Поле');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2002,71,'Луга'),
 	 (2750,72,'Петергоф'),
 	 (2007,73,'Пикалево'),
@@ -86,7 +86,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,78,'Сосновый Бор'),
 	 (2016,79,'Тихвин'),
 	 (2017,80,'Тосно');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (11,81,'Барнаул'),
 	 (1219,82,'Белокуриха'),
 	 (1220,83,'Бийск'),
@@ -97,7 +97,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1226,88,'Рубцовск'),
 	 (0,89,'Благовещенск'),
 	 (1937,90,'Свободный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1939,91,'Тында'),
 	 (14,92,'Архангельск'),
 	 (2436,93,'Вельск'),
@@ -108,7 +108,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1017,98,'Северодвинск'),
 	 (15,99,'Астрахань'),
 	 (1506,100,'Ахтубинск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1507,101,'Знаменск'),
 	 (1508,102,'Камызяк'),
 	 (1510,103,'Харабали'),
@@ -119,7 +119,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1829,108,'Дятьково'),
 	 (0,109,'Жуковка'),
 	 (1832,110,'Карачев');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1833,111,'Клинцы'),
 	 (1835,112,'Новозыбков'),
 	 (1836,113,'Почеп'),
@@ -130,7 +130,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,118,'Фокино'),
 	 (1717,119,'Александров'),
 	 (23,120,'Владимир');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1724,121,'Ковров'),
 	 (1725,122,'Кольчугино'),
 	 (1730,123,'Муром'),
@@ -141,7 +141,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,128,'Волжский'),
 	 (1514,129,'Жирновск'),
 	 (1516,130,'Камышин');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,131,'Михайловка'),
 	 (1529,132,'Фролово'),
 	 (1742,133,'Великий Устюг'),
@@ -152,7 +152,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (26,138,'Воронеж'),
 	 (2029,139,'Кашира'),
 	 (1850,140,'Лиски');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,141,'Павловск'),
 	 (1856,142,'Россошь'),
 	 (1858,143,'Эртиль'),
@@ -163,7 +163,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,148,'Иваново'),
 	 (1758,149,'Кинешма'),
 	 (1768,150,'Шуя');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1126,151,'Ангарск'),
 	 (1129,152,'Бодайбо'),
 	 (1130,153,'Братск'),
@@ -174,7 +174,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1140,158,'Тулун'),
 	 (1141,159,'Усолье-Сибирское'),
 	 (1142,160,'Усть-Илимск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1143,161,'Усть-Кут'),
 	 (1144,162,'Черемхово'),
 	 (1145,163,'Шелехов'),
@@ -185,7 +185,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,168,'Светлогорск'),
 	 (0,169,'Советск'),
 	 (1040,170,'Черняховск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (43,171,'Калуга'),
 	 (0,172,'Киров'),
 	 (1870,173,'Людиново'),
@@ -196,7 +196,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1472,178,'Карачаевск'),
 	 (46,179,'Черкесск'),
 	 (1230,180,'Анжеро-Судженск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1231,181,'Белово'),
 	 (47,182,'Кемерово'),
 	 (1235,183,'Киселевск'),
@@ -207,7 +207,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1245,188,'Тайга'),
 	 (1246,189,'Таштагол'),
 	 (1248,190,'Юрга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1665,191,'Кирово-Чепецк'),
 	 (1668,192,'Луза'),
 	 (1674,193,'Слободской'),
@@ -218,7 +218,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1441,198,'Апшеронск'),
 	 (1442,199,'Армавир'),
 	 (1443,200,'Белореченск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1444,201,'Геленджик'),
 	 (1445,202,'Горячий Ключ'),
 	 (1447,203,'Ейск'),
@@ -229,7 +229,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1454,208,'Новороссийск'),
 	 (1456,209,'Славянск-на-Кубани'),
 	 (237,210,'Сочи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1457,211,'Темрюк'),
 	 (1459,212,'Тихорецк'),
 	 (1460,213,'Туапсе'),
@@ -240,7 +240,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1159,218,'Канск'),
 	 (54,219,'Красноярск'),
 	 (1161,220,'Лесосибирск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1162,221,'Минусинск'),
 	 (1163,222,'Назарово'),
 	 (246,223,'Норильск'),
@@ -251,7 +251,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2115,228,'Евпатория'),
 	 (2116,229,'Керчь'),
 	 (130,230,'Севастополь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (131,231,'Симферополь'),
 	 (2119,232,'Феодосия'),
 	 (2120,233,'Ялта'),
@@ -262,7 +262,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1885,238,'Обоянь'),
 	 (1886,239,'Рыльск'),
 	 (1891,240,'Грязи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1892,241,'Данков'),
 	 (1893,242,'Елец'),
 	 (1894,243,'Задонск'),
@@ -273,7 +273,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (60,248,'Магадан'),
 	 (1062,249,'Апатиты'),
 	 (1066,250,'Кандалакша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3378,251,'Кировск'),
 	 (1068,252,'Ковдор'),
 	 (1069,253,'Кола'),
@@ -284,7 +284,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1986,258,'Нарьян-Мар'),
 	 (248,259,'Арзамас'),
 	 (1680,260,'Балахна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1681,261,'Богородск'),
 	 (1682,262,'Бор'),
 	 (1686,263,'Выкса'),
@@ -295,7 +295,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1696,268,'Павлово'),
 	 (249,269,'Саров'),
 	 (1699,270,'Семенов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1700,271,'Сергач'),
 	 (1703,272,'Шахунья'),
 	 (1052,273,'Боровичи'),
@@ -306,7 +306,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1209,278,'Куйбышев'),
 	 (4,279,'Новосибирск'),
 	 (1211,280,'Обь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (68,281,'Омск'),
 	 (1253,282,'Тара'),
 	 (1565,283,'Бугуруслан'),
@@ -317,7 +317,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1571,288,'Орск'),
 	 (1901,289,'Ливны'),
 	 (1903,290,'Мценск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (69,291,'Орел'),
 	 (0,292,'Заречный'),
 	 (4138,293,'Каменка'),
@@ -328,7 +328,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1319,298,'Березники'),
 	 (1327,299,'Краснокамск'),
 	 (1328,300,'Кудымкар');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1329,301,'Кунгур'),
 	 (1330,302,'Лысьва'),
 	 (72,303,'Пермь'),
@@ -339,7 +339,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1949,308,'Арсеньев'),
 	 (1950,309,'Артем'),
 	 (1951,310,'Большой камень');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (22,311,'Владивосток'),
 	 (1952,312,'Дальнегорск'),
 	 (1953,313,'Дальнереченск'),
@@ -350,7 +350,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1091,318,'Великие Луки'),
 	 (75,319,'Псков'),
 	 (8,320,'Майкоп');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (10,321,'Горно-Алтайск'),
 	 (1350,322,'Белебей'),
 	 (1351,323,'Белорецк'),
@@ -361,7 +361,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1357,328,'Кумертау'),
 	 (0,329,'Межгорье'),
 	 (1359,330,'Мелеуз');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1360,331,'Нефтекамск'),
 	 (0,332,'Октябрьский'),
 	 (1362,333,'Салават'),
@@ -372,7 +372,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1366,338,'Учалы'),
 	 (1122,339,'Кяхта'),
 	 (20,340,'Улан-Удэ');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1425,341,'Буйнакск'),
 	 (1426,342,'Дагестанские Огни'),
 	 (1427,343,'Дербент'),
@@ -383,7 +383,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (29,348,'Махачкала'),
 	 (1432,349,'Хасавюрт'),
 	 (34,350,'Магас');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1437,351,'Назрань'),
 	 (1464,352,'Баксан'),
 	 (39,353,'Нальчик'),
@@ -394,7 +394,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1083,358,'Медвежьегорск'),
 	 (73,359,'Петрозаводск'),
 	 (1042,360,'Воркута');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (51,361,'Сыктывкар'),
 	 (1049,362,'Усинск'),
 	 (1050,363,'Ухта'),
@@ -405,7 +405,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (63,368,'Саранск'),
 	 (1562,369,'Темников'),
 	 (1180,370,'Нерюнгри');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (80,371,'Якутск'),
 	 (82,372,'Владикавказ'),
 	 (1627,373,'Альметьевск'),
@@ -416,7 +416,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,378,'Зеленодольск'),
 	 (88,379,'Казань'),
 	 (1638,380,'Мамадыш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1640,381,'Мензелинск'),
 	 (1641,382,'Набережные Челны'),
 	 (1642,383,'Нижнекамск'),
@@ -427,7 +427,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1189,388,'Саяногорск'),
 	 (1191,389,'Черногорск'),
 	 (1531,390,'Азов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1533,391,'Батайск'),
 	 (1535,392,'Волгодонск'),
 	 (1536,393,'Гуково'),
@@ -438,7 +438,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1543,398,'Миллерово'),
 	 (1544,399,'Морозовск'),
 	 (1545,400,'Новочеркасск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1546,401,'Новошахтинск'),
 	 (76,402,'Ростов-на-Дону'),
 	 (1548,403,'Сальск'),
@@ -449,7 +449,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (77,408,'Рязань'),
 	 (1711,409,'Сасово'),
 	 (1712,410,'Скопин');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1587,411,'Жигулевск'),
 	 (1588,412,'Кинель'),
 	 (1590,413,'Новокуйбышевск'),
@@ -460,7 +460,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1594,418,'Сызрань'),
 	 (212,419,'Тольятти'),
 	 (1595,420,'Чапаевск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1599,421,'Балаково'),
 	 (1600,422,'Балашов'),
 	 (1601,423,'Вольск'),
@@ -471,7 +471,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1609,428,'Пугачев'),
 	 (1610,429,'Ртищево'),
 	 (79,430,'Саратов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1613,431,'Энгельс'),
 	 (1963,432,'Долинск'),
 	 (1968,433,'Оха'),
@@ -482,7 +482,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1265,438,'Асбест'),
 	 (0,439,'Березовский'),
 	 (1269,440,'Верхняя Пышма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1270,441,'Верхняя Салда'),
 	 (3,442,'Екатеринбург'),
 	 (1277,443,'Ирбит'),
@@ -493,7 +493,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,448,'Михайловск'),
 	 (1291,449,'Нижний Тагил'),
 	 (1292,450,'Нижняя Салда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1293,451,'Нижняя Тура'),
 	 (1295,452,'Новоуральск'),
 	 (1296,453,'Первоуральск'),
@@ -504,7 +504,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1302,458,'Среднеуральск'),
 	 (1306,459,'Талица'),
 	 (1105,460,'Вязьма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1106,461,'Гагарин'),
 	 (1113,462,'Рославль'),
 	 (1115,463,'Сафоново'),
@@ -515,7 +515,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1486,468,'Железноводск'),
 	 (1487,469,'Зеленокумск'),
 	 (1490,470,'Кисловодск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1491,471,'Лермонтов'),
 	 (1492,472,'Минеральные Воды'),
 	 (1494,473,'Невинномысск'),
@@ -526,7 +526,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1909,478,'Мичуринск'),
 	 (1910,479,'Моршанск'),
 	 (1911,480,'Рассказово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (87,481,'Тамбов'),
 	 (1912,482,'Уварово'),
 	 (1787,483,'Бологое'),
@@ -537,7 +537,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1800,488,'Осташков'),
 	 (1801,489,'Ржев'),
 	 (89,490,'Тверь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1803,491,'Торжок'),
 	 (1804,492,'Торопец'),
 	 (0,493,'Северск'),
@@ -548,7 +548,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1920,498,'Ефремов'),
 	 (1921,499,'Кимовск'),
 	 (0,500,'Новомосковск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1927,501,'Суворов'),
 	 (92,502,'Тула'),
 	 (1928,503,'Узловая'),
@@ -559,7 +559,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (95,508,'Тюмень'),
 	 (1346,509,'Ялуторовск'),
 	 (1647,510,'Воткинск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1648,511,'Глазов'),
 	 (96,512,'Ижевск'),
 	 (1649,513,'Камбарка'),
@@ -570,7 +570,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1617,518,'Инза'),
 	 (98,519,'Ульяновск'),
 	 (1979,520,'Комсомольск-на-Амуре');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1980,521,'Николаевск-на-Амуре'),
 	 (102,522,'Хабаровск'),
 	 (1370,523,'Когалым'),
@@ -581,7 +581,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,528,'Советский'),
 	 (1381,529,'Сургут'),
 	 (147,530,'Ханты-Мансийск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1383,531,'Югорск'),
 	 (1385,532,'Аша'),
 	 (1388,533,'Верхний Уфалей'),
@@ -592,7 +592,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1396,538,'Коркино'),
 	 (1398,539,'Кыштым'),
 	 (1399,540,'Магнитогорск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1400,541,'Миасс'),
 	 (1402,542,'Нязепетровск'),
 	 (0,543,'Озерск'),
@@ -603,7 +603,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (104,548,'Челябинск'),
 	 (1412,549,'Южноуральск'),
 	 (1413,550,'Юрюзань');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (105,551,'Грозный'),
 	 (1653,552,'Алатырь'),
 	 (1654,553,'Канаш'),
@@ -614,7 +614,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1415,558,'Губкинский'),
 	 (1418,559,'Надым'),
 	 (1419,560,'Новый Уренгой');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1420,561,'Ноябрьск'),
 	 (304,562,'Салехард'),
 	 (1421,563,'Тарко-Сале'),
@@ -625,7 +625,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1816,568,'Углич'),
 	 (112,569,'Ярославль'),
 	 (0,570,'1 Александровка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,571,'1-го отделения совхоза «Масловский»'),
 	 (0,572,'1-го отделения совхоза «Новоусманский»'),
 	 (0,573,'1-е Банино'),
@@ -636,7 +636,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,578,'1-е Комиссаровское'),
 	 (0,579,'1-е Курасово'),
 	 (0,580,'1-е Новоспасское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,581,'1-е Панино'),
 	 (0,582,'1-е Поныри'),
 	 (0,583,'1-е Туркменево'),
@@ -647,7 +647,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,588,'1-я Косторная'),
 	 (0,589,'1-я Моква'),
 	 (0,590,'1-я Семеновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,591,'10 лет Октября'),
 	 (0,592,'11-й'),
 	 (0,593,'12 лет Октября'),
@@ -658,7 +658,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,598,'2-е Засеймье'),
 	 (0,599,'2-е Конево'),
 	 (0,600,'2-е Мелехино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,601,'2-й Патепник'),
 	 (0,602,'2-я Воробьевка'),
 	 (0,603,'2-я Казанка'),
@@ -669,7 +669,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,608,'3 Госконезавод Центральная усадьба'),
 	 (0,609,'3-е Уколово'),
 	 (0,610,'34 км');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,611,'4-е Отделение ГСС'),
 	 (0,612,'43 км'),
 	 (0,613,'5 Пятилетка'),
@@ -680,7 +680,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,618,'А/Д Казань-Арск перекресток к нп Каменка'),
 	 (0,619,'Аба'),
 	 (0,620,'Абабково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,621,'Абага'),
 	 (0,622,'Абагайтуй'),
 	 (5546,623,'Абадзехская'),
@@ -691,7 +691,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,628,'Абаканово'),
 	 (0,629,'Абакумовка'),
 	 (0,630,'Абалак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,631,'Абалаково (село)'),
 	 (4741,632,'Абан'),
 	 (4970,633,'Абатское'),
@@ -702,7 +702,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,638,'Абдрахманово'),
 	 (0,639,'Абдрашитово'),
 	 (1564,640,'Абдулино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,641,'Абдулкаримово'),
 	 (0,642,'Абдуллово'),
 	 (0,643,'Абдулово'),
@@ -713,7 +713,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,648,'Абзаково'),
 	 (0,649,'Абзаново'),
 	 (0,650,'Абзелилово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1439,651,'Абинск'),
 	 (0,652,'Аблаево'),
 	 (0,653,'Аблатуйский Бор'),
@@ -724,7 +724,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,658,'Абрамовка (Абрамовский с/с)'),
 	 (0,659,'Абрамово'),
 	 (0,660,'Абрамовское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3303,661,'Абрау-Дюрсо'),
 	 (0,662,'Абросимово'),
 	 (0,663,'Абросята'),
@@ -735,7 +735,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,668,'Абышево'),
 	 (0,669,'Авадан'),
 	 (0,670,'Авадово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,671,'Авазбакеево'),
 	 (0,672,'Аван'),
 	 (0,673,'Авангард'),
@@ -746,7 +746,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,678,'Авдеево'),
 	 (5856,679,'Авдон'),
 	 (0,680,'Авдулово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,681,'Аверино'),
 	 (0,682,'Аверинское'),
 	 (0,683,'Аверины'),
@@ -757,7 +757,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,688,'Аврово'),
 	 (0,689,'Авсюнино (поселок)'),
 	 (0,690,'Авторемзавод');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5679,691,'Автуры'),
 	 (0,692,'Авчурино'),
 	 (0,693,'Авяк'),
@@ -768,7 +768,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,698,'Аган'),
 	 (5778,699,'Агаповка'),
 	 (0,700,'Агарак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,701,'Агафонково'),
 	 (0,702,'Агафоновка'),
 	 (0,703,'Агачаул'),
@@ -779,7 +779,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,708,'Агибалово'),
 	 (1348,709,'Агидель'),
 	 (4742,710,'Агинское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4996,711,'Агириш'),
 	 (0,712,'Агиртамак'),
 	 (0,713,'Агишты'),
@@ -790,7 +790,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,718,'Аграфеновка'),
 	 (6867,719,'Агрогородок'),
 	 (0,720,'Агролес');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,721,'Агроном'),
 	 (1625,722,'Агрыз'),
 	 (6819,723,'Агуй-Шапсуг'),
@@ -801,7 +801,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,728,'Адамий'),
 	 (4245,729,'Адамовка'),
 	 (0,730,'Адамово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,731,'Аданак'),
 	 (0,732,'Адашево'),
 	 (0,733,'Аделино'),
@@ -812,7 +812,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,738,'Аджим'),
 	 (0,739,'Аджимажагатюрт'),
 	 (0,740,'Адзитарово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,741,'Адиль-Халк'),
 	 (0,742,'Адиль-Янгиюрт'),
 	 (0,743,'Адильотар'),
@@ -823,7 +823,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,748,'Адово'),
 	 (0,749,'Адоевщина'),
 	 (0,750,'Адриановка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,751,'Адуево'),
 	 (5485,752,'Адыге-Хабль'),
 	 (1423,753,'Адыгейск'),
@@ -834,7 +834,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,758,'Ажинов'),
 	 (0,759,'Азадоглы'),
 	 (0,760,'Азамат-Юрт');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,761,'Азаматово'),
 	 (4094,762,'Азанка'),
 	 (0,763,'Азаново'),
@@ -845,7 +845,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,768,'Азеево'),
 	 (0,769,'Азей (село)'),
 	 (0,770,'Азиатская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,771,'Азигулово'),
 	 (0,772,'Азикеево'),
 	 (0,773,'Азим-Сирма'),
@@ -856,7 +856,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1626,778,'Азнакаево'),
 	 (0,779,'Азналино'),
 	 (0,780,'Азналкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4695,781,'Азово'),
 	 (3304,782,'Азовская'),
 	 (0,783,'Азовы'),
@@ -867,7 +867,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,788,'Аитово'),
 	 (0,789,'Айбаш'),
 	 (0,790,'Айбечи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,791,'Айгулево'),
 	 (0,792,'Айгурский'),
 	 (0,793,'Айдар'),
@@ -878,7 +878,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,798,'Айдырлинский'),
 	 (6188,799,'Айкино'),
 	 (0,800,'Айлино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,801,'Аймаки'),
 	 (0,802,'Аймаумахи'),
 	 (0,803,'Айон'),
@@ -889,7 +889,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,808,'Ак-Даш'),
 	 (1170,809,'Ак-Довурак'),
 	 (0,810,'Ак-Дуруг');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,811,'Ак-Тал'),
 	 (0,812,'Академический'),
 	 (0,813,'Акана'),
@@ -900,7 +900,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,818,'Акбаш'),
 	 (0,819,'Акбашева'),
 	 (0,820,'Акбердино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4244,821,'Акбулак'),
 	 (0,822,'Акбулатово'),
 	 (0,823,'Акбуре'),
@@ -911,7 +911,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,828,'Акимо-Анненка'),
 	 (3201,829,'Акимовка'),
 	 (0,830,'Акка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,831,'Аккермановка'),
 	 (0,832,'Аккузево'),
 	 (0,833,'Акмурун'),
@@ -922,7 +922,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,838,'Аксаково'),
 	 (5165,839,'Аксарайский'),
 	 (0,840,'Аксарина');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,841,'Аксарино'),
 	 (5023,842,'Аксарка'),
 	 (0,843,'Аксарово'),
@@ -933,7 +933,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,848,'Аксеново'),
 	 (0,849,'Аксеново-Зиловское'),
 	 (0,850,'Аксентис');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,851,'Аксентьево'),
 	 (0,852,'Аксу'),
 	 (4168,853,'Аксубаево'),
@@ -944,7 +944,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,858,'Актабан'),
 	 (3658,859,'Актаныш'),
 	 (0,860,'Актанышбаш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (152,861,'Актау'),
 	 (0,862,'Акташ'),
 	 (0,863,'Актуганово'),
@@ -955,7 +955,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,868,'Акуличи'),
 	 (0,869,'Акулово'),
 	 (0,870,'Акутиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5567,871,'Акуша'),
 	 (0,872,'Акчеево'),
 	 (0,873,'Акша'),
@@ -966,7 +966,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,878,'Алабердино'),
 	 (4600,879,'Алабино'),
 	 (0,880,'Алабота');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,881,'Алабуга'),
 	 (0,882,'Алабушево'),
 	 (1476,883,'Алагир'),
@@ -977,7 +977,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,888,'Алак'),
 	 (0,889,'Алакаевка'),
 	 (0,890,'Алаксары');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,891,'Алакуртти'),
 	 (0,892,'Аламасово'),
 	 (0,893,'Аламбай'),
@@ -988,7 +988,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,898,'Аларь'),
 	 (0,899,'Алат'),
 	 (0,900,'Алатана');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,901,'Алаторка'),
 	 (0,902,'Алатырькасы'),
 	 (0,903,'Алашайка'),
@@ -999,7 +999,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2357,908,'Албания'),
 	 (0,909,'Алга'),
 	 (0,910,'Алгазино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,911,'Алгайский'),
 	 (0,912,'Алгасово'),
 	 (0,913,'Алгатуй'),
@@ -1010,7 +1010,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,918,'Алдиарово'),
 	 (0,919,'Але'),
 	 (0,920,'Алегазово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,921,'Алеево'),
 	 (0,922,'Алейниково'),
 	 (1218,923,'Алейск'),
@@ -1021,7 +1021,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,928,'Алексала'),
 	 (3742,929,'Александрийская'),
 	 (0,930,'Александрия');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,931,'Александро-Ерша'),
 	 (4471,932,'Александро-Невский'),
 	 (0,933,'Александро-Невское'),
@@ -1032,7 +1032,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,938,'Александровка (село)'),
 	 (0,939,'Александровка 3-я'),
 	 (0,940,'Александровка Вторая');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,941,'Александровка Донская'),
 	 (0,942,'Александрово'),
 	 (0,943,'Александровск'),
@@ -1043,7 +1043,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5089,948,'Александровский Завод'),
 	 (0,949,'Александровское'),
 	 (0,950,'Алексашкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,951,'Алексее-Тенгинская'),
 	 (0,952,'Алексеева'),
 	 (1818,953,'Алексеевка'),
@@ -1054,7 +1054,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4854,958,'Алексеевск'),
 	 (4566,959,'Алексеевская'),
 	 (6829,960,'Алексеевский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2695,961,'Алексеевское'),
 	 (0,962,'Алексей-Никольское'),
 	 (0,963,'Алексейково'),
@@ -1065,7 +1065,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,968,'Алеур'),
 	 (0,969,'Алехино'),
 	 (0,970,'Алеховщина');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,971,'Алешенка'),
 	 (0,972,'Алешинка'),
 	 (0,973,'Алешино'),
@@ -1076,7 +1076,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,978,'Алешковичи'),
 	 (0,979,'Алешково'),
 	 (0,980,'Алешники');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,981,'Алешня'),
 	 (0,982,'Алешня (село)'),
 	 (0,983,'Алешунино'),
@@ -1087,7 +1087,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4216,988,'Аликово'),
 	 (0,989,'Алискерово'),
 	 (0,990,'Алисово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,991,'Алиханмахи'),
 	 (0,992,'Алия'),
 	 (0,993,'Алкадар'),
@@ -1098,7 +1098,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,998,'Алкун'),
 	 (0,999,'Алла'),
 	 (0,1000,'Аллабердино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1001,'Аллага'),
 	 (0,1002,'Аллак'),
 	 (0,1003,'Аллах-Юнь'),
@@ -1109,7 +1109,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1008,'Алмазово'),
 	 (0,1009,'Алмак'),
 	 (0,1010,'Алмала');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1011,'Алмало'),
 	 (0,1012,'Алманчиково'),
 	 (0,1013,'Алманчино'),
@@ -1120,7 +1120,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1018,'Алоль'),
 	 (0,1019,'Алонка'),
 	 (0,1020,'Алпатово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1021,'Алтай'),
 	 (0,1022,'Алтай (поселок)'),
 	 (4892,1023,'Алтайское'),
@@ -1131,7 +1131,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1028,'Алтары'),
 	 (0,1029,'Алтат'),
 	 (0,1030,'Алтата');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5462,1031,'Алтуд'),
 	 (0,1032,'Алтунино'),
 	 (0,1033,'Алтухово'),
@@ -1142,7 +1142,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1038,'Алтышево (поселок)'),
 	 (0,1039,'Алтышево (село)'),
 	 (0,1040,'Алужина');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1041,'Алунтьево'),
 	 (0,1042,'Алушково'),
 	 (0,1043,'Алферовка'),
@@ -1153,7 +1153,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1048,'Алфимово'),
 	 (0,1049,'Алхаджикент'),
 	 (0,1050,'Алхазурово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1051,'Алхан-Юрт'),
 	 (0,1052,'Алханай'),
 	 (0,1053,'Алханчурт'),
@@ -1164,7 +1164,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1058,'Алчедат'),
 	 (0,1059,'Алыгджер'),
 	 (0,1060,'Алыкель');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1061,'Алымка'),
 	 (0,1062,'Алымовка'),
 	 (0,1063,'Альбитуй'),
@@ -1175,7 +1175,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1068,'Алькеево'),
 	 (0,1069,'Алькино'),
 	 (0,1070,'Альмеж');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4828,1071,'Альменево'),
 	 (0,1072,'Альметьево'),
 	 (0,1073,'Альмяково'),
@@ -1186,7 +1186,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1078,'Альютово'),
 	 (0,1079,'Алябьева'),
 	 (0,1080,'Алябьево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1081,'Алябьевский'),
 	 (0,1082,'Алявы'),
 	 (0,1083,'Аляты'),
@@ -1197,7 +1197,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1088,'Амба'),
 	 (0,1089,'Амбарный'),
 	 (0,1090,'Амга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1091,'Амгу'),
 	 (0,1092,'Амгунь'),
 	 (0,1093,'Амгуэма'),
@@ -1208,7 +1208,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1098,'Амзас'),
 	 (0,1099,'Амзибаш'),
 	 (0,1100,'Амзя');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1101,'Аминева'),
 	 (0,1102,'Аминево'),
 	 (0,1103,'Амир'),
@@ -1219,7 +1219,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1108,'Амосовка'),
 	 (0,1109,'Амсар'),
 	 (0,1110,'Амур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1111,'Амур-Санан'),
 	 (5219,1112,'Амурзет'),
 	 (1976,1113,'Амурск'),
@@ -1230,7 +1230,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (219,1118,'Анадырь'),
 	 (0,1119,'Анаево'),
 	 (0,1120,'Ананье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1121,'Ананьевка'),
 	 (0,1122,'Ананьино'),
 	 (3305,1123,'Анапская'),
@@ -1241,7 +1241,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1128,'Анастасово'),
 	 (0,1129,'Анастасьевка'),
 	 (0,1130,'Анат-Киняры');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1131,'Анаткас-Абызово'),
 	 (0,1132,'Анаткас-Марги'),
 	 (0,1133,'Анахина'),
@@ -1252,7 +1252,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1138,'Ангарский'),
 	 (0,1139,'Ангасяк'),
 	 (0,1140,'Ангелинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1141,'Ангелово'),
 	 (0,1142,'Ангоя'),
 	 (0,1143,'Ангуй'),
@@ -1263,7 +1263,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4997,1148,'Андра'),
 	 (1784,1149,'Андреаполь'),
 	 (6339,1150,'Андреевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1151,'Андреевка (Андреевское с/п)'),
 	 (0,1152,'Андреево'),
 	 (0,1153,'Андреево-Базары'),
@@ -1274,7 +1274,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1158,'Андреевское (Андреевская с/а)'),
 	 (0,1159,'Андрей-Курган'),
 	 (0,1160,'Андрейковичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1161,'Андрейково'),
 	 (0,1162,'Андрейцево'),
 	 (0,1163,'Андрейшур'),
@@ -1285,7 +1285,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1168,'Андромер'),
 	 (0,1169,'Андроново'),
 	 (0,1170,'Андроповский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1171,'Андросовка'),
 	 (5509,1172,'Андрюки'),
 	 (0,1173,'Андрюшино'),
@@ -1296,7 +1296,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1178,'Аниканово'),
 	 (0,1179,'Аникино'),
 	 (0,1180,'Анисимовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1181,'Анисимово'),
 	 (0,1182,'Анискино'),
 	 (0,1183,'Анисовский'),
@@ -1307,7 +1307,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1188,'Анненково'),
 	 (0,1189,'Анненково Лесное'),
 	 (0,1190,'Анненковский Карьер');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1191,'Анненские Минеральные Воды'),
 	 (4319,1192,'Анненский Мост'),
 	 (0,1193,'Анненское'),
@@ -1318,7 +1318,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1198,'Анопино'),
 	 (0,1199,'Аносино'),
 	 (0,1200,'Аносово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1201,'Аносовский'),
 	 (0,1202,'Анохинка'),
 	 (0,1203,'Анохино'),
@@ -1329,7 +1329,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1208,'Антипаюта'),
 	 (0,1209,'Антипинка'),
 	 (4971,1210,'Антипино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1211,'Антипиха'),
 	 (4567,1212,'Антиповка'),
 	 (0,1213,'Антонов'),
@@ -1340,7 +1340,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4340,1218,'Антропово'),
 	 (0,1219,'Антушево'),
 	 (0,1220,'Ануйское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1221,'Ануфриевка'),
 	 (0,1222,'Ануфриево'),
 	 (0,1223,'Анучино'),
@@ -1351,7 +1351,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1228,'Анциферово (село)'),
 	 (0,1229,'Анциферовский Бор'),
 	 (0,1230,'Анчих');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1231,'Аньково'),
 	 (0,1232,'Анюйск'),
 	 (0,1233,'Анютино'),
@@ -1362,7 +1362,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1238,'Апазово'),
 	 (0,1239,'Апалиха'),
 	 (0,1240,'Апальково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1241,'Апанасенковское'),
 	 (0,1242,'Апанасовка'),
 	 (0,1243,'Апано-Ключи'),
@@ -1373,7 +1373,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1248,'Апачево'),
 	 (0,1249,'Апнеры'),
 	 (0,1250,'Аполиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1251,'Аполлоновка'),
 	 (0,1252,'Аполье'),
 	 (0,1253,'Апонитищи'),
@@ -1384,7 +1384,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1258,'Апсагачево'),
 	 (0,1259,'Апсуа'),
 	 (0,1260,'Аптраково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1261,'Аптрякова'),
 	 (0,1262,'Апука'),
 	 (0,1263,'Апухтино'),
@@ -1395,7 +1395,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1268,'Арабляр'),
 	 (0,1269,'Арабоси'),
 	 (0,1270,'Арадан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1271,'Арак'),
 	 (0,1272,'Аракаево'),
 	 (0,1273,'Аракани'),
@@ -1406,7 +1406,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1278,'Аран'),
 	 (0,1279,'Арани'),
 	 (0,1280,'Аранчеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1281,'Арапово'),
 	 (0,1282,'Арасланово'),
 	 (0,1283,'Арбагар'),
@@ -1417,7 +1417,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1288,'Арбузовка'),
 	 (0,1289,'Арбузово'),
 	 (0,1290,'Арга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1291,'Аргада'),
 	 (0,1292,'Аргамаково'),
 	 (0,1293,'Аргамач-Пальна'),
@@ -1428,7 +1428,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5779,1298,'Аргаяш'),
 	 (0,1299,'Аргвани'),
 	 (0,1300,'Арги-Паги');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5464,1301,'Аргудан'),
 	 (1501,1302,'Аргун'),
 	 (0,1303,'Аргуновский'),
@@ -1439,7 +1439,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1308,'Ардатов (поселок)'),
 	 (0,1309,'Ардатово'),
 	 (0,1310,'Ардашевский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1311,'Ардаши (станция)'),
 	 (1477,1312,'Ардон'),
 	 (0,1313,'Ардонь'),
@@ -1450,7 +1450,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1318,'Арефьево'),
 	 (0,1319,'Аржаан'),
 	 (0,1320,'Аржановская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1321,'Арзамасцевка'),
 	 (0,1322,'Арзамасцево'),
 	 (0,1323,'Арзаматово'),
@@ -1461,7 +1461,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1328,'Арибашево'),
 	 (0,1329,'Арик'),
 	 (0,1330,'Ариничево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1331,'Аристово'),
 	 (0,1332,'Аришка'),
 	 (0,1333,'Арка'),
@@ -1472,7 +1472,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1338,'Аркино (село)'),
 	 (0,1339,'Аркит'),
 	 (0,1340,'Арково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1341,'Аркуль'),
 	 (0,1342,'Арлагуль'),
 	 (0,1343,'Арлан'),
@@ -1483,7 +1483,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1348,'Армет-Рахимово'),
 	 (0,1349,'Армиево'),
 	 (4972,1350,'Армизонское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1351,'Армязь'),
 	 (0,1352,'Армянский'),
 	 (0,1353,'Арнаутово'),
@@ -1494,7 +1494,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1358,'Арсеньева'),
 	 (4037,1359,'Арсеньево'),
 	 (0,1360,'Арсинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1628,1361,'Арск'),
 	 (0,1362,'Арслан'),
 	 (0,1363,'Арсланово'),
@@ -1505,7 +1505,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1368,'Артамошкин'),
 	 (5324,1369,'Артезиан'),
 	 (0,1370,'Артель-Труд');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1371,'Артеменькино'),
 	 (3630,1372,'Артемово'),
 	 (0,1373,'Артемовск'),
@@ -1516,7 +1516,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1378,'Артлух'),
 	 (0,1379,'Артыбаш'),
 	 (0,1380,'Артык');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1381,'Артын'),
 	 (4786,1382,'Артышта'),
 	 (0,1383,'Артюгино'),
@@ -1527,7 +1527,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1388,'Архангел'),
 	 (0,1389,'Архангелка'),
 	 (0,1390,'Архангеловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3307,1391,'Архангельская'),
 	 (0,1392,'Архангельское'),
 	 (0,1393,'Архангельское Голицыно'),
@@ -1538,7 +1538,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1398,'Архиповское'),
 	 (5640,1399,'Архонская'),
 	 (0,1400,'Архыз');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1401,'Арчаглы-Аят'),
 	 (6854,1402,'Арчединская'),
 	 (0,1403,'Арчединского Лесхоза'),
@@ -1549,7 +1549,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1408,'Аршиновка'),
 	 (0,1409,'Аршты'),
 	 (0,1410,'Арыг-Узуу');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1411,'Арый'),
 	 (0,1412,'Арык'),
 	 (0,1413,'Арыктах'),
@@ -1560,7 +1560,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4384,1418,'Арья'),
 	 (0,1419,'Аряво'),
 	 (0,1420,'Аряж');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1421,'Аряш'),
 	 (0,1422,'Асавдыбаш'),
 	 (0,1423,'Асакасы'),
@@ -1571,7 +1571,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1428,'Асбест (поселок)'),
 	 (0,1429,'Асбестовский'),
 	 (0,1430,'Асеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1431,'Асекеево (село)'),
 	 (0,1432,'Асекеево (станция)'),
 	 (0,1433,'Асенкритово'),
@@ -1582,7 +1582,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5153,1438,'Аскино'),
 	 (0,1439,'Аслаево'),
 	 (0,1440,'Аслана');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1441,'Асметовка'),
 	 (0,1442,'Асмолово'),
 	 (0,1443,'Асовица'),
@@ -1593,7 +1593,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5682,1448,'Ассиновская'),
 	 (0,1449,'Ассоколай'),
 	 (0,1450,'Ассы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1451,'Астапковичи'),
 	 (0,1452,'Астапово'),
 	 (0,1453,'Астафьевка'),
@@ -1604,7 +1604,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1458,'Астрадамовка'),
 	 (6529,1459,'Астраханка'),
 	 (0,1460,'Астрахановка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1461,'Астраханцево'),
 	 (0,1462,'Астрахань (деревня)'),
 	 (0,1463,'Астрилово'),
@@ -1615,7 +1615,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1468,'Атагай'),
 	 (0,1469,'Атажукино'),
 	 (0,1470,'Аталанка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1471,'Атамановка'),
 	 (0,1472,'Атаманово'),
 	 (0,1473,'Атамановский'),
@@ -1626,7 +1626,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6932,1478,'Атепцево'),
 	 (4096,1479,'Атиг'),
 	 (0,1480,'Атиково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1481,'Атингеево'),
 	 (0,1482,'Атирка'),
 	 (0,1483,'Атка'),
@@ -1637,7 +1637,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1488,'Атласово'),
 	 (0,1489,'Атлашево'),
 	 (0,1490,'Атмис');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1491,'Атнары'),
 	 (0,1492,'Атнашево'),
 	 (0,1493,'Атнягузи'),
@@ -1648,7 +1648,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1498,'Атымья'),
 	 (3723,1499,'Атюрьево'),
 	 (0,1500,'Атясево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2667,1501,'Атяшево'),
 	 (0,1502,'Атяшево (рабочий поселок)'),
 	 (0,1503,'Атяшево (село)'),
@@ -1659,7 +1659,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1508,'Афанасиха'),
 	 (0,1509,'Афанасово'),
 	 (0,1510,'Афанасьева');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1511,'Афанасьевка'),
 	 (4385,1512,'Афанасьево'),
 	 (0,1513,'Афанасьевское'),
@@ -1670,7 +1670,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1518,'Афоньевка'),
 	 (0,1519,'Афонькино'),
 	 (0,1520,'Африка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5384,1521,'Африканда'),
 	 (0,1522,'Ахалик'),
 	 (0,1523,'Ахалчи'),
@@ -1681,7 +1681,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1528,'Ахманово'),
 	 (0,1529,'Ахматово'),
 	 (0,1530,'Ахмедкент');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1531,'Ахмерово'),
 	 (0,1532,'Ахметово'),
 	 (0,1533,'Ахметовская'),
@@ -1692,7 +1692,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1538,'Ахтуба'),
 	 (0,1539,'Ахтубинка'),
 	 (5571,1540,'Ахты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2443,1541,'Ахтырка'),
 	 (3252,1542,'Ахтырский'),
 	 (0,1543,'Ахуново'),
@@ -1703,7 +1703,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1548,'Ачаирский'),
 	 (0,1549,'Ачайваям'),
 	 (0,1550,'Ачакасы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3745,1551,'Ачикулак'),
 	 (0,1552,'Ачинеры'),
 	 (0,1553,'Ачиры'),
@@ -1714,7 +1714,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1558,'Ачликуль'),
 	 (5683,1559,'Ачхой-Мартан'),
 	 (0,1560,'Ашабаш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1561,'Ашага-Картас'),
 	 (0,1562,'Ашага-Стал'),
 	 (0,1563,'Ашага-Ярак'),
@@ -1725,7 +1725,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1568,'Ашеваны'),
 	 (0,1569,'Ашево'),
 	 (0,1570,'Ашильта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1571,'Аширово'),
 	 (0,1572,'Ашитбаш'),
 	 (0,1573,'Ашитково'),
@@ -1736,7 +1736,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1578,'Ашты'),
 	 (5968,1579,'Ашукино'),
 	 (0,1580,'Ашулук');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1581,'Ащебутак'),
 	 (0,1582,'Ащегуль'),
 	 (0,1583,'Аэропорт'),
@@ -1747,7 +1747,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1588,'Аязгулова'),
 	 (0,1589,'Аялакаб'),
 	 (0,1590,'Аялизимахи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1591,'Аян'),
 	 (0,1592,'Аянгаты'),
 	 (0,1593,'Аянка'),
@@ -1758,7 +1758,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1598,'Бабарыкино'),
 	 (0,1599,'Бабарыкинский'),
 	 (5572,1600,'Бабаюрт');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1601,'Бабеево'),
 	 (0,1602,'Бабеж'),
 	 (0,1603,'Бабино'),
@@ -1769,7 +1769,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1119,1608,'Бабушкин'),
 	 (0,1609,'Бабушкина'),
 	 (0,1610,'Бабушкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1611,'Бабынино'),
 	 (6053,1612,'Бабяково'),
 	 (0,1613,'Бавлены (поселок)'),
@@ -1780,7 +1780,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1618,'Бага-Тугтун'),
 	 (0,1619,'Бага-Чонос'),
 	 (0,1620,'Багаевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1621,'Багаево'),
 	 (4494,1622,'Багаевская'),
 	 (4829,1623,'Баган'),
@@ -1791,7 +1791,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5907,1628,'Баграмово'),
 	 (1021,1629,'Багратионовск'),
 	 (0,1630,'Баграш-Бигра');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1631,'Бада'),
 	 (0,1632,'Бадагуй'),
 	 (0,1633,'Бадажки'),
@@ -1802,7 +1802,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1638,'Бадья'),
 	 (0,1639,'Баевка'),
 	 (4893,1640,'Баево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1641,'Бажелка'),
 	 (0,1642,'Баженово'),
 	 (0,1643,'Баженовское'),
@@ -1813,7 +1813,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1648,'Бажуки'),
 	 (0,1649,'Бажын-Алаак'),
 	 (0,1650,'Базанча');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1651,'Базанчат'),
 	 (0,1652,'Базарная Кеньша'),
 	 (4170,1653,'Базарные Матаки'),
@@ -1824,7 +1824,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1658,'Базгиево'),
 	 (0,1659,'Базевского совхоза'),
 	 (0,1660,'Базитамак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1661,'Базковская'),
 	 (0,1662,'Базлово'),
 	 (0,1663,'Базлык'),
@@ -1835,7 +1835,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1668,'Баишево'),
 	 (0,1669,'Бай-Даг'),
 	 (0,1670,'Бай-Тал');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1671,'Бай-Хаак'),
 	 (5340,1672,'Байбек'),
 	 (0,1673,'Байболовка'),
@@ -1846,7 +1846,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1678,'Байгильды'),
 	 (0,1679,'Байглычево'),
 	 (0,1680,'Байгужино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1681,'Байгузино'),
 	 (0,1682,'Байгул'),
 	 (0,1683,'Байгулово'),
@@ -1857,7 +1857,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1688,'Байдулино'),
 	 (0,1689,'Байка'),
 	 (0,1690,'Байкал');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4098,1691,'Байкалово'),
 	 (1127,1692,'Байкальск'),
 	 (0,1693,'Байкальское'),
@@ -1868,7 +1868,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1698,'Байков'),
 	 (0,1699,'Байково'),
 	 (0,1700,'Байловка 2-я');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1701,'Байлянгар'),
 	 (1349,1702,'Баймак'),
 	 (0,1703,'Баймаково'),
@@ -1879,7 +1879,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1708,'Байрамгулово'),
 	 (0,1709,'Байряка'),
 	 (0,1710,'Байса');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1711,'Байтеряково'),
 	 (0,1712,'Байтог'),
 	 (0,1713,'Байхор'),
@@ -1890,7 +1890,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1718,'Бакаево'),
 	 (1386,1719,'Бакал'),
 	 (0,1720,'Бакалдинское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1721,'Бакалка'),
 	 (0,1722,'Бакалово'),
 	 (3657,1723,'Бакалы'),
@@ -1901,7 +1901,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1728,'Баклановка'),
 	 (0,1729,'Бакланово'),
 	 (0,1730,'Баклановская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1731,'Баклань'),
 	 (0,1732,'Бакланье'),
 	 (0,1733,'Баклаши'),
@@ -1912,7 +1912,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1738,'Бакрчи'),
 	 (0,1739,'Бакряж'),
 	 (5465,1740,'Баксаненок');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1741,'Бакур'),
 	 (0,1742,'Бакуры'),
 	 (4664,1743,'Бакчар'),
@@ -1923,7 +1923,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1748,'Балабаново-1'),
 	 (0,1749,'Балабаш-Баишево'),
 	 (0,1750,'Балаганка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1751,'Балаганнах'),
 	 (0,1752,'Балаганное'),
 	 (4855,1753,'Балаганск'),
@@ -1934,7 +1934,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4317,1758,'Балакирево'),
 	 (0,1759,'Баландино'),
 	 (0,1760,'Баландыш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1761,'Балахани'),
 	 (0,1762,'Балахи'),
 	 (0,1763,'Балахнинский'),
@@ -1945,7 +1945,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1768,'Балахтон'),
 	 (6682,1769,'Балашейка'),
 	 (0,1770,'Балаши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1771,'Балашово'),
 	 (0,1772,'Балгазын'),
 	 (0,1773,'Балдаево'),
@@ -1956,7 +1956,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1778,'Балканы'),
 	 (0,1779,'Балкашино'),
 	 (0,1780,'Балкашинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1781,'Балко-Грузский'),
 	 (0,1782,'Балковская'),
 	 (0,1783,'Балковский'),
@@ -1967,7 +1967,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1788,'Балтамахи'),
 	 (2449,1789,'Балтаси'),
 	 (0,1790,'Балтачево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1022,1791,'Балтийск'),
 	 (0,1792,'Балтийский'),
 	 (0,1793,'Балтика'),
@@ -1978,7 +1978,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1798,'Балхар'),
 	 (0,1799,'Балыклей'),
 	 (0,1800,'Балыклы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1801,'Балыклы-Чукаево'),
 	 (0,1802,'Балыклыкуль'),
 	 (0,1803,'Балыкса'),
@@ -1989,7 +1989,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1808,'Бальзино'),
 	 (0,1809,'Бальзой'),
 	 (0,1810,'Баляга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1811,'Баляга-Катангар'),
 	 (0,1812,'Бам'),
 	 (0,1813,'Бамматюрт'),
@@ -2000,7 +2000,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1818,'Банново'),
 	 (0,1819,'Банное'),
 	 (3331,1820,'Бар');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1821,'Бараба'),
 	 (0,1822,'Барабановка'),
 	 (6871,1823,'Барабаново'),
@@ -2011,7 +2011,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1828,'Барагаш'),
 	 (0,1829,'Барагхан'),
 	 (0,1830,'Бараит');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1831,'Баракаевская'),
 	 (0,1832,'Баралки'),
 	 (0,1833,'Бараники'),
@@ -2022,7 +2022,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3555,1838,'Барановка'),
 	 (0,1839,'Бараново'),
 	 (0,1840,'Барановская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1841,'Барановское'),
 	 (4100,1842,'Баранчинский'),
 	 (0,1843,'Бараны'),
@@ -2033,7 +2033,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1848,'Барвиха (деревня)'),
 	 (0,1849,'Барвиха (поселок)'),
 	 (0,1850,'Баргадай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4641,1851,'Баргузин'),
 	 (0,1852,'Баргузино'),
 	 (2625,1853,'Барда'),
@@ -2044,7 +2044,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1858,'Бариновка'),
 	 (0,1859,'Барки'),
 	 (0,1860,'Барковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1861,'Барково'),
 	 (0,1862,'Барлак (село)'),
 	 (0,1863,'Барлакский'),
@@ -2055,7 +2055,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1868,'Барминский'),
 	 (0,1869,'Барнаб'),
 	 (0,1870,'Барнуковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1871,'Баррикада'),
 	 (0,1872,'Барсаниха'),
 	 (0,1873,'Барское Татарово'),
@@ -2066,7 +2066,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1878,'Барсучье'),
 	 (0,1879,'Бартат'),
 	 (0,1880,'Бартеневка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1881,'Бартым'),
 	 (0,1882,'Барун'),
 	 (0,1883,'Бархатово'),
@@ -2077,7 +2077,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1888,'Барышово'),
 	 (0,1889,'Барышская Дурасовка'),
 	 (0,1890,'Барышская Слобода');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1891,'Барятино'),
 	 (0,1892,'Бас-Агаш'),
 	 (0,1893,'Басакин'),
@@ -2088,7 +2088,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1898,'Баскатовка'),
 	 (0,1899,'Басково'),
 	 (0,1900,'Басковское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1901,'Басманово'),
 	 (0,1902,'Басмановское'),
 	 (0,1903,'Басово'),
@@ -2099,7 +2099,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6898,1908,'Батагай-Алыта'),
 	 (0,1909,'Батаевка'),
 	 (0,1910,'Батакан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1911,'Баталово'),
 	 (0,1912,'Батама'),
 	 (0,1913,'Батерики'),
@@ -2110,7 +2110,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1918,'Батово'),
 	 (0,1919,'Батрак'),
 	 (0,1920,'Батран');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1921,'Батунная'),
 	 (0,1922,'Батурино'),
 	 (3967,1923,'Батуринская'),
@@ -2121,7 +2121,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1928,'Батьки'),
 	 (0,1929,'Баханай'),
 	 (0,1930,'Бахарево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1931,'Бахилово'),
 	 (0,1932,'Бахметьево'),
 	 (0,1933,'Бахмут'),
@@ -2132,7 +2132,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5332,1938,'Бахтемир'),
 	 (0,1939,'Бахтигильдино'),
 	 (0,1940,'Бахтыбаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1941,'Бахтызино'),
 	 (0,1942,'Бахчеево'),
 	 (0,1943,'Бацада'),
@@ -2143,7 +2143,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1948,'Бачманово'),
 	 (0,1949,'Баш-Култаево'),
 	 (0,1950,'Башанта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1951,'Баширово'),
 	 (0,1952,'Башкалган'),
 	 (0,1953,'Башкарка'),
@@ -2154,7 +2154,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1958,'Башлыкент'),
 	 (0,1959,'Башмак'),
 	 (6301,1960,'Башмаково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1961,'Башово'),
 	 (0,1962,'Баштала'),
 	 (0,1963,'Баюновские ключи'),
@@ -2165,7 +2165,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6249,1968,'Баяндай'),
 	 (0,1969,'Баяновка'),
 	 (0,1970,'Бебелево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1971,'Бебяево'),
 	 (0,1972,'Бегеняш'),
 	 (0,1973,'Бегичевский'),
@@ -2176,7 +2176,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1978,'Бедеме'),
 	 (0,1979,'Беднягина'),
 	 (0,1980,'Бедрино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1981,'Бедряж'),
 	 (0,1982,'Бедык'),
 	 (0,1983,'Бедюк'),
@@ -2187,7 +2187,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1988,'Безверхово'),
 	 (0,1989,'Безводное'),
 	 (0,1990,'Безводовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,1991,'Безгачево'),
 	 (0,1992,'Безгодово'),
 	 (0,1993,'Безголосово'),
@@ -2198,7 +2198,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,1998,'Безлесный'),
 	 (0,1999,'Безлычное'),
 	 (0,2000,'Безлюдный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2001,'Безменово (деревня)'),
 	 (0,2002,'Безменшур'),
 	 (0,2003,'Безозерное'),
@@ -2209,7 +2209,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2008,'Безукладовка'),
 	 (0,2009,'Безымено'),
 	 (0,2010,'Безымянка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2011,'Безымянное'),
 	 (0,2012,'Безымянный'),
 	 (0,2013,'Бейдинга'),
@@ -2220,7 +2220,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2018,'Бекет'),
 	 (0,2019,'Бекетовка'),
 	 (0,2020,'Бекетово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2021,'Бекетовская'),
 	 (0,2022,'Бекетовский'),
 	 (0,2023,'Бекешево'),
@@ -2231,7 +2231,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2028,'Беклемищи'),
 	 (3713,2029,'Беково'),
 	 (0,2030,'Бекрень');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2031,'Бекрино'),
 	 (0,2032,'Белавинская'),
 	 (0,2033,'Белавка'),
@@ -2242,7 +2242,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2038,'Белая Гора'),
 	 (1534,2039,'Белая Калитва'),
 	 (0,2040,'Белая Колпь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2041,'Белая Речка'),
 	 (1662,2042,'Белая Холуница'),
 	 (0,2043,'Белбаж'),
@@ -2253,7 +2253,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2048,'Белгородское'),
 	 (0,2049,'Белдир-Арыг'),
 	 (0,2050,'Белебелка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2051,'Белёв'),
 	 (0,2052,'Беленино'),
 	 (0,2053,'Беленихино'),
@@ -2264,7 +2264,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2058,'Беликов'),
 	 (1576,2059,'Белинский'),
 	 (0,2060,'Белица');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2061,'Беличан'),
 	 (0,2062,'Белка'),
 	 (0,2063,'Беллык'),
@@ -2275,7 +2275,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2068,'Беловодка'),
 	 (0,2069,'Беловский'),
 	 (0,2070,'Беловское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2071,'Белоглазово'),
 	 (0,2072,'Белоглинный'),
 	 (0,2073,'Белоглинский'),
@@ -2286,7 +2286,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2078,'Белогорский'),
 	 (3409,2079,'Белогорье'),
 	 (0,2080,'Белогостицы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2081,'Белогривка'),
 	 (0,2082,'Белое'),
 	 (5385,2083,'Белое Море'),
@@ -2297,7 +2297,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2088,'Белозерки'),
 	 (3261,2089,'Белозерный'),
 	 (0,2090,'Белозерово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1741,2091,'Белозерск'),
 	 (3242,2092,'Белозерское'),
 	 (0,2093,'Белозеры'),
@@ -2308,7 +2308,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2098,'Беломестное'),
 	 (0,2099,'Беломечетская'),
 	 (1078,2100,'Беломорск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2101,'Беломорье'),
 	 (0,2102,'Белоногово'),
 	 (0,2103,'Белоносово'),
@@ -2319,7 +2319,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4856,2108,'Белореченский'),
 	 (0,2109,'Белоречье'),
 	 (0,2110,'Белорусский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2111,'Белосток'),
 	 (0,2112,'Белоусовка'),
 	 (1861,2113,'Белоусово'),
@@ -2330,7 +2330,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4894,2118,'Белоярск'),
 	 (1369,2119,'Белоярский'),
 	 (0,2120,'Белоярское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2121,'Белушье'),
 	 (4134,2122,'Белушья Губа'),
 	 (4078,2123,'Белые Берега'),
@@ -2341,7 +2341,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2128,'Белый Городок'),
 	 (0,2129,'Белый Колодезь'),
 	 (0,2130,'Белый Колодезь Первый');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4665,2131,'Белый Яр'),
 	 (0,2132,'Белый Яр (поселок)'),
 	 (0,2133,'Белынь'),
@@ -2352,7 +2352,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2138,'Бельково'),
 	 (0,2139,'Бельмесево'),
 	 (0,2140,'Бельсенды-Казах');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2141,'Бельск'),
 	 (0,2142,'Бельско'),
 	 (0,2143,'Бельское (Мебельный)'),
@@ -2363,7 +2363,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2148,'Беляево'),
 	 (0,2149,'Беляй'),
 	 (0,2150,'Беляйково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2151,'Беляки'),
 	 (0,2152,'Белян'),
 	 (0,2153,'Беляная Гора'),
@@ -2374,7 +2374,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2158,'Белянка'),
 	 (0,2159,'Белянский'),
 	 (0,2160,'Беляшево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2161,'Бемыж'),
 	 (0,2162,'Бенжереп 1-й'),
 	 (0,2163,'Бено-Юрт'),
@@ -2385,7 +2385,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2168,'Бергамак'),
 	 (0,2169,'Бергин'),
 	 (0,2170,'Бергуль');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2171,'Берда-Юрт'),
 	 (6331,2172,'Бердигестях'),
 	 (0,2173,'Бердники'),
@@ -2396,7 +2396,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2178,'Бердянка'),
 	 (5781,2179,'Бердяуш'),
 	 (0,2180,'Бердяш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2181,'Берегаево'),
 	 (0,2182,'Береговая'),
 	 (0,2183,'Береговое'),
@@ -2407,7 +2407,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2188,'Бережки'),
 	 (0,2189,'Бережновка'),
 	 (0,2190,'Бережное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2191,'Бережок'),
 	 (2240,2192,'Береза'),
 	 (0,2193,'Березайка'),
@@ -2418,7 +2418,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2310,2198,'Березино'),
 	 (0,2199,'Березинский'),
 	 (0,2200,'Березицко');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2201,'Березичский Стеклозавод'),
 	 (0,2202,'Березка'),
 	 (0,2203,'Березнеговатка'),
@@ -2429,7 +2429,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2208,'Березняги'),
 	 (0,2209,'Березняговка'),
 	 (0,2210,'Березняк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2211,'Березняки'),
 	 (0,2212,'Березов Майдан'),
 	 (0,2213,'Березовая Лука'),
@@ -2440,7 +2440,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2218,'Березовка'),
 	 (0,2219,'Березовка (Краснобуйский с/о)'),
 	 (0,2220,'Березовка 1-я');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2221,'Березово'),
 	 (0,2222,'Березовская'),
 	 (0,2223,'Березовский Рядок'),
@@ -2451,7 +2451,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2228,'Березонаволок'),
 	 (0,2229,'Берелех'),
 	 (0,2230,'Берендеевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6793,2231,'Берендеево'),
 	 (4568,2232,'Береславка'),
 	 (0,2233,'Берестовка'),
@@ -2462,7 +2462,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2238,'Берзиха'),
 	 (0,2239,'Берикей'),
 	 (0,2240,'Берикуль');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2241,'Берикульский'),
 	 (0,2242,'Беринговский'),
 	 (6371,2243,'Беркакит'),
@@ -2473,7 +2473,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2248,'Берлибаши'),
 	 (0,2249,'Берлин'),
 	 (0,2250,'Берлинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2251,'Берлячево'),
 	 (0,2252,'Берново'),
 	 (0,2253,'Берсеневка'),
@@ -2484,7 +2484,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2258,'Беседино'),
 	 (0,2259,'Бескозобово'),
 	 (1478,2260,'Беслан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2261,'Бесленеевская'),
 	 (0,2262,'Бесленей'),
 	 (0,2263,'Бесовец'),
@@ -2495,7 +2495,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3310,2268,'Бесскорбная'),
 	 (3865,2269,'Бессоновка'),
 	 (0,2270,'Бессоново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2271,'Бестужево'),
 	 (0,2272,'Бестянка'),
 	 (0,2273,'Бестях'),
@@ -2506,7 +2506,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4171,2278,'Бетьки'),
 	 (0,2279,'Бетюнг'),
 	 (0,2280,'Бетюнцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2281,'Бехтеевка'),
 	 (0,2282,'Бехтерева'),
 	 (0,2283,'Бехтерево'),
@@ -2517,7 +2517,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2288,'Бешпельтир'),
 	 (6530,2289,'Бея'),
 	 (0,2290,'Бжедуховская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2291,'Биаза'),
 	 (0,2292,'Бибаево-Челны'),
 	 (0,2293,'Бибиково'),
@@ -2528,7 +2528,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2298,'Биджан'),
 	 (0,2299,'Бидога'),
 	 (0,2300,'Биектау');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2670,2301,'Бижбуляк'),
 	 (0,2302,'Бизино'),
 	 (0,2303,'Бизяки'),
@@ -2539,7 +2539,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2308,'Бикбулатово'),
 	 (1977,2309,'Бикин'),
 	 (0,2310,'Биккулово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2311,'Биклянь'),
 	 (0,2312,'Бикмосеевка'),
 	 (0,2313,'Бикмурзино'),
@@ -2550,7 +2550,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4105,2318,'Билимбай'),
 	 (0,2319,'Биллингс'),
 	 (0,2320,'Бильбиль-Казмаляр');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2321,'Бильгади'),
 	 (0,2322,'Бильгиш'),
 	 (0,2323,'Бильчир'),
@@ -2561,7 +2561,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2328,'Билярск'),
 	 (0,2329,'Бима'),
 	 (0,2330,'Биокомбината');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2331,'Биорки'),
 	 (0,2332,'Биофабрика'),
 	 (0,2333,'Бира'),
@@ -2572,7 +2572,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2338,'Бирит'),
 	 (0,2339,'Бирофельд'),
 	 (0,2340,'Бирюбаш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2341,'Бирюковка'),
 	 (0,2342,'Бирюли'),
 	 (0,2343,'Бирюлинского Зверосовхоза'),
@@ -2583,7 +2583,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1819,2348,'Бирюч'),
 	 (0,2349,'Бирюч (Красногвардейское)'),
 	 (0,2350,'Бирючек');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2351,'Бирючья Коса'),
 	 (0,2352,'Биряково'),
 	 (6687,2353,'Бисер'),
@@ -2594,7 +2594,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2358,'Битимка'),
 	 (0,2359,'Битки'),
 	 (0,2360,'Битюг-Матреновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2361,'Бичевая'),
 	 (0,2362,'Бичевый'),
 	 (4642,2363,'Бичура'),
@@ -2605,7 +2605,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2368,'Бишигино'),
 	 (0,2369,'Бишкази'),
 	 (0,2370,'Бишкаин');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2371,'Бишкиль'),
 	 (0,2372,'Бишкураево'),
 	 (0,2373,'Бишня'),
@@ -2616,7 +2616,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2378,'Благовар'),
 	 (4896,2379,'Благовещенка'),
 	 (0,2380,'Благовещенская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2381,'Благовещенское'),
 	 (0,2382,'Благовещенье'),
 	 (0,2383,'Благодарное'),
@@ -2627,7 +2627,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2388,'Благодатовка'),
 	 (0,2389,'Благодать'),
 	 (0,2390,'Благоево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2391,'Благословенка'),
 	 (0,2392,'Благословенное'),
 	 (5548,2393,'Блечепсин'),
@@ -2638,7 +2638,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2398,'Ближняя Игуменка'),
 	 (0,2399,'Ближняя Полубянка'),
 	 (0,2400,'Блохино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2401,'Блюдчанское'),
 	 (0,2402,'Блюменталь'),
 	 (0,2403,'Блява (село)'),
@@ -2649,7 +2649,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2408,'Бобино'),
 	 (0,2409,'Бобково'),
 	 (0,2410,'Бобовня');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2411,'Бобрава'),
 	 (0,2412,'Бобраки'),
 	 (0,2413,'Бобрик'),
@@ -2660,7 +2660,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2418,'Бобровка'),
 	 (0,2419,'Боброво'),
 	 (4107,2420,'Бобровский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2421,'Бобровский 2-й'),
 	 (0,2422,'Бобровы Дворы'),
 	 (0,2423,'Бобры'),
@@ -2671,7 +2671,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2428,'Богана'),
 	 (4975,2429,'Богандинский'),
 	 (0,2430,'Богатиловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2431,'Богатиха'),
 	 (0,2432,'Богатищево (поселок)'),
 	 (0,2433,'Богатов'),
@@ -2682,7 +2682,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2438,'Богатырево'),
 	 (0,2439,'Богатырь'),
 	 (0,2440,'Богачево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2441,'Богашево'),
 	 (0,2442,'Богданиха'),
 	 (1267,2443,'Богданович'),
@@ -2693,7 +2693,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2448,'Богдашкино'),
 	 (4341,2449,'Боговарово'),
 	 (0,2450,'Богодуховка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2451,'Богодухово'),
 	 (0,2452,'Боголюбовка'),
 	 (6943,2453,'Боголюбово'),
@@ -2704,7 +2704,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4440,2458,'Богородское'),
 	 (0,2459,'Богородское (поселок)'),
 	 (0,2460,'Богородское (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2461,'Богословка'),
 	 (0,2462,'Богослово'),
 	 (0,2463,'Богословское'),
@@ -2715,7 +2715,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2468,'Богураев'),
 	 (0,2469,'Богуславец'),
 	 (0,2470,'Богуславка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2506,2471,'Богучаны'),
 	 (1846,2472,'Богучар'),
 	 (0,2473,'Богучарово'),
@@ -2726,7 +2726,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2478,'Боевой'),
 	 (0,2479,'Божедаровка'),
 	 (6790,2480,'Божковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2481,'Божково'),
 	 (0,2482,'Божонка'),
 	 (0,2483,'Бозой'),
@@ -2737,7 +2737,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2488,'Боково'),
 	 (4495,2489,'Боковская'),
 	 (0,2490,'Болгар-1');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2491,'Болгары'),
 	 (0,2492,'Болгов'),
 	 (0,2493,'Болгуры'),
@@ -2748,7 +2748,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2498,'Бологово'),
 	 (0,2499,'Болоково'),
 	 (0,2500,'Болонь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2501,'Болотниково'),
 	 (1205,2502,'Болотное'),
 	 (0,2503,'Болото'),
@@ -2759,7 +2759,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2508,'Болтово'),
 	 (0,2509,'Болтурино'),
 	 (0,2510,'Болтутино-1');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2511,'Болугур'),
 	 (1899,2512,'Болхов'),
 	 (0,2513,'Болховское'),
@@ -2770,7 +2770,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2518,'Большаковка'),
 	 (0,2519,'Большаково'),
 	 (0,2520,'Большая');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2521,'Большая Акса'),
 	 (0,2522,'Большая Андреевка'),
 	 (0,2523,'Большая Арать'),
@@ -2781,7 +2781,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2528,'Большая Бича'),
 	 (0,2529,'Большая Боевка'),
 	 (0,2530,'Большая Борла');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2531,'Большая Брембола'),
 	 (0,2532,'Большая Верейка'),
 	 (0,2533,'Большая Вишера'),
@@ -2792,7 +2792,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2538,'Большая Гурезь-Пудга'),
 	 (0,2539,'Большая Дергуновка'),
 	 (5664,2540,'Большая Джалга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2541,'Большая Дмитриевка'),
 	 (0,2542,'Большая Добринка'),
 	 (0,2543,'Большая Дорога'),
@@ -2803,7 +2803,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2548,'Большая Задоевка'),
 	 (0,2549,'Большая Заимка'),
 	 (0,2550,'Большая Заморозовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2551,'Большая Ивановка'),
 	 (0,2552,'Большая Ижмора'),
 	 (4166,2553,'Большая Ижора'),
@@ -2814,7 +2814,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2558,'Большая Кандала'),
 	 (0,2559,'Большая Картель'),
 	 (0,2560,'Большая Кибья');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2561,'Большая Кивара'),
 	 (0,2562,'Большая Кирсановка'),
 	 (0,2563,'Большая Климовская'),
@@ -2825,7 +2825,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2568,'Большая Коша'),
 	 (0,2569,'Большая Криуша'),
 	 (0,2570,'Большая Кудара');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2571,'Большая Кузьминка'),
 	 (0,2572,'Большая Куйсарина'),
 	 (0,2573,'Большая Кульга'),
@@ -2836,7 +2836,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4496,2578,'Большая Мартыновка'),
 	 (0,2579,'Большая Меша'),
 	 (0,2580,'Большая Музя');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4597,2581,'Большая Мурта'),
 	 (0,2582,'Большая Ничка'),
 	 (0,2583,'Большая Ока'),
@@ -2847,7 +2847,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2588,'Большая Поляна'),
 	 (0,2589,'Большая Приваловка'),
 	 (0,2590,'Большая Пудга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2591,'Большая Пустомержа'),
 	 (0,2592,'Большая Пысса'),
 	 (0,2593,'Большая Речка'),
@@ -2858,7 +2858,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2598,'Большая Рязань'),
 	 (0,2599,'Большая Сазанка'),
 	 (0,2600,'Большая Сакма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2601,'Большая Салырь'),
 	 (0,2602,'Большая Свеча'),
 	 (0,2603,'Большая Серва'),
@@ -2869,7 +2869,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2608,'Большая Тава'),
 	 (0,2609,'Большая Таволожка'),
 	 (0,2610,'Большая Тавра');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2611,'Большая Талда'),
 	 (0,2612,'Большая Талинка'),
 	 (0,2613,'Большая Таловая'),
@@ -2880,7 +2880,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2618,'Большая Турма'),
 	 (0,2619,'Большая Уваровщина'),
 	 (0,2620,'Большая Уря');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2621,'Большая Уса'),
 	 (0,2622,'Большая Уча'),
 	 (0,2623,'Большая Федоровка'),
@@ -2891,7 +2891,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2628,'Большая Чернава'),
 	 (0,2629,'Большая Черная'),
 	 (3035,2630,'Большая Черниговка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2631,'Большая Чернь'),
 	 (0,2632,'Большая Чечуйка'),
 	 (0,2633,'Большая Шатьма'),
@@ -2902,7 +2902,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2638,'Большеабишево'),
 	 (0,2639,'Большебадраково'),
 	 (0,2640,'Большебаяновская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5714,2641,'Большебрусянское'),
 	 (0,2642,'Большебыково'),
 	 (6679,2643,'Большевик'),
@@ -2913,7 +2913,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2648,'Большедорожное'),
 	 (0,2649,'Большедорохово'),
 	 (0,2650,'Большекрепинская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2651,'Большекрутинская'),
 	 (0,2652,'Большелуг'),
 	 (0,2653,'Большемечетный'),
@@ -2924,7 +2924,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2658,'Большепанюшево'),
 	 (0,2659,'Большепесчанка'),
 	 (0,2660,'Большеречка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4699,2661,'Большеречье'),
 	 (0,2662,'Большеромановка'),
 	 (0,2663,'Большесидоровское'),
@@ -2935,7 +2935,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2668,'Большеугренево'),
 	 (5158,2669,'Большеустьикинское'),
 	 (0,2670,'Большеямное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2671,'Большие Абакасы'),
 	 (0,2672,'Большие Акияры'),
 	 (0,2673,'Большие Алабухи'),
@@ -2946,7 +2946,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2678,'Большие Бакалды'),
 	 (0,2679,'Большие Березники'),
 	 (0,2680,'Большие Бикшихи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2681,'Большие Борки'),
 	 (0,2682,'Большие Боры'),
 	 (0,2683,'Большие Боты'),
@@ -2957,7 +2957,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2688,'Большие Избищи'),
 	 (0,2689,'Большие Извалы'),
 	 (0,2690,'Большие Кабаны');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4174,2691,'Большие Кайбицы'),
 	 (0,2692,'Большие Калмыки'),
 	 (0,2693,'Большие Карачуры'),
@@ -2968,7 +2968,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2698,'Большие Ключи'),
 	 (0,2699,'Большие Ключищи'),
 	 (0,2700,'Большие Кляри');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2701,'Большие Кныши'),
 	 (0,2702,'Большие Ковали'),
 	 (0,2703,'Большие Козлы'),
@@ -2979,7 +2979,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2708,'Большие Кулики'),
 	 (0,2709,'Большие Кульбаши'),
 	 (0,2710,'Большие Кургузи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2711,'Большие Кусты'),
 	 (0,2712,'Большие Леуши'),
 	 (0,2713,'Большие Липяги'),
@@ -2990,7 +2990,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2718,'Большие Метески'),
 	 (0,2719,'Большие Мордовские Пошаты'),
 	 (0,2720,'Большие Нырсы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2721,'Большие Нырты'),
 	 (0,2722,'Большие Озерки'),
 	 (0,2723,'Большие Ошворцы'),
@@ -3001,7 +3001,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2728,'Большие Ремезенки'),
 	 (0,2729,'Большие Савки'),
 	 (0,2730,'Большие Салтыки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4498,2731,'Большие Салы'),
 	 (0,2732,'Большие Санники'),
 	 (0,2733,'Большие Сибы'),
@@ -3012,7 +3012,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2738,'Большие Туралы'),
 	 (0,2739,'Большие Угоны'),
 	 (4700,2740,'Большие Уки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2741,'Большие Хутора'),
 	 (0,2742,'Большие Чаки'),
 	 (4569,2743,'Большие Чапурники'),
@@ -3023,7 +3023,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2748,'Большие Ярки'),
 	 (0,2749,'Большие Ясырки'),
 	 (0,2750,'Большие Яуши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2751,'Большинка'),
 	 (0,2752,'Большовская'),
 	 (4976,2753,'Большое'),
@@ -3034,7 +3034,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2758,'Большое Анненково'),
 	 (0,2759,'Большое Афанасово'),
 	 (0,2760,'Большое Баландино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3076,2761,'Большое Болдино'),
 	 (5985,2762,'Большое Буньково'),
 	 (0,2763,'Большое Буяново'),
@@ -3045,7 +3045,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2768,'Большое Городище'),
 	 (0,2769,'Большое Гридино'),
 	 (0,2770,'Большое Грызлово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2771,'Большое Гусиное'),
 	 (0,2772,'Большое Долженково'),
 	 (0,2773,'Большое Ермаково'),
@@ -3056,7 +3056,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2778,'Большое Исаково'),
 	 (0,2779,'Большое Казариново'),
 	 (0,2780,'Большое Каменное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2781,'Большое Карачкино'),
 	 (0,2782,'Большое Каринское'),
 	 (0,2783,'Большое Карпово'),
@@ -3067,7 +3067,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2788,'Большое Куземкино'),
 	 (0,2789,'Большое Кузьминское'),
 	 (0,2790,'Большое Курейное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2791,'Большое Малинское'),
 	 (0,2792,'Большое Маресево'),
 	 (0,2793,'Большое Маресьево'),
@@ -3078,7 +3078,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2798,'Большое Непряхино'),
 	 (0,2799,'Большое Нуркеево'),
 	 (0,2800,'Большое Овсяниково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2801,'Большое Окулово'),
 	 (0,2802,'Большое Пермиево'),
 	 (0,2803,'Большое Пикино'),
@@ -3089,7 +3089,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2808,'Большое Просеково'),
 	 (0,2809,'Большое Рагозино'),
 	 (0,2810,'Большое Раково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2811,'Большое Рейзино'),
 	 (0,2812,'Большое Ремонтное'),
 	 (0,2813,'Большое Руново'),
@@ -3100,7 +3100,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2818,'Большое Седельниково'),
 	 (4306,2819,'Большое Село'),
 	 (0,2820,'Большое Скуратово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2821,'Большое Содомово'),
 	 (3825,2822,'Большое Солдатское'),
 	 (4977,2823,'Большое Сорокино'),
@@ -3111,7 +3111,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2828,'Большое Туманово'),
 	 (0,2829,'Большое Уварово'),
 	 (0,2830,'Большое Устинское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2831,'Большое Чеменево'),
 	 (6800,2832,'Большое Череватово'),
 	 (0,2833,'Большое Чураево'),
@@ -3122,7 +3122,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2838,'Большое Широкое'),
 	 (0,2839,'Большое Шумаково'),
 	 (0,2840,'Большое Ямашево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2841,'Большое Яниково'),
 	 (0,2842,'Большое-Галово'),
 	 (0,2843,'Большой'),
@@ -3133,7 +3133,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2848,'Большой Атмас'),
 	 (0,2849,'Большой Барандат'),
 	 (0,2850,'Большой Бащелак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2851,'Большой Бейсуг'),
 	 (0,2852,'Большой Битаман'),
 	 (0,2853,'Большой Бредихин'),
@@ -3144,7 +3144,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2858,'Большой Дор'),
 	 (0,2859,'Большой Есаул'),
 	 (0,2860,'Большой Жужгес');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2861,'Большой Зерентуй'),
 	 (0,2862,'Большой Змеинец'),
 	 (0,2863,'Большой Избердей'),
@@ -3155,7 +3155,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2868,'Большой Кантат'),
 	 (0,2869,'Большой Карагай'),
 	 (0,2870,'Большой Карай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2871,'Большой Карлыган'),
 	 (0,2872,'Большой Качак'),
 	 (0,2873,'Большой Кашелак'),
@@ -3166,7 +3166,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2878,'Большой Красногор'),
 	 (0,2879,'Большой Краснояр'),
 	 (0,2880,'Большой Крупец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2881,'Большой Кувай'),
 	 (0,2882,'Большой Куганак'),
 	 (0,2883,'Большой Кукмор'),
@@ -3177,7 +3177,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4857,2888,'Большой Луг'),
 	 (5308,2889,'Большой Лычак'),
 	 (0,2890,'Большой Ляждур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2891,'Большой Макателем'),
 	 (0,2892,'Большой Мартын'),
 	 (0,2893,'Большой Машляк'),
@@ -3188,7 +3188,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2898,'Большой Невер'),
 	 (0,2899,'Большой Нимныр'),
 	 (0,2900,'Большой Ошняк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2901,'Большой Перелаз'),
 	 (0,2902,'Большой Порек'),
 	 (0,2903,'Большой Разнокол'),
@@ -3199,7 +3199,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2908,'Большой Сарс'),
 	 (0,2909,'Большой Сатнур'),
 	 (0,2910,'Большой Сереж');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2911,'Большой Симкин'),
 	 (0,2912,'Большой Синковец'),
 	 (0,2913,'Большой Снежеток'),
@@ -3210,7 +3210,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2918,'Большой Толкай'),
 	 (0,2919,'Большой Тонтой'),
 	 (0,2920,'Большой Труев');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2921,'Большой Тумьюмучаш'),
 	 (0,2922,'Большой Турыш'),
 	 (4746,2923,'Большой Улуй'),
@@ -3221,7 +3221,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2928,'Большой Хабык'),
 	 (0,2929,'Большой Хатыми'),
 	 (0,2930,'Большой Хомутец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5188,2931,'Большой Царын'),
 	 (0,2932,'Большой Чирклей'),
 	 (0,2933,'Большой Шинар'),
@@ -3232,7 +3232,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2799,2938,'Бондари'),
 	 (0,2939,'Бондюг'),
 	 (0,2940,'Боочи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2941,'Бор (деревня)'),
 	 (0,2942,'Бор (поселок)'),
 	 (0,2943,'Бор-Кособулат'),
@@ -3243,7 +3243,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3752,2948,'Боргустанская'),
 	 (0,2949,'Бордино'),
 	 (0,2950,'Борец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2951,'Боржигантай'),
 	 (6944,2952,'Борзовая Заимка'),
 	 (1194,2953,'Борзя'),
@@ -3254,7 +3254,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2958,'Борискино'),
 	 (0,2959,'Борискино-Игар'),
 	 (3060,2960,'Борисовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2961,'Борисово'),
 	 (0,2962,'Борисово-Судское'),
 	 (0,2963,'Борисовский'),
@@ -3265,7 +3265,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4307,2968,'Борисоглебский'),
 	 (0,2969,'Борисоглебское'),
 	 (0,2970,'Бориха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2971,'Борищево'),
 	 (0,2972,'Борки'),
 	 (0,2973,'Борковка'),
@@ -3276,7 +3276,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2978,'Боровиково'),
 	 (0,2979,'Боровинка'),
 	 (4897,2980,'Боровиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2981,'Боровица'),
 	 (0,2982,'Боровичи (Демянский с/с)'),
 	 (0,2983,'Боровичи (деревня)'),
@@ -3287,7 +3287,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,2988,'Боровковский'),
 	 (0,2989,'Боровлянка'),
 	 (0,2990,'Боровлянское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,2991,'Боровно'),
 	 (0,2992,'Боровое'),
 	 (0,2993,'Боровой'),
@@ -3298,7 +3298,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6778,2998,'Боровской'),
 	 (6370,2999,'Борогонцы'),
 	 (0,3000,'Борода');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3001,'Бородаевка'),
 	 (0,3002,'Бородачи'),
 	 (0,3003,'Бороденки'),
@@ -3309,7 +3309,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3008,'Бородинская'),
 	 (4041,3009,'Бородинский'),
 	 (0,3010,'Бородулино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3011,'Бородыновка'),
 	 (0,3012,'Борозда'),
 	 (0,3013,'Борозденки'),
@@ -3320,7 +3320,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3018,'Борок (Верхнемостский с/с)'),
 	 (0,3019,'Борок (Георгиевский с/о)'),
 	 (0,3020,'Борок Сулежский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3021,'Бороно-Михайловка'),
 	 (0,3022,'Боронский'),
 	 (0,3023,'Боронук'),
@@ -3331,7 +3331,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3028,'Бортомбаза'),
 	 (0,3029,'Бортсурманы'),
 	 (0,3030,'Борцово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3031,'Боршева'),
 	 (0,3032,'Боршевое'),
 	 (0,3033,'Борщевое'),
@@ -3342,7 +3342,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3038,'Босницы'),
 	 (0,3039,'Ботаника'),
 	 (0,3040,'Боташюрт');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3041,'Ботаюрт'),
 	 (5574,3042,'Ботлих'),
 	 (0,3043,'Ботово'),
@@ -3353,7 +3353,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3048,'Боций'),
 	 (0,3049,'Боцманово'),
 	 (0,3050,'Бочаниха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3051,'Бочаровский'),
 	 (0,3052,'Бочилово (поселок)'),
 	 (0,3053,'Бочкаревка'),
@@ -3364,7 +3364,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3058,'Бояновичи'),
 	 (0,3059,'Бояриново'),
 	 (2445,3060,'Боярка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3061,'Бояркино'),
 	 (0,3062,'Бояровка'),
 	 (0,3063,'Боярск'),
@@ -3375,7 +3375,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3068,'Братки'),
 	 (0,3069,'Братковское'),
 	 (0,3070,'Братовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3071,'Братовщина'),
 	 (6783,3072,'Братский'),
 	 (3398,3073,'Братское'),
@@ -3386,7 +3386,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4308,3078,'Брейтово'),
 	 (0,3079,'Бреславка'),
 	 (0,3080,'Брехово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3081,'Бриакан'),
 	 (0,3082,'Бриент'),
 	 (0,3083,'Брикет'),
@@ -3397,7 +3397,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3088,'Бриш'),
 	 (0,3089,'Бриштамак'),
 	 (0,3090,'Бровилята');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3091,'Брод'),
 	 (0,3092,'Бродецкое'),
 	 (0,3093,'Броди'),
@@ -3408,7 +3408,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3098,'Бронница'),
 	 (0,3099,'Бронский Ватрас'),
 	 (0,3100,'Бронцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3101,'Брусенец'),
 	 (0,3102,'Брусенцево'),
 	 (0,3103,'Брусничный'),
@@ -3419,7 +3419,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3108,'Брут'),
 	 (0,3109,'Брыкаланск'),
 	 (0,3110,'Брыковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3111,'Брылино'),
 	 (0,3112,'Брынь'),
 	 (0,3113,'Брычево'),
@@ -3430,7 +3430,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3377,3118,'Брянка'),
 	 (0,3119,'Брянкустичи'),
 	 (0,3120,'Брянск (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3121,'Брянский'),
 	 (0,3122,'Брянское'),
 	 (0,3123,'Буаз-Куль'),
@@ -3441,7 +3441,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3128,'Бубново'),
 	 (0,3129,'Бубновский'),
 	 (0,3130,'Бубчиково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3131,'Бугаевка'),
 	 (0,3132,'Бугаевка (Бугаевский с/с)'),
 	 (0,3133,'Буганак'),
@@ -3452,7 +3452,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3138,'Бугульдейка'),
 	 (0,3139,'Бугульчан'),
 	 (0,3140,'Бугуруслановка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3141,'Бугуян'),
 	 (0,3142,'Буда'),
 	 (0,3143,'Будагово'),
@@ -3463,7 +3463,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3148,'Буденновка'),
 	 (0,3149,'Буденновская'),
 	 (0,3150,'Буденный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3151,'Буденовка'),
 	 (0,3152,'Будино'),
 	 (0,3153,'Будище'),
@@ -3474,7 +3474,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3158,'Будьково'),
 	 (0,3159,'Будюмкан'),
 	 (0,3160,'Буерак-Поповский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3161,'Бужаниново'),
 	 (0,3162,'Бужарово'),
 	 (0,3163,'Бузавлык'),
@@ -3485,7 +3485,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3168,'Бузенки'),
 	 (0,3169,'Бузиновка'),
 	 (0,3170,'Бузиновская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3171,'Бузовлево'),
 	 (0,3172,'Бузовьязы'),
 	 (0,3173,'Бузыканово'),
@@ -3496,7 +3496,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3178,'Буйское'),
 	 (0,3179,'Букановская'),
 	 (0,3180,'Буканское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3181,'Букань'),
 	 (0,3182,'Букачача'),
 	 (0,3183,'Букреевка (деревня)'),
@@ -3507,7 +3507,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3188,'Булай'),
 	 (4253,3189,'Буланаш'),
 	 (0,3190,'Буланиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3191,'Булановка'),
 	 (0,3192,'Буланово'),
 	 (0,3193,'Булатниково'),
@@ -3518,7 +3518,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5157,3198,'Булгаково'),
 	 (0,3199,'Булгар'),
 	 (0,3200,'Булгин');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3201,'Булгунняхтах'),
 	 (0,3202,'Булдак'),
 	 (0,3203,'Булдеево'),
@@ -3529,7 +3529,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3208,'Булун'),
 	 (0,3209,'Булун-Терек'),
 	 (0,3210,'Булунгу');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3211,'Булуса'),
 	 (0,3212,'Булыга-Фадеево'),
 	 (0,3213,'Булык'),
@@ -3540,7 +3540,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3218,'Булюшкина'),
 	 (0,3219,'Бунбуй'),
 	 (0,3220,'Бунгур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3221,'Бундюр'),
 	 (0,3222,'Бунино'),
 	 (0,3223,'Бунырево'),
@@ -3551,7 +3551,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3228,'Буравцовка'),
 	 (5132,3229,'Бураево'),
 	 (0,3230,'Бураково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3231,'Бураковский'),
 	 (0,3232,'Буралы'),
 	 (0,3233,'Буранбаево'),
@@ -3562,7 +3562,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3238,'Бурановка'),
 	 (0,3239,'Бураново'),
 	 (0,3240,'Буранчи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3241,'Бурасы'),
 	 (0,3242,'Бурата'),
 	 (0,3243,'Бурацкий'),
@@ -3573,7 +3573,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3248,'Бурга'),
 	 (0,3249,'Бурганкент'),
 	 (0,3250,'Бургимакмахи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3251,'Бургуй'),
 	 (0,3252,'Бургун-Маджары'),
 	 (0,3253,'Бурдеки'),
@@ -3584,7 +3584,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4389,3258,'Буревестник'),
 	 (0,3259,'Буреги'),
 	 (0,3260,'Бурен-Бай-Хаак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3261,'Бурен-Хем'),
 	 (0,3262,'Буренино'),
 	 (0,3263,'Буренка'),
@@ -3595,7 +3595,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3268,'Бурибай'),
 	 (0,3269,'Буриказган'),
 	 (0,3270,'Бурино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3271,'Буркандья'),
 	 (0,3272,'Буркихан'),
 	 (0,3273,'Бурковский'),
@@ -3606,7 +3606,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3278,'Бурлы'),
 	 (0,3279,'Бурлыкский'),
 	 (0,3280,'Бурмакино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3281,'Бурмантово'),
 	 (0,3282,'Бурметьево'),
 	 (0,3283,'Бурминка'),
@@ -3617,7 +3617,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3288,'Бурный'),
 	 (0,3289,'Буровой'),
 	 (0,3290,'Бурсоль');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3291,'Буртасы'),
 	 (0,3292,'Буртинский'),
 	 (0,3293,'Буртунай'),
@@ -3628,7 +3628,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3298,'Бурундуки'),
 	 (0,3299,'Бурунный'),
 	 (0,3300,'Буруновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3301,'Бурунское'),
 	 (0,3302,'Бурунча'),
 	 (0,3303,'Буруны'),
@@ -3639,7 +3639,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3308,'Бусаево'),
 	 (0,3309,'Бускри'),
 	 (0,3310,'Бускульский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3311,'Буссе'),
 	 (0,3312,'Буссевка'),
 	 (0,3313,'Бут-Казмаляр'),
@@ -3650,7 +3650,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4254,3318,'Бутка'),
 	 (0,3319,'Буткан'),
 	 (0,3320,'Бутова Курья');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3321,'Бутово'),
 	 (0,3322,'Буторлино'),
 	 (0,3323,'Бутрахты'),
@@ -3661,7 +3661,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1848,3328,'Бутурлиновка'),
 	 (0,3329,'Бутусово'),
 	 (0,3330,'Бутчино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3331,'Бутылицы'),
 	 (0,3332,'Бутырино'),
 	 (0,3333,'Бутырки'),
@@ -3672,7 +3672,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3338,'Бухтал'),
 	 (0,3339,'Бухты'),
 	 (0,3340,'Буцра');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3341,'Бучалки'),
 	 (0,3342,'Бушуево'),
 	 (0,3343,'Бушуиха (поселок)'),
@@ -3683,7 +3683,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3348,'Бызово'),
 	 (0,3349,'Быканово'),
 	 (0,3350,'Быков');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3351,'Быкова'),
 	 (0,3352,'Быковка'),
 	 (4570,3353,'Быково'),
@@ -3694,7 +3694,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3358,'Былым'),
 	 (0,3359,'Бымок'),
 	 (0,3360,'Быньги');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3361,'Быракан'),
 	 (0,3362,'Бырама'),
 	 (0,3363,'Быргында'),
@@ -3705,7 +3705,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3368,'Быстрецово'),
 	 (0,3369,'Быстрецы'),
 	 (0,3370,'Быстрица');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3371,'Быстровка'),
 	 (4500,3372,'Быстрогорский'),
 	 (0,3373,'Быструха'),
@@ -3716,7 +3716,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3378,'Бысыттах'),
 	 (4050,3379,'Бытошь'),
 	 (0,3380,'Бытэв');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3381,'Быхово'),
 	 (0,3382,'Бычина'),
 	 (0,3383,'Бычиха'),
@@ -3727,7 +3727,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3388,'Бютейдях'),
 	 (0,3389,'Бяково'),
 	 (0,3390,'Бяльково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3391,'Бярийе'),
 	 (0,3392,'Бясь-Кюёль'),
 	 (0,3393,'В-Грузиново'),
@@ -3738,7 +3738,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3398,'Вавилон'),
 	 (4194,3399,'Вавож'),
 	 (4979,3400,'Вагай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3401,'Вагайцево'),
 	 (0,3402,'Ваган'),
 	 (0,3403,'Ваганово'),
@@ -3749,7 +3749,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3408,'Вадово-Сосновка'),
 	 (0,3409,'Вадовские Селищи'),
 	 (0,3410,'Вадьковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3411,'Ваеги'),
 	 (0,3412,'Важгорт'),
 	 (0,3413,'Важжова'),
@@ -3760,7 +3760,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3418,'Вазьянка'),
 	 (0,3419,'Вазюк'),
 	 (0,3420,'Ваймес');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3421,'Ваймуша'),
 	 (0,3422,'Вакиярово'),
 	 (0,3423,'Вако-Жиле'),
@@ -3771,7 +3771,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3428,'Валгуссы'),
 	 (0,3429,'Валгусы'),
 	 (1053,3430,'Валдай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3431,'Валдай-3'),
 	 (0,3432,'Валдгейм'),
 	 (0,3433,'Валентин'),
@@ -3782,7 +3782,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3438,'Валион'),
 	 (0,3439,'Валитово'),
 	 (3624,3440,'Валки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3441,'Валовый Кордон'),
 	 (0,3442,'Валуевка'),
 	 (0,3443,'Валуевское'),
@@ -3793,7 +3793,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3448,'Вальдиватское'),
 	 (0,3449,'Валькумей'),
 	 (0,3450,'Вампугол');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6008,3451,'Ванавара'),
 	 (0,3452,'Ванашимахи'),
 	 (0,3453,'Вангаш'),
@@ -3804,7 +3804,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3458,'Ванина'),
 	 (2690,3459,'Ванино'),
 	 (0,3460,'Ванновское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3461,'Ваново'),
 	 (0,3462,'Ванское'),
 	 (0,3463,'Вантино'),
@@ -3815,7 +3815,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3468,'Варавай'),
 	 (0,3469,'Варакинский'),
 	 (0,3470,'Вараксино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3471,'Варали'),
 	 (4101,3472,'Варандей'),
 	 (0,3473,'Варвара'),
@@ -3826,7 +3826,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3478,'Варегово (Вареговский с/с)'),
 	 (0,3479,'Вареж'),
 	 (3312,3480,'Варениковская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3481,'Варениковское'),
 	 (6526,3482,'Вареновка'),
 	 (0,3483,'Варжеляй'),
@@ -3837,7 +3837,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3488,'Варламово'),
 	 (0,3489,'Вармазейка'),
 	 (0,3490,'Вармахли');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3491,'Варна'),
 	 (4392,3492,'Варнавино'),
 	 (0,3493,'Варнавинское'),
@@ -3848,7 +3848,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3498,'Вартемяги'),
 	 (0,3499,'Варфоломеевка'),
 	 (0,3500,'Варшава');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3501,'Варшавка'),
 	 (0,3502,'Варыпаево'),
 	 (0,3503,'Варюхино'),
@@ -3859,7 +3859,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3508,'Васильдол'),
 	 (3203,3509,'Васильевка'),
 	 (0,3510,'Васильевка (Ломовское с/п)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3511,'Васильевка (село)'),
 	 (0,3512,'Васильевка 1-я'),
 	 (6433,3513,'Васильево'),
@@ -3870,7 +3870,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3518,'Васильевский Мох'),
 	 (0,3519,'Васильевский Хутор'),
 	 (0,3520,'Васильевское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3521,'Васильково'),
 	 (0,3522,'Васильсурск'),
 	 (0,3523,'Васильчиново'),
@@ -3881,7 +3881,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6457,3528,'Васкелово'),
 	 (0,3529,'Вассиановка'),
 	 (0,3530,'Вассята');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3531,'Васькино'),
 	 (0,3532,'Васькино (поселок)'),
 	 (0,3533,'Васькино-Туйралы'),
@@ -3892,7 +3892,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3538,'Васюринская (станица)'),
 	 (0,3539,'Васютино'),
 	 (0,3540,'Ватажное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3541,'Ватамановская'),
 	 (0,3542,'Ватутинки (деревня)'),
 	 (0,3543,'Ватутинки-1'),
@@ -3903,7 +3903,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3548,'Вахонино'),
 	 (0,3549,'Вахонькино'),
 	 (0,3550,'Вахрушев');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3551,'Вахрушево'),
 	 (0,3552,'Вахруши (пгт)'),
 	 (4393,3553,'Вахтан'),
@@ -3914,7 +3914,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3558,'Вашутино'),
 	 (0,3559,'Вая'),
 	 (0,3560,'Введенка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3561,'Введенская Готня'),
 	 (0,3562,'Введенская Слобода'),
 	 (4955,3563,'Введенское'),
@@ -3925,7 +3925,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3568,'Ведено'),
 	 (0,3569,'Веденье'),
 	 (0,3570,'Веденяпино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3571,'Ведерники'),
 	 (0,3572,'Ведлозеро'),
 	 (0,3573,'Ведное'),
@@ -3936,7 +3936,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3578,'Вековка'),
 	 (0,3579,'Велва-База'),
 	 (0,3580,'Веледниково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3581,'Велетьма'),
 	 (1104,3582,'Велиж'),
 	 (0,3583,'Велижанка'),
@@ -3947,7 +3947,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3588,'Великая Речка'),
 	 (0,3589,'Великая Топаль'),
 	 (0,3590,'Великент');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3591,'Великие Суки'),
 	 (0,3592,'Великий Враг'),
 	 (0,3593,'Великий Двор'),
@@ -3958,7 +3958,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3313,3598,'Великовечное'),
 	 (0,3599,'Великовисочное'),
 	 (0,3600,'Великодворский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3601,'Великое'),
 	 (0,3602,'Великое Село'),
 	 (0,3603,'Великокнязевка'),
@@ -3969,7 +3969,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3608,'Великорецкое'),
 	 (0,3609,'Великорусское'),
 	 (0,3610,'Велисто');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3753,3611,'Величаевское'),
 	 (0,3612,'Велс'),
 	 (0,3613,'Велье'),
@@ -3980,7 +3980,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6877,3618,'Вельяминово'),
 	 (0,3619,'Венгеловка'),
 	 (0,3620,'Венгерка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3621,'Венгеровка'),
 	 (3063,3622,'Венгерово'),
 	 (1918,3623,'Венев'),
@@ -3991,7 +3991,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3628,'Вепрь'),
 	 (2818,3629,'Вербилки'),
 	 (0,3630,'Вербилово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3631,'Верблюжье'),
 	 (0,3632,'Вербовский'),
 	 (0,3633,'Вербовый Лог'),
@@ -4002,7 +4002,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3638,'Верейка'),
 	 (0,3639,'Веренка'),
 	 (0,3640,'Верескуново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3641,'Веретенино'),
 	 (0,3642,'Веретея'),
 	 (0,3643,'Веретье'),
@@ -4013,7 +4013,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3648,'Верзилово'),
 	 (0,3649,'Верково'),
 	 (0,3650,'Веркола');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3651,'Вернадовка'),
 	 (0,3652,'Верное'),
 	 (0,3653,'Вернявино'),
@@ -4024,7 +4024,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3658,'Вертуновка'),
 	 (6925,3659,'Вертячий'),
 	 (0,3660,'Верх-Алеус');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3661,'Верх-Аллак'),
 	 (0,3662,'Верх-Амонаш'),
 	 (0,3663,'Верх-Ануй'),
@@ -4035,7 +4035,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3668,'Верх-Бобровка'),
 	 (0,3669,'Верх-Егос'),
 	 (0,3670,'Верх-Жилино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3671,'Верх-Ики'),
 	 (0,3672,'Верх-Иньва'),
 	 (4830,3673,'Верх-Ирмень'),
@@ -4046,7 +4046,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3678,'Верх-Карагуж'),
 	 (0,3679,'Верх-Каргат'),
 	 (4900,3680,'Верх-Катунское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3681,'Верх-Коен'),
 	 (0,3682,'Верх-Коптелка'),
 	 (0,3683,'Верх-Красноярка'),
@@ -4057,7 +4057,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4256,3688,'Верх-Нейвинский'),
 	 (0,3689,'Верх-Неня'),
 	 (0,3690,'Верх-Обский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3691,'Верх-Озерное'),
 	 (0,3692,'Верх-Падунский'),
 	 (0,3693,'Верх-Пайва'),
@@ -4068,7 +4068,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3698,'Верх-Тайменка'),
 	 (0,3699,'Верх-Тарка'),
 	 (0,3700,'Верх-Таштып');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3701,'Верх-Тиса'),
 	 (4831,3702,'Верх-Тула'),
 	 (0,3703,'Верх-Уймон'),
@@ -4079,7 +4079,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4789,3708,'Верх-Чебула'),
 	 (0,3709,'Верх-Чик'),
 	 (0,3710,'Верх-Чита');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3711,'Верх-Чуманка'),
 	 (0,3712,'Верх-Шуртан'),
 	 (0,3713,'Верх-Юсьва'),
@@ -4090,7 +4090,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3314,3718,'Верхнебаканский'),
 	 (0,3719,'Верхнебелое'),
 	 (0,3720,'Верхнеберезово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3721,'Верхнебешкиль'),
 	 (0,3722,'Верхнебузулукский'),
 	 (0,3723,'Верхневеденеевский'),
@@ -4101,7 +4101,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4333,3728,'Верхнеднепровский'),
 	 (0,3729,'Верхнедрезгалово'),
 	 (0,3730,'Верхнее');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3731,'Верхнее Альмурзино'),
 	 (0,3732,'Верхнее Алябьево'),
 	 (0,3733,'Верхнее Асаново'),
@@ -4112,7 +4112,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3738,'Верхнее Инхело'),
 	 (0,3739,'Верхнее Инхо'),
 	 (5575,3740,'Верхнее Казанище');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3741,'Верхнее Калино'),
 	 (0,3742,'Верхнее Кузькино'),
 	 (0,3743,'Верхнее Нащекино'),
@@ -4123,7 +4123,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3748,'Верхнее Турово'),
 	 (0,3749,'Верхнее Чесночное'),
 	 (0,3750,'Верхнее Чуево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3751,'Верхнезейск'),
 	 (0,3752,'Верхнеигнашкино'),
 	 (0,3753,'Верхнеижемский'),
@@ -4134,7 +4134,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3758,'Верхнекардаильский'),
 	 (0,3759,'Верхнекарышево'),
 	 (0,3760,'Верхнеключевское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3761,'Верхнекольцов'),
 	 (0,3762,'Верхнекудашево'),
 	 (0,3763,'Верхнекундрюченская'),
@@ -4145,7 +4145,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3768,'Верхнемартыново'),
 	 (0,3769,'Верхненазаргулово'),
 	 (0,3770,'Верхненазаровское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3771,'Верхненовокутлумбетьево'),
 	 (0,3772,'Верхнеобливский'),
 	 (0,3773,'Верхнеозерное'),
@@ -4156,7 +4156,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3778,'Верхнепашино'),
 	 (0,3779,'Верхнепогромное'),
 	 (0,3780,'Верхнеподпольный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3781,'Верхнепотапов'),
 	 (0,3782,'Верхнереченский'),
 	 (3754,3783,'Верхнерусское'),
@@ -4167,7 +4167,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3788,'Верхнеспасское'),
 	 (0,3789,'Верхнестепной'),
 	 (0,3790,'Верхнесуерское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3791,'Верхнетавлыкаево'),
 	 (0,3792,'Верхнеталовка'),
 	 (0,3793,'Верхнетолучеево'),
@@ -4178,7 +4178,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3798,'Верхнечеренский'),
 	 (0,3799,'Верхнечирский'),
 	 (0,3800,'Верхнечусовские Городки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3801,'Верхнеюлдашево'),
 	 (0,3802,'Верхнеяблочный'),
 	 (0,3803,'Верхнеяикбаево'),
@@ -4189,7 +4189,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3808,'Верхние Ачаки'),
 	 (5621,3809,'Верхние Ачалуки'),
 	 (0,3810,'Верхние Белозерки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3811,'Верхние Бишинды'),
 	 (0,3812,'Верхние Бугады'),
 	 (0,3813,'Верхние Важины'),
@@ -4200,7 +4200,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3818,'Верхние Кивары'),
 	 (5150,3819,'Верхние Киги'),
 	 (0,3820,'Верхние Куларки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3821,'Верхние Лащи'),
 	 (0,3822,'Верхние Матаки'),
 	 (0,3823,'Верхние Метески'),
@@ -4211,7 +4211,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3828,'Верхние Тимерсяны'),
 	 (0,3829,'Верхние Услы'),
 	 (0,3830,'Верхние Халчи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3831,'Верхние Чебеньки'),
 	 (0,3832,'Верхние Челны'),
 	 (0,3833,'Верхние Шипки'),
@@ -4222,7 +4222,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3838,'Верхний Алыштан'),
 	 (0,3839,'Верхний Арши'),
 	 (0,3840,'Верхний Ат-Урях');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3841,'Верхний Баксан'),
 	 (6835,3842,'Верхний Балыклей'),
 	 (5166,3843,'Верхний Баскунчак'),
@@ -4233,7 +4233,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3848,'Верхний Булай'),
 	 (0,3849,'Верхний Бургалтай'),
 	 (0,3850,'Верхний Бык');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3851,'Верхний Гумбет'),
 	 (0,3852,'Верхний Еруслан'),
 	 (0,3853,'Верхний Жирим'),
@@ -4244,7 +4244,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3858,'Верхний Индырчи'),
 	 (0,3859,'Верхний Карачан'),
 	 (0,3860,'Верхний Карбуш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3861,'Верхний Катрух'),
 	 (0,3862,'Верхний Кожлаер'),
 	 (0,3863,'Верхний Колоб'),
@@ -4255,7 +4255,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3868,'Верхний Лабкомахи'),
 	 (0,3869,'Верхний Ландех'),
 	 (0,3870,'Верхний Ломов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3871,'Верхний Ломовец'),
 	 (0,3872,'Верхний Любаж'),
 	 (3718,3873,'Верхний Мамон'),
@@ -4266,7 +4266,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3878,'Верхний Нойбер'),
 	 (0,3879,'Верхний Нурлат'),
 	 (0,3880,'Верхний Парень');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3881,'Верхний Перевал'),
 	 (0,3882,'Верхний Потам'),
 	 (0,3883,'Верхний Реутец'),
@@ -4277,7 +4277,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3888,'Верхний Суэтук'),
 	 (0,3889,'Верхний Сып'),
 	 (0,3890,'Верхний Табын');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1268,3891,'Верхний Тагил'),
 	 (0,3892,'Верхний Такермен'),
 	 (0,3893,'Верхний Телелюй'),
@@ -4288,7 +4288,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3898,'Верхний Ульхун'),
 	 (0,3899,'Верхний Уртуй'),
 	 (4175,3900,'Верхний Услон');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3901,'Верхний Учкулан'),
 	 (0,3902,'Верхний Фиагдон'),
 	 (0,3903,'Верхний Цасучей'),
@@ -4299,7 +4299,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3908,'Верхний Яр'),
 	 (0,3909,'Верхний Яшкуль'),
 	 (0,3910,'Верхний-Наур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3911,'Верхняковский'),
 	 (0,3912,'Верхняя Балкария'),
 	 (0,3913,'Верхняя Бузиновка'),
@@ -4310,7 +4310,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3918,'Верхняя Грязнуха'),
 	 (0,3919,'Верхняя Давыдовка'),
 	 (0,3920,'Верхняя Добринка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3921,'Верхняя Елюзань'),
 	 (0,3922,'Верхняя Ентала'),
 	 (0,3923,'Верхняя Есауловка'),
@@ -4321,7 +4321,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3928,'Верхняя Иволга'),
 	 (0,3929,'Верхняя Игра'),
 	 (0,3930,'Верхняя Инта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3931,'Верхняя Иреть'),
 	 (0,3932,'Верхняя Кабанка'),
 	 (0,3933,'Верхняя Каменка'),
@@ -4332,7 +4332,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3938,'Верхняя Кондрата'),
 	 (0,3939,'Верхняя Коя'),
 	 (0,3940,'Верхняя Кугульта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3941,'Верхняя Куэнга'),
 	 (0,4069,'Ветлянка'),
 	 (0,3942,'Верхняя Луговатка'),
@@ -4343,7 +4343,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3947,'Верхняя Мактама'),
 	 (0,3948,'Верхняя Мара'),
 	 (0,3949,'Верхняя Матренка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3950,'Верхняя Медведица'),
 	 (0,3951,'Верхняя Мосоловка'),
 	 (0,3952,'Верхняя Ольшанка'),
@@ -4354,7 +4354,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3957,'Верхняя Пеша'),
 	 (0,3958,'Верхняя Плавица'),
 	 (0,3959,'Верхняя Платовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6684,3960,'Верхняя Подстепновка'),
 	 (0,3961,'Верхняя Покровка'),
 	 (0,3962,'Верхняя Полтавка'),
@@ -4365,7 +4365,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4258,3967,'Верхняя Синячиха'),
 	 (0,3968,'Верхняя Солянка'),
 	 (0,3969,'Верхняя Старица');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3970,'Верхняя Сунь'),
 	 (5717,3971,'Верхняя Сысерть'),
 	 (0,3972,'Верхняя Талица'),
@@ -4376,7 +4376,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3977,'Верхняя Тишанка'),
 	 (0,3978,'Верхняя Тойда'),
 	 (6312,3979,'Верхняя Тойма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3980,'Верхняя Троица'),
 	 (1271,3981,'Верхняя Тура'),
 	 (0,3982,'Верхняя Тыжма'),
@@ -4387,7 +4387,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2433,3987,'Верхняя Хава'),
 	 (0,3988,'Верхняя Хила'),
 	 (0,3989,'Верхняя Чернавка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,3990,'Верхняя Шарденьга'),
 	 (0,3991,'Верхняя Эконь'),
 	 (0,3992,'Верхняя Якушка'),
@@ -4398,7 +4398,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,3997,'Верховино'),
 	 (0,3998,'Верховойское'),
 	 (0,3999,'Верховонданка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4000,'Верховский'),
 	 (0,4001,'Верховский Погост'),
 	 (0,4002,'Верховское'),
@@ -4409,7 +4409,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4007,'Верхоленск'),
 	 (0,4008,'Верхолино'),
 	 (0,4009,'Верхолипово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4010,'Верхоломов'),
 	 (0,4011,'Верхопенье'),
 	 (0,4012,'Верхопуйский'),
@@ -4420,7 +4420,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4017,'Верхотулье'),
 	 (1272,4018,'Верхотурье'),
 	 (0,4019,'Верхоупье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4020,'Верхоуслино'),
 	 (0,4021,'Верхоценье'),
 	 (4442,4022,'Верхошижемье'),
@@ -4431,7 +4431,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4027,'Вершина-Тутуры'),
 	 (0,4028,'Вершинино'),
 	 (0,4029,'Вершинный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4030,'Вершино-Биджа'),
 	 (5112,4031,'Вершино-Дарасунский'),
 	 (0,4032,'Вершино-Рыбное'),
@@ -4442,7 +4442,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4037,'Веселая'),
 	 (0,4038,'Веселая Грива'),
 	 (0,4039,'Веселая Лопань');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4040,'Веселая Поляна'),
 	 (0,4041,'Веселево'),
 	 (0,4042,'Веселинская'),
@@ -4453,7 +4453,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3205,4047,'Веселое'),
 	 (0,4048,'Веселоярск'),
 	 (0,4049,'Веселые Рощи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4501,4050,'Веселый'),
 	 (0,4051,'Веселый (поселок)'),
 	 (0,4052,'Веселый Кут'),
@@ -4464,7 +4464,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4057,'Весенний'),
 	 (0,4058,'Веска'),
 	 (0,4059,'Вески');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4060,'Весляна'),
 	 (0,4061,'Весново'),
 	 (0,4062,'Веснянка'),
@@ -4475,7 +4475,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1683,4067,'Ветлуга'),
 	 (4343,4068,'Ветлужский'),
 	 (0,4070,'Ветожетка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4071,'Ветошкино'),
 	 (0,4072,'Ветренотелеутское'),
 	 (0,4073,'Ветрово'),
@@ -4486,7 +4486,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4078,'Вечкусы'),
 	 (0,4079,'Вешаловка'),
 	 (0,4080,'Вёшенская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4081,'Вешка'),
 	 (6070,4082,'Вешкайма'),
 	 (0,4083,'Вешкелица'),
@@ -4497,7 +4497,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4088,'Вздружное'),
 	 (0,4089,'Взлетный'),
 	 (0,4090,'Взморье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4091,'Виахту'),
 	 (0,4092,'Вига'),
 	 (0,4093,'Виданы'),
@@ -4508,7 +4508,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4098,'Вижай'),
 	 (0,4099,'Визикасы'),
 	 (0,4100,'Визимбирь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4101,'Визимьяры'),
 	 (5702,4102,'Визинга'),
 	 (0,4103,'Визиндор'),
@@ -4519,7 +4519,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4108,'Викторово'),
 	 (0,4109,'Викторополь'),
 	 (4980,4110,'Викулово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4111,'Вилга'),
 	 (0,4112,'Вилегодск'),
 	 (0,4113,'Виленка'),
@@ -4530,7 +4530,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4118,'Вильгорт'),
 	 (0,4119,'Вильно'),
 	 (1177,4120,'Вилюйск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1944,4121,'Вилючинск'),
 	 (4395,4122,'Виля'),
 	 (0,4123,'Виляйки'),
@@ -4541,7 +4541,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5415,4128,'Винницы'),
 	 (0,4129,'Винный'),
 	 (0,4130,'Виноградное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4131,'Виноградный'),
 	 (0,4132,'Виноградовка'),
 	 (0,4133,'Виноградово'),
@@ -4552,7 +4552,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4138,'Вис'),
 	 (0,4139,'Висим'),
 	 (0,4140,'Висимо-Уткинск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4141,'Вислая Дубрава'),
 	 (0,4142,'Вислая Поляна'),
 	 (0,4143,'Висленев Остров'),
@@ -4563,7 +4563,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6245,4148,'Витим'),
 	 (0,4149,'Витимский'),
 	 (0,4150,'Витинск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4151,'Виткулово'),
 	 (0,4152,'Витовка'),
 	 (0,4153,'Витуша'),
@@ -4574,7 +4574,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4158,'Вихляева'),
 	 (0,4159,'Вихляевка'),
 	 (1131,4160,'Вихоревка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4161,'Вичевщина'),
 	 (1755,4162,'Вичуга'),
 	 (0,4163,'Вичуга Старая'),
@@ -4585,7 +4585,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4168,'Вишневецкий'),
 	 (0,4169,'Вишневка'),
 	 (0,4170,'Вишнево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5785,4171,'Вишневогорск'),
 	 (3085,4172,'Вишневое'),
 	 (0,4173,'Вишневый'),
@@ -4596,7 +4596,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4178,'Владивостокское шоссе 40 км'),
 	 (0,4179,'Владимир (село)'),
 	 (0,4180,'Владимира Ильича');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3493,4181,'Владимирец'),
 	 (6595,4182,'Владимиро-Александровское'),
 	 (0,4183,'Владимиро-Петровка'),
@@ -4607,7 +4607,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4188,'Владимирский'),
 	 (0,4189,'Владимирский Лагерь'),
 	 (0,4190,'Владимирское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4191,'Владыкино'),
 	 (0,4192,'Влазовичи'),
 	 (4615,4193,'Власиха'),
@@ -4618,7 +4618,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4622,4198,'ВНИИССОК'),
 	 (0,4199,'Вновь-Юрмытское'),
 	 (0,4200,'Внуковичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4201,'Внуково'),
 	 (0,4202,'Внуково (деревня)'),
 	 (0,4203,'Внуково (поселок)'),
@@ -4629,7 +4629,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4208,'Водино'),
 	 (0,4209,'Водла (поселок)'),
 	 (0,4210,'Воднобуерачное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6824,4211,'Водный'),
 	 (0,4212,'Водоватово'),
 	 (0,4213,'Водогон'),
@@ -4640,7 +4640,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4218,'Водораздельное'),
 	 (0,4219,'Водорацкое'),
 	 (0,4220,'Водяновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4221,'Водяное'),
 	 (0,4222,'Воеводское'),
 	 (0,4223,'Воейково'),
@@ -4651,7 +4651,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4228,'Вожгора'),
 	 (4321,4229,'Вожега'),
 	 (0,4230,'Вожерово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4231,'Вожжи'),
 	 (0,4232,'Вожово'),
 	 (0,4233,'Вожский'),
@@ -4662,7 +4662,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4238,'Воздвиженье'),
 	 (5212,4239,'Возжаевка'),
 	 (0,4240,'Возжаевка-1');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4241,'Вознесенка'),
 	 (0,4242,'Вознесеновка'),
 	 (0,4243,'Вознесеновское'),
@@ -4673,7 +4673,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4248,'Возрождение'),
 	 (0,4249,'Возрождение (поселок)'),
 	 (0,4250,'Возы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5362,4251,'Войвож'),
 	 (0,4252,'Войкино'),
 	 (0,4253,'Войковский'),
@@ -4684,7 +4684,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4258,'Войново-Гора'),
 	 (0,4259,'Войсковая Казинка'),
 	 (0,4260,'Войсковицы (поселок)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5417,4261,'Войскорово'),
 	 (0,4262,'Вокнаволок'),
 	 (0,4263,'Волга'),
@@ -4695,7 +4695,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1773,4268,'Волгореченск'),
 	 (0,4269,'Волжанец'),
 	 (0,4270,'Волжино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4271,'Волжский Утес'),
 	 (0,4272,'Волжское'),
 	 (0,4273,'Волипельга'),
@@ -4706,7 +4706,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4278,'Волконск'),
 	 (0,4279,'Волконское (село)'),
 	 (0,4280,'Волма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4281,'Волна'),
 	 (0,4282,'Волобуевка'),
 	 (3844,4283,'Волово'),
@@ -4717,7 +4717,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4288,'Володарского'),
 	 (0,4289,'Володарское'),
 	 (0,4290,'Володино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4291,'Волое'),
 	 (0,4292,'Волок'),
 	 (0,4293,'Волоков Мост'),
@@ -4728,7 +4728,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4298,'Волома'),
 	 (1987,4299,'Волосово'),
 	 (0,4300,'Волостновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4301,'Волот (поселок)'),
 	 (0,4302,'Волотовка'),
 	 (0,4303,'Волотово'),
@@ -4739,7 +4739,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4308,'Волочаевский'),
 	 (6676,4309,'Волочанка'),
 	 (0,4310,'Волочаново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4311,'Волошино'),
 	 (0,4312,'Волошка'),
 	 (0,4313,'Волошово'),
@@ -4750,7 +4750,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4318,'Волхонщино'),
 	 (0,4319,'Волчанец'),
 	 (0,4320,'Волчанка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4321,'Волчанск'),
 	 (0,4322,'Волчанское'),
 	 (0,4323,'Волченки'),
@@ -4761,7 +4761,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4328,'Волчно-Бурлинское'),
 	 (0,4329,'Волчье'),
 	 (0,4330,'Волчья Александровка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4331,'Волчья Дубрава'),
 	 (0,4332,'Волынка'),
 	 (0,4333,'Волынцы'),
@@ -4772,7 +4772,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4338,'Вольная Артемовка'),
 	 (0,4339,'Вольная Вершина'),
 	 (0,4340,'Вольная Горка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4341,'Вольно-Донская'),
 	 (6363,4342,'Вольно-Надеждинское'),
 	 (0,4343,'Вольно-Никольское'),
@@ -4783,7 +4783,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4348,'Вомбакасы'),
 	 (0,4349,'Вомын'),
 	 (0,4350,'Вонгуда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4351,'Вонданка'),
 	 (0,4352,'Вонжуга'),
 	 (0,4353,'Вонъеган'),
@@ -4794,7 +4794,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4358,'Воробейня'),
 	 (0,4359,'Воробжа'),
 	 (0,4360,'Воробьева');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4361,'Воробьева Гора'),
 	 (0,4362,'Воробьевица'),
 	 (0,4363,'Воробьевка'),
@@ -4805,7 +4805,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4368,'Ворогово'),
 	 (0,4369,'Ворогушино'),
 	 (0,4370,'Вороковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4371,'Ворон-Лозовка'),
 	 (0,4372,'Воронеж (поселок)'),
 	 (0,4373,'Воронежская'),
@@ -4816,7 +4816,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4378,'Вороний Куст'),
 	 (0,4379,'Воронино'),
 	 (0,4380,'Воронино (Зиняковский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4381,'Ворониха'),
 	 (0,4382,'Вороновка'),
 	 (2296,4383,'Вороново'),
@@ -4827,7 +4827,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4388,'Воронцы'),
 	 (0,4389,'Вороны'),
 	 (0,4390,'Воронье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4391,'Ворот-Онгой'),
 	 (0,4392,'Ворота'),
 	 (0,4393,'Воротнее'),
@@ -4838,7 +4838,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4398,'Ворсино'),
 	 (0,4399,'Ворсиха'),
 	 (1685,4400,'Ворсма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4401,'Ворца'),
 	 (0,4402,'Ворша'),
 	 (0,4403,'Воршево'),
@@ -4849,7 +4849,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4408,'Воскресеновка (село)'),
 	 (0,4409,'Воскресеновское'),
 	 (0,4410,'Воскресенск (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4411,'Воскресенская'),
 	 (4396,4412,'Воскресенское'),
 	 (0,4413,'Воскресенское (Воскресенский с/с)'),
@@ -4860,7 +4860,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4418,'Восточное'),
 	 (4259,4419,'Восточный'),
 	 (0,4420,'Восточный Прииск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4421,'Восточный Сосык'),
 	 (0,4422,'Вострецово'),
 	 (0,4423,'Вострово'),
@@ -4871,7 +4871,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4428,'Восход (село)'),
 	 (0,4429,'Восходящий'),
 	 (0,4430,'Восяхово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4431,'Воткин'),
 	 (0,4432,'Вотланы'),
 	 (0,4433,'Вотолино'),
@@ -4882,7 +4882,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4438,'Вохтома'),
 	 (0,4439,'Вощажниково'),
 	 (0,4440,'Вощар');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4441,'Воя'),
 	 (0,4442,'Воямполка'),
 	 (0,4443,'Вперед'),
@@ -4893,7 +4893,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4448,'Всадник'),
 	 (5818,4449,'Всеволодо-Вильва'),
 	 (0,4450,'Всеволодово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4451,'Вселуки'),
 	 (0,4452,'Всесвятская'),
 	 (0,4453,'Всехсвятское'),
@@ -4904,7 +4904,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4458,'Вторая Александровка'),
 	 (0,4459,'Вторая Ивань'),
 	 (0,4460,'Вторая Каменка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4461,'Второвагайское'),
 	 (0,4462,'Второе Имангулово'),
 	 (0,4463,'Второй Киевский'),
@@ -4915,7 +4915,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4468,'Вторые Левые Ламки'),
 	 (0,4469,'Вторые Тербуны'),
 	 (0,4470,'Вудоялы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4471,'Вукобер'),
 	 (1043,4472,'Вуктыл'),
 	 (5242,4473,'Вулканный'),
@@ -4926,7 +4926,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3676,4478,'Вурнары'),
 	 (0,4479,'Вурумсют'),
 	 (0,4480,'Вуспюрт-Чурачики');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4481,'Вутабоси'),
 	 (0,4482,'Вухтым'),
 	 (0,4483,'Вшели'),
@@ -4937,7 +4937,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5073,4488,'Выдрино'),
 	 (0,4489,'Выезд'),
 	 (4397,4490,'Выездное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4491,'Выезжий Лог'),
 	 (0,4492,'Выжелес'),
 	 (0,4493,'Выкатной'),
@@ -4948,7 +4948,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4498,'Вындин Остров'),
 	 (0,4499,'Вынур'),
 	 (0,4500,'Выпасной');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4373,4501,'Выползово'),
 	 (4025,4502,'Вырица'),
 	 (0,4503,'Вырубово'),
@@ -4959,7 +4959,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4508,'Выскодь'),
 	 (4176,4509,'Высокая Гора'),
 	 (0,4510,'Высокая Грива');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4511,'Высокие Поляны'),
 	 (5000,4512,'Высокий'),
 	 (0,4513,'Высокий (Оленегорск-8)'),
@@ -4970,7 +4970,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4518,'Высокиничи'),
 	 (0,4519,'Высоково (Высоковская с/а)'),
 	 (2031,4520,'Высоковск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4521,'Высоковский'),
 	 (0,4522,'Высокогорный'),
 	 (0,4523,'Высокогорск'),
@@ -4981,7 +4981,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4528,'Высокоключевой'),
 	 (0,4529,'Высоконские Дворы'),
 	 (0,4530,'Высокораменское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4531,'Высокоселище'),
 	 (0,4532,'Высотино'),
 	 (0,4533,'Высотный'),
@@ -4992,7 +4992,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1743,4538,'Вытегра'),
 	 (4136,4539,'Вычегодский'),
 	 (0,4540,'Выша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3088,4541,'Вышгород'),
 	 (0,4542,'Вышгородок'),
 	 (0,4543,'Вышегор'),
@@ -5003,7 +5003,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4548,'Вышки'),
 	 (0,4549,'Вышков'),
 	 (0,4550,'Вышнее Бабино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4551,'Вышнее Долгое'),
 	 (0,4552,'Вышнее Ольшаное'),
 	 (0,4553,'Вышнеольховатое'),
@@ -5014,7 +5014,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4558,'Вьюнки'),
 	 (0,4559,'Вьюны'),
 	 (0,4560,'Вяжа');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4561,'Вяжи-Заверх'),
 	 (0,4562,'Вяжли'),
 	 (0,4563,'Вяжля'),
@@ -5025,7 +5025,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4568,'Вязноватовка'),
 	 (0,4569,'Вязовая'),
 	 (0,4570,'Вязовая Дубрава');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6818,4571,'Вязовка'),
 	 (0,4572,'Вязовна'),
 	 (0,4573,'Вязово'),
@@ -5036,7 +5036,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4578,'Вякирево'),
 	 (0,4579,'Вяртсиля'),
 	 (0,4580,'Вятка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6937,4581,'Вяткино'),
 	 (1663,4582,'Вятские Поляны'),
 	 (0,4583,'Вятское'),
@@ -5047,7 +5047,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4588,'Габдрафиково'),
 	 (0,4589,'Габдюково'),
 	 (0,4590,'Габишево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4591,'Габукай'),
 	 (0,4592,'Гавань'),
 	 (0,4593,'Гавердовский'),
@@ -5058,7 +5058,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4598,'Гавриловка 1-я'),
 	 (0,4599,'Гавриловка 2-я'),
 	 (0,4600,'Гаврилово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4601,'Гавриловский'),
 	 (0,4602,'Гавриловское'),
 	 (0,4603,'Гаврильск'),
@@ -5069,7 +5069,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4608,'Гагарино 1-е'),
 	 (0,4609,'Гагаринское'),
 	 (0,4610,'Гагарка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6609,4611,'Гагарский'),
 	 (0,4612,'Гагарье'),
 	 (0,4613,'Гагатли'),
@@ -5080,7 +5080,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4618,'Гаевка'),
 	 (6757,4619,'Газ-Сале'),
 	 (0,4620,'Гази-Юрт');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5090,4621,'Газимурский Завод'),
 	 (0,4622,'Газия'),
 	 (0,4623,'Газопровод'),
@@ -5091,7 +5091,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4628,'Гайдаровск'),
 	 (3316,4629,'Гайдук'),
 	 (0,4630,'Гайжево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4631,'Гайниямак'),
 	 (0,4632,'Гайны'),
 	 (0,4633,'Гайрбек-Юрт'),
@@ -5102,7 +5102,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6770,4638,'Галанино'),
 	 (0,4639,'Галахово'),
 	 (5622,4640,'Галашки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4641,'Галбай'),
 	 (0,4642,'Галенки'),
 	 (0,4643,'Галенск'),
@@ -5113,7 +5113,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4648,'Галицино'),
 	 (0,4649,'Галицкое'),
 	 (0,4650,'Галицы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4651,'Галицын'),
 	 (0,4652,'Галич'),
 	 (0,4653,'Галкино'),
@@ -5124,7 +5124,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4658,'Гальцовка'),
 	 (0,4659,'Гальчино'),
 	 (3756,4660,'Галюгаевская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4661,'Гам'),
 	 (0,4662,'Гамалеевка'),
 	 (0,4663,'Гамалеевка-1'),
@@ -5135,7 +5135,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4668,'Ганино'),
 	 (0,4669,'Ганновка'),
 	 (0,4670,'Ганьково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4671,'Гапкин'),
 	 (0,4672,'Гапцах'),
 	 (0,4673,'Гапшима'),
@@ -5146,7 +5146,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4678,'Гарашкинское'),
 	 (0,4679,'Гарбич'),
 	 (0,4680,'Гарболово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4681,'Гарбузовая Балка'),
 	 (0,4682,'Гарбузово'),
 	 (0,4683,'Гаревое'),
@@ -5157,7 +5157,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4688,'Гаровка-2'),
 	 (0,4689,'Гарт'),
 	 (0,4690,'Гарцево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4691,'Гаршино'),
 	 (0,4692,'Гасик'),
 	 (0,4693,'Гастелло'),
@@ -5168,7 +5168,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4698,'Гатчино'),
 	 (0,4699,'Гаур'),
 	 (0,4700,'Гауф');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4701,'Гафури'),
 	 (0,4702,'Гафурово'),
 	 (0,4703,'Гаханы'),
@@ -5179,7 +5179,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4708,'Гаютино'),
 	 (0,4709,'Гвазда'),
 	 (1023,4710,'Гвардейск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4711,'Гвардейский'),
 	 (0,4712,'Гвардейское'),
 	 (0,4713,'Гвардейцы'),
@@ -5190,7 +5190,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4718,'Геба'),
 	 (5576,4719,'Геджух'),
 	 (0,4720,'Геймановская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5685,4721,'Гелдаган'),
 	 (0,4722,'Геленчино'),
 	 (0,4723,'Гели'),
@@ -5201,7 +5201,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4728,'Генеколоб'),
 	 (0,4729,'Генераловка'),
 	 (0,4730,'Генераловский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4731,'Генеральское'),
 	 (0,4732,'Генеральшино'),
 	 (0,4733,'Гента'),
@@ -5212,7 +5212,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4738,'Георгий'),
 	 (0,4739,'Герасимовка'),
 	 (0,4740,'Гербаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4741,'Герби'),
 	 (0,4742,'Герга'),
 	 (5577,4743,'Гергебиль'),
@@ -5223,7 +5223,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4748,'Герхмахи'),
 	 (0,4749,'Гетуновка'),
 	 (5687,4750,'Гехи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4751,'Гехи-Чу'),
 	 (0,4752,'Гжатск'),
 	 (0,4753,'Гжелка'),
@@ -5234,7 +5234,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4503,4758,'Гигант'),
 	 (4399,4759,'Гидроторф'),
 	 (0,4760,'Гидроузел');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4761,'Гижига'),
 	 (5641,4762,'Гизель'),
 	 (0,4763,'Гикало'),
@@ -5245,7 +5245,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4768,'Гильяр'),
 	 (0,4769,'Гимово'),
 	 (0,4770,'Гимолы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4771,'Гимрека'),
 	 (0,4772,'Гимры'),
 	 (0,4773,'Гиндиб'),
@@ -5256,7 +5256,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4778,'Гирьи'),
 	 (0,4779,'Гирьял'),
 	 (0,4780,'Гисик');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4781,'Гладилово'),
 	 (0,4782,'Гладково'),
 	 (0,4783,'Гладковское'),
@@ -5267,7 +5267,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4788,'Глазаниха'),
 	 (0,4789,'Глазковка'),
 	 (0,4790,'Глазовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4791,'Глазово'),
 	 (0,4792,'Глазок'),
 	 (0,4793,'Глазомичи'),
@@ -5278,7 +5278,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4798,'Глафировка'),
 	 (0,4799,'Глебовка'),
 	 (0,4800,'Глебово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4801,'Глебово (поселок)'),
 	 (6588,4802,'Глебовский'),
 	 (0,4803,'Глебовское'),
@@ -5289,7 +5289,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4808,'Глинки'),
 	 (0,4809,'Глинкино'),
 	 (0,4810,'Глинное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4811,'Глинское'),
 	 (0,4812,'Глинянка'),
 	 (0,4813,'Глобицы'),
@@ -5300,7 +5300,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4504,4818,'Глубокий'),
 	 (0,4819,'Глубоково'),
 	 (0,4820,'Глубоковский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2257,4821,'Глубокое'),
 	 (0,4822,'Глуменка'),
 	 (0,4823,'Глухариный'),
@@ -5311,7 +5311,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4828,'Глушицкий'),
 	 (3730,4829,'Глушково'),
 	 (0,4830,'Глушь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4831,'Глыбочка'),
 	 (0,4832,'Гляден'),
 	 (0,4833,'Глядень'),
@@ -5322,7 +5322,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4838,'Гнездилово'),
 	 (0,4839,'Гнездово'),
 	 (0,4840,'Гнилая Плота');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4841,'Гнилево'),
 	 (0,4842,'Гнилище'),
 	 (0,4843,'Гниловоды'),
@@ -5333,7 +5333,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5928,4848,'Гобики'),
 	 (0,4849,'Говоренки'),
 	 (0,4850,'Говорково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4851,'Гогаз'),
 	 (0,4852,'Гогино'),
 	 (0,4853,'Гоголевка'),
@@ -5344,7 +5344,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4858,'Годуново'),
 	 (0,4859,'Гожан'),
 	 (0,4860,'Гожня');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4861,'Гойтх'),
 	 (5688,4862,'Гойты'),
 	 (0,4863,'Голдино'),
@@ -5355,7 +5355,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4868,'Головатовка'),
 	 (0,4869,'Головачево'),
 	 (5948,4870,'Головеньковский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4871,'Головизнин Язок'),
 	 (0,4872,'Головино'),
 	 (0,4873,'Головино (село)'),
@@ -5366,7 +5366,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4878,'Головище'),
 	 (0,4879,'Головка'),
 	 (0,4880,'Головкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4881,'Головково'),
 	 (0,4882,'Головлинский'),
 	 (0,4883,'Головнино'),
@@ -5377,7 +5377,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4888,'Голосновка'),
 	 (0,4889,'Голотль'),
 	 (0,4890,'Голофеевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4891,'Голубая Нива'),
 	 (0,4892,'Голубинка'),
 	 (0,4893,'Голубино'),
@@ -5388,7 +5388,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4898,'Голубовка'),
 	 (0,4899,'Голубое'),
 	 (0,4900,'Голубой Факел');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4901,'Голубочки'),
 	 (0,4902,'Голубцово'),
 	 (0,4903,'Голубята'),
@@ -5399,7 +5399,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4335,4908,'Голынки'),
 	 (0,4909,'Голышево'),
 	 (0,4910,'Голышино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4911,'Голышманово (поселок)'),
 	 (0,4912,'Голышманово (село)'),
 	 (0,4913,'Гольяны'),
@@ -5410,7 +5410,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4918,'Гонда'),
 	 (0,4919,'Гондырево'),
 	 (0,4920,'Гонжа');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4921,'Гонохово'),
 	 (0,4922,'Гоношиха'),
 	 (0,4923,'Гончарка'),
@@ -5421,7 +5421,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4928,'Гоор-Хиндах'),
 	 (0,4929,'Гопгурт'),
 	 (0,4930,'Гоптаровка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4931,'Гора'),
 	 (0,4932,'Гора (село)'),
 	 (0,4933,'Гора Подол'),
@@ -5432,7 +5432,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4400,4938,'Горбатовка'),
 	 (0,4939,'Горбатовский'),
 	 (0,4940,'Горбачевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4941,'Горбачево'),
 	 (0,4942,'Горбачи'),
 	 (4153,4943,'Горбунки'),
@@ -5443,7 +5443,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4076,4948,'Гордеевка'),
 	 (0,4949,'Гордеевский'),
 	 (0,4950,'Гордино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4951,'Горевая'),
 	 (0,4952,'Горевка'),
 	 (0,4953,'Горево (село)'),
@@ -5454,7 +5454,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4958,'Гореловка'),
 	 (0,4959,'Горелое'),
 	 (0,4960,'Горельский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4961,'Горенка'),
 	 (0,4962,'Горенские Выселки'),
 	 (0,4963,'Горетово'),
@@ -5465,7 +5465,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4968,'Горка (Раменский с/с)'),
 	 (0,4969,'Горка Муравьевская'),
 	 (0,4970,'Горка-Кузнечевская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4971,'Горки'),
 	 (0,4972,'Горки (деревня)'),
 	 (6334,4973,'Горки Ленинские'),
@@ -5476,7 +5476,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,4978,'Горлово'),
 	 (0,4979,'Горная Пролейка'),
 	 (0,4980,'Горно-Чуйский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4981,'Горноводяное'),
 	 (0,4982,'Горновое'),
 	 (0,4983,'Горное'),
@@ -5487,7 +5487,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5001,4988,'Горноправдинск'),
 	 (0,4989,'Горнореченск'),
 	 (0,4990,'Горнореченский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,4991,'Горнослинкино'),
 	 (4260,4992,'Горноуральский'),
 	 (0,4993,'Горные Ключи'),
@@ -5498,7 +5498,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5721,4998,'Горный Щит'),
 	 (0,4999,'Горный-1 (Чита-47)'),
 	 (4505,5000,'Горняцкий');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5001,'Городенск'),
 	 (1688,5002,'Городец'),
 	 (0,5003,'Городецкий'),
@@ -5509,7 +5509,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5008,'Городищи (Краснослободский с/с)'),
 	 (0,5009,'Городищна'),
 	 (0,5010,'Городки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5011,'Городковичи'),
 	 (0,5012,'Городна'),
 	 (0,5013,'Городно'),
@@ -5520,7 +5520,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5018,'Горожанка'),
 	 (1719,5019,'Гороховец'),
 	 (0,5020,'Гороховка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5021,'Горохово'),
 	 (0,5022,'Горошиха'),
 	 (0,5023,'Горскино'),
@@ -5531,7 +5531,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3827,5028,'Горшечное'),
 	 (0,5029,'Горшки'),
 	 (0,5030,'Горы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5031,'Горькая Балка'),
 	 (0,5032,'Горьковка'),
 	 (0,5033,'Горьковский'),
@@ -5542,7 +5542,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5038,'Горюши'),
 	 (0,5039,'Горяиново'),
 	 (0,5040,'Горяйновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5041,'Горяново Новое'),
 	 (0,5042,'Горячево'),
 	 (0,5043,'Горячегорск'),
@@ -5553,7 +5553,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5048,'Госома'),
 	 (0,5049,'Госселекстанции'),
 	 (3318,5050,'Гостагаевская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5051,'Гостала'),
 	 (0,5052,'Гостеприимный'),
 	 (5419,5053,'Гостилицы'),
@@ -5564,7 +5564,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5058,'Гостцы'),
 	 (0,5059,'Государственного племенного завода «Константиново»'),
 	 (0,5060,'Готовье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5061,'Готопутово'),
 	 (0,5062,'Гофицкое'),
 	 (0,5063,'Гофнунгсталь'),
@@ -5575,7 +5575,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5068,'Гравийный Карьер'),
 	 (0,5069,'Градницы'),
 	 (0,5070,'Гражданка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5071,'Граждановка'),
 	 (0,5072,'Гражданский'),
 	 (0,5073,'Гражданское'),
@@ -5586,7 +5586,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5078,'Граничное'),
 	 (0,5079,'Гранки'),
 	 (0,5080,'Графовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5081,'Графский'),
 	 (0,5082,'Графский Берег'),
 	 (4195,5083,'Грахово'),
@@ -5597,7 +5597,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5088,'Грачи'),
 	 (0,5089,'Гребенская'),
 	 (0,5090,'Гребнево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5091,'Гредякино'),
 	 (0,5092,'Греки'),
 	 (0,5093,'Греково'),
@@ -5608,7 +5608,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4401,5098,'Гремячево'),
 	 (0,5099,'Гремячее'),
 	 (0,5100,'Гремячий');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5101,'Гремячий Колодезь'),
 	 (1322,5102,'Гремячинск'),
 	 (0,5103,'Гремячка'),
@@ -5619,7 +5619,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5108,'Грешнево'),
 	 (0,5109,'Грибаново'),
 	 (2661,5110,'Грибановский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5111,'Грибково'),
 	 (0,5112,'Грибное'),
 	 (0,5113,'Грибовка'),
@@ -5630,7 +5630,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5118,'Гривино'),
 	 (0,5119,'Гривки'),
 	 (0,5120,'Гривы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6626,5121,'Григорово'),
 	 (3760,5122,'Григорополисская'),
 	 (0,5123,'Григорцево'),
@@ -5641,7 +5641,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5128,'Гридасово'),
 	 (0,5129,'Гридино'),
 	 (0,5130,'Гриневичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5131,'Гринево'),
 	 (0,5132,'Гринск'),
 	 (0,5133,'Грицово'),
@@ -5652,7 +5652,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5138,'Гришино'),
 	 (0,5139,'Гришкино'),
 	 (0,5140,'Гришковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5141,'Гришковское'),
 	 (0,5142,'Гродеково'),
 	 (0,5143,'Гродеково-2'),
@@ -5663,7 +5663,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5148,'Громово (поселок)'),
 	 (0,5149,'Громогласово'),
 	 (0,5150,'Громославка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5151,'Громыки'),
 	 (0,5152,'Громышевка'),
 	 (0,5153,'Грудино'),
@@ -5674,7 +5674,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5158,'Грузинов'),
 	 (0,5159,'Грузины'),
 	 (0,5160,'Грузское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5161,'Грунин Воргол (село)'),
 	 (0,5162,'Грушевка'),
 	 (0,5163,'Грушево'),
@@ -5685,7 +5685,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5168,'Гряды'),
 	 (0,5169,'Гряды (деревня)'),
 	 (0,5170,'Грязивец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5171,'Грязново'),
 	 (5722,5172,'Грязновское'),
 	 (0,5173,'Грязное'),
@@ -5696,7 +5696,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5178,'Губари'),
 	 (0,5179,'Губастово'),
 	 (1323,5180,'Губаха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5578,5181,'Губден'),
 	 (0,5182,'Губерля'),
 	 (0,5183,'Губернское'),
@@ -5707,7 +5707,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3974,5188,'Губская'),
 	 (0,5189,'Гувлиг'),
 	 (0,5190,'Гудаловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1502,5191,'Гудермес'),
 	 (0,5192,'Гудовка'),
 	 (0,5193,'Гуево'),
@@ -5718,7 +5718,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5198,'Гулатдымахи'),
 	 (0,5199,'Гулды'),
 	 (0,5200,'Гулевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5201,'Гуленовка'),
 	 (0,5202,'Гулик'),
 	 (0,5203,'Гулли'),
@@ -5729,7 +5729,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5208,'Гуляй-Борисовка'),
 	 (0,5209,'Гумарино'),
 	 (0,5210,'Гумбейка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5211,'Гумбейский'),
 	 (0,5212,'Гуменки'),
 	 (0,5213,'Гуми'),
@@ -5740,7 +5740,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5218,'Гунда'),
 	 (0,5219,'Гундоровский'),
 	 (0,5220,'Гуни');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5221,'Гуниб'),
 	 (0,5222,'Гуниха'),
 	 (0,5223,'Гунэй'),
@@ -5751,7 +5751,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5228,'Гурезь-Пудга'),
 	 (0,5229,'Гуренки'),
 	 (0,5230,'Гурик');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5231,'Гурина'),
 	 (0,5232,'Гурово'),
 	 (0,5233,'Гурское'),
@@ -5762,7 +5762,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5238,'Гусарева Балка'),
 	 (0,5239,'Гусаровское'),
 	 (1025,5240,'Гусев');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5241,'Гусевка'),
 	 (0,5242,'Гусевка (Рамоньский с/с)'),
 	 (0,5243,'Гусево'),
@@ -5773,7 +5773,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4342,5248,'Гусино'),
 	 (0,5249,'Гусиное Озеро'),
 	 (1120,5250,'Гусиноозерск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5251,'Гусиный Брод'),
 	 (0,5252,'Гусиха'),
 	 (0,5253,'Густомесово'),
@@ -5784,7 +5784,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5258,'Гущино'),
 	 (0,5259,'Гыбдан'),
 	 (0,5260,'Гыда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5261,'Гыжек'),
 	 (0,5262,'Гырдымово'),
 	 (0,5263,'Гыршелун'),
@@ -5795,7 +5795,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5268,'д/о Плесково'),
 	 (0,5269,'д/о Синий Утес'),
 	 (0,5270,'Дабан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5271,'Дабатуй'),
 	 (0,5272,'Дабужа (деревня)'),
 	 (0,5273,'Давенда'),
@@ -5806,7 +5806,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5278,'Давыдчи'),
 	 (0,5279,'Дагбаш'),
 	 (0,5280,'Дагестанская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5281,'Дагни'),
 	 (0,5282,'Дакниса'),
 	 (0,5283,'Дактуй'),
@@ -5817,7 +5817,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5288,'Далы'),
 	 (0,5289,'Далыр'),
 	 (0,5290,'Дальзаводское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5291,'Дальневосточное'),
 	 (0,5292,'Дальнее'),
 	 (4402,5293,'Дальнее Константиново'),
@@ -5828,7 +5828,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5298,'Дальняя'),
 	 (0,5299,'Дальняя Закора'),
 	 (0,5300,'Даманка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5301,'Дамаскино'),
 	 (0,5302,'Данауровка'),
 	 (0,5303,'Данилкино'),
@@ -5839,7 +5839,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5308,'Даниловская Ферма'),
 	 (0,5309,'Даниловское'),
 	 (0,5310,'Данки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5311,'Данково'),
 	 (0,5312,'Данух'),
 	 (0,5313,'Данцевка'),
@@ -5850,7 +5850,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5318,'Дарасун'),
 	 (0,5319,'Дарваг'),
 	 (0,5320,'Дарг-Кох');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5321,'Дарго'),
 	 (0,5322,'Дареевичи'),
 	 (0,5323,'Дареевск'),
@@ -5861,7 +5861,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5328,'Датта'),
 	 (0,5329,'Даур'),
 	 (0,5330,'Даурия');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5331,'Даусуз'),
 	 (0,5332,'Дахадаевка'),
 	 (0,5333,'Даховская'),
@@ -5872,7 +5872,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5338,'Двинка'),
 	 (0,5339,'Двинская'),
 	 (5122,5340,'Двинской');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5341,'Двойновский'),
 	 (0,5342,'Дворец'),
 	 (0,5343,'Дворищи'),
@@ -5883,7 +5883,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3320,5348,'Двубратский'),
 	 (0,5349,'Двулучное'),
 	 (4261,5350,'Двуреченск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5351,'Двуречки'),
 	 (0,5352,'Двуречное'),
 	 (0,5353,'Двуречье'),
@@ -5894,7 +5894,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5358,'Дебы'),
 	 (0,5359,'Девица'),
 	 (0,5360,'Девкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5361,'Девлезеркино'),
 	 (0,5362,'Девчино'),
 	 (0,5363,'Девятерня'),
@@ -5905,7 +5905,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5368,'Девятово'),
 	 (0,5369,'Дегва'),
 	 (0,5370,'Дегонка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5371,'Дегтево'),
 	 (0,5372,'Дегтевое'),
 	 (0,5373,'Дегтянка'),
@@ -5916,7 +5916,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1274,5378,'Дегтярск'),
 	 (6354,5379,'Деденево'),
 	 (0,5380,'Дедилово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5381,'Дедилово (Быковский с/о)'),
 	 (0,5382,'Дедилово (Дедиловский с/о)'),
 	 (0,5383,'Дедино'),
@@ -5927,7 +5927,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2100,5388,'Дедовск'),
 	 (0,5389,'Дедовской школы-интерната'),
 	 (0,5390,'Дедуровка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5391,'Деево'),
 	 (0,5392,'Дежевка'),
 	 (0,5393,'Дежнево'),
@@ -5938,7 +5938,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5398,'Дельгей'),
 	 (0,5399,'Дельная-Дубрава'),
 	 (0,5400,'Демарино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5401,'Деменево'),
 	 (0,5402,'Дементьевка'),
 	 (1107,5403,'Демидов'),
@@ -5949,7 +5949,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5408,'Демино'),
 	 (0,5409,'Деминский'),
 	 (0,5410,'Демирар');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5411,'Демихово'),
 	 (0,5412,'Демский'),
 	 (0,5413,'Демушкино'),
@@ -5960,7 +5960,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4445,5418,'Демьяново'),
 	 (0,5419,'Демьяновский Погост'),
 	 (0,5420,'Демьянское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5421,'Демьяс'),
 	 (0,5422,'Демякино'),
 	 (4127,5423,'Демянск'),
@@ -5971,7 +5971,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5428,'Денисов'),
 	 (0,5429,'Денисовка'),
 	 (0,5430,'Денисово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5431,'Денисовский'),
 	 (0,5432,'Денисовы'),
 	 (0,5433,'Деньково'),
@@ -5982,7 +5982,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5438,'Дербишева'),
 	 (0,5439,'Дергаево'),
 	 (0,5440,'Дергачевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3114,5441,'Дергачи'),
 	 (0,5442,'Дергоусово'),
 	 (0,5443,'Деревни'),
@@ -5993,7 +5993,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5448,'Державино'),
 	 (0,5449,'Державный'),
 	 (0,5450,'Деркул');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5451,'Дерняки'),
 	 (0,5452,'Дерюгино'),
 	 (0,5453,'Дерябино'),
@@ -6004,7 +6004,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5458,'Десподзиновка'),
 	 (0,5459,'Десятниково'),
 	 (5946,5460,'Десятуха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5461,'Детлово'),
 	 (3936,5462,'Детчино'),
 	 (0,5463,'Деулина'),
@@ -6015,7 +6015,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5468,'Джаба'),
 	 (0,5469,'Джабык'),
 	 (0,5470,'Джаванкент');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5471,'Джавгат'),
 	 (0,5472,'Джага'),
 	 (0,5473,'Джазатор'),
@@ -6026,7 +6026,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5478,'Джамбичи'),
 	 (0,5479,'Джамку'),
 	 (0,5480,'Джанай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5481,'Джанга'),
 	 (0,5482,'Джангамахи'),
 	 (0,5483,'Джангар'),
@@ -6037,7 +6037,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6915,5488,'Джебарики-Хая'),
 	 (0,5489,'Джегута'),
 	 (0,5490,'Джейрах');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5491,'Джемикент'),
 	 (0,5492,'Джепель'),
 	 (0,5493,'Джерокай'),
@@ -6048,7 +6048,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5498,'Джиджихабль'),
 	 (0,5499,'Джилихур'),
 	 (0,5500,'Джинаби');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5501,'Джингирик'),
 	 (0,5502,'Джирабачи'),
 	 (0,5503,'Джирим'),
@@ -6059,7 +6059,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5508,'Джульджаг'),
 	 (0,5509,'Джумайловка'),
 	 (0,5510,'Джурмачи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5511,'Дзержинский (поселок)'),
 	 (0,5512,'Дзержинского'),
 	 (4747,5513,'Дзержинское'),
@@ -6070,7 +6070,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5518,'Дибгаши'),
 	 (0,5519,'Дибровый'),
 	 (0,5520,'Дивеев Усад');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2439,5521,'Дивеево'),
 	 (0,5522,'Дивенский'),
 	 (0,5523,'Дивинка'),
@@ -6081,7 +6081,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5528,'Дивный'),
 	 (0,5529,'Дивовка'),
 	 (0,5530,'Дивья');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5531,'Дигилевка'),
 	 (1479,5532,'Дигора'),
 	 (0,5533,'Диево-Городище'),
@@ -6092,7 +6092,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5538,'Дим'),
 	 (3248,5539,'Димитров'),
 	 (0,5540,'Димитровский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5541,'Динамо'),
 	 (0,5542,'Динская'),
 	 (0,5543,'Дипкун'),
@@ -6103,7 +6103,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5548,'Диюр'),
 	 (0,5549,'Дияшево'),
 	 (0,5550,'Длинная');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5551,'Длинное'),
 	 (0,5552,'Дмитриановское'),
 	 (0,5553,'Дмитриев'),
@@ -6114,7 +6114,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5558,'Дмитриево'),
 	 (0,5559,'Дмитриево-Помряскино'),
 	 (0,5560,'Дмитриевская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5127,5561,'Дмитриевский'),
 	 (0,5562,'Дмитриевское'),
 	 (0,5563,'Дмитриевщина'),
@@ -6125,7 +6125,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5568,'Дмитрово'),
 	 (1900,5569,'Дмитровск'),
 	 (5992,5570,'Дмитровский Погост');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5571,'Дмитрошур'),
 	 (0,5572,'Дмитряшевка'),
 	 (6703,5573,'Днепровка'),
@@ -6136,7 +6136,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5578,'Добрик'),
 	 (3845,5579,'Добринка'),
 	 (0,5580,'Добрино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5581,'Доброводье'),
 	 (0,5582,'Добровольное'),
 	 (0,5583,'Добровольск'),
@@ -6147,7 +6147,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5588,'Добромысловский'),
 	 (3249,5589,'Доброполье'),
 	 (0,5590,'Доброхотово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4047,5591,'Добрунь'),
 	 (0,5592,'Добручи'),
 	 (0,5593,'Добрывичи'),
@@ -6158,7 +6158,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5598,'Добрянка (деревня)'),
 	 (0,5599,'Добрятино'),
 	 (0,5600,'Добчур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5601,'Добычи'),
 	 (0,5602,'Доваторовка'),
 	 (2665,5603,'Довольное'),
@@ -6169,7 +6169,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5608,'Докторово'),
 	 (0,5609,'Докукино'),
 	 (0,5610,'Докша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5623,5611,'Долаково'),
 	 (0,5612,'Долботово'),
 	 (0,5613,'Долганка'),
@@ -6180,7 +6180,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5618,'Долгий Остров'),
 	 (0,5619,'Долгинино'),
 	 (0,5620,'Долговерясы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5621,'Долговица'),
 	 (0,5622,'Долговка'),
 	 (0,5623,'Долгово'),
@@ -6191,7 +6191,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5628,'Долгое Ледово'),
 	 (0,5629,'Долгокыча'),
 	 (3847,5630,'Долгоруково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5631,'Долгощелье'),
 	 (0,5632,'Долдыкан'),
 	 (3321,5633,'Должанская'),
@@ -6202,7 +6202,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5638,'Долиновка'),
 	 (0,5639,'Долиновский'),
 	 (0,5640,'Долинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5641,'Долинское'),
 	 (0,5642,'Долматовка'),
 	 (0,5643,'Долматово'),
@@ -6213,7 +6213,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5648,'Дольшино'),
 	 (0,5649,'Дома отдыха «Горки»'),
 	 (0,5650,'Дома отдыха «Караллово»');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5651,'Доманичи'),
 	 (0,5652,'Домаха'),
 	 (0,5653,'Домачи'),
@@ -6224,7 +6224,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5658,'Домна'),
 	 (0,5659,'Домново'),
 	 (6885,5660,'Домодедово (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5661,'Доможаков'),
 	 (0,5662,'Доможирово'),
 	 (0,5663,'Дон'),
@@ -6235,7 +6235,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5550,5668,'Дондуковская'),
 	 (0,5669,'Дондыкар'),
 	 (0,5670,'Донец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (118,5671,'Донецк'),
 	 (0,5672,'Донецкое'),
 	 (0,5673,'Донино'),
@@ -6246,7 +6246,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5678,'Донской Рудник'),
 	 (0,5679,'Доньшино'),
 	 (0,5680,'Дор');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5681,'Доргели'),
 	 (0,5682,'Дормидонтовка'),
 	 (0,5683,'Дормидонтовка (село)'),
@@ -6257,7 +6257,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5688,'Дорогорское'),
 	 (0,5689,'Дорогощь'),
 	 (0,5690,'Дорожаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5691,'Доронинское'),
 	 (0,5692,'Дороничи'),
 	 (0,5693,'Дорофеевский'),
@@ -6268,7 +6268,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5698,'Доры'),
 	 (0,5699,'ДОС'),
 	 (0,5700,'ДОС-2');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5701,'Досанг'),
 	 (0,5702,'Досатуй'),
 	 (0,5703,'Доскино'),
@@ -6279,7 +6279,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5708,'Дохновичи'),
 	 (0,5709,'Драгунка'),
 	 (0,5710,'Дракино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5711,'Драченино'),
 	 (2055,5712,'Дрезна'),
 	 (0,5713,'Дренево'),
@@ -6290,7 +6290,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5718,'Дровосечное'),
 	 (0,5719,'Дровяная'),
 	 (6566,5720,'Дрожжино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5721,'Дроздово'),
 	 (6769,5722,'Дрокино'),
 	 (0,5723,'Дронова'),
@@ -6301,7 +6301,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3642,5728,'Дружба'),
 	 (0,5729,'Дружина'),
 	 (4262,5730,'Дружинино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5731,'Дружино'),
 	 (0,5732,'Дружная Горка'),
 	 (0,5733,'Дружный'),
@@ -6312,7 +6312,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5738,'Дубенский'),
 	 (0,5739,'Дубенское'),
 	 (0,5740,'Дубенцовская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4748,5741,'Дубинино'),
 	 (0,5742,'Дубиновка'),
 	 (0,5743,'Дубитель'),
@@ -6323,7 +6323,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5748,'Дубна (село)'),
 	 (0,5749,'Дубнево'),
 	 (0,5750,'Дубново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5751,'Дубовая Роща'),
 	 (0,5752,'Дубовик'),
 	 (0,5753,'Дубовица'),
@@ -6334,7 +6334,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5758,'Дубовский'),
 	 (4507,5759,'Дубовское'),
 	 (0,5760,'Дубовый Гай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5761,'Дубовый Мыс'),
 	 (0,5762,'Дубовый Овраг'),
 	 (6642,5763,'Дубовый Умет'),
@@ -6345,7 +6345,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5768,'Дубримахи'),
 	 (0,5769,'Дуброва (Родыгинский с/о)'),
 	 (0,5770,'Дубровино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5771,'Дубровицы'),
 	 (0,5772,'Дубровичи'),
 	 (4075,5773,'Дубровка'),
@@ -6356,7 +6356,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5778,'Дубровное'),
 	 (0,5779,'Дуброво'),
 	 (0,5780,'Дубровочки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5781,'Дубровская'),
 	 (0,5782,'Дубровский'),
 	 (0,5783,'Дубровы'),
@@ -6367,7 +6367,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5788,'Дубынино'),
 	 (0,5789,'Дубынка'),
 	 (0,5790,'Дубянский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5862,5791,'Дуван'),
 	 (0,5792,'Дуван-Мечетли'),
 	 (0,5793,'Дуванкуль'),
@@ -6378,7 +6378,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5798,'Дугулубгей'),
 	 (0,5799,'Дударевский'),
 	 (5317,5800,'Дудаченский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5801,'Дуденево'),
 	 (0,5802,'Дуди'),
 	 (0,5803,'Дудинка'),
@@ -6389,7 +6389,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5808,'Дукат'),
 	 (0,5809,'Дуки'),
 	 (0,5810,'Дукмасов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5811,'Дулдуг'),
 	 (0,5812,'Дулесово'),
 	 (0,5813,'Дулино'),
@@ -6400,7 +6400,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5818,'Думино'),
 	 (0,5819,'Думчево'),
 	 (0,5820,'Дунаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5821,'Дунаевский'),
 	 (6624,5822,'Дунай'),
 	 (0,5823,'Дунай-Ключ'),
@@ -6411,7 +6411,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5828,'Дуниловский'),
 	 (0,5829,'Дупленская'),
 	 (0,5830,'Дуплято-Маслово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5831,'Дуплятский'),
 	 (0,5832,'Дур-Дур'),
 	 (0,5833,'Дурасово'),
@@ -6422,7 +6422,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5838,'Дуровка'),
 	 (0,5839,'Дурово'),
 	 (0,5840,'Дурой');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5841,'Дус-Даг'),
 	 (0,5842,'Дуслык'),
 	 (0,5843,'Дусрах'),
@@ -6433,7 +6433,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5848,'Духовское'),
 	 (0,5849,'Духовской'),
 	 (1110,5850,'Духовщина');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5851,'Духонькино'),
 	 (0,5852,'Дучи'),
 	 (0,5853,'Душанбеково'),
@@ -6444,7 +6444,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5580,5858,'Дылым'),
 	 (0,5859,'Дым-Дым-Омга'),
 	 (0,5860,'Дым-Тамак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5861,'Дымково'),
 	 (0,5862,'Дымковское'),
 	 (0,5863,'Дымница (поселок)'),
@@ -6455,7 +6455,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3959,5868,'Дьяконово'),
 	 (0,5869,'Дьяконовский'),
 	 (0,5870,'Дьяконовский 1-й');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5871,'Дьячево'),
 	 (0,5872,'Дьяченково'),
 	 (0,5873,'Дэдэ-Ичетуй'),
@@ -6466,7 +6466,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5878,'Дюллюкю'),
 	 (0,5879,'Дюмеево'),
 	 (0,5880,'Дюпся');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5881,'Дюрки'),
 	 (0,5882,'Дюрский'),
 	 (0,5883,'Дюсметьево'),
@@ -6477,7 +6477,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5888,'Дядьково'),
 	 (5521,5889,'Дядьковская'),
 	 (2297,5890,'Дятлово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5891,'Дячкино'),
 	 (0,5892,'Евановичи'),
 	 (0,5893,'Еваново'),
@@ -6488,7 +6488,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5898,'Евдокимовский'),
 	 (0,5899,'Евланово'),
 	 (0,5900,'Евлантьевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6303,5901,'Евлашево'),
 	 (0,5902,'Евлаштау'),
 	 (0,5903,'Евлейка'),
@@ -6499,7 +6499,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5908,'Евсеевский'),
 	 (6573,5909,'Евсино'),
 	 (0,5910,'Евсино (станция)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5911,'Евстратовка'),
 	 (0,5912,'Евтино'),
 	 (0,5913,'Егва'),
@@ -6510,7 +6510,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2809,5918,'Егорлыкская'),
 	 (0,5919,'Егорова'),
 	 (0,5920,'Егоровка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5921,'Егорово'),
 	 (0,5922,'Егоровская'),
 	 (0,5923,'Егорьевка'),
@@ -6521,7 +6521,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5928,'Единение'),
 	 (0,5929,'Единка'),
 	 (0,5930,'Едогон');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5931,'Едрово'),
 	 (0,5932,'Едьма'),
 	 (0,5933,'Ежи'),
@@ -6532,7 +6532,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5938,'Ездочное'),
 	 (0,5939,'Езжа'),
 	 (0,5940,'Ейское Укрепление');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5941,'Екатерининка'),
 	 (0,5942,'Екатеринино'),
 	 (0,5943,'Екатерининское'),
@@ -6543,7 +6543,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5467,5948,'Екатериноградская'),
 	 (0,5949,'Екатеринославка'),
 	 (0,5950,'Екимовичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5951,'Екимовка'),
 	 (0,5952,'Екунчет'),
 	 (0,5953,'Екшур'),
@@ -6554,7 +6554,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5958,'Еланка (Еланский с/с)'),
 	 (0,5959,'Еланлы'),
 	 (4263,5960,'Еланский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5961,'Елантово'),
 	 (4859,5962,'Еланцы'),
 	 (0,5963,'Еланыш'),
@@ -6565,7 +6565,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5968,'Еласы'),
 	 (0,5969,'Елатомка'),
 	 (4472,5970,'Елатьма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5971,'Елаур'),
 	 (0,5972,'Елбанка'),
 	 (0,5973,'Елбань'),
@@ -6576,7 +6576,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5978,'Елгозино'),
 	 (0,5979,'Елдеж'),
 	 (0,5980,'Елегино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5981,'Елеево'),
 	 (0,5982,'Елембаево'),
 	 (0,5983,'Еленинка'),
@@ -6587,7 +6587,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5988,'Елецкая Лозовка'),
 	 (0,5989,'Елецкий'),
 	 (0,5990,'Елечей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,5991,'Елизаветград'),
 	 (0,5992,'Елизаветинка'),
 	 (0,5993,'Елизаветино'),
@@ -6598,7 +6598,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,5998,'Елизарьево'),
 	 (0,5999,'Елимбетово'),
 	 (0,6000,'Елино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6001,'Елионка'),
 	 (0,6002,'Елисеевка'),
 	 (0,6003,'Елисеевское'),
@@ -6609,7 +6609,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6008,'Елнать'),
 	 (0,6009,'Ело'),
 	 (0,6010,'Еловатка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6011,'Еловино'),
 	 (0,6012,'Еловка'),
 	 (0,6013,'Елово'),
@@ -6620,7 +6620,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6018,'Елунино'),
 	 (0,6019,'Елфимово'),
 	 (0,6020,'Елховка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6021,'Елхово'),
 	 (0,6022,'Елховое Озеро'),
 	 (0,6023,'Елховый Куст'),
@@ -6631,7 +6631,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6028,'Ельбаза'),
 	 (0,6029,'Ельдигино'),
 	 (0,6030,'Елькино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6031,'Ельники'),
 	 (0,6032,'Ельничная'),
 	 (0,6033,'Ельничное'),
@@ -6642,7 +6642,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6038,'Ельшата'),
 	 (0,6039,'Елюзань'),
 	 (0,6040,'Емангаши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5787,6041,'Еманжелинка'),
 	 (1389,6042,'Еманжелинск'),
 	 (0,6043,'Емантаево'),
@@ -6653,7 +6653,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6048,'Емелево'),
 	 (0,6049,'Емелькино'),
 	 (0,6050,'Емельяновичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6051,'Емельяновка'),
 	 (4749,6052,'Емельяново'),
 	 (0,6053,'Емельяновский'),
@@ -6664,7 +6664,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6058,'Емешево'),
 	 (0,6059,'Емишево'),
 	 (0,6060,'Емсна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6061,'Емуртла'),
 	 (0,6062,'Емуртлинский'),
 	 (4137,6063,'Емца'),
@@ -6675,7 +6675,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6068,'Енгалышево'),
 	 (0,6069,'Енгорбой'),
 	 (0,6070,'Ендовищи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6071,'Енебей-Урсаево'),
 	 (0,6072,'Енисей'),
 	 (1153,6073,'Енисейск'),
@@ -6686,7 +6686,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6078,'Енский'),
 	 (0,6079,'Енхор'),
 	 (0,6080,'Епанчина');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5947,6081,'Епифань'),
 	 (0,6082,'Епишино'),
 	 (0,6083,'Ера'),
@@ -6697,7 +6697,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6088,'Ергач'),
 	 (0,6089,'Ергёлёх'),
 	 (0,6090,'Ергенинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6091,'Еремеевка'),
 	 (0,6092,'Еремеево'),
 	 (0,6093,'Еремизино-Борисовский'),
@@ -6708,7 +6708,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6098,'Еремково'),
 	 (0,6099,'Еремовка'),
 	 (0,6100,'Ересино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6101,'Ержино'),
 	 (4574,6102,'Ерзовка'),
 	 (0,6103,'Ерзовское'),
@@ -6719,7 +6719,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6108,'Ерлыково'),
 	 (0,6109,'Ермак'),
 	 (0,6110,'Ермаки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6111,'Ермакова'),
 	 (0,6112,'Ермаковка'),
 	 (0,6113,'Ермаково'),
@@ -6730,7 +6730,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5863,6118,'Ермекеево'),
 	 (0,6119,'Ермиловка'),
 	 (0,6120,'Ермилово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6121,'Ермица'),
 	 (4473,6122,'Ермишь'),
 	 (0,6123,'Ермия'),
@@ -6741,7 +6741,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6128,'Ермолкино'),
 	 (0,6129,'Ермоловка'),
 	 (0,6130,'Ермолово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6131,'Ермошиха'),
 	 (0,6132,'Ермошкино'),
 	 (0,6133,'Ерново'),
@@ -6752,7 +6752,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6138,'Ерсубайкино'),
 	 (0,6139,'Ерт'),
 	 (0,6140,'Ертарский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6141,'Ертом'),
 	 (0,6142,'Еруда'),
 	 (0,6143,'Ерунаково'),
@@ -6763,7 +6763,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1602,6148,'Ершов'),
 	 (4197,6149,'Ершовка'),
 	 (0,6150,'Ершово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6151,'Ерыкла'),
 	 (0,6152,'Ерышевка'),
 	 (0,6153,'Ерышовка'),
@@ -6774,7 +6774,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6158,'Есинка'),
 	 (0,6159,'Есиплево'),
 	 (0,6160,'Есипово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6161,'Ессей'),
 	 (3766,6162,'Ессентукская'),
 	 (0,6163,'Еськи'),
@@ -6785,7 +6785,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6168,'Ефаново'),
 	 (0,6169,'Ефимовка'),
 	 (0,6170,'Ефимово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5422,6171,'Ефимовский'),
 	 (0,6172,'Ефимцево'),
 	 (0,6173,'Ефремкасы'),
@@ -6796,7 +6796,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6178,'Ефремово-Зыково'),
 	 (0,6179,'Ефремово-Степановка'),
 	 (0,6180,'Ефремята');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6181,'Ефросимовка'),
 	 (0,6182,'Ехэ-Цаган'),
 	 (0,6183,'Ехэ-Цакир'),
@@ -6807,7 +6807,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6188,'Жадовка'),
 	 (0,6189,'Жадрицы'),
 	 (0,6190,'Жажада');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6191,'Жажлево'),
 	 (0,6192,'Жако'),
 	 (0,6193,'Жан-Аул'),
@@ -6818,7 +6818,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6198,'Жанвиль'),
 	 (0,6199,'Жанхотеко'),
 	 (0,6200,'Жаргаланта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6201,'Жаренки'),
 	 (0,6202,'Жариково'),
 	 (4374,6203,'Жарковский'),
@@ -6829,7 +6829,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6208,'Жвалово'),
 	 (0,6209,'Ждани'),
 	 (0,6210,'Жданковский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6211,'Ждановка'),
 	 (0,6212,'Жданово'),
 	 (4405,6213,'Ждановский'),
@@ -6840,7 +6840,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6218,'Жеглово'),
 	 (0,6219,'Жедяевка'),
 	 (0,6220,'Желанное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6221,'Железково'),
 	 (2087,6222,'Железнодорожный'),
 	 (0,6223,'Железнодорожный (Балашиха)'),
@@ -6851,7 +6851,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6228,'Желтинский'),
 	 (0,6229,'Желтое'),
 	 (0,6230,'Желтоярово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6231,'Желтура'),
 	 (0,6232,'Желтухино'),
 	 (0,6233,'Желтые Копани'),
@@ -6862,7 +6862,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6238,'Жемтала'),
 	 (0,6239,'Жемчуг'),
 	 (0,6240,'Жемчужниково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6241,'Жемчужный'),
 	 (1906,6242,'Жердевка'),
 	 (0,6243,'Жеребцово (село)'),
@@ -6873,7 +6873,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6248,'Жерновка'),
 	 (0,6249,'Жерновное'),
 	 (0,6250,'Жерновцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6251,'Жерноково'),
 	 (0,6252,'Жестянка'),
 	 (0,6253,'Жетково'),
@@ -6884,7 +6884,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6258,'Жигалино'),
 	 (4861,6259,'Жигалово'),
 	 (6920,6260,'Жиганск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6261,'Жигули'),
 	 (0,6262,'Жидиловка'),
 	 (0,6263,'Жидка'),
@@ -6895,7 +6895,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6268,'Жизнь'),
 	 (0,6269,'Жилгородок'),
 	 (0,6270,'Жилево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3937,6271,'Жилетово'),
 	 (0,6272,'Жилина'),
 	 (0,6273,'Жилинда'),
@@ -6906,7 +6906,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6278,'Жипхеген'),
 	 (0,6279,'Жирекен'),
 	 (4509,6280,'Жирнов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6281,'Жирновка'),
 	 (4074,6282,'Жирятино'),
 	 (0,6283,'Житищи'),
@@ -6917,7 +6917,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6288,'Житьево'),
 	 (0,6289,'Жихарево'),
 	 (0,6290,'Жмурово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6291,'Жостово (деревня)'),
 	 (0,6292,'Жубрино'),
 	 (0,6293,'Жудерский'),
@@ -6928,7 +6928,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6298,'Жуковская'),
 	 (0,6299,'Жуковский (Суляевское с/п)'),
 	 (0,6300,'Жуковское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6301,'Жуламансай (поселок)'),
 	 (0,6302,'Жуланиха'),
 	 (0,6303,'Жуланка'),
@@ -6939,7 +6939,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6308,'Журавкино'),
 	 (0,6309,'Журавлевка'),
 	 (0,6310,'Журавлево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6311,'Журавлевское'),
 	 (0,6312,'Журавлиха'),
 	 (0,6313,'Журавна'),
@@ -6950,7 +6950,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6318,'Жутово 1-е'),
 	 (0,6319,'Жутово 2-е'),
 	 (0,6320,'Жучки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6321,'З. Гумаровой'),
 	 (0,6322,'Заагин Сала'),
 	 (0,6323,'Забайкалец'),
@@ -6961,7 +6961,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6328,'Забегаево'),
 	 (0,6329,'Забелевица'),
 	 (0,6330,'Забелье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6331,'Забельское'),
 	 (0,6332,'Забитуй'),
 	 (0,6333,'Забойский'),
@@ -6972,7 +6972,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6338,'Заболотье (село)'),
 	 (0,6339,'Заборки'),
 	 (0,6340,'Заборовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6341,'Заборовье'),
 	 (0,6342,'Заборье'),
 	 (6652,6343,'Заброды'),
@@ -6983,7 +6983,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6348,'Заветлужье'),
 	 (4510,6349,'Заветное'),
 	 (5523,6350,'Заветный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6351,'Заветы Ильича'),
 	 (0,6352,'Завиваловка'),
 	 (0,6353,'Завидовка'),
@@ -6994,7 +6994,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5723,6358,'Заводоуспенское'),
 	 (0,6359,'Заводское'),
 	 (0,6360,'Заводской');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6361,'Заволенье'),
 	 (1757,6362,'Заволжск'),
 	 (0,6363,'Заволжский'),
@@ -7005,7 +7005,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6368,'Завражье'),
 	 (0,6369,'Завьяловка'),
 	 (4198,6370,'Завьялово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6371,'Завьяловское'),
 	 (0,6372,'Завязка'),
 	 (0,6373,'Загадное'),
@@ -7016,7 +7016,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6378,'Загваздино'),
 	 (6752,6379,'Заглядино'),
 	 (0,6380,'Загорная Селитьба');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6381,'Загорские Дали'),
 	 (0,6382,'Загорский'),
 	 (0,6383,'Загорское'),
@@ -7027,7 +7027,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6388,'Загрядчино'),
 	 (0,6389,'Задворка'),
 	 (0,6390,'Задне-Пилево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6391,'Заднее'),
 	 (0,6392,'Задоно-Кагальницкая'),
 	 (0,6393,'Задонский'),
@@ -7038,7 +7038,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6398,'Заево'),
 	 (0,6399,'Зажогино'),
 	 (0,6400,'Зазерский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4643,6401,'Заиграево'),
 	 (1634,6402,'Заинск'),
 	 (0,6403,'Заитово'),
@@ -7049,7 +7049,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6408,'Займо-Обрыв'),
 	 (0,6409,'Зайцев'),
 	 (0,6410,'Зайцева Речка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6411,'Зайцевка'),
 	 (0,6412,'Зайцево'),
 	 (0,6413,'Зайцевы'),
@@ -7060,7 +7060,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6418,'Закаринье'),
 	 (0,6419,'Закладное'),
 	 (0,6420,'Заклинье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6421,'Заклинье (Заклинское с/п)'),
 	 (0,6422,'Закобякино'),
 	 (0,6423,'Заковряжино'),
@@ -7071,7 +7071,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6428,'Закрутое (село)'),
 	 (0,6429,'Закубежье'),
 	 (0,6430,'Закулей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6431,'Закульта'),
 	 (0,6432,'Закутское'),
 	 (0,6433,'Залазна'),
@@ -7082,7 +7082,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6438,'Залесье'),
 	 (0,6439,'Залесянка'),
 	 (0,6440,'Заливино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6441,'Заливной'),
 	 (0,6442,'Заливский'),
 	 (0,6443,'Залиман'),
@@ -7093,7 +7093,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6448,'Залужье'),
 	 (0,6449,'Залукодес'),
 	 (5468,6450,'Залукокоаже');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6451,'Залучье'),
 	 (0,6452,'Зальцо'),
 	 (0,6453,'Заманилки'),
@@ -7104,7 +7104,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6458,'Замелетеновка'),
 	 (0,6459,'Замзор'),
 	 (0,6460,'Замишево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6461,'Замогилье'),
 	 (0,6462,'Заморский'),
 	 (0,6463,'Замостье'),
@@ -7115,7 +7115,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6468,'Замятино'),
 	 (0,6469,'Занадворовка'),
 	 (0,6470,'Зандак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6471,'Занино-Починки'),
 	 (0,6472,'Занюхча'),
 	 (0,6473,'Заовражье'),
@@ -7126,7 +7126,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6478,'Заолешенка'),
 	 (0,6479,'Заосколье'),
 	 (1790,6480,'Западная Двина');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6481,'Западный'),
 	 (0,6482,'Западный 2-й'),
 	 (0,6483,'Западный Угол'),
@@ -7137,7 +7137,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6488,'Заплавская'),
 	 (0,6489,'Заплывино'),
 	 (4121,6490,'Заплюсье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6491,'Заплюсье (Запольский с/с)'),
 	 (0,6492,'Заповедное'),
 	 (0,6493,'Заполицы'),
@@ -7148,7 +7148,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6498,'Запольские Халеевичи'),
 	 (1065,6499,'Заполярный'),
 	 (0,6500,'Запорожская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6501,'Запорожское'),
 	 (120,6502,'Запорожье'),
 	 (0,6503,'Запрудное'),
@@ -7159,7 +7159,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6508,'Зарайский'),
 	 (0,6509,'Зарайское'),
 	 (0,6510,'Зарево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6511,'Зареченка'),
 	 (0,6512,'Зареченск'),
 	 (0,6513,'Зареченский'),
@@ -7170,7 +7170,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6518,'Заречье (рабочий поселок)'),
 	 (0,6519,'Заринское'),
 	 (0,6520,'Зарождение');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6521,'Зарослое'),
 	 (0,6522,'Зарубина'),
 	 (0,6523,'Зарубино'),
@@ -7181,7 +7181,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6528,'Заря (Мазейский с/с)'),
 	 (0,6529,'Заря Свободы'),
 	 (0,6530,'Засечное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6531,'Засижье'),
 	 (0,6532,'Заславская'),
 	 (0,6533,'Засопка'),
@@ -7192,7 +7192,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6538,'Засулье'),
 	 (0,6539,'Засурское'),
 	 (0,6540,'Засурье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6541,'Затеиха'),
 	 (3772,6542,'Затеречный'),
 	 (0,6543,'Затеченское'),
@@ -7203,7 +7203,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6548,'Затонное'),
 	 (0,6549,'Заулье'),
 	 (0,6550,'Зауральный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6551,'Зауральская'),
 	 (5788,6552,'Зауральский'),
 	 (0,6553,'Захал'),
@@ -7214,7 +7214,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6558,'Захаровский'),
 	 (0,6559,'Захаровское'),
 	 (0,6560,'Захарьино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6561,'Захолынь'),
 	 (0,6562,'Захоперский'),
 	 (0,6563,'Зашеек'),
@@ -7225,7 +7225,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6568,'Заячье'),
 	 (0,6569,'Званное'),
 	 (0,6570,'Звезда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6571,'Звездино'),
 	 (0,6572,'Звездный'),
 	 (0,6573,'Звездный Городок'),
@@ -7236,7 +7236,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6578,'Зверево-Бакулино'),
 	 (4957,6579,'Звериноголовское'),
 	 (0,6580,'Зверниха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6581,'Зверосовхоз'),
 	 (0,6582,'Зверосовхоза'),
 	 (0,6583,'Звизжи'),
@@ -7247,7 +7247,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6588,'Звягинки'),
 	 (0,6589,'Звягино'),
 	 (0,6590,'Звягино (Казаковский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4834,6591,'Здвинск'),
 	 (0,6592,'Здемирово'),
 	 (0,6593,'Здоровец'),
@@ -7258,7 +7258,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6598,'Зеленая Горка'),
 	 (0,6599,'Зеленая Долина'),
 	 (0,6600,'Зеленая Дубрава');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6601,'Зеленая Поляна'),
 	 (0,6602,'Зеленая Роща'),
 	 (0,6603,'Зеленга'),
@@ -7269,7 +7269,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6608,'Зеленоборское'),
 	 (0,6609,'Зеленовка'),
 	 (0,6610,'Зеленовский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4791,6611,'Зеленогорский'),
 	 (1026,6612,'Зеленоградск'),
 	 (0,6613,'Зеленоградский'),
@@ -7280,7 +7280,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6618,'Зеленцово'),
 	 (0,6619,'Зеленчук Мостовой'),
 	 (5487,6620,'Зеленчукская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6621,'Зеленые Горы'),
 	 (0,6622,'Зеленый'),
 	 (0,6623,'Зеленый Бор'),
@@ -7291,7 +7291,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6628,'Зеленый Яр'),
 	 (0,6629,'Зеленьково'),
 	 (6310,6630,'Земетчино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6631,'Земляная'),
 	 (0,6632,'Земляная Заимка'),
 	 (0,6633,'Землянка'),
@@ -7302,7 +7302,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6638,'Зенгино'),
 	 (0,6639,'Зендиково'),
 	 (5306,6640,'Зензеватка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5169,6641,'Зензели'),
 	 (0,6642,'Зенино'),
 	 (0,6643,'Зенкино'),
@@ -7313,7 +7313,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6648,'Зерен'),
 	 (0,6649,'Зерикла'),
 	 (0,6650,'Зеркалы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6651,'Зеркальный'),
 	 (0,6652,'Зернино'),
 	 (0,6653,'Зерново'),
@@ -7324,7 +7324,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6658,'Зеюко'),
 	 (1935,6659,'Зея'),
 	 (0,6660,'Зибирхали');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6661,'Зигаза'),
 	 (0,6662,'Зидьян-Казмаляр'),
 	 (0,6663,'Зизик'),
@@ -7335,7 +7335,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6668,'Зилово'),
 	 (0,6669,'Зиль'),
 	 (0,6670,'Зильбачи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6671,'Зильга'),
 	 (0,6672,'Зильдярово'),
 	 (0,6673,'Зильмукмахи'),
@@ -7346,7 +7346,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6678,'Зименки'),
 	 (0,6679,'Зименки (Шалдежский с/с)'),
 	 (0,6680,'Зимино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6681,'Зимитицы (поселок)'),
 	 (0,6682,'Зимник'),
 	 (0,6683,'Зимницы'),
@@ -7357,7 +7357,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6688,'Зимовное'),
 	 (0,6689,'Зимовье'),
 	 (0,6690,'Зимонино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6691,'Зимстан'),
 	 (0,6692,'Зинаидино'),
 	 (0,6693,'Зингейка'),
@@ -7368,7 +7368,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5140,6698,'Зирган'),
 	 (0,6699,'Зиреклы'),
 	 (0,6700,'Зириклы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6701,'Зиянчурино'),
 	 (0,6702,'Златополь'),
 	 (0,6703,'Златоруновск'),
@@ -7379,7 +7379,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6708,'Злобино'),
 	 (0,6709,'Злоказово'),
 	 (1831,6710,'Злынка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6711,'Злынский Конезавод'),
 	 (0,6712,'Змеевка'),
 	 (0,6713,'Змеинка'),
@@ -7390,7 +7390,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6718,'Знаменская Пестровка'),
 	 (4229,6719,'Знаменский'),
 	 (4618,6720,'Знаменское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6721,'Знаменщиково'),
 	 (6066,6722,'Знамя Октября'),
 	 (0,6723,'Золино'),
@@ -7401,7 +7401,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6728,'Золотая Грива'),
 	 (0,6729,'Золотая Долина'),
 	 (0,6730,'Золотая Нива');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6731,'Золотая Степь'),
 	 (0,6732,'Золотец'),
 	 (0,6733,'Золотилово'),
@@ -7412,7 +7412,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6738,'Золотое'),
 	 (0,6739,'Золотой Родник'),
 	 (3361,6740,'Золотоноша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6741,'Золотоношка'),
 	 (0,6742,'Золотореченск'),
 	 (0,6743,'Золотуха'),
@@ -7423,7 +7423,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6748,'Зон'),
 	 (4669,6749,'Зональная станция'),
 	 (4907,6750,'Зональное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6751,'Зониха'),
 	 (0,6752,'Зоново'),
 	 (0,6753,'Зоны'),
@@ -7434,7 +7434,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6758,'Зорька'),
 	 (0,6759,'Зорьки'),
 	 (0,6760,'Зотино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6761,'Зрых'),
 	 (0,6762,'Зубанчи'),
 	 (0,6763,'Зубаревка'),
@@ -7445,7 +7445,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6768,'Зубково (станция)'),
 	 (0,6769,'Зубова Буда'),
 	 (0,6770,'Зубова Поляна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6771,'Зубовка'),
 	 (0,6772,'Зубово'),
 	 (0,6773,'Зубово (Шольский с/с)'),
@@ -7456,7 +7456,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5581,6778,'Зубутли-Миатли'),
 	 (1791,6779,'Зубцов'),
 	 (0,6780,'Зугалай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6781,'Зугмара'),
 	 (4908,6782,'Зудилово'),
 	 (0,6783,'Зудна'),
@@ -7467,7 +7467,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6788,'Зултурган'),
 	 (0,6789,'Зулумай'),
 	 (0,6790,'Зун-Мурино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6791,'Зун-Хурай'),
 	 (0,6792,'Зунгар'),
 	 (0,6793,'Зунда Толга'),
@@ -7478,7 +7478,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6798,'Зурилаудимахи'),
 	 (0,6799,'Зуткулей'),
 	 (0,6800,'Зухрабкент');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6801,'Зуяково'),
 	 (0,6802,'Зуята'),
 	 (0,6803,'Зыковка'),
@@ -7489,7 +7489,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6808,'Зырянск'),
 	 (4668,6809,'Зырянское'),
 	 (0,6810,'Зюздина');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6811,'Зюзельский'),
 	 (0,6812,'Зюзино'),
 	 (0,6813,'Зюзя'),
@@ -7500,7 +7500,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6818,'Зюри'),
 	 (0,6819,'Зяба'),
 	 (0,6820,'Зязиков-Юрт');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6821,'Зяк-Ишметово'),
 	 (0,6822,'Зятькова Речка'),
 	 (0,6823,'Зятьковка'),
@@ -7511,7 +7511,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6828,'Ибрай'),
 	 (0,6829,'Ибракаево'),
 	 (4217,6830,'Ибреси');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6831,'Ибряево'),
 	 (0,6832,'Ива'),
 	 (0,6833,'Ивакино'),
@@ -7522,7 +7522,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6838,'Ивангород (деревня)'),
 	 (0,6839,'Иванино'),
 	 (0,6840,'Иваниха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6841,'Иваническое'),
 	 (0,6842,'Иванищево'),
 	 (0,6843,'Иванищевское'),
@@ -7533,7 +7533,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6848,'Ивано-Казанка'),
 	 (0,6849,'Ивано-Кувалат'),
 	 (0,6850,'Ивано-Лебедянь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6851,'Ивано-Слюсаревское'),
 	 (0,6852,'Иванов Мыс'),
 	 (0,6853,'Иванова Поляна'),
@@ -7544,7 +7544,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6858,'Ивановка (Колосовского с/с)'),
 	 (0,6859,'Ивановка (село)'),
 	 (0,6860,'Иваново (деревня)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6861,'Иваново (село)'),
 	 (0,6862,'Иваново (Синерецкая волость)'),
 	 (0,6863,'Иваново-Вознесенск'),
@@ -7555,7 +7555,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6868,'Ивановский'),
 	 (0,6869,'Ивановское'),
 	 (0,6870,'Ивановское (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6871,'Ивантеевка (село)'),
 	 (0,6872,'Ивантеево (Валдай-5)'),
 	 (0,6873,'Иванцево'),
@@ -7566,7 +7566,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6878,'Иваньково'),
 	 (0,6879,'Иваньково-Ленино'),
 	 (0,6880,'Иваньковский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6881,'Ивашево (станция)'),
 	 (0,6882,'Ивашка'),
 	 (0,6883,'Ивашкино'),
@@ -7577,7 +7577,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6888,'Ивино'),
 	 (0,6889,'Ивицы'),
 	 (0,6890,'Ивково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6891,'Ивница'),
 	 (3061,6892,'Ивня'),
 	 (0,6893,'Ивняки'),
@@ -7588,7 +7588,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6898,'Игали'),
 	 (1157,6899,'Игарка'),
 	 (0,6900,'Игжей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6901,'Игирма'),
 	 (0,6902,'Игишево'),
 	 (3710,6903,'Иглино'),
@@ -7599,7 +7599,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6908,'Игнатьевский'),
 	 (0,6909,'Игнашино'),
 	 (0,6910,'Игнино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6911,'Игодово'),
 	 (0,6912,'Игомель'),
 	 (0,6913,'Игорвары'),
@@ -7610,7 +7610,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6918,'Игрицкое'),
 	 (0,6919,'Игрищи'),
 	 (0,6920,'Игумницево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6921,'Игумново'),
 	 (0,6922,'Ида'),
 	 (0,6923,'Идеал'),
@@ -7621,7 +7621,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6928,'Иджил'),
 	 (0,6929,'Идолга'),
 	 (4752,6930,'Идринское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4117,6931,'Идрица'),
 	 (0,6932,'Идяш'),
 	 (0,6933,'Иевлево'),
@@ -7632,7 +7632,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6938,'Ижберда'),
 	 (0,6939,'Ижбуляк'),
 	 (0,6940,'Ижевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6941,'Ижевский Лесоучасток-2'),
 	 (4475,6942,'Ижевское'),
 	 (0,6943,'Ижма'),
@@ -7643,7 +7643,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6948,'Избичня'),
 	 (0,6949,'Избищи'),
 	 (0,6950,'Избоищи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6951,'Изборск'),
 	 (0,6952,'Извара'),
 	 (0,6953,'Известковый'),
@@ -7654,7 +7654,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6958,'Изегол'),
 	 (0,6959,'Иземеть'),
 	 (0,6960,'Излап');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6961,'Излегоще'),
 	 (2686,6962,'Излучинск'),
 	 (0,6963,'Измайлиха'),
@@ -7665,7 +7665,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6968,'Измери'),
 	 (0,6969,'Измоденово'),
 	 (0,6970,'Измя');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3068,6971,'Износки'),
 	 (0,6972,'Изобильное'),
 	 (1488,6973,'Изобильный'),
@@ -7676,7 +7676,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6978,'Изумрудный'),
 	 (0,6979,'Изъяю'),
 	 (0,6980,'Изыкан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,6981,'Изыхские Копи'),
 	 (0,6982,'Изюмовка'),
 	 (0,6983,'Икабья'),
@@ -7687,7 +7687,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,6988,'Ики-Чонос'),
 	 (0,6989,'Икково'),
 	 (4958,6990,'Иковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5488,6991,'Икон-Халк'),
 	 (0,6992,'Иконниково'),
 	 (0,6993,'Икра'),
@@ -7698,7 +7698,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1158,6998,'Иланский'),
 	 (0,6999,'Иласхан-Юрт'),
 	 (0,7000,'Илбенге');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7001,'Илгань'),
 	 (0,7002,'Илгышево'),
 	 (0,7003,'Илебер'),
@@ -7709,7 +7709,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7008,'Илек-Пеньковка'),
 	 (0,7009,'Илеть'),
 	 (0,7010,'Иликово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6654,7011,'Илим'),
 	 (0,7012,'Илим-Гора'),
 	 (0,7013,'Илир'),
@@ -7720,7 +7720,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7018,'Иловай-Рожденственские Дворики'),
 	 (0,7019,'Иловай-Рождественское'),
 	 (0,7020,'Иловатка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7021,'Иловка'),
 	 (2710,7022,'Иловля'),
 	 (0,7023,'Ильбеши'),
@@ -7731,7 +7731,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5076,7028,'Ильинка'),
 	 (3850,7029,'Ильино'),
 	 (0,7030,'Ильино-Заборское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7031,'Ильиновская'),
 	 (4406,7032,'Ильиногорск'),
 	 (0,7033,'Ильинск'),
@@ -7742,7 +7742,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4619,7038,'Ильинское'),
 	 (0,7039,'Ильинское (деревня)'),
 	 (0,7040,'Ильинское (Ильинское с/п)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7041,'Ильинское (село)'),
 	 (0,7042,'Ильинское-Урусово'),
 	 (0,7043,'Ильинское-Усово'),
@@ -7753,7 +7753,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7048,'Ильичево'),
 	 (0,7049,'Ильичевское'),
 	 (5062,7050,'Илька');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7051,'Илькинеево'),
 	 (0,7052,'Илькино'),
 	 (0,7053,'Илькульган'),
@@ -7764,7 +7764,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7058,'Ильнеть'),
 	 (0,7059,'Ильпанур'),
 	 (0,7060,'Ильпырское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3275,7061,'Ильский'),
 	 (0,7062,'Ильтаево'),
 	 (0,7063,'Ильтебаново'),
@@ -7775,7 +7775,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7068,'Ильчигулово'),
 	 (0,7069,'Ильчимбетово'),
 	 (0,7070,'Ильчино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7071,'Илья-Высоково'),
 	 (0,7072,'Илья-Шор'),
 	 (0,7073,'Ильятино'),
@@ -7786,7 +7786,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7078,'Илякшиде'),
 	 (0,7079,'Имай-Кармалы'),
 	 (0,7080,'Имангулово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7081,'Имасы'),
 	 (0,7082,'Имбинский'),
 	 (0,7083,'Имек'),
@@ -7797,7 +7797,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7088,'Имени Воровского'),
 	 (0,7089,'Имени Горького'),
 	 (0,7090,'Имени Дзержинского');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7091,'Имени Калинина'),
 	 (0,7092,'Имени Карла Либкнехта'),
 	 (0,7093,'Имени Карла Маркса'),
@@ -7808,7 +7808,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7098,'Имени М. И. Калинина'),
 	 (0,7099,'Имени Максима Горького'),
 	 (0,7100,'Имени Матросова');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7101,'Имени Морозова'),
 	 (0,7102,'Имени П. Осипенко'),
 	 (0,7103,'Имени Свердлова'),
@@ -7819,7 +7819,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7108,'Имени Цюрупы'),
 	 (0,7109,'Имени Чапаева'),
 	 (0,7110,'Именьково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7111,'Имеретинская'),
 	 (0,7112,'Имисское'),
 	 (0,7113,'Импилахти'),
@@ -7830,7 +7830,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5624,7118,'Инарки'),
 	 (0,7119,'Инаркой'),
 	 (0,7120,'Ингалинское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7121,'Ингалы'),
 	 (0,7122,'Ингердах'),
 	 (0,7123,'Ингода'),
@@ -7841,7 +7841,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7128,'Индерь'),
 	 (5377,7129,'Индига'),
 	 (0,7130,'Индустриальный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7131,'Индустрия'),
 	 (0,7132,'Индыгойка'),
 	 (0,7133,'Индырчи'),
@@ -7852,7 +7852,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7138,'Инженерный-1'),
 	 (0,7139,'Инжич-Чукун'),
 	 (0,7140,'Инжичишхо');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7141,'Инзагатуй'),
 	 (0,7142,'Инзелга'),
 	 (5162,7143,'Инзер'),
@@ -7863,7 +7863,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7148,'Иноковка-1'),
 	 (1558,7149,'Инсар'),
 	 (4793,7150,'Инской');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7151,'Инся'),
 	 (1045,7152,'Инта'),
 	 (0,7153,'Интенис'),
@@ -7874,7 +7874,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7158,'Инчха'),
 	 (0,7159,'Инчхе'),
 	 (0,7160,'Иншинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7161,'Инютино'),
 	 (0,7162,'Инюшка'),
 	 (0,7163,'Инюшово'),
@@ -7885,7 +7885,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1489,7168,'Ипатово'),
 	 (0,7169,'Ира'),
 	 (0,7170,'Ираги');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7171,'Ираель'),
 	 (0,7172,'Ираки'),
 	 (0,7173,'Иракинда'),
@@ -7896,7 +7896,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3776,7178,'Иргаклы'),
 	 (0,7179,'Иргей'),
 	 (0,7180,'Иргень');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7181,'Иргизла'),
 	 (0,7182,'Иргизский'),
 	 (0,7183,'Ирдоматка'),
@@ -7907,7 +7907,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7188,'Ирклиевская'),
 	 (0,7189,'Иркускан'),
 	 (0,7190,'Иркутское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7191,'Ирмучаш'),
 	 (0,7192,'Ирнур'),
 	 (0,7193,'Ирныкши'),
@@ -7918,7 +7918,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7198,'Иртышский'),
 	 (0,7199,'Ирхидей'),
 	 (0,7200,'Ирша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4264,7201,'Ис'),
 	 (0,7202,'Иса'),
 	 (0,7203,'Исады'),
@@ -7929,7 +7929,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7208,'Исакогорка'),
 	 (0,7209,'Исаметово'),
 	 (0,7210,'Исанбаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7211,'Исанево'),
 	 (0,7212,'Исенбаево'),
 	 (0,7213,'Исергапово'),
@@ -7940,7 +7940,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7218,'Исимово'),
 	 (0,7219,'Исинга'),
 	 (0,7220,'Исит');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7221,'Иска'),
 	 (0,7222,'Искандарово'),
 	 (0,7223,'Искателей'),
@@ -7951,7 +7951,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7228,'Искушта'),
 	 (0,7229,'Исламбахты'),
 	 (5470,7230,'Исламей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7231,'Исмагилово'),
 	 (0,7232,'Исмайлово'),
 	 (0,7233,'Исменцы'),
@@ -7962,7 +7962,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7238,'Иссад'),
 	 (0,7239,'Иста'),
 	 (0,7240,'Истамбул');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7241,'Истимисс'),
 	 (0,7242,'Истленьево'),
 	 (0,7243,'Истобенск'),
@@ -7973,7 +7973,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7248,'Истошино'),
 	 (0,7249,'Истье'),
 	 (0,7250,'Истяк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7251,'Исупово'),
 	 (0,7252,'Исупуво'),
 	 (0,7253,'Исянгильдино'),
@@ -7984,7 +7984,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5059,7258,'Итанца'),
 	 (0,7259,'Итатка'),
 	 (4794,7260,'Итатский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7261,'Итеево'),
 	 (0,7262,'Иткинеево'),
 	 (0,7263,'Иткулово'),
@@ -7995,7 +7995,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7268,'Ихала'),
 	 (0,7269,'Ихрек'),
 	 (0,7270,'Ицари');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7271,'Ичалки'),
 	 (0,7272,'Ичалово'),
 	 (0,7273,'Ичин'),
@@ -8006,7 +8006,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7278,'Ишага'),
 	 (0,7279,'Ишаки'),
 	 (0,7280,'Ишалино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7281,'Ишалка'),
 	 (0,7282,'Ишалькино'),
 	 (0,7283,'Ишберда'),
@@ -8017,7 +8017,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7288,'Ишидей'),
 	 (0,7289,'Ишимбаево'),
 	 (0,7290,'Ишимово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7291,'Ишимская'),
 	 (0,7292,'Ишимский'),
 	 (0,7293,'Ишкарово'),
@@ -8028,7 +8028,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7298,'Ишлей'),
 	 (0,7299,'Ишлы'),
 	 (0,7300,'Ишля');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7301,'Ишменево'),
 	 (0,7302,'Ишмуратово'),
 	 (0,7303,'Ишмурзино'),
@@ -8039,7 +8039,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7308,'Иштеряково'),
 	 (0,7309,'Иштиряково'),
 	 (0,7310,'Иштуган');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7311,'Иштуганово'),
 	 (0,7312,'Иштыбаево'),
 	 (0,7313,'Иштымбал'),
@@ -8050,7 +8050,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7318,'Ищерская'),
 	 (0,7319,'Июльское'),
 	 (0,7320,'Июс');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7321,'Йолдыз'),
 	 (0,7322,'Йошкар Памаш'),
 	 (0,7323,'Йошкар-Памаш'),
@@ -8061,7 +8061,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7328,'Кааламо'),
 	 (0,7329,'Кабаевка'),
 	 (0,7330,'Кабаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7331,'Кабак-Сола'),
 	 (0,7332,'Кабаклы'),
 	 (0,7333,'Кабаково'),
@@ -8072,7 +8072,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7338,'Кабановка'),
 	 (0,7339,'Кабаново'),
 	 (0,7340,'Кабановская Гора');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4645,7341,'Кабанск'),
 	 (0,7342,'Кабанье'),
 	 (2641,7343,'Кабардинка'),
@@ -8083,7 +8083,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7348,'Кабожа'),
 	 (0,7349,'Кабы-Копри'),
 	 (0,7350,'Кабырдак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3702,7351,'Кавалерово'),
 	 (0,7352,'Кавалерский'),
 	 (0,7353,'Кавалерское'),
@@ -8094,7 +8094,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7358,'Кавказский'),
 	 (0,7359,'Кавказское'),
 	 (0,7360,'Кавкамахи (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7361,'Кага'),
 	 (4512,7362,'Кагальник'),
 	 (3699,7363,'Кагальницкая'),
@@ -8105,7 +8105,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6939,7368,'Кадая'),
 	 (0,7369,'Кадгарон'),
 	 (0,7370,'Каджером');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7371,'Кадикасы'),
 	 (1745,7372,'Кадников'),
 	 (0,7373,'Кадниково'),
@@ -8116,7 +8116,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3737,7378,'Кадошкино'),
 	 (0,7379,'Кадряково'),
 	 (0,7380,'Кадуй (пгт)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7381,'Кадухин'),
 	 (0,7382,'Кадыбаш'),
 	 (4346,7383,'Кадый'),
@@ -8127,7 +8127,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7388,'Кажа'),
 	 (0,7389,'Кажим'),
 	 (0,7390,'Кажлодка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4795,7391,'Каз'),
 	 (0,7392,'Казаево'),
 	 (0,7393,'Казак-Кочердык'),
@@ -8138,7 +8138,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7398,'Казаково'),
 	 (0,7399,'Казаковский Промысел'),
 	 (0,7400,'Казаковское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7401,'Казанак'),
 	 (0,7402,'Казанбаш'),
 	 (0,7403,'Казангулово'),
@@ -8149,7 +8149,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7408,'Казаново'),
 	 (3323,7409,'Казанская'),
 	 (0,7410,'Казанская Арчада');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3065,7411,'Казанское'),
 	 (0,7412,'Казанцево'),
 	 (0,7413,'Казанча'),
@@ -8160,7 +8160,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7418,'Казарма'),
 	 (0,7419,'Казаткуль'),
 	 (0,7420,'Казацкая Степь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7421,'Казацкое'),
 	 (0,7422,'Казачий'),
 	 (0,7423,'Казачий Мыс'),
@@ -8171,7 +8171,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7428,'Казачья Губерля'),
 	 (0,7429,'Казачья Локня'),
 	 (0,7430,'Казачья Слобода');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7431,'Казаяк'),
 	 (0,7432,'Казгулак'),
 	 (0,7433,'Казеевка'),
@@ -8182,7 +8182,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7438,'Казинка'),
 	 (0,7439,'Казкеево'),
 	 (0,7440,'Казлук');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7441,'Казмашево'),
 	 (0,7442,'Казначеевка'),
 	 (0,7443,'Казым'),
@@ -8193,7 +8193,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7448,'Каировка'),
 	 (0,7449,'Кай'),
 	 (0,7450,'Кайбалы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7451,'Кайбицы'),
 	 (0,7452,'Кайгородский'),
 	 (0,7453,'Кайгородское'),
@@ -8204,7 +8204,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7458,'Кайластуй'),
 	 (0,7459,'Кайлы'),
 	 (0,7460,'Каймановка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7461,'Каймар'),
 	 (0,7462,'Каймашабаш'),
 	 (0,7463,'Каймоново'),
@@ -8215,7 +8215,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7468,'Кака'),
 	 (0,7469,'Какамахи'),
 	 (0,7470,'Какашура');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7471,'Какино'),
 	 (0,7472,'Какмож'),
 	 (0,7473,'Какре-Елга'),
@@ -8226,7 +8226,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7478,'Калабино'),
 	 (0,7479,'Каладжинская'),
 	 (0,7480,'Каладжух');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7481,'Калаис'),
 	 (0,7482,'Калайкасы'),
 	 (0,7483,'Калангуй'),
@@ -8237,7 +8237,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7488,'Калачево'),
 	 (0,7489,'Калачевский'),
 	 (0,7490,'Калачеевский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7491,'Калачи'),
 	 (0,7492,'Калачиги'),
 	 (1251,7493,'Калачинск'),
@@ -8248,7 +8248,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7498,'Калда'),
 	 (0,7499,'Калдарово'),
 	 (0,7500,'Калдуссы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4071,7501,'Калевала'),
 	 (0,7502,'Калегино'),
 	 (0,7503,'Калеево'),
@@ -8259,7 +8259,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4514,7508,'Калинин'),
 	 (0,7509,'Калинина'),
 	 (0,7510,'Калинина Центральная усадьба');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7511,'Калининаул'),
 	 (6528,7512,'Калининец'),
 	 (0,7513,'Калинино'),
@@ -8270,7 +8270,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7518,'Калининское'),
 	 (0,7519,'Калинка'),
 	 (0,7520,'Калинки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7521,'Калинкино'),
 	 (0,7522,'Калинники'),
 	 (0,7523,'Калино'),
@@ -8281,7 +8281,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7528,'Калиновский'),
 	 (0,7529,'Калиновское'),
 	 (0,7530,'Калистово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7531,'Калистратиха'),
 	 (0,7532,'Калитва'),
 	 (0,7533,'Калитвенская'),
@@ -8292,7 +8292,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7538,'Калмантай'),
 	 (0,7539,'Калмаш'),
 	 (0,7540,'Калмашбашево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7541,'Калмашево'),
 	 (0,7542,'Калмия'),
 	 (0,7543,'Калмиябаш'),
@@ -8303,7 +8303,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7548,'Калтаево'),
 	 (0,7549,'Калтай'),
 	 (1234,7550,'Калтан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7551,'Калтасы'),
 	 (0,7552,'Калтук'),
 	 (0,7553,'Калтык'),
@@ -8314,7 +8314,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7558,'Калугино'),
 	 (0,7559,'Калужская'),
 	 (0,7560,'Калужская Опытная с/х станция');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7561,'Калужское'),
 	 (0,7562,'Калук'),
 	 (0,7563,'Кальвица'),
@@ -8325,7 +8325,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7568,'Кальял'),
 	 (1792,7569,'Калязин'),
 	 (0,7570,'Кама');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7571,'Кама-Исмагилово'),
 	 (0,7572,'Камаган'),
 	 (0,7573,'Камаевка'),
@@ -8336,7 +8336,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7578,'Камбулат'),
 	 (0,7579,'Камеево'),
 	 (0,7580,'Камейкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7581,'Камелик'),
 	 (0,7582,'Каменецкий'),
 	 (0,7583,'Каменищи'),
@@ -8347,7 +8347,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7588,'Каменная Балка'),
 	 (0,7589,'Каменная Лубна'),
 	 (0,7590,'Каменная Речка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7591,'Каменная Санарка'),
 	 (0,7592,'Каменная Сарма'),
 	 (0,7593,'Каменники'),
@@ -8358,7 +8358,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7598,'Каменногорское'),
 	 (0,7599,'Каменногорье'),
 	 (0,7600,'Каменное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7601,'Каменное Заделье'),
 	 (0,7602,'Каменноимангулово'),
 	 (0,7603,'Каменномост'),
@@ -8369,7 +8369,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7608,'Каменный'),
 	 (0,7609,'Каменный Бор'),
 	 (0,7610,'Каменный Брод');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7611,'Каменный Ключ'),
 	 (0,7612,'Каменный Ключ (поселок)'),
 	 (0,7613,'Каменный Конец'),
@@ -8380,7 +8380,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7618,'Каменский Хутор'),
 	 (2127,7619,'Каменское'),
 	 (0,7620,'Каменушка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5264,7621,'Камень-Рыболов'),
 	 (1721,7622,'Камешково'),
 	 (0,7623,'Камилух'),
@@ -8391,7 +8391,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7628,'Камлюково'),
 	 (0,7629,'Каморино'),
 	 (0,7630,'Камсак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3715,7631,'Камские Поляны'),
 	 (0,7632,'Камский'),
 	 (0,7633,'Камское'),
@@ -8402,7 +8402,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7638,'Камызино'),
 	 (0,7639,'Камынино'),
 	 (0,7640,'Камыш-Кутан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7641,'Камышев'),
 	 (0,7642,'Камышеватое'),
 	 (3324,7643,'Камышеватская'),
@@ -8413,7 +8413,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7648,'Камышенка'),
 	 (0,7649,'Камышет'),
 	 (0,7650,'Камыши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7651,'Камышинка'),
 	 (0,7652,'Камышино'),
 	 (0,7653,'Камышино-Курское'),
@@ -8424,7 +8424,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7658,'Камышловский'),
 	 (0,7659,'Камышное'),
 	 (0,7660,'Камышный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7661,'Камышовка'),
 	 (0,7662,'Камышово'),
 	 (0,7663,'Канабеки'),
@@ -8435,7 +8435,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7668,'Канарай'),
 	 (0,7669,'Канасираги'),
 	 (0,7670,'Канахинцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5789,7671,'Канашево'),
 	 (0,7672,'Канаши'),
 	 (0,7673,'Канбеково'),
@@ -8446,7 +8446,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7678,'Кандалинцево'),
 	 (0,7679,'Кандауровка'),
 	 (0,7680,'Кандаурово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7681,'Кандиевка'),
 	 (0,7682,'Кандинка'),
 	 (5134,7683,'Кандры'),
@@ -8457,7 +8457,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7688,'Канино'),
 	 (0,7689,'Канифольный'),
 	 (0,7690,'Канны-Туркей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7691,'Кано'),
 	 (0,7692,'Каново'),
 	 (0,7693,'Кантаурово (Кантауровский с/с)'),
@@ -8468,7 +8468,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7698,'Канчалан'),
 	 (0,7699,'Каныкаево'),
 	 (0,7700,'Каньгуши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7701,'Канютино'),
 	 (0,7702,'Капасово'),
 	 (0,7703,'Капей-Кыбау'),
@@ -8479,7 +8479,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7708,'Каплино'),
 	 (0,7709,'Капотня 1-й'),
 	 (0,7710,'Капотня 5-й');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7711,'Капралиха'),
 	 (0,7712,'Капсал'),
 	 (0,7713,'Каптырево'),
@@ -8490,7 +8490,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7718,'Кара'),
 	 (2846,7719,'Кара-Куль'),
 	 (0,7720,'Кара-Паго');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7721,'Кара-Терек'),
 	 (5668,7722,'Кара-Тюбе'),
 	 (0,7723,'Кара-Холь'),
@@ -8501,7 +8501,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7728,'Карабаево'),
 	 (0,7729,'Карабай-Шемурша'),
 	 (1722,7730,'Карабаново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7731,'Карабатово'),
 	 (0,7732,'Карабаш (поселок)'),
 	 (0,7733,'Карабаш (село)'),
@@ -8512,7 +8512,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5583,7738,'Карабудахкент'),
 	 (1435,7739,'Карабулак'),
 	 (0,7740,'Карабухино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4348,7741,'Караваево'),
 	 (0,7742,'Караваино'),
 	 (0,7743,'Каравайково'),
@@ -8523,7 +8523,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7748,'Карагай'),
 	 (0,7749,'Карагайка'),
 	 (0,7750,'Карагайкуль');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7751,'Карагайла'),
 	 (4797,7752,'Карагайлинский'),
 	 (0,7753,'Карагайский'),
@@ -8534,7 +8534,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7758,'Карагандинский'),
 	 (0,7759,'Караганка'),
 	 (0,7760,'Карагас');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7761,'Карагач'),
 	 (0,7762,'Карагичевский'),
 	 (0,7763,'Карагуж'),
@@ -8545,7 +8545,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7768,'Каразей'),
 	 (0,7769,'Каразиреково'),
 	 (0,7770,'Каразириково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7771,'Каразюк'),
 	 (5156,7772,'Караидель'),
 	 (0,7773,'Карай'),
@@ -8556,7 +8556,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7778,'Каракан'),
 	 (0,7779,'Каракашлы'),
 	 (0,7780,'Караклы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7781,'Каракокша'),
 	 (2792,7782,'Каракол'),
 	 (0,7783,'Каракудук'),
@@ -8567,7 +8567,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7788,'Каралат'),
 	 (0,7789,'Каралачик'),
 	 (0,7790,'Каралда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7791,'Карам'),
 	 (0,7792,'Карамала'),
 	 (0,7793,'Карамалы'),
@@ -8578,7 +8578,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7798,'Карамзина'),
 	 (0,7799,'Карамкен'),
 	 (0,7800,'Карамыш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7801,'Карамышевка'),
 	 (0,7802,'Карамышево'),
 	 (0,7803,'Каран'),
@@ -8589,7 +8589,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7808,'Карапсель'),
 	 (0,7809,'Караса'),
 	 (0,7810,'Карасай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7811,'Карасарт'),
 	 (0,7812,'Карасево'),
 	 (0,7813,'Караси'),
@@ -8600,7 +8600,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5380,7818,'Каратайка'),
 	 (0,7819,'Каратал'),
 	 (4756,7820,'Каратузское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7821,'Каратун'),
 	 (0,7822,'Караул'),
 	 (0,7823,'Карауловка'),
@@ -8611,7 +8611,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7828,'Карацан'),
 	 (0,7829,'Карача-Елга'),
 	 (0,7830,'Карачаевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7831,'Карачево'),
 	 (0,7832,'Карачельское'),
 	 (2637,7833,'Карачи'),
@@ -8622,7 +8622,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7838,'Карашай-Саклово'),
 	 (0,7839,'Караяр'),
 	 (0,7840,'Караяшник');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7841,'Карбаны'),
 	 (0,7842,'Карбачимахи'),
 	 (0,7843,'Карбыза'),
@@ -8633,7 +8633,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7848,'Каргалинская'),
 	 (0,7849,'Каргалы'),
 	 (0,7850,'Карган');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7851,'Каргаполово'),
 	 (2683,7852,'Каргаполье'),
 	 (4671,7853,'Каргасок'),
@@ -8644,7 +8644,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7858,'Каргинская'),
 	 (1009,7859,'Каргополь'),
 	 (0,7860,'Каргополь-2');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7861,'Кардаво'),
 	 (0,7862,'Кардаилово'),
 	 (5646,7863,'Карджин'),
@@ -8655,7 +8655,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4347,7868,'Кардымово'),
 	 (0,7869,'Карекадани'),
 	 (0,7870,'Карели');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7871,'Карелино'),
 	 (0,7872,'Карельский'),
 	 (0,7873,'Кариан'),
@@ -8666,7 +8666,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7878,'Карица'),
 	 (0,7879,'Каркавино'),
 	 (0,7880,'Каркалай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7881,'Каркалей'),
 	 (0,7882,'Каркали'),
 	 (0,7883,'Каркатеевы'),
@@ -8677,7 +8677,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7888,'Карламан'),
 	 (0,7889,'Карланюрт (село)'),
 	 (0,7890,'Карланюрт (станция)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7891,'Карлинское'),
 	 (3223,7892,'Карловка'),
 	 (0,7893,'Карлук'),
@@ -8688,7 +8688,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7898,'Кармалка'),
 	 (0,7899,'Кармало-Аделяково'),
 	 (0,7900,'Кармалы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7901,'Карман-Синдзикау'),
 	 (0,7902,'Карманкино'),
 	 (0,7903,'Кармановка'),
@@ -8699,7 +8699,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7908,'Кармышево'),
 	 (0,7909,'Карнаухово'),
 	 (0,7910,'Карновар');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7911,'Карпели'),
 	 (0,7912,'Карпенка'),
 	 (0,7913,'Карпенково'),
@@ -8710,7 +8710,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7918,'Карповка'),
 	 (0,7919,'Карпово'),
 	 (0,7920,'Карпово Первое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7921,'Карповский'),
 	 (6247,7922,'Карпогоры'),
 	 (0,7923,'Карпунинский'),
@@ -8721,7 +8721,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7928,'Карсовай'),
 	 (6071,7929,'Карсун'),
 	 (0,7930,'Карсы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7931,'Карт-Джурт'),
 	 (0,7932,'Картаель'),
 	 (0,7933,'Картамак'),
@@ -8732,7 +8732,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7938,'Карткисяк'),
 	 (0,7939,'Картушин'),
 	 (0,7940,'Картышово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7941,'Карулино'),
 	 (0,7942,'Карцово'),
 	 (0,7943,'Карчаг'),
@@ -8743,7 +8743,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7948,'Карымкары'),
 	 (0,7949,'Карымск'),
 	 (0,7950,'Карымская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4631,7951,'Карымское'),
 	 (0,7952,'Карышкино'),
 	 (0,7953,'Карьево'),
@@ -8754,7 +8754,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7958,'Касарги'),
 	 (0,7959,'Касаткино'),
 	 (0,7960,'Касиб');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7961,'Касимовка'),
 	 (0,7962,'Касимово'),
 	 (0,7963,'Касиновка'),
@@ -8765,7 +8765,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4983,7968,'Каскара'),
 	 (0,7969,'Каскат'),
 	 (0,7970,'Касково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1393,7971,'Касли'),
 	 (0,7972,'Касня'),
 	 (0,7973,'Каспа'),
@@ -8776,7 +8776,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5584,7978,'Касумкент'),
 	 (0,7979,'Каськово'),
 	 (0,7980,'Касьяновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7981,'Касьяново'),
 	 (1394,7982,'Катав-Ивановск'),
 	 (0,7983,'Катаево'),
@@ -8787,7 +8787,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7988,'Катанов'),
 	 (0,7989,'Катарач'),
 	 (0,7990,'Катарбей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,7991,'Катарма'),
 	 (0,7992,'Катасонов'),
 	 (0,7993,'Каташ-Каран'),
@@ -8798,7 +8798,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,7998,'Каткова Щель'),
 	 (0,7999,'Катково'),
 	 (0,8000,'Катмыш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8001,'Катравож'),
 	 (0,8002,'Катричев'),
 	 (6437,8003,'Катунино'),
@@ -8809,7 +8809,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8008,'Катырык'),
 	 (0,8009,'Кауровка'),
 	 (0,8010,'Каучук');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8011,'Кафтанчиково'),
 	 (0,8012,'Кафтино'),
 	 (0,8013,'Кафыр-Кумух'),
@@ -8820,7 +8820,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8018,'Кацбахский'),
 	 (0,8019,'Качалин'),
 	 (0,8020,'Качалино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8021,'Качалкент'),
 	 (0,8022,'Качаново'),
 	 (0,8023,'Качеганово'),
@@ -8831,7 +8831,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8028,'Качкашур'),
 	 (0,8029,'Качкиново'),
 	 (0,8030,'Качмаш Нижний');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4862,8031,'Качуг'),
 	 (0,8032,'Качуково'),
 	 (0,8033,'Качулька'),
@@ -8842,7 +8842,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8038,'Кашино'),
 	 (0,8039,'Каширино'),
 	 (0,8040,'Каширово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3804,8041,'Каширское'),
 	 (0,8042,'Кашкалаши'),
 	 (0,8043,'Кашкалево'),
@@ -8853,7 +8853,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8048,'Кашкино'),
 	 (0,8049,'Кашмаши'),
 	 (0,8050,'Кашпир');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8051,'Каштак'),
 	 (5473,8052,'Кашхатау'),
 	 (0,8053,'Каюрово'),
@@ -8864,7 +8864,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8058,'Каясан'),
 	 (3918,8059,'Каясула'),
 	 (0,8060,'Каяушка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8061,'Каяшкан'),
 	 (0,8062,'Квазеньга'),
 	 (0,8063,'Квакшино'),
@@ -8875,7 +8875,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8068,'Кварса'),
 	 (0,8069,'Кварцитный'),
 	 (0,8070,'Квасниковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8071,'Кватчи'),
 	 (0,8072,'Квашенки'),
 	 (0,8073,'Квашино'),
@@ -8886,7 +8886,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8078,'Кебезень'),
 	 (0,8079,'Кебраты'),
 	 (0,8080,'Кебячево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8081,'Кевдо-Вершина'),
 	 (0,8082,'Кевдо-Мельситово'),
 	 (0,8083,'Кеврола'),
@@ -8897,7 +8897,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8088,'Кедвавом'),
 	 (4798,8089,'Кедровка'),
 	 (5729,8090,'Кедровое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1257,8091,'Кедровый'),
 	 (0,8092,'Кедровый Шор'),
 	 (0,8093,'Кедрозеро'),
@@ -8908,7 +8908,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8098,'Кейзес'),
 	 (0,8099,'Кекен-Васильевка'),
 	 (0,8100,'Кекино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8101,'Кекоран'),
 	 (0,8102,'Кекур'),
 	 (0,8103,'Келей'),
@@ -8919,7 +8919,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4230,8108,'Кельмаксола'),
 	 (0,8109,'Кельтей Большой'),
 	 (0,8110,'Кельчино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8111,'Кельчиюр'),
 	 (0,8112,'Кемеш-Куль'),
 	 (0,8113,'Кемля'),
@@ -8930,7 +8930,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1079,8118,'Кемь'),
 	 (0,8119,'Кенада'),
 	 (0,8120,'Кенгер-Менеуз');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8121,'Кендектамак'),
 	 (0,8122,'Кенделен'),
 	 (0,8123,'Кендя (село)'),
@@ -8941,7 +8941,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8128,'Кептин'),
 	 (0,8129,'Керамзитовый'),
 	 (0,8130,'Керамкомбинат');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8131,'Кергуды'),
 	 (0,8132,'Кердем'),
 	 (0,8133,'Керекес'),
@@ -8952,7 +8952,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8138,'Керки'),
 	 (0,8139,'Керлигач'),
 	 (0,8140,'Керос');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8141,'Керуембай'),
 	 (5826,8142,'Керчевский'),
 	 (6856,8143,'Керчик-Савров'),
@@ -8963,7 +8963,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8148,'Кесова Гора'),
 	 (0,8149,'Кесово'),
 	 (0,8150,'Кестеньга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8151,'Кестым'),
 	 (0,8152,'Кесьма'),
 	 (4959,8153,'Кетово'),
@@ -8974,7 +8974,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8158,'Кечасово'),
 	 (0,8159,'Кечево'),
 	 (0,8160,'Кечушево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8161,'Кзыл Агаш'),
 	 (0,8162,'Кзыл Тау'),
 	 (0,8163,'Кзыл Чишма'),
@@ -8985,7 +8985,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8168,'Кианкиз'),
 	 (0,8169,'Кибечкасы'),
 	 (0,8170,'Киваи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8171,'Кивать'),
 	 (0,8172,'Киверичи'),
 	 (0,8173,'Кигазы'),
@@ -8996,7 +8996,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8178,'Кидюга'),
 	 (0,8179,'Киебак'),
 	 (0,8180,'Киева');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8181,'Киевка'),
 	 (0,8182,'Киево-Жураки'),
 	 (4599,8183,'Киевский'),
@@ -9007,7 +9007,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8188,'Кизганбашево'),
 	 (1325,8189,'Кизел'),
 	 (6314,8190,'Кизема');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5790,8191,'Кизильское'),
 	 (4202,8192,'Кизнер'),
 	 (0,8193,'Кизнер (войсковая часть)'),
@@ -9018,7 +9018,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8198,'Кика'),
 	 (0,8199,'Киквидзе'),
 	 (0,8200,'Кикерино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8201,'Кикино'),
 	 (4446,8202,'Кикнур'),
 	 (0,8203,'Кикуни'),
@@ -9029,7 +9029,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8208,'Килим'),
 	 (0,8209,'Килинск'),
 	 (5343,8210,'Килинчи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8211,'Килпъявр'),
 	 (0,8212,'Кильдебяк'),
 	 (4110,8213,'Кильдинстрой'),
@@ -9040,7 +9040,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8218,'Килянки'),
 	 (0,8219,'Килятль'),
 	 (0,8220,'Ким');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8221,'Кимильтей'),
 	 (0,8222,'Кимоваара'),
 	 (0,8223,'Кина'),
@@ -9051,7 +9051,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8228,'Кинелахта'),
 	 (2521,8229,'Кинель-Черкассы'),
 	 (0,8230,'Кинельский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8231,'Кинеры'),
 	 (0,8232,'Кинерь'),
 	 (0,8233,'Кинзебулатово'),
@@ -9062,7 +9062,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8238,'Кипель'),
 	 (5424,8239,'Кипень'),
 	 (0,8240,'Кипиево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8241,'Кипрево'),
 	 (0,8242,'Киприно'),
 	 (0,8243,'Кипрушино'),
@@ -9073,7 +9073,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8248,'Кир-Тлявли'),
 	 (0,8249,'Кирба'),
 	 (0,8250,'Кирби');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8251,'Кирга'),
 	 (5155,8252,'Киргиз-Мияки'),
 	 (0,8253,'Киргинцево'),
@@ -9084,7 +9084,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8258,'Киреевское Второе'),
 	 (0,8259,'Кирей'),
 	 (0,8260,'Кирельское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1134,8261,'Киренск'),
 	 (1723,8262,'Киржач'),
 	 (0,8263,'Киржеманы'),
@@ -9095,7 +9095,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8268,'Кириково'),
 	 (0,8269,'Кириллино'),
 	 (1746,8270,'Кириллов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3209,8271,'Кирилловка'),
 	 (0,8272,'Кириллово'),
 	 (0,8273,'Кириллы'),
@@ -9106,7 +9106,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8278,'Кирова'),
 	 (0,8279,'Кироваул'),
 	 (1282,8280,'Кировград');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8281,'Кировка'),
 	 (0,8282,'Кирово'),
 	 (0,8283,'Кировск (поселок)'),
@@ -9117,7 +9117,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8288,'Кирпичного завода'),
 	 (0,8289,'Кирпичного Завода № 1'),
 	 (0,8290,'Кирпичное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8291,'Кирпичный'),
 	 (1666,8292,'Кирс'),
 	 (0,8293,'Кирса'),
@@ -9128,7 +9128,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8298,'Кирчиж'),
 	 (0,8299,'Киршино'),
 	 (0,8300,'Кирьяново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8301,'Кирюшкино'),
 	 (0,8302,'Киря'),
 	 (0,8303,'Кирябинское'),
@@ -9139,7 +9139,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8308,'Кисельня'),
 	 (0,8309,'Кисла'),
 	 (4672,8310,'Кисловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4576,8311,'Кислово'),
 	 (0,8312,'Кисловское'),
 	 (0,8313,'Кислокан'),
@@ -9150,7 +9150,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8318,'Кистендей'),
 	 (0,8319,'Кистер'),
 	 (0,8320,'Кистутово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8321,'Китаевское'),
 	 (0,8322,'Китайлы'),
 	 (0,8323,'Китерма'),
@@ -9161,7 +9161,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8328,'Киче'),
 	 (4660,8329,'Кичера'),
 	 (0,8330,'Кичи-Балык');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8331,'Кичигамри'),
 	 (0,8332,'Кичигино'),
 	 (0,8333,'Кичкальня'),
@@ -9172,7 +9172,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6013,8338,'Кичменгский Городок'),
 	 (0,8339,'Кичменьга'),
 	 (0,8340,'Кичуй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8341,'Кичучатово'),
 	 (0,8342,'Кишалы'),
 	 (0,8343,'Кишиневка'),
@@ -9183,7 +9183,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5475,8348,'Кишпек'),
 	 (0,8349,'Кища'),
 	 (0,8350,'Кияик');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8351,'Кияй'),
 	 (4204,8352,'Киясово'),
 	 (0,8353,'Кият'),
@@ -9194,7 +9194,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8358,'Клеванцово'),
 	 (0,8359,'Клевенка'),
 	 (0,8360,'Клевень');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8361,'Клевцово (Карловское с/п)'),
 	 (0,8362,'Клекотки'),
 	 (0,8363,'Клеменово'),
@@ -9205,7 +9205,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8368,'Кленовское'),
 	 (0,8369,'Клепечиха'),
 	 (0,8370,'Клепики');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8371,'Клепиково'),
 	 (0,8372,'Клепка'),
 	 (0,8373,'Клеповка'),
@@ -9216,7 +9216,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8378,'Клетско-Почтовский'),
 	 (0,8379,'Клещевка'),
 	 (0,8380,'Клещево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8381,'Клизново'),
 	 (0,8382,'Климатино'),
 	 (0,8383,'Клименки'),
@@ -9227,7 +9227,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8388,'Климово'),
 	 (0,8389,'Климовская'),
 	 (4325,8390,'Климовское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8391,'Климовское (Ермаковский с/о)'),
 	 (0,8392,'Климоуцы'),
 	 (0,8393,'Климщина'),
@@ -9238,7 +9238,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8398,'Кличхан'),
 	 (0,8399,'Клишева'),
 	 (0,8400,'Клишино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8401,'Клопинка'),
 	 (0,8402,'Клопицы'),
 	 (0,8403,'Клочки'),
@@ -9249,7 +9249,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8408,'Клушино'),
 	 (0,8409,'Клюев'),
 	 (0,8410,'Клюевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8411,'Клюква'),
 	 (0,8412,'Клюквенное'),
 	 (0,8413,'Клюквенный'),
@@ -9260,7 +9260,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8418,'Ключевая'),
 	 (0,8419,'Ключевка'),
 	 (0,8420,'Ключевой');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8421,'Ключевск'),
 	 (0,8422,'Ключевский'),
 	 (0,8423,'Ключевское'),
@@ -9271,7 +9271,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8428,'Ключищи'),
 	 (0,8429,'Клюшина Гора'),
 	 (3042,8430,'Клявлино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8431,'Клязьминский Городок'),
 	 (0,8432,'Кляпово'),
 	 (0,8433,'Клястицкое'),
@@ -9282,7 +9282,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8438,'Кневичи'),
 	 (0,8439,'Кнорринг'),
 	 (0,8440,'Княжево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8441,'Княженский'),
 	 (0,8442,'Княжиха'),
 	 (0,8443,'Княжьи Горы'),
@@ -9293,7 +9293,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8448,'Княщины'),
 	 (5390,8449,'Коашва'),
 	 (0,8450,'Кобелево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8451,'Коби'),
 	 (0,8452,'Кобляково'),
 	 (0,8453,'Коболдо'),
@@ -9304,7 +9304,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8458,'Кобылки'),
 	 (0,8459,'Кобылкино'),
 	 (0,8460,'Кобыльск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8461,'Кобь'),
 	 (0,8462,'Кобяй'),
 	 (0,8463,'Кобякино'),
@@ -9315,7 +9315,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8468,'Ковалевское'),
 	 (0,8469,'Коваленко'),
 	 (0,8470,'Ковали');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8471,'Ковардицы'),
 	 (0,8472,'Коварды'),
 	 (0,8473,'Коварзино'),
@@ -9326,7 +9326,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8478,'Ковран'),
 	 (0,8479,'Коврига'),
 	 (0,8480,'Ковригино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8481,'Ковригино (Ковригинский с/с)'),
 	 (0,8482,'Коврижка'),
 	 (0,8483,'Коврино'),
@@ -9337,7 +9337,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8488,'Ковылкин'),
 	 (0,8489,'Ковыляевка'),
 	 (0,8490,'Коготково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8491,'Кодино'),
 	 (1160,8492,'Кодинск'),
 	 (0,8493,'Кодское'),
@@ -9348,7 +9348,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8498,'Кожаны'),
 	 (5360,8499,'Кожва'),
 	 (0,8500,'Кожважи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4673,8501,'Кожевниково'),
 	 (0,8502,'Кожевниково-на-Шегарке'),
 	 (0,8503,'Кожило'),
@@ -9359,7 +9359,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8508,'Коза'),
 	 (1867,8509,'Козельск'),
 	 (0,8510,'Козельское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8511,'Козет'),
 	 (0,8512,'Козиково'),
 	 (0,8513,'Козинка'),
@@ -9370,7 +9370,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1655,8518,'Козловка'),
 	 (0,8519,'Козлово'),
 	 (0,8520,'Козловская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8521,'Козловский'),
 	 (0,8522,'Козуль'),
 	 (4758,8523,'Козулька'),
@@ -9381,7 +9381,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8528,'Козьминка'),
 	 (0,8529,'Козьмино'),
 	 (0,8530,'Козьмогородское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8531,'Козьмодемьян'),
 	 (0,8532,'Козьмодемьяновка'),
 	 (1623,8533,'Козьмодемьянск'),
@@ -9392,7 +9392,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8538,'Козяково-Челны'),
 	 (0,8539,'Кой'),
 	 (6432,8540,'Койгородок');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8541,'Койда'),
 	 (0,8542,'Койдан'),
 	 (0,8543,'Койдин'),
@@ -9403,7 +9403,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8548,'Кокман'),
 	 (0,8549,'Коковка'),
 	 (0,8550,'Коконовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5932,8551,'Кокоревка'),
 	 (0,8552,'Кокорево'),
 	 (0,8553,'Кокорина'),
@@ -9414,7 +9414,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8558,'Кокрек'),
 	 (4518,8559,'Коксовый'),
 	 (0,8560,'Коктюбей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8561,'Коктюль'),
 	 (0,8562,'Кокуй'),
 	 (0,8563,'Кокуй 1-й'),
@@ -9425,7 +9425,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8568,'Кокшаровка'),
 	 (0,8569,'Кокши'),
 	 (0,8570,'Колатсельга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8571,'Колбаны'),
 	 (0,8572,'Колбаса'),
 	 (0,8573,'Колбинка'),
@@ -9436,7 +9436,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8578,'Колежма (село)'),
 	 (0,8579,'Колендо'),
 	 (0,8580,'Колено');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8581,'Коленово'),
 	 (0,8582,'Колесников'),
 	 (0,8583,'Колесниково'),
@@ -9447,7 +9447,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8588,'Колмаково'),
 	 (0,8589,'Колмогорово'),
 	 (0,8590,'Коло');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8591,'Колоб'),
 	 (0,8592,'Колобовка'),
 	 (0,8593,'Колобово'),
@@ -9458,7 +9458,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8598,'Кологривово'),
 	 (0,8599,'Колодеевка'),
 	 (0,8600,'Колодежное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8601,'Колодези'),
 	 (3805,8602,'Колодезный'),
 	 (0,8603,'Колодинка'),
@@ -9469,7 +9469,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8608,'Колокольцовка'),
 	 (0,8609,'Коломенка'),
 	 (0,8610,'Коломенское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8611,'Коломинские Гривы'),
 	 (0,8612,'Коломна-1'),
 	 (0,8613,'Коломыцево'),
@@ -9480,7 +9480,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8618,'Колопино'),
 	 (0,8619,'Колос'),
 	 (0,8620,'Колосистый');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8621,'Колосково'),
 	 (4703,8622,'Колосовка'),
 	 (0,8623,'Колосово'),
@@ -9491,7 +9491,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8628,'Колояр'),
 	 (0,8629,'Колпаковка'),
 	 (0,8630,'Колпаково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8631,'Колпакское'),
 	 (1258,8632,'Колпашево'),
 	 (0,8633,'Колпашница'),
@@ -9502,7 +9502,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8638,'Колташево'),
 	 (0,8639,'Колтово'),
 	 (0,8640,'Колтовское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8641,'Колтубанка'),
 	 (4269,8642,'Колтубановский'),
 	 (0,8643,'Колтуновка'),
@@ -9513,7 +9513,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8648,'Колхозная Ахтуба'),
 	 (0,8649,'Колхозный'),
 	 (5426,8650,'Колчаново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6639,8651,'Колчедан'),
 	 (0,8652,'Колчино'),
 	 (0,8653,'Колшево'),
@@ -9524,7 +9524,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2957,8658,'Колывань'),
 	 (0,8659,'Колымское'),
 	 (0,8660,'Колыон');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8661,'Колыхманово'),
 	 (0,8662,'Колычево'),
 	 (0,8663,'Колышкино'),
@@ -9535,7 +9535,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8668,'Кольцово'),
 	 (0,8669,'Кольчегиз'),
 	 (0,8670,'Кольчуг');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8671,'Колюбакино'),
 	 (0,8672,'Колюды'),
 	 (0,8673,'Колюпаново'),
@@ -9546,7 +9546,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8678,'Комариха'),
 	 (0,8679,'Комарихинский'),
 	 (4065,8680,'Комаричи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8681,'Комаров'),
 	 (0,8682,'Комаровка'),
 	 (0,8683,'Комарово'),
@@ -9557,7 +9557,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8688,'Комгарон'),
 	 (0,8689,'Коменки'),
 	 (0,8690,'Коминтерн');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8691,'Комиссаровка'),
 	 (0,8692,'Комиссарово'),
 	 (0,8693,'Коммаяк'),
@@ -9568,7 +9568,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4302,8698,'Коммунарка'),
 	 (0,8699,'Коммунаров'),
 	 (0,8700,'Коммунарский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8701,'Коммунары'),
 	 (5004,8702,'Коммунистический'),
 	 (0,8703,'Коморгузя'),
@@ -9579,7 +9579,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8708,'Комсомольск'),
 	 (0,8709,'Комсомольск-31'),
 	 (0,8710,'Комсомольск-на-Печоре');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8711,'Комсомольская'),
 	 (5191,8712,'Комсомольский'),
 	 (0,8713,'Комсомольского Отделения'),
@@ -9590,7 +9590,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5005,8718,'Кондинское'),
 	 (6564,8719,'Кондоль'),
 	 (0,8720,'Кондома');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8721,'Кондон'),
 	 (1080,8722,'Кондопога'),
 	 (0,8723,'Кондратовка'),
@@ -9601,7 +9601,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8728,'Кондрашкино'),
 	 (0,8729,'Кондровка'),
 	 (1868,8730,'Кондрово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8731,'Кондряево'),
 	 (0,8732,'Кондуй'),
 	 (0,8733,'Кондуровка (село)'),
@@ -9612,7 +9612,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6803,8738,'Конезавод имени Буденного'),
 	 (0,8739,'Конезаводский'),
 	 (0,8740,'Конезерье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8741,'Конергино'),
 	 (0,8742,'Конецгорье'),
 	 (0,8743,'Конищево'),
@@ -9623,7 +9623,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8748,'Коновалова'),
 	 (0,8749,'Коноваловка'),
 	 (0,8750,'Коновалово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3277,8751,'Коноково'),
 	 (0,8752,'Коноковский'),
 	 (0,8753,'Кононово'),
@@ -9634,7 +9634,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8758,'Коношаново'),
 	 (2656,8759,'Константиновка'),
 	 (0,8760,'Константиново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3781,8761,'Константиновская'),
 	 (4309,8762,'Константиновский'),
 	 (3782,8763,'Константиновское'),
@@ -9645,7 +9645,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8768,'Контуганово'),
 	 (0,8769,'Кончанско-Суворовское'),
 	 (0,8770,'Кончезеро');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8771,'Конченбург'),
 	 (0,8772,'Кончинка'),
 	 (3831,8773,'Конышевка'),
@@ -9656,7 +9656,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8778,'Кооператор'),
 	 (0,8779,'Копально'),
 	 (0,8780,'Копанище');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8781,'Копанки'),
 	 (0,8782,'Копанная 1-я'),
 	 (0,8783,'Копановка'),
@@ -9667,7 +9667,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8788,'Копенки'),
 	 (0,8789,'Копенкина'),
 	 (0,8790,'Копки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8791,'Копкуль'),
 	 (0,8792,'Копнино'),
 	 (0,8793,'Коповка'),
@@ -9678,7 +9678,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8798,'Коптелово'),
 	 (0,8799,'Коптяжево'),
 	 (0,8800,'Коптяки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8801,'Копунь'),
 	 (0,8802,'Копыл'),
 	 (0,8803,'Копыловка'),
@@ -9689,7 +9689,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8808,'Корак-Чурачики'),
 	 (0,8809,'Корболиха'),
 	 (0,8810,'Коргон');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8811,'Коргуза'),
 	 (0,8812,'Кордово'),
 	 (0,8813,'Кордон'),
@@ -9700,7 +9700,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8818,'Корекозево'),
 	 (3832,8819,'Коренево'),
 	 (0,8820,'Коренево (пгт)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8821,'Коренево (село)'),
 	 (0,8822,'Кореневщино'),
 	 (0,8823,'Коренное'),
@@ -9711,7 +9711,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8828,'Коржово-Голубовка'),
 	 (5391,8829,'Корзуново'),
 	 (0,8830,'Коркатово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8831,'Коркинское'),
 	 (5587,8832,'Коркмаскала'),
 	 (0,8833,'Корлики'),
@@ -9722,7 +9722,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8838,'Кормовище'),
 	 (0,8839,'Кормовое'),
 	 (0,8840,'Кормужиханка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8841,'Корнево'),
 	 (0,8842,'Корневое'),
 	 (0,8843,'Корнеевка'),
@@ -9733,7 +9733,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8848,'Коробицыно'),
 	 (5192,8849,'Коробкин'),
 	 (0,8850,'Коробовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8851,'Коробово'),
 	 (0,8852,'Коробчеево'),
 	 (0,8853,'Коровий Ручей'),
@@ -9744,7 +9744,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8858,'Коровье'),
 	 (0,8859,'Коровье Болото'),
 	 (0,8860,'Коровяковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8861,'Королевка'),
 	 (0,8862,'Королево'),
 	 (0,8863,'Королевский'),
@@ -9755,7 +9755,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8868,'Коромысловка'),
 	 (0,8869,'Коростелево'),
 	 (0,8870,'Коростино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8871,'Коростынь'),
 	 (0,8872,'Короськово'),
 	 (0,8873,'Коротецкая'),
@@ -9766,7 +9766,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8878,'Коротыш'),
 	 (1823,8879,'Короча'),
 	 (0,8880,'Корочка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8881,'Корсабаш'),
 	 (0,8882,'Корсаевка'),
 	 (1964,8883,'Корсаков'),
@@ -9777,7 +9777,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8888,'Корсук'),
 	 (0,8889,'Корсунский'),
 	 (0,8890,'Корсунь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8891,'Корта'),
 	 (5705,8892,'Корткерос'),
 	 (0,8893,'Кортуз'),
@@ -9788,7 +9788,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8898,'Корчевня'),
 	 (0,8899,'Корчино'),
 	 (0,8900,'Коршево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8901,'Коршик'),
 	 (0,8902,'Коршуновка'),
 	 (0,8903,'Коршуново'),
@@ -9799,7 +9799,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8908,'Коряки'),
 	 (0,8909,'Корякино'),
 	 (0,8910,'Коса');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8911,'Коса (село)'),
 	 (0,8912,'Косарево'),
 	 (0,8913,'Косая Гора'),
@@ -9810,7 +9810,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8918,'Косиново'),
 	 (0,8919,'Косинское'),
 	 (4911,8920,'Косиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8921,'Косицкое'),
 	 (0,8922,'Косицы'),
 	 (0,8923,'Косицыно'),
@@ -9821,7 +9821,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8928,'Космачевка'),
 	 (0,8929,'Космодемьянский'),
 	 (0,8930,'Космынино (поселок)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8931,'Кособ'),
 	 (0,8932,'Кособоково'),
 	 (0,8933,'Кособродка'),
@@ -9832,7 +9832,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8938,'Коста'),
 	 (0,8939,'Костарево'),
 	 (0,8940,'Костек');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8941,'Костельцево'),
 	 (0,8942,'Костемерово'),
 	 (0,8943,'Костенеево'),
@@ -9843,7 +9843,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1726,8948,'Костерево'),
 	 (0,8949,'Костин Лог'),
 	 (0,8950,'Костино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8951,'Костино (село)'),
 	 (6845,8952,'Костино-Быстрянский'),
 	 (0,8953,'Костино-Отделец'),
@@ -9854,7 +9854,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8958,'Кострова'),
 	 (0,8959,'Кострово'),
 	 (0,8960,'Костромская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8961,'Костромское'),
 	 (0,8962,'Костыгин Лог'),
 	 (0,8963,'Костылево'),
@@ -9865,7 +9865,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8968,'Костянка'),
 	 (0,8969,'Косулино'),
 	 (0,8970,'Коськово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8971,'Косьювом'),
 	 (0,8972,'Косья'),
 	 (0,8973,'Косякино'),
@@ -9876,7 +9876,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8978,'Котельников'),
 	 (1517,8979,'Котельниково'),
 	 (0,8980,'Котельницы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1667,8981,'Котельнич'),
 	 (5427,8982,'Котельский'),
 	 (0,8983,'Котерево'),
@@ -9887,7 +9887,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8988,'Коткишево'),
 	 (0,8989,'Коткозеро'),
 	 (0,8990,'Котлован');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,8991,'Котловка'),
 	 (0,8992,'Котлово'),
 	 (0,8993,'Котлубань'),
@@ -9898,7 +9898,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,8998,'Котоврас'),
 	 (0,8999,'Котовский'),
 	 (0,9000,'Котовщиково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9001,'Которь'),
 	 (0,9002,'Коточиги'),
 	 (0,9003,'Котчиха'),
@@ -9909,7 +9909,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9008,'Кочево'),
 	 (0,9009,'Кочегуры'),
 	 (0,9010,'Кочелаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3712,9011,'Коченево'),
 	 (0,9012,'Коченяевка'),
 	 (0,9013,'Кочергино'),
@@ -9920,7 +9920,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9018,'Кочетовская'),
 	 (0,9019,'Кочишево'),
 	 (0,9020,'Кочкарь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4836,9021,'Кочки'),
 	 (0,9022,'Кочкино'),
 	 (0,9023,'Кочко-Пожарки'),
@@ -9931,7 +9931,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9028,'Кочневское'),
 	 (3731,9029,'Кочубеевское'),
 	 (0,9030,'Кочубей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9031,'Кочуново'),
 	 (0,9032,'Кочуры'),
 	 (0,9033,'Кочхюр'),
@@ -9942,7 +9942,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9038,'Кошево'),
 	 (0,9039,'Кошелевицы'),
 	 (0,9040,'Кошелевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9041,'Кошелево'),
 	 (0,9042,'Кошелиха'),
 	 (5552,9043,'Кошехабль'),
@@ -9953,7 +9953,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9048,'Кошки-Шемякино'),
 	 (0,9049,'Кошкин'),
 	 (0,9050,'Кошкуль (аул)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9051,'Кошлаково'),
 	 (0,9052,'Кошлоуши'),
 	 (0,9053,'Кошноруй'),
@@ -9964,7 +9964,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9058,'Кощеево'),
 	 (0,9059,'Кощино'),
 	 (0,9060,'Коянбай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9061,'Кояново'),
 	 (0,9062,'Крабозаводское'),
 	 (0,9063,'Крадихино'),
@@ -9975,7 +9975,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9068,'Крайчиково'),
 	 (0,9069,'Крамино'),
 	 (0,9070,'Крапивенский-2');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4799,9071,'Крапивинский'),
 	 (0,9072,'Крапивка'),
 	 (0,9073,'Крапивна'),
@@ -9986,7 +9986,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9078,'Красавка'),
 	 (0,9079,'Красивка'),
 	 (0,9080,'Красивое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9081,'Красильниково (поселок)'),
 	 (0,9082,'Красино'),
 	 (0,9083,'Красинское'),
@@ -9997,7 +9997,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9088,'Красная Балтия'),
 	 (0,9089,'Красная Воля'),
 	 (4064,9090,'Красная Гора');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4300,9091,'Красная Горбатка'),
 	 (0,9092,'Красная Горка'),
 	 (0,9093,'Красная Грива'),
@@ -10008,7 +10008,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9098,'Красная Звезда'),
 	 (0,9099,'Красная Зорька'),
 	 (0,9100,'Красная Ималка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9101,'Красная Кадка'),
 	 (0,9102,'Красная Кудрявка'),
 	 (0,9103,'Красная Нива'),
@@ -10019,7 +10019,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9108,'Красная Пресня'),
 	 (0,9109,'Красная Река'),
 	 (0,9110,'Красная Речка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9111,'Красная Сибирь'),
 	 (0,9112,'Красная Слобода'),
 	 (0,9113,'Красная Слобода (Краснослободский с/с)'),
@@ -10030,7 +10030,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9118,'Красная Улька'),
 	 (0,9119,'Красная Ушна'),
 	 (3054,9120,'Красная Яруга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9121,'Красниково'),
 	 (0,9122,'Краснинский'),
 	 (0,9123,'Краснинское'),
@@ -10041,7 +10041,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9128,'Краснобашкирский'),
 	 (0,9129,'Краснобор'),
 	 (5121,9130,'Красноборск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4796,9131,'Краснобродский'),
 	 (0,9132,'Красновидово'),
 	 (0,9133,'Красновичи'),
@@ -10052,7 +10052,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9138,'Красногвардейский'),
 	 (2392,9139,'Красногвардейское'),
 	 (0,9140,'Красноглинное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9141,'Красноглинный'),
 	 (0,9142,'Красногор'),
 	 (0,9143,'Красногорка'),
@@ -10063,7 +10063,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9148,'Красногорская'),
 	 (0,9149,'Красногорский'),
 	 (4205,9150,'Красногорское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9151,'Красногорье'),
 	 (0,9152,'Красногорьевка'),
 	 (0,9153,'Красногорьевский'),
@@ -10074,7 +10074,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9158,'Краснодонский'),
 	 (0,9159,'Краснодубровинский'),
 	 (0,9160,'Красное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9161,'Красное (деревня)'),
 	 (0,9162,'Красное (село)'),
 	 (0,9163,'Красное Заречье'),
@@ -10085,7 +10085,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2522,9168,'Красное Село'),
 	 (0,9169,'Красное Эхо'),
 	 (4350,9170,'Красное-на-Волге');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2067,9171,'Краснозаводск'),
 	 (0,9172,'Краснозатонский'),
 	 (4837,9173,'Краснозерское'),
@@ -10096,7 +10096,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9178,'Красноисетское'),
 	 (1195,9179,'Краснокаменск'),
 	 (0,9180,'Краснокоротовская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3785,9181,'Краснокумское'),
 	 (0,9182,'Краснокутская'),
 	 (0,9183,'Красноленинский'),
@@ -10107,7 +10107,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9188,'Красномайский'),
 	 (0,9189,'Красномихайловское'),
 	 (0,9190,'Красномыльское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3690,9191,'Краснообск'),
 	 (0,9192,'Красноозерное'),
 	 (0,9193,'Красноозерный'),
@@ -10118,7 +10118,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9198,'Краснопартизанск'),
 	 (0,9199,'Краснопартизанский'),
 	 (0,9200,'Краснопартизанское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9201,'Краснополец'),
 	 (0,9202,'Краснополка'),
 	 (0,9203,'Краснополье'),
@@ -10129,7 +10129,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9208,'Красносамарское'),
 	 (0,9209,'Красносвободное'),
 	 (0,9210,'Красноселец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9211,'Красноселка'),
 	 (0,9212,'Красноселовка'),
 	 (0,9213,'Красноселово'),
@@ -10140,7 +10140,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9218,'Красносельское'),
 	 (0,9219,'Краснослободск'),
 	 (0,9220,'Краснослободский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9221,'Краснослободское'),
 	 (0,9222,'Красностепной'),
 	 (0,9223,'Красноталовский'),
@@ -10151,7 +10151,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1285,9228,'Красноуфимск'),
 	 (0,9229,'Краснофарфорный'),
 	 (0,9230,'Краснофлотский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9231,'Краснофлотское'),
 	 (4268,9232,'Краснохолм'),
 	 (5145,9233,'Краснохолмский'),
@@ -10162,7 +10162,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9238,'Краснояр'),
 	 (0,9239,'Краснояр 1'),
 	 (4705,9240,'Красноярка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9241,'Красноярка (поселок)'),
 	 (0,9242,'Красноярово'),
 	 (0,9243,'Красноярская'),
@@ -10173,7 +10173,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4594,9248,'Красные Баррикады'),
 	 (0,9249,'Красные Буйцы'),
 	 (0,9250,'Красные Горки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9251,'Красные Гривки'),
 	 (0,9252,'Красные Дома'),
 	 (0,9253,'Красные Ключи'),
@@ -10184,7 +10184,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6338,9258,'Красные Ткачи'),
 	 (4219,9259,'Красные Четаи'),
 	 (4349,9260,'Красный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9261,'Красный (Октябрьский с/с)'),
 	 (0,9262,'Красный Адуй'),
 	 (0,9263,'Красный Алтай'),
@@ -10195,7 +10195,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9268,'Красный Бор'),
 	 (0,9269,'Красный Бор (поселок)'),
 	 (0,9270,'Красный Ватрас');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9271,'Красный Великан'),
 	 (0,9272,'Красный Восток'),
 	 (0,9273,'Красный Восход'),
@@ -10206,7 +10206,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9278,'Красный Завод'),
 	 (0,9279,'Красный Зилим'),
 	 (0,9280,'Красный Клин');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9281,'Красный Ключ'),
 	 (0,9282,'Красный Колодец'),
 	 (0,9283,'Красный Колос'),
@@ -10217,7 +10217,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9288,'Красный Куст'),
 	 (1605,9289,'Красный Кут'),
 	 (0,9290,'Красный Куток');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9291,'Красный Лиман 1-й'),
 	 (0,9292,'Красный Лиман 2-й'),
 	 (0,9293,'Красный Лог'),
@@ -10228,7 +10228,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9298,'Красный Мелиоратор'),
 	 (0,9299,'Красный Мост'),
 	 (4318,9300,'Красный Октябрь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9301,'Красный Остров'),
 	 (0,9302,'Красный Партизан'),
 	 (0,9303,'Красный Пахарь'),
@@ -10239,7 +10239,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9308,'Красный Сад'),
 	 (0,9309,'Красный Сокол'),
 	 (0,9310,'Красный Стекловар');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9311,'Красный Строитель'),
 	 (0,9312,'Красный Текстильщик'),
 	 (0,9313,'Красный Узел'),
@@ -10250,7 +10250,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5092,9318,'Красный Чикой'),
 	 (0,9319,'Красный Шадым'),
 	 (0,9320,'Красный Яг');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4579,9321,'Красный Яр'),
 	 (0,9322,'Красный Ясыл'),
 	 (0,9323,'Краснюков'),
@@ -10261,7 +10261,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9328,'Красюковский'),
 	 (6580,9329,'Кратово'),
 	 (0,9330,'Крашенинино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9331,'Крёкшино'),
 	 (0,9332,'Кременево'),
 	 (1869,9333,'Кременки'),
@@ -10272,7 +10272,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9338,'Кремницкое'),
 	 (0,9339,'Кремово'),
 	 (0,9340,'Кремяное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9341,'Кренево'),
 	 (0,9342,'Крепинский'),
 	 (0,9343,'Крепостная'),
@@ -10283,7 +10283,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9348,'Крестище'),
 	 (0,9349,'Крестниково'),
 	 (0,9350,'Крестовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9351,'Крестово Городище'),
 	 (0,9352,'Крестовоздвиженка'),
 	 (4123,9353,'Крестцы'),
@@ -10294,7 +10294,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9358,'Кречетово'),
 	 (0,9359,'Крещенский'),
 	 (0,9360,'Крещенское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9361,'Кривая Лука'),
 	 (0,9362,'Кривая Поляна'),
 	 (0,9363,'Кривенковское'),
@@ -10305,7 +10305,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9368,'Кривле-Илюшкино'),
 	 (0,9369,'Кривляк'),
 	 (4838,9370,'Криводановка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9371,'Кривое'),
 	 (3404,9372,'Кривое Озеро'),
 	 (0,9373,'Кривозерье'),
@@ -10316,7 +10316,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9378,'Криволучье'),
 	 (0,9379,'Криволучье-Ивановка'),
 	 (0,9380,'Кривоносово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9381,'Кривоозерки'),
 	 (0,9382,'Кривополянье'),
 	 (0,9383,'Криворожье'),
@@ -10327,7 +10327,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9388,'Кривояш'),
 	 (0,9389,'Кривское'),
 	 (0,9390,'Кривцово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9391,'Кривцы'),
 	 (0,9392,'Кривцы (поселок)'),
 	 (0,9393,'Кривчее'),
@@ -10338,7 +10338,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9398,'Криница'),
 	 (0,9399,'Кринично-Лугский'),
 	 (0,9400,'Криничное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9401,'Крисаново-Пятница'),
 	 (0,9402,'Кристалка'),
 	 (0,9403,'Критово'),
@@ -10349,7 +10349,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9408,'Кромская'),
 	 (0,9409,'Кромские Быки'),
 	 (0,9410,'Кромской');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3950,9411,'Кромы'),
 	 (2961,9412,'Кронштадт'),
 	 (0,9413,'Кропачёво'),
@@ -10360,7 +10360,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9418,'Кроуновка'),
 	 (0,9419,'Крохалево'),
 	 (0,9420,'Крошнозеро');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9421,'Кругликово'),
 	 (0,9422,'Кругло-Семенцы'),
 	 (0,9423,'Кругловка'),
@@ -10371,7 +10371,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9428,'Круглоозерное'),
 	 (0,9429,'Круглоподпольное'),
 	 (0,9430,'Круглыжи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9431,'Круглянский'),
 	 (0,9432,'Кружилинский'),
 	 (0,9433,'Крупец'),
@@ -10382,7 +10382,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9438,'Крупской'),
 	 (0,9439,'Крутая'),
 	 (0,9440,'Крутая Гора');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9441,'Крутая Горка'),
 	 (0,9442,'Крутец'),
 	 (0,9443,'Крутец (Станковская волость)'),
@@ -10393,7 +10393,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9448,'Крутоберегово'),
 	 (0,9449,'Крутобережный'),
 	 (0,9450,'Крутоборка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9451,'Крутово'),
 	 (0,9452,'Крутовский'),
 	 (0,9453,'Крутогоровский'),
@@ -10404,7 +10404,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9458,'Крутой Лог'),
 	 (0,9459,'Крутой Майдан'),
 	 (0,9460,'Крутой Яр');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9461,'Крутологово'),
 	 (0,9462,'Крутояр'),
 	 (0,9463,'Крутоярский'),
@@ -10415,7 +10415,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9468,'Крутые Хутора'),
 	 (0,9469,'Крученая Балка'),
 	 (0,9470,'Кручи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9471,'Крыжино'),
 	 (0,9472,'Крыжово'),
 	 (5734,9473,'Крылатовский'),
@@ -10426,7 +10426,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9478,'Крым-Сарай'),
 	 (3920,9479,'Крымгиреевское'),
 	 (1450,9480,'Крымск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9481,'Крымская Слудка'),
 	 (0,9482,'Крымский'),
 	 (6664,9483,'Крымское'),
@@ -10437,7 +10437,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9488,'Крюков'),
 	 (0,9489,'Крюковка'),
 	 (6890,9490,'Крюково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9491,'Крючки'),
 	 (0,9492,'Крючковка'),
 	 (0,9493,'Крючково'),
@@ -10448,7 +10448,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9498,'Ксеньевка'),
 	 (0,9499,'Ксеньевская'),
 	 (0,9500,'Ксизово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9501,'Кстинино'),
 	 (0,9502,'Кстово (деревня)'),
 	 (0,9503,'Ктины'),
@@ -10459,7 +10459,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9508,'Куаниб'),
 	 (0,9509,'Куанпамаш'),
 	 (0,9510,'Куба');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9511,'Куба-Таба'),
 	 (0,9512,'Кубанка'),
 	 (0,9513,'Кубанская'),
@@ -10470,7 +10470,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9518,'Кубачи'),
 	 (4326,9519,'Кубенское'),
 	 (0,9520,'Куберганя');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9521,'Кубина'),
 	 (2052,9522,'Кубинка'),
 	 (0,9523,'Кубитет'),
@@ -10481,7 +10481,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9528,'Кубраки'),
 	 (6784,9529,'Кубринск'),
 	 (0,9530,'Кубухай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9531,'Кубяково'),
 	 (0,9532,'Кубян'),
 	 (2889,9533,'Кува'),
@@ -10492,7 +10492,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1568,9538,'Кувандык'),
 	 (0,9539,'Куватка'),
 	 (1797,9540,'Кувшиново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9541,'Кувшинская Салма'),
 	 (0,9542,'Кувшинское'),
 	 (0,9543,'Кувыково'),
@@ -10503,7 +10503,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9548,'Кугарчи'),
 	 (0,9549,'Кугарчино'),
 	 (0,9550,'Кугеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9551,'Кугей'),
 	 (0,9552,'Кугейский'),
 	 (3698,9553,'Кугеси'),
@@ -10514,7 +10514,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9558,'Кугушево'),
 	 (0,9559,'Кугушерга'),
 	 (0,9560,'Куда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9561,'Кудагу'),
 	 (0,9562,'Кудали'),
 	 (0,9563,'Кудама'),
@@ -10525,7 +10525,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9568,'Кудеверь'),
 	 (0,9569,'Кудеевский'),
 	 (0,9570,'Кудеиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9571,'Кудельный Ключ'),
 	 (0,9572,'Кудеснеры'),
 	 (0,9573,'Кудеярово'),
@@ -10536,7 +10536,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9578,'Кудияб-Росо'),
 	 (0,9579,'Кудрино'),
 	 (0,9580,'Кудринская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6059,9581,'Кудрово'),
 	 (0,9582,'Кудрявщино'),
 	 (0,9583,'Кудряевка'),
@@ -10547,7 +10547,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9588,'Куеда (поселок)'),
 	 (0,9589,'Куезбашево'),
 	 (0,9590,'Кужанак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9591,'Кужбал'),
 	 (0,9592,'Кужбахты'),
 	 (4234,9593,'Куженер'),
@@ -10558,7 +10558,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9598,'Кужутки'),
 	 (0,9599,'Кузайкино'),
 	 (0,9600,'Кузаранда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9601,'Кузбаево'),
 	 (0,9602,'Кузбасский'),
 	 (0,9603,'Кузебаево'),
@@ -10569,7 +10569,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9608,'Кузембетьево'),
 	 (0,9609,'Куземино'),
 	 (0,9610,'Куземкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9611,'Куземьярово'),
 	 (4267,9612,'Кузино'),
 	 (0,9613,'Кузкеево'),
@@ -10580,7 +10580,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9618,'Кузнецовка'),
 	 (0,9619,'Кузнецово'),
 	 (0,9620,'Кузнецово (Кузнецовский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9621,'Кузнецовский'),
 	 (0,9622,'Кузнецы'),
 	 (0,9623,'Кузнечиха'),
@@ -10591,7 +10591,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9628,'Кузомень'),
 	 (0,9629,'Кузурово'),
 	 (0,9630,'Кузьель');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9631,'Кузькино'),
 	 (0,9632,'Кузьма'),
 	 (0,9633,'Кузьминичи'),
@@ -10602,7 +10602,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9638,'Кузьминские Отвержки'),
 	 (0,9639,'Кузьминский'),
 	 (0,9640,'Кузьминское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9641,'Кузьмичи'),
 	 (0,9642,'Кузьмищи'),
 	 (0,9643,'Кузьмияр'),
@@ -10613,7 +10613,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9648,'Кузяшева'),
 	 (0,9649,'Куимиха'),
 	 (2718,9650,'Куйбышево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9651,'Куйбышевский'),
 	 (0,9652,'Куйвози'),
 	 (0,9653,'Куймань'),
@@ -10624,7 +10624,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9658,'Кукан'),
 	 (0,9659,'Кукарино'),
 	 (0,9660,'Кукарка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9661,'Кукарки'),
 	 (0,9662,'Кукеево'),
 	 (0,9663,'Кукетский'),
@@ -10635,7 +10635,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9668,'Кукнур'),
 	 (0,9669,'Кукобой'),
 	 (0,9670,'Куковенька');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9671,'Кукольная'),
 	 (0,9672,'Куктяка'),
 	 (0,9673,'Кукуевка'),
@@ -10646,7 +10646,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9678,'Кукушки'),
 	 (5832,9679,'Кукуштан'),
 	 (0,9680,'Кукшумы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9681,'Кулаги'),
 	 (0,9682,'Кулагино'),
 	 (0,9683,'Кулада'),
@@ -10657,7 +10657,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9688,'Куларово'),
 	 (0,9689,'Куларовское'),
 	 (0,9690,'Кулбаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9691,'Кулгунино'),
 	 (1692,9692,'Кулебаки'),
 	 (0,9693,'Кулебакино'),
@@ -10668,7 +10668,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9698,'Кулегаш'),
 	 (0,9699,'Кулецма'),
 	 (4525,9700,'Кулешовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9701,'Кулешово'),
 	 (0,9702,'Кулешовское'),
 	 (0,9703,'Кули'),
@@ -10679,7 +10679,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9708,'Кулижниково'),
 	 (0,9709,'Кулики'),
 	 (3582,9710,'Куликовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9711,'Куликовка Вторая'),
 	 (0,9712,'Куликово'),
 	 (0,9713,'Куликово (поселок)'),
@@ -10690,7 +10690,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9718,'Куликовы Липяги'),
 	 (0,9719,'Кулицкая'),
 	 (0,9720,'Кулиш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9721,'Куллар'),
 	 (0,9722,'Кулле-Кими'),
 	 (0,9723,'Кулмакса'),
@@ -10701,7 +10701,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5833,9728,'Култаево'),
 	 (4866,9729,'Култук'),
 	 (0,9730,'Култуки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9731,'Кулу'),
 	 (0,9732,'Кулуево'),
 	 (0,9733,'Кулужбаева'),
@@ -10712,7 +10712,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9738,'Кулыги'),
 	 (0,9739,'Кульбаево-Мараса'),
 	 (0,9740,'Кульбаки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9741,'Кульбаково'),
 	 (0,9742,'Кульбаш'),
 	 (0,9743,'Кульгеши'),
@@ -10723,7 +10723,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9748,'Кульмино'),
 	 (0,9749,'Кульнево'),
 	 (0,9750,'Кульпино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9751,'Культура'),
 	 (0,9752,'Кульча'),
 	 (0,9753,'Кульчум'),
@@ -10734,7 +10734,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9758,'Кулябовка'),
 	 (0,9759,'Кулясово'),
 	 (0,9760,'Кума');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9761,'Кумак'),
 	 (0,9762,'Кумакское'),
 	 (0,9763,'Кумарейка'),
@@ -10745,7 +10745,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5006,9768,'Куминский'),
 	 (0,9769,'Кумли'),
 	 (0,9770,'Кумляк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9771,'Кумора'),
 	 (0,9772,'Кумордино'),
 	 (0,9773,'Кумса-2'),
@@ -10756,7 +10756,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9778,'Кумысное'),
 	 (5491,9779,'Кумыш'),
 	 (0,9780,'Кумьязы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9781,'Кунакбаево'),
 	 (0,9782,'Кунакулово'),
 	 (0,9783,'Кунарское'),
@@ -10767,7 +10767,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9788,'Кунгер'),
 	 (0,9789,'Кунгуртуг'),
 	 (0,9790,'Кундашлы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9791,'Кундравы'),
 	 (0,9792,'Кундран'),
 	 (0,9793,'Кундряк'),
@@ -10778,7 +10778,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9798,'Кундюковка'),
 	 (0,9799,'Кунерма'),
 	 (0,9800,'Кунзах');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9801,'Кунино'),
 	 (0,9802,'Кунки'),
 	 (0,9803,'Кункур'),
@@ -10789,7 +10789,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9808,'Кунчурук'),
 	 (4118,9809,'Кунья'),
 	 (0,9810,'Куокуну');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9811,'Куорка'),
 	 (0,9812,'Купава'),
 	 (0,9813,'Купай'),
@@ -10800,7 +10800,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9818,'Купреево'),
 	 (0,9819,'Куприяновка'),
 	 (0,9820,'Куприяново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9821,'Купрос'),
 	 (0,9822,'Купсола'),
 	 (0,9823,'Купсола (Кукнурское с/п)'),
@@ -10811,7 +10811,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9828,'Купянка'),
 	 (0,9829,'Кураг'),
 	 (0,9830,'Кураган');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4762,9831,'Курагино'),
 	 (0,9832,'Кураево'),
 	 (0,9833,'Курай'),
@@ -10822,7 +10822,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9838,'Кураповка'),
 	 (0,9839,'Курасовка'),
 	 (0,9840,'Куратово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9841,'Курах'),
 	 (0,9842,'Курачево'),
 	 (0,9843,'Курашим'),
@@ -10833,7 +10833,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9848,'Курганка'),
 	 (0,9849,'Курганный'),
 	 (0,9850,'Курганово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9851,'Кургатово'),
 	 (0,9852,'Кургашево'),
 	 (0,9853,'Кургашла'),
@@ -10844,7 +10844,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9858,'Курдюковская'),
 	 (0,9859,'Курдюм'),
 	 (0,9860,'Курегово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9861,'Куреж'),
 	 (0,9862,'Курейка'),
 	 (0,9863,'Куреть'),
@@ -10855,7 +10855,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9868,'Курилово (Куриловское с/п)'),
 	 (1965,9869,'Курильск'),
 	 (0,9870,'Куринская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9871,'Куркак'),
 	 (0,9872,'Куркачи'),
 	 (0,9873,'Куркебимахи'),
@@ -10866,7 +10866,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4053,9878,'Куркино'),
 	 (0,9879,'Куркино (село)'),
 	 (0,9880,'Куркли');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9881,'Курковицы'),
 	 (0,9882,'Курковичи'),
 	 (0,9883,'Куркуль'),
@@ -10877,7 +10877,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9888,'Курмаевка'),
 	 (4272,9889,'Курманаевка'),
 	 (0,9890,'Курманаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9891,'Курманова'),
 	 (0,9892,'Курмансай'),
 	 (0,9893,'Курми'),
@@ -10888,7 +10888,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9898,'Курово'),
 	 (0,9899,'Куровской'),
 	 (0,9900,'Куропатино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9901,'Курорт'),
 	 (0,9902,'Курорт Озеро Медвежье'),
 	 (0,9903,'Курорт-Дарасун'),
@@ -10899,7 +10899,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9908,'Курск (поселок)'),
 	 (0,9909,'Курск (село)'),
 	 (0,9910,'Курск-Смоленка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9911,'Курская'),
 	 (0,9912,'Курская Васильевка'),
 	 (1311,9913,'Куртамыш'),
@@ -10910,7 +10910,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9918,'Куртуково'),
 	 (0,9919,'Куртюганы'),
 	 (0,9920,'Куруил');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9921,'Курулга'),
 	 (4648,9922,'Курумкан'),
 	 (6581,9923,'Курумоч'),
@@ -10921,7 +10921,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3980,9928,'Курчанская'),
 	 (1883,9929,'Курчатов'),
 	 (0,9930,'Курчум');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9931,'Куршава'),
 	 (5735,9932,'Курьи'),
 	 (0,9933,'Курьинский'),
@@ -10932,7 +10932,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9938,'Кусак'),
 	 (0,9939,'Кусеево'),
 	 (0,9940,'Кусекеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9941,'Кусем'),
 	 (0,9942,'Кусепеево'),
 	 (0,9943,'Кусимово'),
@@ -10943,7 +10943,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9948,'Кусочи'),
 	 (0,9949,'Кустанаевка'),
 	 (0,9950,'Кустаревка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9951,'Кустовое'),
 	 (0,9952,'Кусур'),
 	 (0,9953,'Кусье-Александровский'),
@@ -10954,7 +10954,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9958,'Кутанка'),
 	 (0,9959,'Кутарбитка'),
 	 (0,9960,'Кутафино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9961,'Кутеевка'),
 	 (0,9962,'Кутейниково'),
 	 (0,9963,'Кутейниковская'),
@@ -10965,7 +10965,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9968,'Кутки'),
 	 (0,9969,'Кутлаб'),
 	 (6462,9970,'Кутлу-Букаш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9971,'Кутлуево'),
 	 (0,9972,'Кутлумбетово'),
 	 (0,9973,'Кутлушкино'),
@@ -10976,7 +10976,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9978,'Кутузово'),
 	 (0,9979,'Кутузовский'),
 	 (0,9980,'Кутуково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9981,'Кутул'),
 	 (4867,9982,'Кутулик'),
 	 (0,9983,'Кутучево'),
@@ -10987,7 +10987,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9988,'Куть-Ях'),
 	 (0,9989,'Кутьино'),
 	 (0,9990,'Куфа');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,9991,'Кухаривка'),
 	 (0,9992,'Кухтым'),
 	 (0,9993,'Кучасьево'),
@@ -10998,7 +10998,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,9998,'Кучеров'),
 	 (0,9999,'Кучерово'),
 	 (0,10000,'Кучеряевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10001,'Кучино'),
 	 (0,10002,'Кучки'),
 	 (0,10003,'Кучко-Памаш'),
@@ -11009,7 +11009,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10008,'Куша'),
 	 (0,10009,'Кушавера (станция)'),
 	 (0,10010,'Кушаги');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10011,'Кушалино'),
 	 (1286,10012,'Кушва'),
 	 (0,10013,'Кушеват'),
@@ -11020,7 +11020,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10018,'Кушманаково'),
 	 (0,10019,'Кушмангорт'),
 	 (0,10020,'Кушманы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5135,10021,'Кушнаренково'),
 	 (0,10022,'Кушнур'),
 	 (0,10023,'Куштиль'),
@@ -11031,7 +11031,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10028,'Кушья'),
 	 (0,10029,'Кущапино'),
 	 (0,10030,'Кущёвская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10031,'Куюк'),
 	 (0,10032,'Куюк Ерыкса'),
 	 (0,10033,'Куюргазы'),
@@ -11042,7 +11042,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10038,'Куянлы'),
 	 (0,10039,'Куяново'),
 	 (0,10040,'Куянтаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10041,'Куяр'),
 	 (0,10042,'Куяча'),
 	 (0,10043,'Куяштыр'),
@@ -11053,7 +11053,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10048,'Кшлау-Елга'),
 	 (0,10049,'Кыддзявидзь'),
 	 (0,10050,'Кызлар Бирган');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10051,'Кызлас'),
 	 (0,10052,'Кызыл Бакча'),
 	 (0,10053,'Кызыл-Даг'),
@@ -11064,7 +11064,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10058,'Кызыл-Покун'),
 	 (0,10059,'Кызыл-Тогай'),
 	 (0,10060,'Кызыл-Уруп');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10061,'Кызыл-Хая'),
 	 (0,10062,'Кызыл-Юрт'),
 	 (0,10063,'Кызылбай'),
@@ -11075,7 +11075,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10068,'Кыласово'),
 	 (0,10069,'Кыллах'),
 	 (0,10070,'Кын');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10071,'Кын (село)'),
 	 (5093,10072,'Кыра'),
 	 (4649,10073,'Кырен'),
@@ -11086,7 +11086,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10078,'Кысынды'),
 	 (0,10079,'Кытат'),
 	 (0,10080,'Кытлым');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4916,10081,'Кытманово'),
 	 (0,10082,'Кытыл-Дюра'),
 	 (0,10083,'Кышик'),
@@ -11097,7 +11097,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10088,'Кюерелях'),
 	 (0,10089,'Кюкей'),
 	 (0,10090,'Кюлекянь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10091,'Кюльхири'),
 	 (6900,10092,'Кюндяде'),
 	 (0,10093,'Кюндяе'),
@@ -11108,7 +11108,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10098,'Кюсюр'),
 	 (0,10099,'Кяппесельга (поселок)'),
 	 (5590,10100,'Кяхулай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10101,'Кяччи'),
 	 (0,10102,'Л. Кондратенко'),
 	 (0,10103,'Л. Толстого'),
@@ -11119,7 +11119,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10108,'Лаборовая'),
 	 (1416,10109,'Лабытнанги'),
 	 (0,10110,'Лабышка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10111,'Лава'),
 	 (5289,10112,'Лаврентия'),
 	 (0,10113,'Лаврентьевка'),
@@ -11130,7 +11130,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1555,10118,'Лагань'),
 	 (0,10119,'Лагерево'),
 	 (0,10120,'Лагерка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5430,10121,'Лаголово'),
 	 (0,10122,'Лагуниха'),
 	 (0,10123,'Лагунное'),
@@ -11141,7 +11141,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10128,'Ладва-Ветка'),
 	 (5669,10129,'Ладовская Балка'),
 	 (3278,10130,'Ладожская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10131,'Ладожское'),
 	 (0,10132,'Ладомировка'),
 	 (1028,10133,'Ладушкин'),
@@ -11152,7 +11152,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10138,'Лазазей'),
 	 (0,10139,'Лазарев'),
 	 (0,10140,'Лазарево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10141,'Лазаревский'),
 	 (0,10142,'Лазарицы'),
 	 (0,10143,'Лазарцево'),
@@ -11163,7 +11163,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1636,10148,'Лаишево'),
 	 (0,10149,'Лаймы'),
 	 (0,10150,'Лайский Док');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10151,'Лайтамак'),
 	 (0,10152,'Лака'),
 	 (5915,10153,'Лакаш'),
@@ -11174,7 +11174,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10158,'Лакомая Буда'),
 	 (0,10159,'Лакша'),
 	 (4450,10160,'Лальск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10161,'Ламаново'),
 	 (0,10162,'Ламбас'),
 	 (0,10163,'Ламбасручей'),
@@ -11185,7 +11185,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1371,10168,'Лангепас'),
 	 (0,10169,'Ланда'),
 	 (0,10170,'Ланьшинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10171,'Лапаз'),
 	 (0,10172,'Лапас'),
 	 (4616,10173,'Лапино'),
@@ -11196,7 +11196,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10178,'Лаптюг'),
 	 (0,10179,'Лапушки'),
 	 (0,10180,'Лапшаур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10181,'Лапшино'),
 	 (0,10182,'Лапшинская'),
 	 (0,10183,'Лапшиха'),
@@ -11207,7 +11207,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10188,'Ларинский'),
 	 (0,10189,'Ларионово'),
 	 (0,10190,'Лариха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10191,'Ларичиха'),
 	 (0,10192,'Ларневск'),
 	 (0,10193,'Ларьяк'),
@@ -11218,7 +11218,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10198,'Латное'),
 	 (0,10199,'Латоново'),
 	 (0,10200,'Латышовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10201,'Латышский'),
 	 (1082,10202,'Лахденпохья'),
 	 (0,10203,'Лахколампи'),
@@ -11229,7 +11229,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10208,'Лашма'),
 	 (0,10209,'Лашманка'),
 	 (0,10210,'Лащ-Таяба');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10211,'Лая'),
 	 (0,10212,'ЛДПС'),
 	 (6587,10213,'Лебедевка'),
@@ -11240,7 +11240,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10218,'Лебединое'),
 	 (6908,10219,'Лебединый'),
 	 (0,10220,'Лебедки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10221,'Лебедкино'),
 	 (0,10222,'Лебедянка'),
 	 (0,10223,'Лебяжий'),
@@ -11251,7 +11251,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10228,'Лебяжья Поляна'),
 	 (0,10229,'Лев Толстой'),
 	 (0,10230,'Левали');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10231,'Леваны'),
 	 (0,10232,'Леваш'),
 	 (0,10233,'Леваши'),
@@ -11262,7 +11262,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10238,'Левжа'),
 	 (0,10239,'Левженский'),
 	 (0,10240,'Левино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10241,'Левинцы'),
 	 (0,10242,'Левиха'),
 	 (0,10243,'Левичи'),
@@ -11273,7 +11273,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3789,10248,'Левокумское'),
 	 (0,10249,'Левоча'),
 	 (0,10250,'Левошево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10251,'Левчуновка'),
 	 (0,10252,'Левшинка (село)'),
 	 (0,10253,'Левый Бизяр'),
@@ -11284,7 +11284,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10258,'Ледмозеро'),
 	 (0,10259,'Ледово (поселок)'),
 	 (0,10260,'Ледовское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10261,'Лежанка'),
 	 (0,10262,'Леженьки'),
 	 (4371,10263,'Лежнево'),
@@ -11295,7 +11295,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10268,'Лекечен'),
 	 (0,10269,'Лекма'),
 	 (0,10270,'Лекшур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10271,'Лелечи'),
 	 (0,10272,'Лель'),
 	 (0,10273,'Лельвиж'),
@@ -11306,7 +11306,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10278,'Леметь'),
 	 (0,10279,'Лемешкино'),
 	 (0,10280,'Лемпино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10281,'Лемты'),
 	 (0,10282,'Лена'),
 	 (0,10283,'Лендеры'),
@@ -11317,7 +11317,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10288,'Ленинградская'),
 	 (0,10289,'Ленинградский'),
 	 (0,10290,'Ленинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10291,'Ленинкент'),
 	 (2702,10292,'Ленино'),
 	 (0,10293,'Ленино-Кокушкино'),
@@ -11328,7 +11328,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4452,10298,'Ленинское'),
 	 (0,10299,'Ленинское Возрождение'),
 	 (0,10300,'Ленотап ручей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1178,10301,'Ленск'),
 	 (0,10302,'Ленский'),
 	 (0,10303,'Ленское'),
@@ -11339,7 +11339,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10308,'Леонидово'),
 	 (0,10309,'Леонова'),
 	 (0,10310,'Леоновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10311,'Леоново'),
 	 (0,10312,'Леонтьевка'),
 	 (0,10313,'Леонтьево'),
@@ -11350,7 +11350,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10318,'Леппясюрья (поселок)'),
 	 (0,10319,'Лепша Новый'),
 	 (0,10320,'Лермонтовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10321,'Лермонтово'),
 	 (0,10322,'Лермонтовский'),
 	 (0,10323,'Лескен'),
@@ -11361,7 +11361,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10328,'Лесная Поляна'),
 	 (0,10329,'Лесная Хмелевка'),
 	 (4962,10330,'Лесниково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4376,10331,'Лесное'),
 	 (5916,10332,'Лесное Конобеево'),
 	 (0,10333,'Лесное Уколово'),
@@ -11372,7 +11372,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10338,'Лесогорская'),
 	 (5432,10339,'Лесогорский'),
 	 (0,10340,'Лесогорское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10341,'Лесозавод'),
 	 (0,10342,'Лесозаводский'),
 	 (0,10343,'Лесопильное'),
@@ -11383,7 +11383,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10348,'Летки'),
 	 (0,10349,'Летнево'),
 	 (0,10350,'Летнереченский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10351,'Летний Отдых'),
 	 (4526,10352,'Летник'),
 	 (0,10353,'Летники'),
@@ -11394,7 +11394,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10358,'Летошники'),
 	 (0,10359,'Летуново'),
 	 (0,10360,'Летча');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10361,'Летяжевка'),
 	 (0,10362,'Летяхи'),
 	 (0,10363,'Леуза'),
@@ -11405,7 +11405,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10368,'Леушинская'),
 	 (0,10369,'Лехово'),
 	 (0,10370,'Лехтуси');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10371,'Лечинкай'),
 	 (0,10372,'Лешев Тамак'),
 	 (0,10373,'Лешно'),
@@ -11416,7 +11416,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3866,10378,'Ливенка'),
 	 (0,10379,'Ливер'),
 	 (0,10380,'Лидже');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10381,'Лидино'),
 	 (0,10382,'Лидога'),
 	 (0,10383,'Лизиновка'),
@@ -11427,7 +11427,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10388,'Ликурга'),
 	 (2990,10389,'Лиман'),
 	 (0,10390,'Лиманный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10391,'Лимбяяха'),
 	 (4409,10392,'Линда'),
 	 (0,10393,'Линда (Линдовский с/с)'),
@@ -11438,7 +11438,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10398,'Линейное'),
 	 (0,10399,'Линейный'),
 	 (0,10400,'Линец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10401,'Линово'),
 	 (0,10402,'Линяки'),
 	 (0,10403,'Липаково'),
@@ -11449,7 +11449,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10408,'Липиха'),
 	 (6820,10409,'Липицы'),
 	 (1923,10410,'Липки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10411,'Липлейка'),
 	 (0,10412,'Липная Горка'),
 	 (0,10413,'Липов Кут'),
@@ -11460,7 +11460,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10418,'Липовское'),
 	 (0,10419,'Липовцы'),
 	 (0,10420,'Липчанка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10421,'Липчинское'),
 	 (0,10422,'Липшани'),
 	 (0,10423,'Липяги'),
@@ -11471,7 +11471,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10428,'Лиски (село)'),
 	 (0,10429,'Лискинское'),
 	 (0,10430,'Лисково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10431,'Лисковское'),
 	 (0,10432,'Лиственичный'),
 	 (0,10433,'Лиственный'),
@@ -11482,7 +11482,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10438,'Лисье'),
 	 (0,10439,'Лисья'),
 	 (0,10440,'Лисья Поляна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10441,'Литвинки'),
 	 (0,10442,'Литвино'),
 	 (0,10443,'Литвиновка'),
@@ -11493,7 +11493,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10448,'Литковка'),
 	 (0,10449,'Литовко'),
 	 (0,10450,'Лихово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10451,'Лиховской'),
 	 (4527,10452,'Лихой'),
 	 (1798,10453,'Лихославль'),
@@ -11504,7 +11504,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10458,'Лобазовка'),
 	 (0,10459,'Лобакин'),
 	 (0,10460,'Лобаниха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10461,'Лобаново'),
 	 (0,10462,'Лобаски'),
 	 (4639,10463,'Лобва'),
@@ -11515,7 +11515,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10468,'Ловец'),
 	 (0,10469,'Ловлинская'),
 	 (5394,10470,'Ловозеро');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10471,'Ловцы'),
 	 (0,10472,'Ловчиково'),
 	 (4582,10473,'Лог'),
@@ -11526,7 +11526,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10478,'Логоватое'),
 	 (0,10479,'Логово'),
 	 (6853,10480,'Логовский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10481,'Логовское'),
 	 (0,10482,'Лодейка'),
 	 (0,10483,'Ложкари'),
@@ -11537,7 +11537,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10488,'Лоза'),
 	 (0,10489,'Лозная'),
 	 (0,10490,'Лозновская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6815,10491,'Лозное'),
 	 (0,10492,'Лозной'),
 	 (0,10493,'Лозовое'),
@@ -11548,7 +11548,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10498,'Лозьвинский'),
 	 (0,10499,'Лоино'),
 	 (0,10500,'Лойга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10501,'Лойма'),
 	 (0,10502,'Лоймола'),
 	 (4454,10503,'Лойно'),
@@ -11559,7 +11559,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10508,'Локоток'),
 	 (0,10509,'Локотско'),
 	 (4063,10510,'Локоть');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10511,'Локтенок'),
 	 (0,10512,'Локти'),
 	 (0,10513,'Локшино'),
@@ -11570,7 +11570,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10518,'Ломаковка'),
 	 (0,10519,'Ломаты'),
 	 (4057,10520,'Ломинцевский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10521,'Ломки'),
 	 (0,10522,'Ломоватка'),
 	 (0,10523,'Ломовка'),
@@ -11581,7 +11581,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10528,'Ломоносово'),
 	 (0,10529,'Ломтука'),
 	 (0,10530,'Ломы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10531,'Ломышки'),
 	 (0,10532,'Ломь'),
 	 (6754,10533,'Лонгъюган'),
@@ -11592,7 +11592,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10538,'Лопазна'),
 	 (0,10539,'Лопазное'),
 	 (5933,10540,'Лопандино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10541,'Лопанка'),
 	 (0,10542,'Лопарево'),
 	 (0,10543,'Лопатино'),
@@ -11603,7 +11603,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10548,'Лопатово'),
 	 (0,10549,'Лопаты'),
 	 (0,10550,'Лопово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10551,'Лопухинка'),
 	 (0,10552,'Лопуховка'),
 	 (0,10553,'Лопушь'),
@@ -11614,7 +11614,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10558,'Лопьял'),
 	 (0,10559,'Лорино'),
 	 (0,10560,'Лорис');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10561,'Лорис-Меликово'),
 	 (3807,10562,'Лосево'),
 	 (2081,10563,'Лосино-Петровский'),
@@ -11625,7 +11625,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10568,'Лососина'),
 	 (0,10569,'Лотаки'),
 	 (6107,10570,'Лотошино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10571,'Лотошное'),
 	 (4092,10572,'Лоухи'),
 	 (0,10573,'Лофицкое'),
@@ -11636,7 +11636,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10578,'Лошкари'),
 	 (0,10579,'Лощинино'),
 	 (0,10580,'Лощинный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10581,'Лубенцы'),
 	 (0,10582,'Лубошево'),
 	 (0,10583,'Лубянки'),
@@ -11647,7 +11647,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10588,'Луг'),
 	 (0,10589,'Луг (Качановская волость)'),
 	 (0,10590,'Лугавское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10591,'Луганск (село)'),
 	 (0,10592,'Луганское'),
 	 (0,10593,'Луги'),
@@ -11658,7 +11658,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5007,10598,'Луговой'),
 	 (0,10599,'Луговск'),
 	 (0,10600,'Луговский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10601,'Луговское'),
 	 (4693,10602,'Луговской'),
 	 (0,10603,'Лудони'),
@@ -11669,7 +11669,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10608,'Лужецкая'),
 	 (0,10609,'Лужинки'),
 	 (0,10610,'Лужки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10611,'Лужма'),
 	 (0,10612,'Лужниково'),
 	 (0,10613,'Лужница'),
@@ -11680,7 +11680,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10618,'Лукаши'),
 	 (0,10619,'Лукашкин Яр'),
 	 (0,10620,'Лукерьино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10621,'Луки'),
 	 (4410,10622,'Лукино'),
 	 (0,10623,'Лукиново'),
@@ -11691,7 +11691,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10628,'Луковка'),
 	 (0,10629,'Луковниково'),
 	 (0,10630,'Луковская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10631,'Лукошино'),
 	 (1693,10632,'Лукоянов'),
 	 (0,10633,'Лукьяновка'),
@@ -11702,7 +11702,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10638,'Луначары'),
 	 (0,10639,'Лунданка'),
 	 (0,10640,'Лунево (поселок)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10641,'Лунино'),
 	 (0,10642,'Луным'),
 	 (0,10643,'Луньга'),
@@ -11713,7 +11713,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10648,'Луптюг'),
 	 (0,10649,'Луткун'),
 	 (0,10650,'Лутна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10651,'Лутовенка'),
 	 (0,10652,'Лутовиновка'),
 	 (0,10653,'Лутово'),
@@ -11724,7 +11724,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10658,'Лухново'),
 	 (0,10659,'Луховицы-3 (Черная Речка)'),
 	 (0,10660,'Луховка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10661,'Луценково'),
 	 (0,10662,'Луцино'),
 	 (0,10663,'Луцкое'),
@@ -11735,7 +11735,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10668,'Лучек'),
 	 (0,10669,'Лучеса'),
 	 (6866,10670,'Лучинское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10671,'Лучки'),
 	 (0,10672,'Лучшево'),
 	 (0,10673,'Лушниково'),
@@ -11746,7 +11746,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10678,'Лыловщина'),
 	 (0,10679,'Лынга'),
 	 (0,10680,'Лыс');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10681,'Лысимо'),
 	 (1694,10682,'Лысково'),
 	 (0,10683,'Лысов'),
@@ -11757,7 +11757,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10688,'Лыхма'),
 	 (5319,10689,'Лычак'),
 	 (0,10690,'Лычево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6333,10691,'Лычково'),
 	 (0,10692,'Льва Толстого'),
 	 (0,10693,'Львовка'),
@@ -11768,7 +11768,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10698,'Львовское-1'),
 	 (1884,10699,'Льгов'),
 	 (0,10700,'Льгово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10701,'Любавец'),
 	 (0,10702,'Любавичи'),
 	 (0,10703,'Любаново'),
@@ -11779,7 +11779,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1809,10708,'Любим'),
 	 (0,10709,'Любимец'),
 	 (0,10710,'Любимов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10711,'Любимовка'),
 	 (0,10712,'Любимово'),
 	 (0,10713,'Любино'),
@@ -11790,7 +11790,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10718,'Люблино'),
 	 (0,10719,'Любница'),
 	 (0,10720,'Любовица');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10721,'Любовка'),
 	 (0,10722,'Любовниково'),
 	 (0,10723,'Любовшо'),
@@ -11801,7 +11801,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10728,'Любомирово'),
 	 (0,10729,'Любостань'),
 	 (4044,10730,'Любохна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10731,'Любунь'),
 	 (0,10732,'Любучаны (поселок)'),
 	 (0,10733,'Любыни'),
@@ -11812,7 +11812,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (206,10738,'Люксембург'),
 	 (0,10739,'Люльпаны'),
 	 (0,10740,'Люм');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10741,'Люмпанур'),
 	 (0,10742,'Люры'),
 	 (0,10743,'Лютаево'),
@@ -11823,7 +11823,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10748,'Ляли (поселок)'),
 	 (0,10749,'Ляличи'),
 	 (0,10750,'Ляльшур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10751,'Лямбирь'),
 	 (0,10752,'Ляменьга'),
 	 (0,10753,'Лямина'),
@@ -11834,7 +11834,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10758,'Ляпино'),
 	 (6817,10759,'Ляпичев'),
 	 (0,10760,'Ляпуново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10761,'Ляскеля (поселок)'),
 	 (0,10762,'Лятошинка'),
 	 (0,10763,'Ляхи'),
@@ -11845,7 +11845,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10768,'Маар'),
 	 (0,10769,'Мавлекаево'),
 	 (0,10770,'Магадаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10771,'Магадеево'),
 	 (0,10772,'Магазейная'),
 	 (0,10773,'Маган'),
@@ -11856,7 +11856,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5201,10778,'Магдагачи'),
 	 (0,10779,'Магдан'),
 	 (0,10780,'Магинск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4869,10781,'Магистральный'),
 	 (0,10782,'Магнетиты'),
 	 (0,10783,'Магнитка'),
@@ -11867,7 +11867,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10788,'Мадаун'),
 	 (0,10789,'Мадеевка'),
 	 (5594,10790,'Маджалис');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10791,'Мадмас'),
 	 (0,10792,'Маево'),
 	 (0,10793,'Маевский'),
@@ -11878,7 +11878,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10798,'Мазейка'),
 	 (0,10799,'Мазнева'),
 	 (0,10800,'Мазово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10801,'Мазуевка'),
 	 (0,10802,'Мазульский'),
 	 (0,10803,'Мазунино'),
@@ -11889,7 +11889,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10808,'Майдаково'),
 	 (0,10809,'Майдан'),
 	 (0,10810,'Майданское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10811,'Майдарово'),
 	 (0,10812,'Майзас'),
 	 (0,10813,'Майка'),
@@ -11900,7 +11900,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10818,'Майна'),
 	 (0,10819,'Майорка'),
 	 (0,10820,'Майоровский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10821,'Майорский'),
 	 (0,10822,'Майрамадаг'),
 	 (5692,10823,'Майртуп'),
@@ -11911,7 +11911,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10828,'Майтиха'),
 	 (5298,10829,'Майя'),
 	 (0,10830,'Макан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10831,'Макаракский'),
 	 (0,10832,'Макарий'),
 	 (0,10833,'Макаричи'),
@@ -11922,7 +11922,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10838,'Макарово (Слободская с/а)'),
 	 (0,10839,'Макарье'),
 	 (1776,10840,'Макарьев');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10841,'Макарьевка'),
 	 (0,10842,'Макачево'),
 	 (0,10843,'Макашевка'),
@@ -11933,7 +11933,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2947,10848,'Максатиха'),
 	 (0,10849,'Максим Горький'),
 	 (0,10850,'Максима Горького');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10851,'Максимовка'),
 	 (0,10852,'Максимово'),
 	 (0,10853,'Максимовщина (село)'),
@@ -11944,7 +11944,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10858,'Малаево'),
 	 (0,10859,'Малакановское'),
 	 (0,10860,'Малакеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10861,'Маламино'),
 	 (0,10862,'Маландино'),
 	 (0,10863,'Малаховка'),
@@ -11955,7 +11955,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10868,'Малая Боевка'),
 	 (0,10869,'Малая Бугульма'),
 	 (0,10870,'Малая Буинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10871,'Малая Верейка'),
 	 (1054,10872,'Малая Вишера'),
 	 (0,10873,'Малая Глушица'),
@@ -11966,7 +11966,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10878,'Малая Дубна'),
 	 (0,10879,'Малая Екатериновка'),
 	 (0,10880,'Малая Елга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10881,'Малая Елховка'),
 	 (0,10882,'Малая Западенка'),
 	 (0,10883,'Малая Зоркальцева'),
@@ -11977,7 +11977,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10888,'Малая Каракша'),
 	 (0,10889,'Малая Кема'),
 	 (0,10890,'Малая Кильмезь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10891,'Малая Крутая'),
 	 (0,10892,'Малая Кудара'),
 	 (0,10893,'Малая Куликовка'),
@@ -11988,7 +11988,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10898,'Малая Минуса'),
 	 (0,10899,'Малая Неклиновка'),
 	 (0,10900,'Малая Ничка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10901,'Малая Пера'),
 	 (0,10902,'Малая Песочня'),
 	 (0,10903,'Малая Покровка'),
@@ -11999,7 +11999,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10908,'Малая Салаирка'),
 	 (0,10909,'Малая Семеновка'),
 	 (0,10910,'Малая Серва');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10911,'Малая Сергеевка'),
 	 (6435,10912,'Малая Сердоба'),
 	 (0,10913,'Малая Субботиха'),
@@ -12010,7 +12010,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10918,'Малая Таяба'),
 	 (0,10919,'Малая Томка'),
 	 (0,10920,'Малая Турма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10921,'Малая Уса'),
 	 (0,10922,'Малая Хомутерь'),
 	 (0,10923,'Малая Цильна'),
@@ -12021,7 +12021,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1436,10928,'Малгобек'),
 	 (0,10929,'Малдыкасы'),
 	 (0,10930,'Малевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10931,'Малеевка'),
 	 (0,10932,'Маленга (поселок)'),
 	 (0,10933,'Малета'),
@@ -12032,7 +12032,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4803,10938,'Малиновка'),
 	 (0,10939,'Малиново'),
 	 (4919,10940,'Малиновое Озеро');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5008,10941,'Малиновский'),
 	 (5477,10942,'Малка'),
 	 (0,10943,'Маллакент'),
@@ -12043,7 +12043,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10948,'Малобелая'),
 	 (0,10949,'Малобыково'),
 	 (0,10950,'Маловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10951,'Маловолчанка'),
 	 (0,10952,'Маловский'),
 	 (0,10953,'Малогнеушево'),
@@ -12054,7 +12054,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10958,'Малое Белое'),
 	 (0,10959,'Малое Боброво'),
 	 (0,10960,'Малое Буяново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10961,'Малое Василево'),
 	 (5433,10962,'Малое Верево'),
 	 (0,10963,'Малое Вишенье'),
@@ -12065,7 +12065,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10968,'Малое Заборовье'),
 	 (0,10969,'Малое Зиновьево'),
 	 (0,10970,'Малое Ибряйкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10971,'Малое Карачкино'),
 	 (5434,10972,'Малое Карлино'),
 	 (0,10973,'Малое Козино'),
@@ -12076,7 +12076,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10978,'Малое Мостовское'),
 	 (0,10979,'Малое Нагаткино'),
 	 (0,10980,'Малое Озеро');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10981,'Малое Окунево'),
 	 (0,10982,'Малое Перекопное'),
 	 (0,10983,'Малое Полпино'),
@@ -12087,7 +12087,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,10988,'Малое Шумаково'),
 	 (0,10989,'Малое Янгорчино'),
 	 (0,10990,'Малоенисейское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,10991,'Маложма'),
 	 (0,10992,'Малоирменка'),
 	 (0,10993,'Малоказаккулово'),
@@ -12098,7 +12098,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6491,10998,'Малокурильское'),
 	 (0,10999,'Маломечетный'),
 	 (0,11000,'Маломихайловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11001,'Маломожайское'),
 	 (0,11002,'Маломоршевка'),
 	 (0,11003,'Малонакаряково'),
@@ -12109,7 +12109,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11008,'Малороссийский'),
 	 (0,11009,'Малоскаредное'),
 	 (0,11010,'Малосухоязово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11011,'Малотенгинская'),
 	 (0,11012,'Малотокмацкий'),
 	 (0,11013,'Малотроицкое'),
@@ -12120,7 +12120,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5148,11018,'Малояз'),
 	 (0,11019,'Малыгино'),
 	 (0,11020,'Малые Алабухи 1-е');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11021,'Малые Алабухи 2-е'),
 	 (0,11022,'Малые Арабузи'),
 	 (0,11023,'Малые Арбаты'),
@@ -12131,7 +12131,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11028,'Малые Вяземы'),
 	 (0,11029,'Малые Голы'),
 	 (5193,11030,'Малые Дербеты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11031,'Малые Кайбицы'),
 	 (0,11032,'Малые Калмаши'),
 	 (0,11033,'Малые Карзи'),
@@ -12142,7 +12142,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11038,'Малые Кирмени'),
 	 (0,11039,'Малые Крюки'),
 	 (0,11040,'Малые Кулики');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11041,'Малые Лызи'),
 	 (0,11042,'Малые Маячки'),
 	 (0,11043,'Малые Меми'),
@@ -12153,7 +12153,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11048,'Малые Туваны'),
 	 (0,11049,'Малые Уруссу'),
 	 (0,11050,'Малые Щербиничи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11051,'Малые Ягуры'),
 	 (0,11052,'Малые Яуши'),
 	 (0,11053,'Малый Амалат'),
@@ -12164,7 +12164,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11058,'Малый Бердяуш'),
 	 (0,11059,'Малый Есаул'),
 	 (0,11060,'Малый Зайкин');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11061,'Малый Зеленчук'),
 	 (0,11062,'Малый Имыш'),
 	 (0,11063,'Малый Калтай'),
@@ -12175,7 +12175,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11068,'Малый Макателем'),
 	 (0,11069,'Малый Мелик'),
 	 (0,11070,'Малый Полом');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11071,'Малый Самовец'),
 	 (0,11072,'Малый Седяк'),
 	 (0,11073,'Малый Спирин'),
@@ -12186,7 +12186,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11078,'Малый Толкай'),
 	 (0,11079,'Малый Толкиш'),
 	 (0,11080,'Малый Уват');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11081,'Малый Узень'),
 	 (0,11082,'Малый Хабык'),
 	 (0,11083,'Малыкай'),
@@ -12197,7 +12197,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11088,'Малышево'),
 	 (0,11089,'Малышенка'),
 	 (0,11090,'Мальбагуш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11091,'Мальдяк'),
 	 (0,11092,'Мальково'),
 	 (2353,11093,'Мальта'),
@@ -12208,7 +12208,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11098,'Мальчевско-Полненская'),
 	 (0,11099,'Маляевка'),
 	 (0,11100,'Малячкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4870,11101,'Мама'),
 	 (0,11102,'Мамадыш-Акилово'),
 	 (0,11103,'Мамаевщина'),
@@ -12219,7 +12219,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11108,'Мамбетово'),
 	 (5595,11109,'Мамедкала'),
 	 (0,11110,'Маметьево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11111,'Маминское'),
 	 (0,11112,'Мамлейка'),
 	 (0,11113,'Маммаул'),
@@ -12230,7 +12230,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11118,'Мамонтова'),
 	 (3672,11119,'Мамонтово'),
 	 (0,11120,'Мамонтовое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11121,'Мамоны'),
 	 (0,11122,'Мамся'),
 	 (0,11123,'Мамхег'),
@@ -12241,7 +12241,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11128,'Мананниково'),
 	 (6452,11129,'Манас'),
 	 (0,11130,'Манасаул');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5596,11131,'Манаскент'),
 	 (0,11132,'Мангазерка'),
 	 (0,11133,'Мангул Аул'),
@@ -12252,7 +12252,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6516,11138,'Манжерок'),
 	 (0,11139,'Манзарас'),
 	 (0,11140,'Манзурка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11141,'Манзя'),
 	 (0,11142,'Маниловская'),
 	 (0,11143,'Манилы'),
@@ -12263,7 +12263,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11148,'Мансурово'),
 	 (0,11149,'Манторово'),
 	 (1777,11150,'Мантурово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11151,'Манушкино'),
 	 (0,11152,'Манцын-Кец'),
 	 (5738,11153,'Манчаж'),
@@ -12274,7 +12274,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11158,'Манычстрой'),
 	 (0,11159,'Маныш'),
 	 (0,11160,'Маньково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11161,'Маньково-Березовская'),
 	 (0,11162,'Маньково-Калитвенское'),
 	 (0,11163,'Маняк'),
@@ -12285,7 +12285,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11168,'Маракса'),
 	 (0,11169,'Маралайы'),
 	 (0,11170,'Маралиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11171,'Маральи Рожки'),
 	 (0,11172,'Маранка'),
 	 (0,11173,'Марат'),
@@ -12296,7 +12296,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11178,'Маргуша'),
 	 (0,11179,'Марево'),
 	 (0,11180,'Маревый');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11181,'Маресево'),
 	 (0,11182,'Мари Шои'),
 	 (0,11183,'Мари-Билямор'),
@@ -12307,7 +12307,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11188,'Мари-Малмыж'),
 	 (0,11189,'Мари-Ошаево'),
 	 (4235,11190,'Мари-Турек');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11191,'Мариец'),
 	 (1237,11192,'Мариинск'),
 	 (0,11193,'Мариинск (село)'),
@@ -12318,7 +12318,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11198,'Марийские Карши'),
 	 (0,11199,'Марийские Ключики'),
 	 (0,11200,'Марийский Усть-Маш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11201,'Маринино'),
 	 (0,11202,'Мариновка'),
 	 (0,11203,'Марисола'),
@@ -12329,7 +12329,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11208,'Марки'),
 	 (0,11209,'Маркин'),
 	 (0,11210,'Маркино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11211,'Маркинская'),
 	 (4871,11212,'Маркова'),
 	 (3382,11213,'Марковка'),
@@ -12340,7 +12340,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11218,'Марковское'),
 	 (0,11219,'Марковцы'),
 	 (0,11220,'Марксовский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11221,'Маркуша'),
 	 (0,11222,'Мармыжи'),
 	 (0,11223,'Маромица'),
@@ -12351,7 +12351,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11228,'Мартыново'),
 	 (0,11229,'Мартыновский'),
 	 (0,11230,'Мартынцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11231,'Мартышкино'),
 	 (0,11232,'Мартьяновка'),
 	 (5740,11233,'Мартюш'),
@@ -12362,7 +12362,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11238,'Марушкино'),
 	 (0,11239,'Марфинка'),
 	 (0,11240,'Марфино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11241,'Марха'),
 	 (0,11242,'Марченковка'),
 	 (0,11243,'Марчуки 1-е'),
@@ -12373,7 +12373,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11248,'Мары'),
 	 (0,11249,'Марьевка'),
 	 (0,11250,'Марьевка (Марьевский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11251,'Марьина Роща'),
 	 (3258,11252,'Марьинка'),
 	 (0,11253,'Марьинка (Моховская волость)'),
@@ -12384,7 +12384,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11258,'Марьинское'),
 	 (0,11259,'Марьины Колодцы'),
 	 (4710,11260,'Марьяновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11261,'Марьяновский'),
 	 (3327,11262,'Марьянская'),
 	 (0,11263,'Марьяны'),
@@ -12395,7 +12395,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11268,'Маскали'),
 	 (0,11269,'Масканур'),
 	 (0,11270,'Маскара');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11271,'Масленниково'),
 	 (0,11272,'Масли'),
 	 (0,11273,'Маслова'),
@@ -12406,7 +12406,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11278,'Масловский'),
 	 (0,11279,'Маслозеро'),
 	 (4843,11280,'Маслянино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11281,'Маслянка'),
 	 (0,11282,'Масляногорск'),
 	 (0,11283,'Маслянский'),
@@ -12417,7 +12417,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11288,'Матаки'),
 	 (0,11289,'Маталассы'),
 	 (0,11290,'Матасы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11291,'Матвеев Курган'),
 	 (4273,11292,'Матвеевка'),
 	 (0,11293,'Матвеево'),
@@ -12428,7 +12428,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11298,'Матросово'),
 	 (0,11299,'Матросы'),
 	 (0,11300,'Матта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11301,'Матур'),
 	 (0,11302,'Матусово'),
 	 (0,11303,'Матчерка'),
@@ -12439,7 +12439,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11308,'Маук'),
 	 (0,11309,'Махалатли'),
 	 (6565,11310,'Махалино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11311,'Махкеты'),
 	 (0,11312,'Махлово'),
 	 (0,11313,'Махмуд-Мектеб'),
@@ -12450,7 +12450,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11318,'Маховляне'),
 	 (0,11319,'Махоново'),
 	 (0,11320,'Махошевская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11321,'Махра'),
 	 (0,11322,'Махровка'),
 	 (0,11323,'Махческ'),
@@ -12461,7 +12461,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11328,'Мачулы'),
 	 (0,11329,'Машатды'),
 	 (0,11330,'Машкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11331,'Машково'),
 	 (0,11332,'Машуковка'),
 	 (0,11333,'Маюрово'),
@@ -12472,7 +12472,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11338,'Маяково'),
 	 (0,11339,'Маяковское'),
 	 (0,11340,'Маякское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11341,'Маянга'),
 	 (0,11342,'Маячная'),
 	 (0,11343,'Маячное'),
@@ -12483,7 +12483,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11348,'Мда'),
 	 (0,11349,'Мегеб'),
 	 (4872,11350,'Мегет');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11351,'Мегино-Алдан'),
 	 (1373,11352,'Мегион'),
 	 (0,11353,'Меглецы'),
@@ -12494,7 +12494,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11358,'Мегринский'),
 	 (0,11359,'Медаевка'),
 	 (0,11360,'Медаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11361,'Медведев'),
 	 (0,11362,'Медведевка'),
 	 (4236,11363,'Медведево'),
@@ -12505,7 +12505,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11368,'Медведки'),
 	 (0,11369,'Медведовка'),
 	 (0,11370,'Медведово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3280,11371,'Медведовская'),
 	 (0,11372,'Медведок'),
 	 (0,11373,'Медведское'),
@@ -12516,7 +12516,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11378,'Медвежьи Озера'),
 	 (3834,11379,'Медвенка'),
 	 (0,11380,'Медет');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11381,'Медикасы'),
 	 (1569,11382,'Медногорск'),
 	 (5493,11383,'Медногорский'),
@@ -12527,7 +12527,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11388,'Медягино'),
 	 (0,11389,'Медяково'),
 	 (0,11390,'Медяна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11391,'Медяниково'),
 	 (0,11392,'Медянка'),
 	 (0,11393,'Медянки-Татарские'),
@@ -12538,7 +12538,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11398,'Межгюль'),
 	 (0,11399,'Междугорное'),
 	 (0,11400,'Междугорный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11401,'Междуреченск (поселок)'),
 	 (0,11402,'Междуреченский'),
 	 (0,11403,'Междуречье'),
@@ -12549,7 +12549,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11408,'Межово'),
 	 (0,11409,'Межозерная'),
 	 (0,11410,'Межозерный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11411,'Мезенка'),
 	 (0,11412,'Мезенский'),
 	 (0,11413,'Мезенское'),
@@ -12560,7 +12560,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11418,'Мезмай'),
 	 (0,11419,'Мейныпильгыно'),
 	 (0,11420,'Мекали');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11421,'Мекеги'),
 	 (0,11422,'Мекен-Юрт'),
 	 (0,11423,'Мекенская'),
@@ -12571,7 +12571,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11428,'Мелекес'),
 	 (1729,11429,'Меленки'),
 	 (5944,11430,'Меленск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11431,'Мелентьевский'),
 	 (0,11432,'Мелеть'),
 	 (0,11433,'Мелехина'),
@@ -12582,7 +12582,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4531,11438,'Мелиховская'),
 	 (0,11439,'Мелля-Тамак'),
 	 (0,11440,'Меловатка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3383,11441,'Меловое'),
 	 (0,11442,'Меловой'),
 	 (0,11443,'Мелчхе (Исти-су)'),
@@ -12593,7 +12593,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11448,'Мельница'),
 	 (0,11449,'Мельницы'),
 	 (0,11450,'Мельничная');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11451,'Мельничное'),
 	 (0,11452,'Мельсетьево'),
 	 (0,11453,'Мельхитуй'),
@@ -12604,7 +12604,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11458,'Мелянда'),
 	 (0,11459,'Мемдель'),
 	 (6593,11460,'Менделеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1639,11461,'Менделеевск'),
 	 (0,11462,'Менделеевский'),
 	 (0,11463,'Мендур-Соккон'),
@@ -12615,7 +12615,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11468,'Менжинское'),
 	 (0,11469,'Менза'),
 	 (0,11470,'Менил (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11471,'Менчереп'),
 	 (0,11472,'Менщиково'),
 	 (5908,11473,'Меньшие Можары'),
@@ -12626,7 +12626,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11478,'Мереть'),
 	 (0,11479,'Мерзляки'),
 	 (0,11480,'Меркуловский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11481,'Меркутлы'),
 	 (0,11482,'Меркуши'),
 	 (0,11483,'Мерлеево'),
@@ -12637,7 +12637,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11488,'Месели'),
 	 (0,11489,'Мескашор'),
 	 (5693,11490,'Мескер-Юрт');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11491,'Мескеты'),
 	 (0,11492,'Мессажай'),
 	 (0,11493,'Местерух'),
@@ -12648,7 +12648,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11498,'Металлургов'),
 	 (0,11499,'Метевбашево'),
 	 (0,11500,'Метелева');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11501,'Метелево'),
 	 (0,11502,'Метели'),
 	 (0,11503,'Метлино'),
@@ -12659,7 +12659,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11508,'Мехонское'),
 	 (0,11509,'Меча'),
 	 (4532,11510,'Мечетинская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11511,'Мечетка'),
 	 (0,11512,'Мечетлино'),
 	 (0,11513,'Мечетное'),
@@ -12670,7 +12670,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11518,'Мешковская'),
 	 (0,11519,'Мещегарово'),
 	 (0,11520,'Мещерево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6873,11521,'Мещерино'),
 	 (0,11522,'Мещерка'),
 	 (6763,11523,'Мещерское'),
@@ -12681,7 +12681,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1873,11528,'Мещовск'),
 	 (0,11529,'Мещура'),
 	 (0,11530,'Миарсо');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5799,11531,'Миасское'),
 	 (0,11532,'Миатли'),
 	 (0,11533,'Мигино'),
@@ -12692,7 +12692,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11538,'Мигуты'),
 	 (0,11539,'Мижеркасы'),
 	 (0,11540,'Мижигли');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11541,'Мизино-Лапшиновка'),
 	 (0,11542,'Мизиново'),
 	 (0,11543,'Мизоново'),
@@ -12703,7 +12703,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11548,'Микряково'),
 	 (0,11549,'Микулино'),
 	 (1046,11550,'Микунь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11551,'Микшино'),
 	 (0,11552,'Миленино'),
 	 (0,11553,'Милечь'),
@@ -12714,7 +12714,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11558,'Милорадовка'),
 	 (4478,11559,'Милославское'),
 	 (0,11560,'Милофаново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11561,'Мильгидун'),
 	 (0,11562,'Мильково'),
 	 (0,11563,'Милюковка'),
@@ -12725,7 +12725,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11568,'Мингали'),
 	 (0,11569,'Мингатуй'),
 	 (3328,11570,'Мингрельская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6869,11571,'Миндерла'),
 	 (0,11572,'Миндим'),
 	 (0,11573,'Миндюкино'),
@@ -12736,7 +12736,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11578,'Миништы'),
 	 (0,11579,'Минка (село)'),
 	 (0,11580,'Миннибаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6846,11581,'Минское'),
 	 (0,11582,'Минцы'),
 	 (0,11583,'Мины'),
@@ -12747,7 +12747,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11588,'Мирабилит'),
 	 (0,11589,'Миренки'),
 	 (0,11590,'Мирзидты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11591,'Миритиницы'),
 	 (0,11592,'Мирная'),
 	 (0,11593,'Мирное'),
@@ -12758,7 +12758,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11598,'Мироново'),
 	 (0,11599,'Миронцево'),
 	 (0,11600,'Миротинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11601,'Мирошкино'),
 	 (0,11602,'Мирошники'),
 	 (0,11603,'Мирсаново'),
@@ -12769,7 +12769,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11608,'Мисково'),
 	 (0,11609,'Мисси'),
 	 (0,11610,'Мисцево (деревня)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11611,'Мисцево (поселок)'),
 	 (0,11612,'Митаги'),
 	 (0,11613,'Митаги-Казмаляр'),
@@ -12780,7 +12780,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11618,'Митрополье'),
 	 (0,11619,'Митрофан-Дикост'),
 	 (0,11620,'Митрофанова');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3808,11621,'Митрофановка'),
 	 (0,11622,'Митрофаново'),
 	 (0,11623,'Митряево'),
@@ -12791,7 +12791,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11628,'Митякинская'),
 	 (0,11629,'Михаи'),
 	 (0,11630,'Михайленки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11631,'Михайло-Лебяжье'),
 	 (0,11632,'Михайло-Овсянка'),
 	 (0,11633,'Михайло-Павловск'),
@@ -12802,7 +12802,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11638,'Михайловка (деревня)'),
 	 (0,11639,'Михайловка (Михайловский с/с)'),
 	 (0,11640,'Михайловка 1-я');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11641,'Михайловка Вторая'),
 	 (0,11642,'Михайловка Первая'),
 	 (0,11643,'Михайлово'),
@@ -12813,7 +12813,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11648,'Михайловский Перевал'),
 	 (4920,11649,'Михайловское'),
 	 (0,11650,'Михалево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11651,'Михалево (поселок)'),
 	 (0,11652,'Михаленино'),
 	 (0,11653,'Михали'),
@@ -12824,7 +12824,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11658,'Михино'),
 	 (0,11659,'Михири'),
 	 (0,11660,'Михнево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11661,'Михновка'),
 	 (0,11662,'Мичкас'),
 	 (0,11663,'Мичурина'),
@@ -12835,7 +12835,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11668,'Мичуринское'),
 	 (4874,11669,'Мишелевка'),
 	 (5981,11670,'Мишеронский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11671,'Мишино'),
 	 (2666,11672,'Мишкино'),
 	 (6632,11673,'Мишкинская'),
@@ -12846,7 +12846,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11678,'Мишутинская'),
 	 (0,11679,'Мищенский'),
 	 (0,11680,'Миякибашево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11681,'Миякитамак'),
 	 (0,11682,'Мияссы'),
 	 (0,11683,'Многовершинный'),
@@ -12857,7 +12857,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11688,'Могзон'),
 	 (0,11689,'Могилевка'),
 	 (0,11690,'Могилевское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11691,'Могилевцы'),
 	 (0,11692,'Могильно-Посельское'),
 	 (0,11693,'Могильный Мыс'),
@@ -12868,7 +12868,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11698,'Могот'),
 	 (0,11699,'Могох'),
 	 (1196,11700,'Могоча');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4678,11701,'Могочино'),
 	 (0,11702,'Могсохон'),
 	 (0,11703,'Могутово'),
@@ -12879,7 +12879,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11708,'Можарки'),
 	 (0,11709,'Можаров Майдан'),
 	 (0,11710,'Можарово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11711,'Можары'),
 	 (0,11712,'Можуга'),
 	 (0,11713,'Мозалево'),
@@ -12890,7 +12890,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2285,11718,'Мозырь'),
 	 (0,11719,'Моисеевка'),
 	 (0,11720,'Моисеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11721,'Моисеево-Алабушка'),
 	 (0,11722,'Мой Приют'),
 	 (0,11723,'Мой-Уруста'),
@@ -12901,7 +12901,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11728,'Мокеиха'),
 	 (0,11729,'Мокино'),
 	 (0,11730,'Моклакан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11731,'Мокок'),
 	 (0,11732,'Мокрая Бугурна'),
 	 (0,11733,'Мокрая Ольховка'),
@@ -12912,7 +12912,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11738,'Мокросоленый'),
 	 (6341,11739,'Мокроус'),
 	 (4963,11740,'Мокроусово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11741,'Мокроусовский'),
 	 (0,11742,'Мокруша'),
 	 (0,11743,'Мокрушино'),
@@ -12923,7 +12923,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11748,'Мокша'),
 	 (0,11749,'Мокшалей'),
 	 (6302,11750,'Мокшан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11751,'Мокшино'),
 	 (0,11752,'Молвино'),
 	 (0,11753,'Молвотицы'),
@@ -12934,7 +12934,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11758,'Молебка'),
 	 (0,11759,'Молзино'),
 	 (6717,11760,'Молодежное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11761,'Молодежный'),
 	 (0,11762,'Молоденки'),
 	 (6928,11763,'Молоди'),
@@ -12945,7 +12945,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11768,'Молоканово'),
 	 (6390,11769,'Молоково'),
 	 (0,11770,'Молокоедово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11771,'Молома'),
 	 (0,11772,'Молотино'),
 	 (0,11773,'Молотицы'),
@@ -12956,7 +12956,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5951,11778,'Молочные Дворы'),
 	 (4111,11779,'Молочный'),
 	 (4679,11780,'Молчаново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11781,'Мольгино'),
 	 (0,11782,'Молька'),
 	 (0,11783,'Молькеево'),
@@ -12967,7 +12967,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3368,11788,'Монастырище'),
 	 (0,11789,'Монастырка'),
 	 (0,11790,'Монастырское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4351,11791,'Монастырщина'),
 	 (0,11792,'Монастырщино'),
 	 (0,11793,'Монашево'),
@@ -12978,7 +12978,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2441,11798,'Монино'),
 	 (0,11799,'Мономахово'),
 	 (0,11800,'Мончалово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11801,'Морачево'),
 	 (0,11802,'Морга'),
 	 (3675,11803,'Моргауши'),
@@ -12989,7 +12989,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11808,'Мордвинцево'),
 	 (0,11809,'Мордино'),
 	 (0,11810,'Мордовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3869,11811,'Мордово'),
 	 (0,11812,'Мордово-Аделяково'),
 	 (0,11813,'Мордово-Добрино'),
@@ -13000,7 +13000,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11818,'Мордовская Паевка'),
 	 (0,11819,'Мордовская Пишля'),
 	 (0,11820,'Мордовская Поляна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11821,'Мордовские Дубровки'),
 	 (0,11822,'Мордовские Парки'),
 	 (0,11823,'Мордовские Юнки'),
@@ -13011,7 +13011,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11828,'Мордовское Вечкинино'),
 	 (0,11829,'Мордовское Давыдово'),
 	 (0,11830,'Мордовское Коломасово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11831,'Мордой'),
 	 (0,11832,'Моревка'),
 	 (0,11833,'Морен'),
@@ -13022,7 +13022,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11838,'Моркино Городище'),
 	 (0,11839,'Моркины Горы'),
 	 (0,11840,'Мормыши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11841,'Морозкино'),
 	 (0,11842,'Морозов'),
 	 (0,11843,'Морозова'),
@@ -13033,7 +13033,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11848,'Морозовы-Борки'),
 	 (0,11849,'Морское'),
 	 (0,11850,'Морской');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11851,'Морской Чулек'),
 	 (0,11852,'Морсово'),
 	 (5010,11853,'Мортка'),
@@ -13044,7 +13044,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11858,'Моршанское лесн-во'),
 	 (0,11859,'Моршиха'),
 	 (0,11860,'Морщихинская (Павловское м/о)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11861,'Моряк-Рыболов'),
 	 (4680,11862,'Моряковский Затон'),
 	 (1874,11863,'Мосальск'),
@@ -13055,7 +13055,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11868,'Москакасы'),
 	 (4711,11869,'Москаленки'),
 	 (0,11870,'Москаленский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11871,'Москальво'),
 	 (0,11872,'Москвина'),
 	 (0,11873,'Москвино'),
@@ -13066,7 +13066,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2036,11878,'Московский'),
 	 (0,11879,'Московское'),
 	 (0,11880,'Мосоловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11881,'Мосолово'),
 	 (0,11882,'Мосрентген'),
 	 (0,11883,'Моста'),
@@ -13077,7 +13077,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11888,'Мостовое'),
 	 (0,11889,'Мостовское'),
 	 (2444,11890,'Мостовской');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2302,11891,'Мосты'),
 	 (0,11892,'Мосуны'),
 	 (0,11893,'Мотко'),
@@ -13088,7 +13088,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4763,11898,'Мотыгино'),
 	 (0,11899,'Мотызлей'),
 	 (0,11900,'Мохнатый Лог');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11901,'Моховая Падь'),
 	 (0,11902,'Моховица'),
 	 (0,11903,'Мохово'),
@@ -13099,7 +13099,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11908,'Мохоновка'),
 	 (0,11909,'Мохсоголлох'),
 	 (0,11910,'Мохча');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11911,'Мочалеевка'),
 	 (0,11912,'Мочалей'),
 	 (0,11913,'Мочалейка'),
@@ -13110,7 +13110,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6575,11918,'Мочище'),
 	 (0,11919,'Мочох'),
 	 (0,11920,'Мошары');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11921,'Мошенино'),
 	 (0,11922,'Мошенка'),
 	 (0,11923,'Мошенское'),
@@ -13121,7 +13121,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11928,'Мошок'),
 	 (0,11929,'Мошонки'),
 	 (0,11930,'Мощеное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11931,'МПМК'),
 	 (5146,11932,'Мраково'),
 	 (0,11933,'Мраморское'),
@@ -13132,7 +13132,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11938,'Мста'),
 	 (0,11939,'Мстера'),
 	 (0,11940,'Мстинский Мост');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11941,'Муважи'),
 	 (0,11942,'Мувыр'),
 	 (0,11943,'Мугай'),
@@ -13143,7 +13143,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11948,'Мугреево-Никольское'),
 	 (0,11949,'Мугреевский'),
 	 (0,11950,'Мугун');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11951,'Мугур-Аксы'),
 	 (0,11952,'Мудьюга'),
 	 (4072,11953,'Муезерский'),
@@ -13154,7 +13154,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11958,'Мужичье'),
 	 (0,11959,'Мужукай'),
 	 (0,11960,'Музаим');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11961,'Музяк'),
 	 (0,11962,'Мукаево'),
 	 (2153,11963,'Мукачево'),
@@ -13165,7 +13165,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11968,'Мулино (поселок)'),
 	 (0,11969,'Муллакаево'),
 	 (0,11970,'Муллаши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11971,'Муллино'),
 	 (0,11972,'Мулловка'),
 	 (0,11973,'Мулловская Фабрика'),
@@ -13176,7 +13176,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11978,'Мульта'),
 	 (0,11979,'Мулянка'),
 	 (5334,11980,'Мумра');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4804,11981,'Мундыбаш'),
 	 (0,11982,'Муни'),
 	 (0,11983,'Мунино'),
@@ -13187,7 +13187,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1417,11988,'Муравленко'),
 	 (0,11989,'Муравль'),
 	 (0,11990,'Муравлянка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,11991,'Муравлянка (Молоденский с/о)'),
 	 (0,11992,'Муравлянка (Муравлянский с/о)'),
 	 (0,11993,'Муравьевка'),
@@ -13198,7 +13198,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,11998,'Муракаево'),
 	 (0,11999,'Мурали'),
 	 (0,12000,'Муранка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12001,'Мурань'),
 	 (1670,12002,'Мураши'),
 	 (0,12003,'Мургук'),
@@ -13209,7 +13209,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5084,12008,'Мурино'),
 	 (0,12009,'Муркозь-Омга'),
 	 (4112,12010,'Мурмаши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4479,12011,'Мурмино'),
 	 (0,12012,'Муромское'),
 	 (4712,12013,'Муромцево'),
@@ -13220,7 +13220,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12018,'Муртыш-Тамак'),
 	 (4456,12019,'Мурыгино'),
 	 (0,12020,'Мурюк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12021,'Мусабай-Завод'),
 	 (0,12022,'Мусирмы'),
 	 (0,12023,'Мусковит'),
@@ -13231,7 +13231,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12028,'Мусохраново'),
 	 (0,12029,'Мустаево'),
 	 (0,12030,'Мустафино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12031,'Мусультемахи'),
 	 (0,12032,'Мусы'),
 	 (0,12033,'Мута-Елга'),
@@ -13242,7 +13242,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12038,'Мухаметово'),
 	 (0,12039,'Муханово'),
 	 (0,12040,'Мухен');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12041,'Мухино'),
 	 (0,12042,'Мухинская'),
 	 (0,12043,'Мухинский'),
@@ -13253,7 +13253,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4650,12048,'Мухоршибирь'),
 	 (0,12049,'Мухоудеровка'),
 	 (0,12050,'Мухраново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4412,12051,'Мухтолово'),
 	 (0,12052,'Муцалаул'),
 	 (3660,12053,'Мучкапский'),
@@ -13264,7 +13264,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12058,'Мушковичи'),
 	 (0,12059,'Мшинская'),
 	 (0,12060,'Мыла');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12061,'Мылва'),
 	 (0,12062,'Мылга'),
 	 (0,12063,'Мыльджино'),
@@ -13275,7 +13275,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12068,'Мырыла'),
 	 (0,12069,'Мыс'),
 	 (0,12070,'Мыс Доброй Надежды');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5892,12071,'Мыс Каменный'),
 	 (5290,12072,'Мыс Шмидта'),
 	 (1239,12073,'Мыски'),
@@ -13286,7 +13286,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12078,'Мытьец'),
 	 (1810,12079,'Мышкин'),
 	 (0,12080,'Мышланка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12081,'Мыюта'),
 	 (0,12082,'Мюд'),
 	 (0,12083,'Мюрего'),
@@ -13297,7 +13297,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12088,'Мякиши'),
 	 (0,12089,'Мякса'),
 	 (0,12090,'Мясники');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12091,'Мясникова'),
 	 (0,12092,'Мяснянка'),
 	 (0,12093,'Мясоедово'),
@@ -13308,7 +13308,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12098,'Н-Серги-3'),
 	 (0,12099,'Н.Манома'),
 	 (0,12100,'Набат');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12101,'Набережное'),
 	 (0,12102,'Набережные Моркваши'),
 	 (0,12103,'Набережный'),
@@ -13319,7 +13319,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1761,12108,'Наволоки'),
 	 (0,12109,'Нагавская'),
 	 (0,12110,'Нагадак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6767,12111,'Нагаево'),
 	 (0,12112,'Нагайбакский'),
 	 (0,12113,'Нагалык'),
@@ -13330,7 +13330,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12118,'Нагольное'),
 	 (0,12119,'Нагольный'),
 	 (0,12120,'Нагорное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12121,'Нагорнский'),
 	 (4310,12122,'Нагорный'),
 	 (4457,12123,'Нагорск'),
@@ -13341,7 +13341,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5670,12128,'Нагутское'),
 	 (0,12129,'Надвоицы (пгт)'),
 	 (0,12130,'Надеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12131,'Надежда'),
 	 (0,12132,'Надеждинка'),
 	 (0,12133,'Надеждино'),
@@ -13352,7 +13352,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12138,'Надейка'),
 	 (0,12139,'Надейковичи'),
 	 (0,12140,'Надзорное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12141,'Надтеречное'),
 	 (0,12142,'Надцы'),
 	 (0,12143,'Нажерово'),
@@ -13363,7 +13363,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12148,'Назимкино'),
 	 (0,12149,'Назимово'),
 	 (0,12150,'Назино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12151,'Назия (поселок)'),
 	 (1252,12152,'Называевск'),
 	 (0,12153,'Наибика'),
@@ -13374,7 +13374,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6768,12158,'Найстенъярви'),
 	 (0,12159,'Найтоповичи'),
 	 (0,12160,'Найфельд');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12161,'Найхин'),
 	 (0,12162,'Наканно'),
 	 (0,12163,'Наласа'),
@@ -13385,7 +13385,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4921,12168,'Налобиха'),
 	 (0,12169,'Нальчик-20'),
 	 (0,12170,'Намск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5294,12171,'Намцы'),
 	 (0,12172,'Намы'),
 	 (0,12173,'Напольное'),
@@ -13396,7 +13396,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12178,'Наратлы'),
 	 (0,12179,'Наратлы-Кичу'),
 	 (0,12180,'Нарбулатово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12181,'Нарва'),
 	 (0,12182,'Нарга'),
 	 (0,12183,'Нариман'),
@@ -13407,7 +13407,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12188,'Нармушадь'),
 	 (0,12189,'Наро-Осаново'),
 	 (0,12190,'Нароватово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6933,12191,'Наровчат'),
 	 (0,12192,'Наровчатка'),
 	 (0,12193,'Народное'),
@@ -13418,7 +13418,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12198,'Нартас'),
 	 (0,12199,'Наруксово'),
 	 (0,12200,'Нарым');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2794,12201,'Нарын'),
 	 (0,12202,'Нарын Худук'),
 	 (0,12203,'Нарын-Ацагат'),
@@ -13429,7 +13429,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12208,'Насадка'),
 	 (0,12209,'Насадкино'),
 	 (0,12210,'Насва');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12211,'Насибаш'),
 	 (0,12212,'Наскафтым'),
 	 (0,12213,'Наскент'),
@@ -13440,7 +13440,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12218,'Натальин Яр'),
 	 (0,12219,'Натальино'),
 	 (5742,12220,'Натальинск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12221,'Натора'),
 	 (5531,12222,'Натухаевская'),
 	 (5556,12223,'Натырбово'),
@@ -13451,7 +13451,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12228,'Наурузово'),
 	 (0,12229,'Научный Городок'),
 	 (5082,12230,'Наушки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2634,12231,'Нахабино'),
 	 (0,12232,'Нахада'),
 	 (0,12233,'Нахаловка'),
@@ -13462,7 +13462,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12238,'Наход'),
 	 (0,12239,'Находка (поселок)'),
 	 (0,12240,'Начада');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12241,'Начало'),
 	 (5177,12242,'Началово'),
 	 (0,12243,'Наченалы'),
@@ -13473,7 +13473,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4126,12248,'Неболчи'),
 	 (3983,12249,'Небуг'),
 	 (0,12250,'Небылое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12251,'Неварь'),
 	 (0,12252,'Невдольск'),
 	 (0,12253,'Невежкино'),
@@ -13484,7 +13484,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12258,'Невер'),
 	 (3689,12259,'Неверкино'),
 	 (0,12260,'Неверково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12261,'Неверовка'),
 	 (6809,12262,'Неверово'),
 	 (0,12263,'Неверовское'),
@@ -13495,7 +13495,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12268,'Невон'),
 	 (0,12269,'Невонка'),
 	 (0,12270,'Невское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1289,12271,'Невьянск'),
 	 (0,12272,'Невьянское'),
 	 (0,12273,'Негино'),
@@ -13506,7 +13506,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12278,'Неелово-1'),
 	 (0,12279,'Нежадово'),
 	 (0,12280,'Нежданинское (до 2000 г.)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4274,12281,'Нежинка'),
 	 (0,12282,'Нежинский'),
 	 (0,12283,'Нежитино'),
@@ -13517,7 +13517,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12288,'Незевай'),
 	 (3878,12289,'Незлобная'),
 	 (0,12290,'Незнамово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12291,'Незнаново'),
 	 (0,12292,'Нейво-Рудянка'),
 	 (0,12293,'Нейво-Шайтанский'),
@@ -13528,7 +13528,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12298,'Некрасово'),
 	 (3330,12299,'Некрасовская'),
 	 (0,12300,'Некрасовский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4311,12301,'Некрасовское'),
 	 (0,12302,'Некрыловский'),
 	 (0,12303,'Нексикан'),
@@ -13539,7 +13539,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12308,'Нельмин-Нос'),
 	 (0,12309,'Нелюбино'),
 	 (4458,12310,'Нема');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1030,12311,'Неман'),
 	 (0,12312,'Неманское'),
 	 (0,12313,'Немда-Обалыш'),
@@ -13550,7 +13550,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12318,'Немчиново'),
 	 (0,12319,'Ненашево'),
 	 (0,12320,'Ненинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12321,'Ненокса'),
 	 (0,12322,'Неожиданный'),
 	 (0,12323,'Неонилинское'),
@@ -13561,7 +13561,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12328,'Непременная Лудзя'),
 	 (0,12329,'Непряхино'),
 	 (0,12330,'Нерастанное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12331,'Нердва'),
 	 (0,12332,'Нерица'),
 	 (0,12333,'Неровновка'),
@@ -13572,7 +13572,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5095,12338,'Нерчинский Завод'),
 	 (0,12339,'Нерюктяйинск 1-й'),
 	 (0,12340,'Нерюктяйинск 2-й');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12341,'Нестеркин'),
 	 (1031,12342,'Нестеров'),
 	 (0,12343,'Нестерова'),
@@ -13583,7 +13583,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12348,'Нестиары'),
 	 (0,12349,'Нестино'),
 	 (5383,12350,'Несь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12351,'Нетризово'),
 	 (0,12352,'Нетрубеж'),
 	 (0,12353,'Нетьинка'),
@@ -13594,7 +13594,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12358,'Нефтяная'),
 	 (4583,12359,'Нехаевская'),
 	 (0,12360,'Нехина Гора');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12361,'Нехочи'),
 	 (0,12362,'Нечаевка'),
 	 (0,12363,'Нечаево'),
@@ -13605,7 +13605,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12368,'Нешкан'),
 	 (0,12369,'Нешукай'),
 	 (0,12370,'Нещадимовский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1779,12371,'Нея'),
 	 (0,12372,'Нибега'),
 	 (0,12373,'Нива'),
@@ -13616,7 +13616,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12378,'Нигаматово'),
 	 (0,12379,'Нигино'),
 	 (0,12380,'Нигматуллино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12381,'Нидым'),
 	 (0,12382,'Нижарово'),
 	 (0,12383,'Нижегородец'),
@@ -13627,7 +13627,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12388,'Нижнеаверкино'),
 	 (4651,12389,'Нижнеангарск'),
 	 (0,12390,'Нижнеарметово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12391,'Нижнеаскарово'),
 	 (0,12392,'Нижнеаташево'),
 	 (3281,12393,'Нижнебаканская'),
@@ -13638,7 +13638,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12398,'Нижнедевицк (поселок)'),
 	 (0,12399,'Нижнедевицк (село)'),
 	 (0,12400,'Нижнедолговский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6857,12401,'Нижнедонской'),
 	 (0,12402,'Нижнедорожное'),
 	 (0,12403,'Нижнее'),
@@ -13649,7 +13649,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12408,'Нижнее Бобино'),
 	 (0,12409,'Нижнее Большое'),
 	 (0,12410,'Нижнее Галино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12411,'Нижнее Гридино'),
 	 (0,12412,'Нижнее Гурово'),
 	 (0,12413,'Нижнее Инхело'),
@@ -13660,7 +13660,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12418,'Нижнее Мальцево'),
 	 (0,12419,'Нижнее Маслово'),
 	 (0,12420,'Нижнее Махарги');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12421,'Нижнее Мулебки'),
 	 (0,12422,'Нижнее Мячково'),
 	 (0,12423,'Нижнее Озеро'),
@@ -13671,7 +13671,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12428,'Нижнее Хорошово'),
 	 (0,12429,'Нижнее Чекурское'),
 	 (0,12430,'Нижнезаитово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12431,'Нижнезольский'),
 	 (0,12432,'Нижнеиванаево'),
 	 (0,12433,'Нижнеивкино'),
@@ -13682,7 +13682,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12438,'Нижнекундрюченская'),
 	 (0,12439,'Нижнеманай'),
 	 (0,12440,'Нижнеманчарово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12441,'Нижнемартыново'),
 	 (0,12442,'Нижнемарьино'),
 	 (0,12443,'Нижненагольная'),
@@ -13693,7 +13693,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12448,'Нижнепинигино'),
 	 (0,12449,'Нижнеподкумский'),
 	 (0,12450,'Нижнеполевское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12451,'Нижнепопов'),
 	 (0,12452,'Нижнесакмарский'),
 	 (0,12453,'Нижнесеребряковский'),
@@ -13704,7 +13704,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12458,'Нижнетерянск'),
 	 (0,12459,'Нижнетобольное'),
 	 (5874,12460,'Нижнетроицкий');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12461,'Нижнеулу Елга'),
 	 (0,12462,'Нижнеусцелемово'),
 	 (0,12463,'Нижнечерекулево'),
@@ -13715,7 +13715,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12468,'Нижние Аремзяны'),
 	 (0,12469,'Нижние Аты'),
 	 (0,12470,'Нижние Ачаки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12471,'Нижние Ачалуки'),
 	 (0,12472,'Нижние Бишинды'),
 	 (0,12473,'Нижние Бузули'),
@@ -13726,7 +13726,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12478,'Нижние Ключи'),
 	 (0,12479,'Нижние Кузлы'),
 	 (0,12480,'Нижние Куряты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12481,'Нижние Лемезы'),
 	 (0,12482,'Нижние Метески'),
 	 (0,12483,'Нижние Муллы'),
@@ -13737,7 +13737,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12488,'Нижние Прыски'),
 	 (1290,12489,'Нижние Серги'),
 	 (0,12490,'Нижние Тальцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12491,'Нижние Ташлы'),
 	 (0,12492,'Нижние Тимерсяны'),
 	 (0,12493,'Нижние Челны'),
@@ -13748,7 +13748,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12498,'Нижний Аллагуват'),
 	 (0,12499,'Нижний Арий'),
 	 (0,12500,'Нижний Архыз');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12501,'Нижний Атлян'),
 	 (0,12502,'Нижний Бардым'),
 	 (5178,12503,'Нижний Баскунчак'),
@@ -13759,7 +13759,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12508,'Нижний Воч'),
 	 (0,12509,'Нижний Гумбет'),
 	 (5599,12510,'Нижний Дженгутай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12511,'Нижний Доманик'),
 	 (0,12512,'Нижний Енангск'),
 	 (0,12513,'Нижний Жирим'),
@@ -13770,7 +13770,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12518,'Нижний Искубаш'),
 	 (0,12519,'Нижний Искуш'),
 	 (0,12520,'Нижний Калгукан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12521,'Нижний Карабут'),
 	 (0,12522,'Нижний Каранай'),
 	 (0,12523,'Нижний Карачан'),
@@ -13781,7 +13781,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12528,'Нижний Комар'),
 	 (0,12529,'Нижний Кугенер'),
 	 (0,12530,'Нижний Кужебар');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12531,'Нижний Куранах'),
 	 (0,12532,'Нижний Куркужин'),
 	 (0,12533,'Нижний Курмей'),
@@ -13792,7 +13792,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12538,'Нижний Лух'),
 	 (0,12539,'Нижний Лып'),
 	 (0,12540,'Нижний Мамон (Нижнемамонский 1-й с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12541,'Нижний Мордок'),
 	 (0,12542,'Нижний Мывал'),
 	 (0,12543,'Нижний Наратбаш'),
@@ -13803,7 +13803,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12548,'Нижний Пальник'),
 	 (0,12549,'Нижний Реут'),
 	 (0,12550,'Нижний Реутец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12551,'Нижний Саловск'),
 	 (0,12552,'Нижний Саянтуй'),
 	 (0,12553,'Нижний Симет'),
@@ -13814,7 +13814,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12558,'Нижний Табын'),
 	 (0,12559,'Нижний Таканыш'),
 	 (0,12560,'Нижний Танай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12561,'Нижний Теребуж'),
 	 (0,12562,'Нижний Тимерлек'),
 	 (5079,12563,'Нижний Торей'),
@@ -13825,7 +13825,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12568,'Нижний Услон'),
 	 (0,12569,'Нижний Уфалей'),
 	 (5097,12570,'Нижний Цасучей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12571,'Нижний Чегем'),
 	 (0,12572,'Нижний Черек'),
 	 (4584,12573,'Нижний Чир'),
@@ -13836,7 +13836,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12578,'Нижний Шкафт'),
 	 (0,12579,'Нижняя Александровка'),
 	 (0,12580,'Нижняя Байгора');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12581,'Нижняя Барда'),
 	 (0,12582,'Нижняя Быковка'),
 	 (0,12583,'Нижняя Ведуга'),
@@ -13847,7 +13847,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12588,'Нижняя Гусиха'),
 	 (0,12589,'Нижняя Добринка'),
 	 (0,12590,'Нижняя Елюзань');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12591,'Нижняя Ермоловка'),
 	 (0,12592,'Нижняя Есауловка'),
 	 (0,12593,'Нижняя Иволга'),
@@ -13858,7 +13858,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12598,'Нижняя Каменка'),
 	 (0,12599,'Нижняя Каянча'),
 	 (0,12600,'Нижняя Кийма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12601,'Нижняя Кня'),
 	 (0,12602,'Нижняя Колыбелька'),
 	 (0,12603,'Нижняя Кондрата'),
@@ -13869,7 +13869,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12608,'Нижняя Луговка'),
 	 (4181,12609,'Нижняя Мактама'),
 	 (0,12610,'Нижняя Мара');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12611,'Нижняя Матренка'),
 	 (0,12612,'Нижняя Мондома'),
 	 (0,12613,'Нижняя Ножема'),
@@ -13880,7 +13880,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12618,'Нижняя Паломица'),
 	 (0,12619,'Нижняя Петровка'),
 	 (0,12620,'Нижняя Пеша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4765,12621,'Нижняя Пойма'),
 	 (0,12622,'Нижняя Покровка'),
 	 (0,12623,'Нижняя Полтавка'),
@@ -13891,7 +13891,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12628,'Нижняя Серебрянка'),
 	 (0,12629,'Нижняя Синячиха'),
 	 (0,12630,'Нижняя Слобода');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12631,'Нижняя Суетка'),
 	 (0,12632,'Нижняя Султановка'),
 	 (0,12633,'Нижняя Сунь'),
@@ -13902,7 +13902,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12638,'Нижняя Теберда'),
 	 (0,12639,'Нижняя Тига'),
 	 (0,12640,'Нижняя Тойма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12641,'Нижняя Уратьма'),
 	 (0,12642,'Нижняя Чернавка'),
 	 (0,12643,'Нижняя Шахтама'),
@@ -13913,7 +13913,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12648,'Низовка'),
 	 (0,12649,'Низовое'),
 	 (0,12650,'Низовье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12651,'Никаноровка'),
 	 (0,12652,'Никель'),
 	 (0,12653,'Никитинка'),
@@ -13924,7 +13924,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12658,'Никитовка'),
 	 (0,12659,'Никитская'),
 	 (0,12660,'Никитское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12661,'Никитье'),
 	 (0,12662,'Никифарово'),
 	 (0,12663,'Никифоровка'),
@@ -13935,7 +13935,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (126,12668,'Николаев'),
 	 (3167,12669,'Николаевка'),
 	 (0,12670,'Николаевка (Медведский с/о)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12671,'Николаевка (село)'),
 	 (0,12672,'Николаевка 2-я'),
 	 (0,12673,'Николаево'),
@@ -13946,7 +13946,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12678,'Николаевское'),
 	 (0,12679,'Николаенко'),
 	 (0,12680,'Николайполь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12681,'Николашкино'),
 	 (0,12682,'Николевский'),
 	 (0,12683,'Николенко'),
@@ -13957,7 +13957,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12688,'Николо-Барнуки'),
 	 (5876,12689,'Николо-Березовка'),
 	 (0,12690,'Николо-Корма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12691,'Николо-Кропотки'),
 	 (0,12692,'Николо-Макарово'),
 	 (4698,12693,'Николо-Павловское'),
@@ -13968,7 +13968,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12698,'Николо-Шанга'),
 	 (0,12699,'Николовка'),
 	 (6600,12700,'Никологоры');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12701,'Николькино'),
 	 (5069,12702,'Никольск'),
 	 (0,12703,'Никольская'),
@@ -13979,7 +13979,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2004,12708,'Никольское'),
 	 (0,12709,'Никольское (деревня)'),
 	 (0,12710,'Никольское (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12711,'Никольское 1-е'),
 	 (0,12712,'Никольское 2-е'),
 	 (0,12713,'Никольское-на-Черемшане'),
@@ -13990,7 +13990,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2131,12718,'Никополь'),
 	 (0,12719,'Никулино'),
 	 (0,12720,'Никулино (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12721,'Никульевка'),
 	 (0,12722,'Никулята'),
 	 (0,12723,'Нименьга (поселок)'),
@@ -14001,7 +14001,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12728,'Нискасы'),
 	 (0,12729,'Нифаки'),
 	 (0,12730,'Нифантово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12731,'Ницинское'),
 	 (0,12732,'Ничрас'),
 	 (0,12733,'Ния'),
@@ -14012,7 +14012,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12738,'Новая Алексеевка'),
 	 (0,12739,'Новая Амзя'),
 	 (0,12740,'Новая Балкария');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12741,'Новая Барша'),
 	 (0,12742,'Новая Безгинка'),
 	 (0,12743,'Новая Бекшанка'),
@@ -14023,7 +14023,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12748,'Новая Габсельга'),
 	 (0,12749,'Новая Деревня'),
 	 (0,12750,'Новая Джегута');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12751,'Новая Дубрава'),
 	 (0,12752,'Новая Еловка'),
 	 (0,12753,'Новая Жизнь'),
@@ -14034,7 +14034,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4875,12758,'Новая Игирма'),
 	 (0,12759,'Новая Ида'),
 	 (0,12760,'Новая Иня');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12761,'Новая Казанка'),
 	 (0,12762,'Новая Калами'),
 	 (0,12763,'Новая Калитва'),
@@ -14045,7 +14045,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12768,'Новая Квасниковка'),
 	 (0,12769,'Новая Киреметь'),
 	 (0,12770,'Новая Коса');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12771,'Новая Криуша'),
 	 (0,12772,'Новая Кугульта'),
 	 (0,12773,'Новая Кука'),
@@ -14056,7 +14056,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2005,12778,'Новая Ладога'),
 	 (6191,12779,'Новая Ляда'),
 	 (1294,12780,'Новая Ляля');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12781,'Новая Майна'),
 	 (0,12782,'Новая Майна 1-я'),
 	 (5600,12783,'Новая Мака'),
@@ -14067,7 +14067,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12788,'Новая Недокура'),
 	 (0,12789,'Новая Ольховка'),
 	 (0,12790,'Новая Павловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12791,'Новая Погощь'),
 	 (0,12792,'Новая Полтавка'),
 	 (0,12793,'Новая Порубежка'),
@@ -14078,7 +14078,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12798,'Новая Русса'),
 	 (0,12799,'Новая Сидоровка'),
 	 (0,12800,'Новая Слобода');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12801,'Новая Слободка'),
 	 (0,12802,'Новая Смаиль'),
 	 (0,12803,'Новая Соболева'),
@@ -14089,7 +14089,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12808,'Новая Тараба'),
 	 (0,12809,'Новая Теберда'),
 	 (0,12810,'Новая Тельба');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12811,'Новая Тепловка'),
 	 (0,12812,'Новая Терешка'),
 	 (0,12813,'Новая Терновка'),
@@ -14100,7 +14100,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12818,'Новая Уситва'),
 	 (2647,12819,'Новая Усмань'),
 	 (0,12820,'Новая Хмелевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12821,'Новая Целина'),
 	 (2691,12822,'Новая Чара'),
 	 (0,12823,'Новая Чебула'),
@@ -14111,7 +14111,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12828,'Новая Яхреньга'),
 	 (3533,12829,'Новгородка'),
 	 (0,12830,'Новгородова');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12831,'Новгородовка'),
 	 (0,12832,'Новенское'),
 	 (0,12833,'Новенькое'),
@@ -14122,7 +14122,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12838,'Новинки'),
 	 (0,12839,'Новинское'),
 	 (0,12840,'Новицкое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4922,12841,'Новичиха'),
 	 (0,12842,'Новки (поселок)'),
 	 (0,12843,'Новкус-Артезиан'),
@@ -14133,7 +14133,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12848,'Ново'),
 	 (0,12849,'Ново Байдары'),
 	 (0,12850,'Ново-Аргвани');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12851,'Ново-Бобруйск'),
 	 (0,12852,'Ново-Булгары'),
 	 (0,12853,'Ново-Васильевка'),
@@ -14144,7 +14144,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12858,'Ново-Ивановское'),
 	 (0,12859,'Ново-Исправненский'),
 	 (0,12860,'Ново-Кувинск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12861,'Ново-Ленино'),
 	 (0,12862,'Ново-Московское'),
 	 (0,12863,'Ново-Николаевка'),
@@ -14155,7 +14155,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12868,'Ново-Троицкое'),
 	 (0,12869,'Ново-Ямская'),
 	 (0,12870,'Новоабышево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5012,12871,'Новоаганск'),
 	 (0,12872,'Новоакбулатово'),
 	 (0,12873,'Новоаксайский'),
@@ -14166,7 +14166,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12878,'Новоалександровский'),
 	 (0,12879,'Новоалексеевка'),
 	 (5534,12880,'Новоалексеевская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12881,'Новоалексеевское'),
 	 (0,12882,'Новоалтатка'),
 	 (0,12883,'Новоангарск'),
@@ -14177,7 +14177,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12888,'Новоаптиково'),
 	 (0,12889,'Новоаптула'),
 	 (0,12890,'Новоархангелка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12891,'Новоархангельская'),
 	 (0,12892,'Новоархангельское'),
 	 (0,12893,'Новоасбест'),
@@ -14188,7 +14188,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12898,'Новобарнаулка'),
 	 (4537,12899,'Новобатайск'),
 	 (0,12900,'Новобатурино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12901,'Новобачаты'),
 	 (5535,12902,'Новобейсугская'),
 	 (0,12903,'Новобелая'),
@@ -14199,7 +14199,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12908,'Новоберезовка'),
 	 (0,12909,'Новоберезово'),
 	 (0,12910,'Новоберезовский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12911,'Новоберезовское'),
 	 (0,12912,'Новобессергеновка'),
 	 (0,12913,'Новобибеево'),
@@ -14210,7 +14210,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12918,'Новобогородицкое'),
 	 (0,12919,'Новобогородское'),
 	 (0,12920,'Новобокино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12921,'Новоборзинское'),
 	 (0,12922,'Новоборский'),
 	 (0,12923,'Новобуранное'),
@@ -14221,7 +14221,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12928,'Новобусино'),
 	 (4714,12929,'Нововаршавка'),
 	 (0,12930,'Нововасильевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12931,'Нововасильево'),
 	 (3282,12932,'Нововеличковская'),
 	 (0,12933,'Нововильвенский'),
@@ -14232,7 +14232,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12938,'Нововолково'),
 	 (1851,12939,'Нововоронеж'),
 	 (0,12940,'Нововоронежский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12941,'Нововоронинский'),
 	 (0,12942,'Нововоскресенка'),
 	 (0,12943,'Нововоскресеновка'),
@@ -14243,7 +14243,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12948,'Новогагатли'),
 	 (0,12949,'Новогандичево'),
 	 (0,12950,'Новогафарово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12951,'Новогеоргиевка'),
 	 (0,12952,'Новогеоргиевка 2-я'),
 	 (0,12953,'Новогеоргиевск'),
@@ -14254,7 +14254,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12958,'Новогорное'),
 	 (5800,12959,'Новогорный'),
 	 (0,12960,'Новогородка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12961,'Новогорское'),
 	 (0,12962,'Новогражданская'),
 	 (0,12963,'Новогремяченское'),
@@ -14265,7 +14265,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12968,'Новогуслево'),
 	 (1014,12969,'Новодвинск'),
 	 (0,12970,'Новодевица');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12971,'Новодевичье'),
 	 (3426,12972,'Новодеревянковская'),
 	 (3427,12973,'Новоджерелиевская'),
@@ -14276,7 +14276,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12978,'Новодолоново'),
 	 (0,12979,'Новодольские Поселки'),
 	 (0,12980,'Новодомосейкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12981,'Новодонецкая'),
 	 (0,12982,'Новодраченино'),
 	 (0,12983,'Новодрожжино'),
@@ -14287,7 +14287,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12988,'Новое (Борисовское МО)'),
 	 (0,12989,'Новое Аделяково'),
 	 (0,12990,'Новое Аксубаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,12991,'Новое Акшино'),
 	 (0,12992,'Новое Алимово'),
 	 (0,12993,'Новое Альметьево'),
@@ -14298,7 +14298,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,12998,'Новое Баево'),
 	 (0,12999,'Новое Байбатырево'),
 	 (0,13000,'Новое Барятино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13001,'Новое Батурино'),
 	 (0,13002,'Новое Буяново'),
 	 (0,13003,'Новое Ганькино'),
@@ -14309,7 +14309,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13008,'Новое Домозерово'),
 	 (0,13009,'Новое Дубовое'),
 	 (0,13010,'Новое Еголдаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13011,'Новое Зеленое'),
 	 (0,13012,'Новое Ибрайкино'),
 	 (0,13013,'Новое Иглайкино'),
@@ -14320,7 +14320,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13018,'Новое Каракюре'),
 	 (0,13019,'Новое Каширово'),
 	 (0,13020,'Новое Комино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13021,'Новое Котяково'),
 	 (0,13022,'Новое Курмашево'),
 	 (0,13023,'Новое Лидже'),
@@ -14331,7 +14331,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13028,'Новое Машезеро'),
 	 (0,13029,'Новое Место'),
 	 (0,13030,'Новое Мугри');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13031,'Новое Надырово'),
 	 (0,13032,'Новое Никулино'),
 	 (0,13033,'Новое Ободово'),
@@ -14342,7 +14342,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13038,'Новое Сережкино'),
 	 (0,13039,'Новое Тарбеево'),
 	 (0,13040,'Новое Тимошкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13041,'Новое Тинчурино'),
 	 (0,13042,'Новое Усманово'),
 	 (0,13043,'Новое Устье'),
@@ -14353,7 +14353,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13048,'Новое Якушкино'),
 	 (4923,13049,'Новоегорьевское'),
 	 (0,13050,'Новоекатериновская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13051,'Новоеловка'),
 	 (0,13052,'Новоелово'),
 	 (0,13053,'Новоельдяково'),
@@ -14364,7 +14364,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13058,'Новоживотинное'),
 	 (0,13059,'Новожилкино'),
 	 (3881,13060,'Новозаведенное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6184,13061,'Новозавидовский'),
 	 (0,13062,'Новозаволжский'),
 	 (0,13063,'Новозалесново'),
@@ -14375,7 +14375,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13068,'Новознаменский'),
 	 (0,13069,'Новозолотовка'),
 	 (0,13070,'Новозолотовская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13071,'Новозыково'),
 	 (0,13072,'Новозыряново'),
 	 (0,13073,'Новоивановка'),
@@ -14386,7 +14386,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13078,'Новоилецк'),
 	 (0,13079,'Новоилимск'),
 	 (0,13080,'Новоильинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13081,'Новоильиновка'),
 	 (4652,13082,'Новоильинск'),
 	 (0,13083,'Новоильинский'),
@@ -14397,7 +14397,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13088,'Новоиткульское'),
 	 (0,13089,'Новоиушино'),
 	 (0,13090,'Новоичинское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13091,'Новокабаново'),
 	 (0,13092,'Новокавказский'),
 	 (0,13093,'Новоказанка'),
@@ -14408,7 +14408,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13098,'Новокамала'),
 	 (0,13099,'Новокаменка'),
 	 (0,13100,'Новокангышево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13101,'Новокаолиновый'),
 	 (0,13102,'Новокарасук'),
 	 (0,13103,'Новокаргино'),
@@ -14419,7 +14419,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13108,'Новокачалинск'),
 	 (5601,13109,'Новокаякент'),
 	 (0,13110,'Новокемский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13111,'Новокиевка'),
 	 (0,13112,'Новокиевск'),
 	 (0,13113,'Новокиевский'),
@@ -14430,7 +14430,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13118,'Новокировский'),
 	 (0,13119,'Новокирсановка'),
 	 (0,13120,'Новоклемово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13121,'Новокленское'),
 	 (0,13122,'Новоключи'),
 	 (0,13123,'Новоклязьминское'),
@@ -14441,7 +14441,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13128,'Новокормиха'),
 	 (3429,13129,'Новокорсунская'),
 	 (0,13130,'Новокрасное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13131,'Новокраюшкино'),
 	 (0,13132,'Новокремлевское'),
 	 (0,13133,'Новокрестьяновка'),
@@ -14452,7 +14452,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13138,'Новокуземкинский'),
 	 (0,13139,'Новокузнецовка'),
 	 (0,13140,'Новокузьминка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13141,'Новокуктово'),
 	 (0,13142,'Новокулево'),
 	 (0,13143,'Новокули'),
@@ -14463,7 +14463,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13148,'Новокурмашево'),
 	 (0,13149,'Новокуровка'),
 	 (0,13150,'Новокурск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13151,'Новокурупкаевка'),
 	 (0,13152,'Новокусково'),
 	 (0,13153,'Новокутово'),
@@ -14474,7 +14474,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13158,'Новоленино'),
 	 (0,13159,'Новолетники'),
 	 (3430,13160,'Новолеушковская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13161,'Новоликеево'),
 	 (0,13162,'Новолисино (Тосненское г/п)'),
 	 (0,13163,'Новолитовск'),
@@ -14485,7 +14485,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13168,'Новолосево'),
 	 (0,13169,'Новолотошино'),
 	 (4845,13170,'Новолуговое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13171,'Новолыбаево'),
 	 (0,13172,'Новольвовск'),
 	 (0,13173,'Новомакарово'),
@@ -14496,7 +14496,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13178,'Новоманошкино'),
 	 (0,13179,'Новомарковка'),
 	 (0,13180,'Новомарьевская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13181,'Новомарьясово'),
 	 (0,13182,'Новомедведево'),
 	 (0,13183,'Новомеловатка'),
@@ -14507,7 +14507,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13188,'Новомихайловка'),
 	 (3432,13189,'Новомихайловский'),
 	 (0,13190,'Новомихайловское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1708,13191,'Новомичуринск'),
 	 (0,13192,'Новомлынка'),
 	 (0,13193,'Новомосковское'),
@@ -14518,7 +14518,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13198,'Новомурапталово'),
 	 (0,13199,'Новомусино'),
 	 (0,13200,'Новомуслимово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3433,13201,'Новомышастовская'),
 	 (0,13202,'Новонагаево'),
 	 (0,13203,'Новонадеждино'),
@@ -14529,7 +14529,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2719,13208,'Новониколаевка'),
 	 (0,13209,'Новониколаевск'),
 	 (0,13210,'Новониколаевская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4536,13211,'Новониколаевский'),
 	 (0,13212,'Новоникольск'),
 	 (0,13213,'Новоникольское'),
@@ -14540,7 +14540,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13218,'Новоогаревский'),
 	 (0,13219,'Новоозерный'),
 	 (4715,13220,'Новоомский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13221,'Новооренбург'),
 	 (6940,13222,'Новоорловск'),
 	 (4275,13223,'Новоорск'),
@@ -14551,7 +14551,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13228,'Новопанское'),
 	 (0,13229,'Новопаньшино'),
 	 (0,13230,'Новопашковская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13231,'Новопервомайское'),
 	 (6832,13232,'Новоперсиановка'),
 	 (0,13233,'Новоперуново'),
@@ -14562,7 +14562,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13238,'Новопетровская'),
 	 (0,13239,'Новопетровский'),
 	 (6807,13240,'Новопетровское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13241,'Новопетропавловка'),
 	 (0,13242,'Новопетропавловское'),
 	 (0,13243,'Новописцово'),
@@ -14573,7 +14573,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13248,'Новоповалиха'),
 	 (0,13249,'Новоподзорново'),
 	 (0,13250,'Новопокровка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3283,13251,'Новопокровская'),
 	 (0,13252,'Новопокровский'),
 	 (0,13253,'Новопокровское'),
@@ -14584,7 +14584,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13258,'Новополтавский'),
 	 (0,13259,'Новополянье'),
 	 (0,13260,'Новопостояловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13261,'Новопотоцк'),
 	 (0,13262,'Новопреображенка'),
 	 (0,13263,'Новоприморский'),
@@ -14595,7 +14595,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13268,'Новорайчихинск'),
 	 (0,13269,'Новорепное'),
 	 (0,13270,'Новореченский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13271,'Новоречье'),
 	 (1095,13272,'Новоржев'),
 	 (0,13273,'Новороговская'),
@@ -14606,7 +14606,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13278,'Новоромановка'),
 	 (0,13279,'Новороманово'),
 	 (0,13280,'Новоромановское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13281,'Новороссийка'),
 	 (0,13282,'Новороссийский'),
 	 (0,13283,'Новороссийское'),
@@ -14617,7 +14617,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13288,'Новорыжково'),
 	 (0,13289,'Новосадковский'),
 	 (0,13290,'Новосадовый');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13291,'Новосамарск'),
 	 (0,13292,'Новосанжаровка'),
 	 (0,13293,'Новосафоновский'),
@@ -14628,7 +14628,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3882,13298,'Новоселицкое'),
 	 (0,13299,'Новоселицы'),
 	 (0,13300,'Новоселище');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13301,'Новоселка'),
 	 (0,13302,'Новоселки'),
 	 (0,13303,'Новоселовка'),
@@ -14639,7 +14639,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13308,'Новосельские Березки'),
 	 (0,13309,'Новосельский'),
 	 (6667,13310,'Новосельское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6387,13311,'Новосемейкино'),
 	 (0,13312,'Новосергеевка'),
 	 (4276,13313,'Новосергиевка'),
@@ -14650,7 +14650,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1904,13318,'Новосиль'),
 	 (0,13319,'Новосильское'),
 	 (0,13320,'Новосимбирка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13321,'Новосиньково'),
 	 (0,13322,'Новоситовка'),
 	 (0,13323,'Новоскатовка'),
@@ -14661,7 +14661,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1096,13328,'Новосокольники'),
 	 (0,13329,'Новосокулак'),
 	 (0,13330,'Новосолдатка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13331,'Новоспасск'),
 	 (0,13332,'Новоспасский'),
 	 (0,13333,'Новоспасское'),
@@ -14672,7 +14672,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13338,'Новострой'),
 	 (0,13339,'Новостройка'),
 	 (0,13340,'Новосубаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13341,'Новосултангулово'),
 	 (0,13342,'Новосуховый'),
 	 (0,13343,'Новосысоевка'),
@@ -14683,7 +14683,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13348,'Новотерский'),
 	 (0,13349,'Новотерское'),
 	 (0,13350,'Новотеряево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2689,13351,'Новотитаровская'),
 	 (0,13352,'Новотолучеево'),
 	 (0,13353,'Новотомниково'),
@@ -14694,7 +14694,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13358,'Новотроицкая'),
 	 (0,13359,'Новотроицкий'),
 	 (3521,13360,'Новотроицкое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13361,'Новотулка'),
 	 (0,13362,'Новотырышкино'),
 	 (0,13363,'Новоугловская'),
@@ -14705,7 +14705,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13368,'Новоуколово'),
 	 (0,13369,'Новоукраинский'),
 	 (3988,13370,'Новоукраинское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1618,13371,'Новоульяновск'),
 	 (0,13372,'Новоульяновский'),
 	 (0,13373,'Новоульяновское'),
@@ -14716,7 +14716,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13378,'Новоурусовка'),
 	 (0,13379,'Новоусманово'),
 	 (0,13380,'Новоуспенка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13381,'Новоуспеновка'),
 	 (0,13382,'Новоуспенское'),
 	 (4716,13383,'Новоуткинск'),
@@ -14727,7 +14727,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13388,'Новохайский'),
 	 (0,13389,'Новохаритоново'),
 	 (0,13390,'Новохарьковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13391,'Новохвалынский'),
 	 (0,13392,'Новохованск'),
 	 (1852,13393,'Новохоперск'),
@@ -14738,7 +14738,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13398,'Новоцимлянская'),
 	 (0,13399,'Новоцурухайтуй'),
 	 (0,13400,'Новочадово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13401,'Новочановское'),
 	 (0,13402,'Новочелны-Сюрбеево'),
 	 (0,13403,'Новочемоданово'),
@@ -14749,7 +14749,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13408,'Новочеркасск (село)'),
 	 (0,13409,'Новочеркасское'),
 	 (4768,13410,'Новочернореченский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13411,'Новочершилинский'),
 	 (0,13412,'Новочесноковка'),
 	 (0,13413,'Новочесноково'),
@@ -14760,7 +14760,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13418,'Новошахтинский'),
 	 (4182,13419,'Новошешминск'),
 	 (0,13420,'Новошилово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13421,'Новошино'),
 	 (0,13422,'Новошипуново'),
 	 (6896,13423,'Новоширокинский'),
@@ -14771,7 +14771,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13428,'Новоюласка'),
 	 (0,13429,'Новоюмашево'),
 	 (0,13430,'Новоюрьево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13431,'Новоягодное'),
 	 (0,13432,'Новоякупово'),
 	 (0,13433,'Новоямская Слобода'),
@@ -14782,7 +14782,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13438,'Новоярки'),
 	 (0,13439,'Новоярково'),
 	 (0,13440,'Новоясенская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13441,'Новояушево'),
 	 (0,13442,'Новые Айбеси'),
 	 (0,13443,'Новые Алгаши'),
@@ -14793,7 +14793,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13448,'Новые Верхиссы'),
 	 (0,13449,'Новые Викри'),
 	 (0,13450,'Новые Выселки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13451,'Новые Горки'),
 	 (0,13452,'Новые Дарковичи'),
 	 (0,13453,'Новые Зимницы'),
@@ -14804,7 +14804,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13458,'Новые Какерли'),
 	 (0,13459,'Новые Карамалы'),
 	 (0,13460,'Новые Каръявды');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13461,'Новые Киешки'),
 	 (0,13462,'Новые Кулики'),
 	 (0,13463,'Новые Мураты'),
@@ -14815,7 +14815,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13468,'Новые Решеты'),
 	 (0,13469,'Новые Салманы'),
 	 (0,13470,'Новые Сулли');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13471,'Новые Татышлы'),
 	 (0,13472,'Новые Тинчали'),
 	 (0,13473,'Новые Тренькасы'),
@@ -14826,7 +14826,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13478,'Новые Чечкабы'),
 	 (0,13479,'Новые Чешуйки'),
 	 (0,13480,'Новые Чукалы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13481,'Новые Чути'),
 	 (0,13482,'Новые Шальтямы'),
 	 (0,13483,'Новые Шимкусы'),
@@ -14837,7 +14837,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4607,13488,'Новый'),
 	 (0,13489,'Новый (3 Отделение Декабрист)'),
 	 (0,13490,'Новый Акатуй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13491,'Новый Актанышбаш'),
 	 (0,13492,'Новый Артаул'),
 	 (0,13493,'Новый Арыш'),
@@ -14848,7 +14848,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13498,'Новый Батакоюрт'),
 	 (0,13499,'Новый Белый Яр'),
 	 (0,13500,'Новый Бельтир');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13501,'Новый Бердяш'),
 	 (0,13502,'Новый Берикуль'),
 	 (0,13503,'Новый Биктяш'),
@@ -14859,7 +14859,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6889,13508,'Новый Быт'),
 	 (0,13509,'Новый Вагиль'),
 	 (0,13510,'Новый Валовай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4681,13511,'Новый Васюган'),
 	 (4802,13512,'Новый Городок'),
 	 (0,13513,'Новый Джалган'),
@@ -14870,7 +14870,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13518,'Новый Заган'),
 	 (0,13519,'Новый Изборск'),
 	 (0,13520,'Новый Имян');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13521,'Новый Иштеряк'),
 	 (0,13522,'Новый Каинлык'),
 	 (0,13523,'Новый Камелик'),
@@ -14881,7 +14881,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13528,'Новый Кишит'),
 	 (0,13529,'Новый Ковыляй'),
 	 (0,13530,'Новый Кокуй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13531,'Новый Кошкуль'),
 	 (0,13532,'Новый Кувак'),
 	 (0,13533,'Новый Кумух'),
@@ -14892,7 +14892,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13538,'Новый Лиман'),
 	 (0,13539,'Новый Майзас'),
 	 (0,13540,'Новый Мачим');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13541,'Новый Маяк'),
 	 (0,13542,'Новый Мелькен'),
 	 (0,13543,'Новый Мир'),
@@ -14903,7 +14903,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1824,13548,'Новый Оскол'),
 	 (5893,13549,'Новый Порт'),
 	 (0,13550,'Новый Поселок');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13551,'Новый Редант'),
 	 (4586,13552,'Новый Рогачик'),
 	 (5939,13553,'Новый Ропск'),
@@ -14914,7 +14914,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4159,13558,'Новый Свет'),
 	 (0,13559,'Новый Синец'),
 	 (5604,13560,'Новый Сулак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13561,'Новый Тап'),
 	 (0,13562,'Новый Тартасс'),
 	 (0,13563,'Новый Терис'),
@@ -14925,7 +14925,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5281,13568,'Новый Ургал'),
 	 (0,13569,'Новый Урень'),
 	 (0,13570,'Новый Уркарах');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13571,'Новый Урух'),
 	 (0,13572,'Новый Усад'),
 	 (0,13573,'Новый Усман'),
@@ -14936,7 +14936,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5606,13578,'Новый Чиркей'),
 	 (0,13579,'Новый Шарап'),
 	 (0,13580,'Новый Янзигит');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13581,'Новый Янкуль'),
 	 (0,13582,'Новый-Зирган'),
 	 (0,13583,'Ногинск-9'),
@@ -14947,7 +14947,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13588,'Ноготино'),
 	 (0,13589,'Ногуши'),
 	 (6206,13590,'Ножай-Юрт');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13591,'Ножкино'),
 	 (0,13592,'Ножовка'),
 	 (0,13593,'Ноздрачево'),
@@ -14958,7 +14958,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13598,'Норваш-Кошки'),
 	 (0,13599,'Норваш-Шигали'),
 	 (0,13600,'Нордовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13601,'Нори'),
 	 (0,13602,'Норильное'),
 	 (0,13603,'Норино'),
@@ -14969,7 +14969,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13608,'Норск'),
 	 (0,13609,'Норы'),
 	 (0,13610,'Норья');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13611,'Носакино'),
 	 (0,13612,'Носим'),
 	 (0,13613,'Носково (село)'),
@@ -14980,7 +14980,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13618,'Ношуль'),
 	 (0,13619,'Нугуш'),
 	 (0,13620,'Нудоль');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13621,'Нуж-Ключ'),
 	 (0,13622,'Нукатово'),
 	 (0,13623,'Нукуты'),
@@ -14991,7 +14991,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13628,'Нур-Тухум'),
 	 (0,13629,'Нурадилово'),
 	 (0,13630,'Нуреево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13631,'Нуринер'),
 	 (0,13632,'Нуринск'),
 	 (0,13633,'Нуркеево'),
@@ -15002,7 +15002,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13638,'Нурмолицы'),
 	 (0,13639,'Нурта'),
 	 (0,13640,'Нурумбал (Семисолинский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13641,'Нушполы'),
 	 (0,13642,'Нуштайкино'),
 	 (0,13643,'Ныгда'),
@@ -15013,7 +15013,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13648,'Ныргында'),
 	 (0,13649,'Ныроб'),
 	 (0,13650,'Нырты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13651,'Нырья'),
 	 (1331,13652,'Нытва'),
 	 (0,13653,'Ныш'),
@@ -15024,7 +15024,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4331,13658,'Нюксеница'),
 	 (0,13659,'Нюмыд'),
 	 (1181,13660,'Нюрба');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13661,'Нюрбачан'),
 	 (0,13662,'Нюргечи'),
 	 (0,13663,'Нюрдор-Котья'),
@@ -15035,7 +15035,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13668,'Няксимволь'),
 	 (0,13669,'Нялинское'),
 	 (0,13670,'Нянино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13671,'Няшабож'),
 	 (0,13672,'О-Шынаа'),
 	 (0,13673,'Оба-Сирма'),
@@ -15046,7 +15046,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13678,'Обеста'),
 	 (0,13679,'Обжериха'),
 	 (0,13680,'Обидимо');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13681,'Обильное'),
 	 (0,13682,'Обильный'),
 	 (0,13683,'Областная'),
@@ -15057,7 +15057,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13688,'Обманка 2-я'),
 	 (0,13689,'Обо'),
 	 (0,13690,'Обода');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4141,13691,'Обозерский'),
 	 (2751,13692,'Оболенск'),
 	 (0,13693,'Оболешево'),
@@ -15068,7 +15068,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13698,'Образцовый'),
 	 (5307,13699,'Образцы'),
 	 (0,13700,'Обрезки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13701,'Обросово'),
 	 (0,13702,'Оброчное'),
 	 (0,13703,'Оброчное (село)'),
@@ -15079,7 +15079,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13708,'Обуса'),
 	 (0,13709,'Обутковское'),
 	 (0,13710,'Обуховка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5116,13711,'Обухово'),
 	 (0,13712,'Обуховское'),
 	 (0,13713,'Обход'),
@@ -15090,7 +15090,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13718,'Овата'),
 	 (0,13719,'Овгорт'),
 	 (0,13720,'Оверино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13721,'Оверята'),
 	 (0,13722,'Овечий Овраг'),
 	 (0,13723,'Овечкино'),
@@ -15101,7 +15101,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5936,13728,'Овстуг'),
 	 (0,13729,'Овсянка'),
 	 (0,13730,'Овсянникова');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13731,'Овсянниково'),
 	 (0,13732,'Овчинец'),
 	 (0,13733,'Овчинниково'),
@@ -15112,7 +15112,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13738,'Оглоблино'),
 	 (0,13739,'Оглонги'),
 	 (0,13740,'Оглухино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13741,'Огнева Заимка'),
 	 (0,13742,'Огнево'),
 	 (0,13743,'Огневское'),
@@ -15123,7 +15123,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13748,'Огоньки'),
 	 (0,13749,'Огорелыши'),
 	 (0,13750,'Огородтах');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13751,'Огорон'),
 	 (0,13752,'Огорь'),
 	 (0,13753,'Огуднево'),
@@ -15134,7 +15134,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13758,'Одино'),
 	 (0,13759,'Одинок'),
 	 (0,13760,'Одинск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13761,'Одинцовка'),
 	 (0,13762,'Одинцово (село)'),
 	 (0,13763,'Однолуки'),
@@ -15145,7 +15145,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4878,13768,'Оек'),
 	 (0,13769,'Оер'),
 	 (0,13770,'Ожгиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13771,'Ожегино'),
 	 (0,13772,'Оженары'),
 	 (0,13773,'Ожмегово'),
@@ -15156,7 +15156,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13778,'Озерец'),
 	 (0,13779,'Озерецкий'),
 	 (0,13780,'Озерецкое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13781,'Озерище'),
 	 (0,13782,'Озерки'),
 	 (0,13783,'Озерки (село)'),
@@ -15167,7 +15167,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5237,13788,'Озерновский'),
 	 (0,13789,'Озерное'),
 	 (4355,13790,'Озерный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13791,'Озеро'),
 	 (0,13792,'Озеро Петровское'),
 	 (0,13793,'Озеро Учум'),
@@ -15178,7 +15178,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13798,'Озерское'),
 	 (0,13799,'Озимая'),
 	 (2995,13800,'Озинки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13801,'Озрек'),
 	 (0,13802,'Озъяг'),
 	 (0,13803,'Ой'),
@@ -15189,7 +15189,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13808,'Ойский'),
 	 (0,13809,'Ойсхар'),
 	 (0,13810,'Окино-Ключи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13811,'Окинский'),
 	 (0,13812,'Окни'),
 	 (0,13813,'Оковцы'),
@@ -15200,7 +15200,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13818,'Окский'),
 	 (4142,13819,'Оксовский'),
 	 (0,13820,'Оксочи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13821,'Октемцы'),
 	 (0,13822,'Октябрь'),
 	 (0,13823,'Октябрьская'),
@@ -15211,7 +15211,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13828,'Октябрьский-2'),
 	 (4277,13829,'Октябрьское'),
 	 (1055,13830,'Окуловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13831,'Окуловская'),
 	 (0,13832,'Окунайский'),
 	 (0,13833,'Окунев Нос'),
@@ -15222,7 +15222,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13838,'Окунеево'),
 	 (0,13839,'Ола'),
 	 (0,13840,'Олекан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13841,'Олекма'),
 	 (1182,13842,'Олекминск'),
 	 (0,13843,'Олема'),
@@ -15233,7 +15233,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13848,'Оленек'),
 	 (0,13849,'Олений'),
 	 (4378,13850,'Оленино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13851,'Олень-Колодезь'),
 	 (0,13852,'Оленье'),
 	 (0,13853,'Оленье Болото'),
@@ -15244,7 +15244,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13858,'Олой'),
 	 (1084,13859,'Олонец'),
 	 (0,13860,'Олонки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13861,'Олоновка'),
 	 (0,13862,'Олоры'),
 	 (0,13863,'Олочи'),
@@ -15255,7 +15255,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13868,'Олымский'),
 	 (0,13869,'Ольга'),
 	 (0,13870,'Ольгети');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13871,'Ольгинка'),
 	 (0,13872,'Ольгино'),
 	 (3989,13873,'Ольгинская'),
@@ -15266,7 +15266,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13878,'Ольсово'),
 	 (0,13879,'Ольхи'),
 	 (0,13880,'Ольхов Лог');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2663,13881,'Ольховатка'),
 	 (0,13882,'Ольховец'),
 	 (4588,13883,'Ольховка'),
@@ -15277,7 +15277,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3537,13888,'Ольшанка'),
 	 (0,13889,'Ольявидово'),
 	 (0,13890,'Оля');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13891,'Ома'),
 	 (0,13892,'Омары'),
 	 (0,13893,'Омолон'),
@@ -15288,7 +15288,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13898,'Омутское'),
 	 (0,13899,'Омчак'),
 	 (4820,13900,'Онгудай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13901,'Ондозеро'),
 	 (1016,13902,'Онега'),
 	 (0,13903,'Онежский'),
@@ -15299,7 +15299,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13908,'Ононское'),
 	 (0,13909,'Оноприеновка'),
 	 (0,13910,'Онор');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13911,'Онот'),
 	 (4987,13912,'Онохино'),
 	 (4653,13913,'Онохой'),
@@ -15310,7 +15310,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13918,'Оныл'),
 	 (4459,13919,'Опарино'),
 	 (0,13920,'Опачевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6801,13921,'Опенки'),
 	 (0,13922,'Опеченский Посад'),
 	 (0,13923,'Опеченский Рядок'),
@@ -15321,7 +15321,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13928,'Опухлики'),
 	 (0,13929,'Опухлики-2'),
 	 (0,13930,'Опытного хозяйства «Ермолино»');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13931,'Опытное Поле'),
 	 (0,13932,'Опытный'),
 	 (0,13933,'Оравка'),
@@ -15332,7 +15332,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13938,'Орауши'),
 	 (0,13939,'Оргакин'),
 	 (0,13940,'Оргет');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13941,'Оргтруд'),
 	 (0,13942,'Орда'),
 	 (0,13943,'Орджоникидзе'),
@@ -15343,7 +15343,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13948,'Орево (поселок)'),
 	 (5441,13949,'Оредеж'),
 	 (0,13950,'Орёл (деревня)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13951,'Орёл (Добрученская волость)'),
 	 (0,13952,'Орёл (поселок)'),
 	 (0,13953,'Орёл (хутор)'),
@@ -15354,7 +15354,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13958,'Орехов Лог'),
 	 (0,13959,'Ореховая Гора'),
 	 (0,13960,'Ореховец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13961,'Ореховка'),
 	 (0,13962,'Ореховно'),
 	 (6630,13963,'Орехово'),
@@ -15365,7 +15365,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13968,'Оржевка'),
 	 (5442,13969,'Оржицы'),
 	 (0,13970,'Оринино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3771,13971,'Оричи'),
 	 (0,13972,'Орлеан'),
 	 (0,13973,'Орлецы'),
@@ -15376,7 +15376,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13978,'Орлов Гай'),
 	 (0,13979,'Орлов Лог'),
 	 (0,13980,'Орлов Починок');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13981,'Орловка'),
 	 (3813,13982,'Орлово'),
 	 (2638,13983,'Орловский'),
@@ -15387,7 +15387,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13988,'Орой'),
 	 (0,13989,'Оронгой (улус)'),
 	 (0,13990,'Оросу');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,13991,'Орот'),
 	 (0,13992,'Орота'),
 	 (0,13993,'Оротук'),
@@ -15398,7 +15398,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,13998,'Орто-Нахара'),
 	 (0,13999,'Орто-Сурт'),
 	 (0,14000,'Ортоколо');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14001,'Ортолык'),
 	 (0,14002,'Ортон'),
 	 (0,14003,'Ортуй'),
@@ -15409,7 +15409,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14008,'Орье'),
 	 (0,14009,'Орьебаш Старый'),
 	 (1332,14010,'Оса');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14011,'Осановец'),
 	 (0,14012,'Осаново-Дубовое'),
 	 (0,14013,'Освобождение'),
@@ -15420,7 +15420,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14018,'Осеченка'),
 	 (0,14019,'Осеченки'),
 	 (0,14020,'Осиковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14021,'Осиково'),
 	 (6683,14022,'Осинки'),
 	 (0,14023,'Осинник'),
@@ -15431,7 +15431,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14028,'Осиновая Речка'),
 	 (0,14029,'Осиновик'),
 	 (0,14030,'Осиновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4183,14031,'Осиново'),
 	 (0,14032,'Осиновое Плесо'),
 	 (0,14033,'Осиновская'),
@@ -15442,7 +15442,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14038,'Осиповка'),
 	 (0,14039,'Осиповский'),
 	 (0,14040,'Осипсола');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14041,'Осички'),
 	 (0,14042,'Осколково'),
 	 (0,14043,'Оскольское'),
@@ -15453,7 +15453,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14048,'Осокино (село)'),
 	 (5232,14049,'Оссора'),
 	 (0,14050,'Останинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6668,14051,'Останино'),
 	 (0,14052,'Останкино (Останкинский с/с)'),
 	 (0,14053,'Остафьево'),
@@ -15464,7 +15464,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14058,'Осташково'),
 	 (0,14059,'Остер'),
 	 (0,14060,'Остовская Щель');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14061,'Острецово'),
 	 (1098,14062,'Остров'),
 	 (0,14063,'Остров им Белова'),
@@ -15475,7 +15475,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14068,'Островки'),
 	 (0,14069,'Островное'),
 	 (1072,14070,'Островной');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6812,14071,'Островская'),
 	 (0,14072,'Островский'),
 	 (4354,14073,'Островское'),
@@ -15486,7 +15486,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1853,14078,'Острогожск'),
 	 (0,14079,'Острогожское'),
 	 (0,14080,'Острожка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14081,'Острожное'),
 	 (0,14082,'Остроленский'),
 	 (0,14083,'Остроухов'),
@@ -15497,7 +15497,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14088,'Оськина'),
 	 (0,14089,'Оськино'),
 	 (0,14090,'Осьмино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14091,'Осяткино'),
 	 (0,14092,'Отарное'),
 	 (0,14093,'Отары'),
@@ -15508,7 +15508,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3887,14098,'Отказное'),
 	 (0,14099,'Относово'),
 	 (0,14100,'Отношка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14101,'Оторма'),
 	 (0,14102,'Оточево'),
 	 (0,14103,'Отрада'),
@@ -15519,7 +15519,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3990,14108,'Отрадо-Кубанское'),
 	 (5538,14109,'Отрадо-Ольгинское'),
 	 (0,14110,'Отрадовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14111,'Отреченское'),
 	 (0,14112,'Отрожки'),
 	 (0,14113,'Отрожный'),
@@ -15530,7 +15530,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14118,'Отымбал'),
 	 (0,14119,'Оус'),
 	 (1333,14120,'Оханск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14121,'Охват'),
 	 (0,14122,'Охлебинино'),
 	 (0,14123,'Охли'),
@@ -15541,7 +15541,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6109,14128,'Охотск'),
 	 (0,14129,'Охровый завод'),
 	 (0,14130,'Охтеурье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1334,14131,'Очер'),
 	 (0,14132,'Очея'),
 	 (0,14133,'Очкуровка'),
@@ -15552,7 +15552,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14138,'Ошиб'),
 	 (0,14139,'Ошкуково'),
 	 (0,14140,'Ошлань');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14141,'Ошминское'),
 	 (0,14142,'Ошта'),
 	 (0,14143,'Ошторма Юмья'),
@@ -15563,7 +15563,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14148,'п/л Восход'),
 	 (0,14149,'Паберега'),
 	 (5747,14150,'Павда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14151,'Павелево'),
 	 (5897,14152,'Павелец'),
 	 (0,14153,'Павелка'),
@@ -15574,7 +15574,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14158,'Павло-Антоновка'),
 	 (0,14159,'Павло-Куракино'),
 	 (0,14160,'Павло-Федоровка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14161,'Павло-Хутор'),
 	 (0,14162,'Павлов'),
 	 (0,14163,'Павловичи'),
@@ -15585,7 +15585,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14168,'Павловское'),
 	 (0,14169,'Павловщина'),
 	 (4721,14170,'Павлоградка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (181,14171,'Павлодар'),
 	 (0,14172,'Павлодаровка'),
 	 (5654,14173,'Павлодольская'),
@@ -15596,7 +15596,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14178,'Падар'),
 	 (0,14179,'Падеринское'),
 	 (0,14180,'Падинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14181,'Падинское'),
 	 (0,14182,'Падовка'),
 	 (0,14183,'Падун'),
@@ -15607,7 +15607,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14188,'Пазял'),
 	 (0,14189,'Пай'),
 	 (0,14190,'Пайвино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14191,'Пайгарма'),
 	 (0,14192,'Пайгусово'),
 	 (0,14193,'Пайкъярвенкюля'),
@@ -15618,7 +15618,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14198,'Палаевка'),
 	 (218,14199,'Палана'),
 	 (0,14200,'Палатка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14201,'Палатово'),
 	 (0,14202,'Палауз'),
 	 (0,14203,'Палевицы'),
@@ -15629,7 +15629,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14208,'Паликского Кирпичного Завода'),
 	 (0,14209,'Палимовка'),
 	 (0,14210,'Палкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1524,14211,'Палласовка'),
 	 (0,14212,'Палова'),
 	 (0,14213,'Паломохино'),
@@ -15640,7 +15640,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14218,'Пальна-Михайловка'),
 	 (0,14219,'Пальцево'),
 	 (0,14220,'Пальцо');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14221,'Палью'),
 	 (0,14222,'Пальяново'),
 	 (0,14223,'Памяти 13 Борцов'),
@@ -15651,7 +15651,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6761,14228,'Панаевск'),
 	 (0,14229,'Панарино'),
 	 (0,14230,'Панахес');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5029,14231,'Пангоды'),
 	 (0,14232,'Пандиково'),
 	 (0,14233,'Панеево'),
@@ -15662,7 +15662,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3815,14238,'Панино'),
 	 (0,14239,'Панинская'),
 	 (0,14240,'Паницкая');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4128,14241,'Панковка'),
 	 (0,14242,'Панкратовка'),
 	 (0,14243,'Панкратово'),
@@ -15673,7 +15673,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14248,'Пановы Кусты'),
 	 (0,14249,'Панозеро (поселок)'),
 	 (0,14250,'Пансионата «Гизельдере»');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14251,'Пансионата «Южный»'),
 	 (0,14252,'Панское'),
 	 (0,14253,'Пантелеевка'),
@@ -15684,7 +15684,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14258,'Панфилово'),
 	 (0,14259,'Панциревка'),
 	 (0,14260,'Паньжа');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14261,'Паньково'),
 	 (6926,14262,'Паньшино'),
 	 (0,14263,'Паньшонки'),
@@ -15695,7 +15695,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14268,'Папулово'),
 	 (4682,14269,'Парабель'),
 	 (0,14270,'Парадеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14271,'Паракино'),
 	 (0,14272,'Парамонов'),
 	 (0,14273,'Парамоново'),
@@ -15706,7 +15706,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14278,'Параул'),
 	 (4683,14279,'Парбиг'),
 	 (3701,14280,'Парголово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14281,'Паревка'),
 	 (0,14282,'Парзи'),
 	 (0,14283,'Париж'),
@@ -15717,7 +15717,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14288,'Парма'),
 	 (0,14289,'Парная'),
 	 (0,14290,'Паромный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14291,'Парский Угол'),
 	 (0,14292,'Парское'),
 	 (0,14293,'Партизан'),
@@ -15728,7 +15728,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14298,'Парусное'),
 	 (0,14299,'Парфеновка'),
 	 (0,14300,'Парфеново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14301,'Парфентьево'),
 	 (4357,14302,'Парфеньево'),
 	 (4129,14303,'Парфино'),
@@ -15739,7 +15739,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14308,'Паршакова'),
 	 (0,14309,'Паршиков'),
 	 (0,14310,'Паршиновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14311,'Пасегово'),
 	 (0,14312,'Паска'),
 	 (0,14313,'Паскино'),
@@ -15750,7 +15750,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14318,'Пасьва'),
 	 (0,14319,'Патракеевка'),
 	 (0,14320,'Патрикеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14321,'Патровка'),
 	 (0,14322,'Патровская'),
 	 (0,14323,'Патруши'),
@@ -15761,7 +15761,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14328,'Пафнутово'),
 	 (0,14329,'Пахачи'),
 	 (0,14330,'Пахомовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14331,'Пахомово'),
 	 (0,14332,'Пахотный Угол'),
 	 (0,14333,'Пахутино'),
@@ -15772,7 +15772,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14338,'Пачи'),
 	 (5443,14339,'Паша'),
 	 (0,14340,'Пашево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14341,'Пашино'),
 	 (5841,14342,'Пашия'),
 	 (0,14343,'Пашково'),
@@ -15783,7 +15783,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14348,'Пекилянка'),
 	 (0,14349,'Пеклино'),
 	 (0,14350,'Пектубаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14351,'Пекша'),
 	 (0,14352,'Пекшиксола'),
 	 (3888,14353,'Пелагиада'),
@@ -15794,7 +15794,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14358,'Пеледуй'),
 	 (4718,14359,'Пелым'),
 	 (0,14360,'Пеля Хованская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14361,'Пемба'),
 	 (0,14362,'Пеневичи'),
 	 (0,14363,'Пенек'),
@@ -15805,7 +15805,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6750,14368,'Пеники'),
 	 (0,14369,'Пенинга (поселок)'),
 	 (0,14370,'Пенино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4379,14371,'Пено'),
 	 (0,14372,'Пенский'),
 	 (0,14373,'Пены'),
@@ -15816,7 +15816,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14378,'Первая Анненка'),
 	 (0,14379,'Первая Григорьевка'),
 	 (0,14380,'Первая Синюха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14381,'Перво'),
 	 (0,14382,'Перво-Эртиль'),
 	 (0,14383,'Первоавгустовский'),
@@ -15827,7 +15827,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14388,'Первое Цепляево'),
 	 (0,14389,'Первое Чурашево'),
 	 (0,14390,'Первокаменка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14391,'Первокоммунарский'),
 	 (0,14392,'Первокрасное'),
 	 (0,14393,'Первомаевка'),
@@ -15838,7 +15838,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14398,'Первомайский (Краснопресненское с/п)'),
 	 (0,14399,'Первомайский (поселок)'),
 	 (0,14400,'Первомайское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14401,'Первоманск'),
 	 (0,14402,'Первомихайловка'),
 	 (0,14403,'Первопашенск'),
@@ -15849,7 +15849,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14408,'Первушино (поселок)'),
 	 (0,14409,'Первые Бобровы'),
 	 (0,14410,'Первые Левые Ламки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14411,'Первые Хоршеваши'),
 	 (0,14412,'Пергалей'),
 	 (0,14413,'Перебор'),
@@ -15860,7 +15860,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14418,'Перевесино-Михайловка'),
 	 (0,14419,'Перевесы'),
 	 (1698,14420,'Перевоз');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14421,'Перевоз (село)'),
 	 (0,14422,'Перевозинка'),
 	 (0,14423,'Перевозное'),
@@ -15871,7 +15871,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14428,'Перегребное'),
 	 (0,14429,'Перегрузное'),
 	 (0,14430,'Передел');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14431,'Передки'),
 	 (0,14432,'Передняя Бырка'),
 	 (0,14433,'Передовая'),
@@ -15882,7 +15882,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14438,'Перекопное'),
 	 (0,14439,'Перекоповка'),
 	 (0,14440,'Перелазовский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14441,'Перелазы'),
 	 (0,14442,'Перелешино'),
 	 (0,14443,'Перелешинский'),
@@ -15893,7 +15893,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3938,14448,'Перемышль'),
 	 (0,14449,'Перенка'),
 	 (3993,14450,'Переправная');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2068,14451,'Пересвет'),
 	 (1811,14452,'Переславль-Залесский'),
 	 (0,14453,'Переславское'),
@@ -15904,7 +15904,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14458,'Пересыпь'),
 	 (0,14459,'Перетино'),
 	 (0,14460,'Перехваль');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14461,'Перехляй'),
 	 (0,14462,'Перешеечный'),
 	 (0,14463,'Перещепное'),
@@ -15915,7 +15915,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14468,'Перикса'),
 	 (0,14469,'Перкино'),
 	 (0,14470,'Перлевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14471,'Пермас'),
 	 (0,14472,'Пермдорстрой'),
 	 (0,14473,'Пермеево'),
@@ -15926,7 +15926,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14478,'Перовка'),
 	 (0,14479,'Перово'),
 	 (4542,14480,'Персиановский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14481,'Персирланы'),
 	 (0,14482,'Пертнуры'),
 	 (0,14483,'Пертово'),
@@ -15937,7 +15937,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14488,'Перхушково'),
 	 (0,14489,'Перцевка'),
 	 (0,14490,'Першино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14491,'Першутино'),
 	 (0,14492,'Перьево (поселок)'),
 	 (3816,14493,'Пески'),
@@ -15948,7 +15948,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14498,'Песоченский'),
 	 (0,14499,'Песочно-Дубровка'),
 	 (0,14500,'Песочное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14501,'Песочный'),
 	 (0,14502,'Песочня'),
 	 (0,14503,'Пестенькино'),
@@ -15959,7 +15959,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14508,'Пестриковское'),
 	 (3686,14509,'Пестяки'),
 	 (0,14510,'Песчаница');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3346,14511,'Песчанка'),
 	 (0,14512,'Песчано-Коледино'),
 	 (6669,14513,'Песчаное'),
@@ -15970,7 +15970,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14518,'Песчанское'),
 	 (0,14519,'Песчаные Ковали'),
 	 (0,14520,'Песчаный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14521,'Песчаный Борок'),
 	 (0,14522,'Песь (село)'),
 	 (0,14523,'Песьяное'),
@@ -15981,7 +15981,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14528,'Петр Есаулов'),
 	 (6434,14529,'Петра Дубрава'),
 	 (0,14530,'Петраки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14531,'Петренково'),
 	 (0,14532,'Петрецово'),
 	 (0,14533,'Петрин'),
@@ -15992,7 +15992,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6722,14538,'Петровка'),
 	 (0,14539,'Петровка (деревня)'),
 	 (0,14540,'Петровка (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3539,14541,'Петрово'),
 	 (0,14542,'Петрово-Дальнее'),
 	 (1198,14543,'Петровск-Забайкальский'),
@@ -16003,7 +16003,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14548,'Петровское (село)'),
 	 (4722,14549,'Петрокаменское'),
 	 (3142,14550,'Петропавловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14551,'Петропавловка 1-я'),
 	 (0,14552,'Петропавловка 2-я'),
 	 (0,14553,'Петропавловка-1'),
@@ -16014,7 +16014,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14558,'Петропавловский'),
 	 (4929,14559,'Петропавловское'),
 	 (0,14560,'Петропаловский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14561,'Петрохерсонец'),
 	 (0,14562,'Петруненки'),
 	 (0,14563,'Петрунино'),
@@ -16025,7 +16025,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14568,'Петряксы'),
 	 (0,14569,'Петухи'),
 	 (0,14570,'Петухов лог');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14571,'Петухова'),
 	 (1313,14572,'Петухово'),
 	 (1731,14573,'Петушки'),
@@ -16036,7 +16036,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14578,'Печенки'),
 	 (0,14579,'Печенкино'),
 	 (0,14580,'Печеркино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14581,'Печерники'),
 	 (0,14582,'Печерниковские Выселки'),
 	 (4359,14583,'Печерск'),
@@ -16047,7 +16047,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14588,'Печищи'),
 	 (0,14589,'Печки'),
 	 (0,14590,'Печмень');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1047,14591,'Печора'),
 	 (0,14592,'Печорское-Олохово'),
 	 (1099,14593,'Печоры'),
@@ -16058,7 +16058,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14598,'Пешнево'),
 	 (0,14599,'Пешнигорт'),
 	 (0,14600,'Пещера');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14601,'Пещерка'),
 	 (0,14602,'Пея'),
 	 (0,14603,'Пибаньшур'),
@@ -16069,7 +16069,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14608,'Пивовары'),
 	 (0,14609,'Пигари'),
 	 (4462,14610,'Пижанка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4415,14611,'Пижма'),
 	 (0,14612,'Пижмар'),
 	 (0,14613,'Пизеры'),
@@ -16080,7 +16080,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14618,'Пиково'),
 	 (0,14619,'Пиксанкино'),
 	 (0,14620,'Пиксимово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14621,'Пиксур'),
 	 (0,14622,'Пиксяси'),
 	 (0,14623,'Пикшень'),
@@ -16091,7 +16091,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4416,14628,'Пильна'),
 	 (0,14629,'Пильно'),
 	 (0,14630,'Пильтун');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14631,'Пилюгино'),
 	 (0,14632,'Пиляндыш'),
 	 (0,14633,'Пимено-Черни'),
@@ -16102,7 +16102,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14638,'Пинеровка'),
 	 (0,14639,'Пинигино'),
 	 (0,14640,'Пинозеро');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14641,'Пинчуга'),
 	 (0,14642,'Пинюг'),
 	 (0,14643,'Пионер'),
@@ -16113,7 +16113,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14648,'Пиперкент'),
 	 (0,14649,'Пиринемь'),
 	 (0,14650,'Пировское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14651,'Пировы-Городищи'),
 	 (0,14652,'Пироговка'),
 	 (4207,14653,'Пирогово'),
@@ -16124,7 +16124,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14658,'Писарево'),
 	 (0,14659,'Писеево'),
 	 (0,14660,'Пискалы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14661,'Писклово'),
 	 (0,14662,'Писковичи'),
 	 (0,14663,'Пискуновка'),
@@ -16135,7 +16135,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5898,14668,'Пителино'),
 	 (6430,14669,'Питерка'),
 	 (0,14670,'Питеркино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14671,'Питим'),
 	 (0,14672,'Питишево'),
 	 (1085,14673,'Питкяранта'),
@@ -16146,7 +16146,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3870,14678,'Пичаево'),
 	 (0,14679,'Пичевка'),
 	 (0,14680,'Пичеполонга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14681,'Пичеуры'),
 	 (0,14682,'Пичилейка'),
 	 (0,14683,'Пичингуши'),
@@ -16157,7 +16157,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14688,'Пичужкино'),
 	 (0,14689,'Пишнур'),
 	 (0,14690,'Пиштань');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14691,'Пиштенур'),
 	 (0,14692,'Пищалье'),
 	 (0,14693,'Пищальное'),
@@ -16168,7 +16168,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1925,14698,'Плавск'),
 	 (0,14699,'Плаксино'),
 	 (0,14700,'План');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14701,'Плановское'),
 	 (0,14702,'Плановый'),
 	 (1404,14703,'Пласт'),
@@ -16179,7 +16179,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14708,'Платава'),
 	 (3287,14709,'Платнировская'),
 	 (0,14710,'Плато-Ивановка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14711,'Платовка'),
 	 (0,14712,'Платовка (село)'),
 	 (0,14713,'Платово'),
@@ -16190,7 +16190,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14718,'Плахино'),
 	 (0,14719,'Плёс'),
 	 (4143,14720,'Плесецк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14721,'Плесковка'),
 	 (0,14722,'Плесково'),
 	 (0,14723,'Плесна'),
@@ -16201,7 +16201,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14728,'Плеханы'),
 	 (0,14729,'Плехово'),
 	 (4280,14730,'Плешаново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14731,'Плешково'),
 	 (0,14732,'Плещеево'),
 	 (5628,14733,'Плиево'),
@@ -16212,7 +16212,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14738,'Плодопитомнический'),
 	 (0,14739,'Плодородное'),
 	 (0,14740,'Плодосовхоз');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14741,'Плодосовхоз Беково'),
 	 (0,14742,'Плоская'),
 	 (0,14743,'Плоское'),
@@ -16223,7 +16223,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14748,'Плотавец'),
 	 (0,14749,'Плотбище'),
 	 (0,14750,'Плотина');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14751,'Плотинка (Ямновский с/с)'),
 	 (0,14752,'Плотинная'),
 	 (0,14753,'Плотицино 1-е'),
@@ -16234,7 +16234,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4806,14758,'Плотниково'),
 	 (0,14759,'Плотниково (поселок)'),
 	 (0,14760,'Плюсково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4030,14761,'Плюсса'),
 	 (0,14762,'Плясоватка'),
 	 (0,14763,'Пнево'),
@@ -16245,7 +16245,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14768,'Побединка'),
 	 (0,14769,'Победино'),
 	 (0,14770,'Побединское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14771,'Победитель'),
 	 (0,14772,'Победное'),
 	 (0,14773,'Побочино'),
@@ -16256,7 +16256,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6385,14778,'Поварово'),
 	 (0,14779,'Поведники'),
 	 (0,14780,'Повенец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14781,'Поводимово'),
 	 (0,14782,'Поводнево'),
 	 (0,14783,'Поволжский'),
@@ -16267,7 +16267,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14788,'Погодино'),
 	 (0,14789,'Погожее'),
 	 (0,14790,'Погорелка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14791,'Погорелка (Погорельская с/а)'),
 	 (0,14792,'Погорелов'),
 	 (0,14793,'Погореловка'),
@@ -16278,7 +16278,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14798,'Погорелое Городище'),
 	 (0,14799,'Погорельцево'),
 	 (0,14800,'Погост');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14801,'Погост (Селецкий с/с)'),
 	 (0,14802,'Погост Кенозерский'),
 	 (0,14803,'Погостище'),
@@ -16289,7 +16289,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14808,'Погребы'),
 	 (0,14809,'Погромец'),
 	 (0,14810,'Погромное (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14811,'Погрузная'),
 	 (0,14812,'Подаба'),
 	 (0,14813,'Подбелевец'),
@@ -16300,7 +16300,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14818,'Подборки'),
 	 (0,14819,'Подборный'),
 	 (0,14820,'Подборовье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14821,'Подборовье (Гдовская волость)'),
 	 (0,14822,'Подбужье'),
 	 (0,14823,'Подветреннотелеутское'),
@@ -16311,7 +16311,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14828,'Подвязновский'),
 	 (0,14829,'Подвязье'),
 	 (2659,14830,'Подгоренский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14831,'Подгорная'),
 	 (0,14832,'Подгорная Синюха'),
 	 (4685,14833,'Подгорное'),
@@ -16322,7 +16322,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4281,14838,'Подгородняя Покровка'),
 	 (0,14839,'Подгорцы'),
 	 (0,14840,'Подгощи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5370,14841,'Поддорье'),
 	 (0,14842,'Поддубново'),
 	 (0,14843,'Поддубное'),
@@ -16333,7 +16333,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14848,'Подкаменная Тунгуска'),
 	 (0,14849,'Подколки'),
 	 (0,14850,'Подколодновка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14851,'Подкрестье'),
 	 (0,14852,'Подкуйково'),
 	 (3889,14853,'Подкумок'),
@@ -16344,7 +16344,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14858,'Подлесные Шигали'),
 	 (0,14859,'Подлесный'),
 	 (0,14860,'Подлесный Утямыш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14861,'Подлесово'),
 	 (0,14862,'Подлипки'),
 	 (5067,14863,'Подлопатки'),
@@ -16355,7 +16355,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14868,'Подобас'),
 	 (0,14869,'Подовинное'),
 	 (0,14870,'Подозерский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14871,'Подойниково'),
 	 (0,14872,'Подойницыно'),
 	 (0,14873,'Подолец'),
@@ -16366,7 +16366,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14878,'Подольхи'),
 	 (0,14879,'Подоплеки'),
 	 (0,14880,'Подосинки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14881,'Подосинки (поселок)'),
 	 (4463,14882,'Подосиновец'),
 	 (0,14883,'Подосиновка'),
@@ -16377,7 +16377,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14888,'Подсобного хозяйства Воскресенское'),
 	 (0,14889,'Подсолнечное'),
 	 (0,14890,'Подсопки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14891,'Подсосново'),
 	 (0,14892,'Подсосное'),
 	 (0,14893,'Подстепки'),
@@ -16388,7 +16388,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14898,'Подхожее'),
 	 (0,14899,'Подчерье'),
 	 (0,14900,'Подшивалово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14901,'Подъеланка'),
 	 (0,14902,'Подъельск'),
 	 (0,14903,'Подъем-Михайловка'),
@@ -16399,7 +16399,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14908,'Подывотье'),
 	 (0,14909,'Подымалово'),
 	 (0,14910,'Подымахино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14911,'Подюга'),
 	 (0,14912,'Поедуги'),
 	 (0,14913,'Пож'),
@@ -16410,7 +16410,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14918,'Пожег'),
 	 (0,14919,'Пожеревицкий'),
 	 (0,14920,'Пожеревицы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14921,'Пожидаевка'),
 	 (0,14922,'Пожилино'),
 	 (0,14923,'Пожня'),
@@ -16421,7 +16421,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14928,'Поздняково'),
 	 (0,14929,'Позтыкерес'),
 	 (0,14930,'Поим');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14931,'Поисево'),
 	 (5015,14932,'Пойковский'),
 	 (0,14933,'Пойлово'),
@@ -16432,7 +16432,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14938,'Покатеево'),
 	 (1377,14939,'Покачи'),
 	 (0,14940,'Поклоновский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3890,14941,'Покойное'),
 	 (0,14942,'Поконь'),
 	 (0,14943,'Покорное'),
@@ -16443,7 +16443,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14948,'Покровка (село)'),
 	 (0,14949,'Покровка Первая'),
 	 (0,14950,'Покрово-Васильевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14951,'Покрово-Иртышское'),
 	 (0,14952,'Покрово-Марфино'),
 	 (0,14953,'Покрово-Пригородное'),
@@ -16454,7 +16454,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14958,'Покровский-Урустамак'),
 	 (0,14959,'Покровское'),
 	 (0,14960,'Покровское (поселок)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14961,'Покровское на Сити'),
 	 (0,14962,'Покручинский'),
 	 (0,14963,'Покста'),
@@ -16465,7 +16465,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14968,'Пола'),
 	 (5843,14969,'Полазна'),
 	 (0,14970,'Полбино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14971,'Полва'),
 	 (0,14972,'Полга'),
 	 (0,14973,'Полдарса'),
@@ -16476,7 +16476,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14978,'Полдомасово'),
 	 (0,14979,'Полевая'),
 	 (0,14980,'Полеводинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14981,'Полевое'),
 	 (0,14982,'Полевое Шептахово'),
 	 (0,14983,'Полевой'),
@@ -16487,7 +16487,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14988,'Полежаевский'),
 	 (0,14989,'Полековское'),
 	 (0,14990,'Полеологово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,14991,'Полесье'),
 	 (0,14992,'Полетаево'),
 	 (0,14993,'Полетаево 1-е'),
@@ -16498,7 +16498,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,14998,'Полигус'),
 	 (0,14999,'Полинчет'),
 	 (0,15000,'Политово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15001,'Политотдельское'),
 	 (0,15002,'Полично'),
 	 (0,15003,'Полковниково'),
@@ -16509,7 +16509,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15008,'Половинкино'),
 	 (4964,15009,'Половинное'),
 	 (0,15010,'Половинный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15011,'Половино-Черемхово'),
 	 (0,15012,'Половнево'),
 	 (0,15013,'Половодово'),
@@ -16520,7 +16520,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15018,'Полозаозерье'),
 	 (0,15019,'Полозово'),
 	 (0,15020,'Полозовские Дворы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15021,'Полойка'),
 	 (0,15022,'Полом'),
 	 (0,15023,'Поломошное'),
@@ -16531,7 +16531,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15028,'Полтава 1-я'),
 	 (4723,15029,'Полтавка'),
 	 (3288,15030,'Полтавская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15031,'Полтавский'),
 	 (0,15032,'Полтавское'),
 	 (0,15033,'Полтавченское'),
@@ -16542,7 +16542,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15038,'Полукотельниково'),
 	 (0,15039,'Полуночное'),
 	 (0,15040,'Полурядинки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15041,'Полуторник'),
 	 (0,15042,'Полушкино'),
 	 (0,15043,'Полушнур'),
@@ -16553,7 +16553,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1242,15048,'Полысаево'),
 	 (0,15049,'Польники'),
 	 (0,15050,'Польное Ялтуново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15051,'Польское Ардашево'),
 	 (0,15052,'Польцо'),
 	 (0,15053,'Польяново'),
@@ -16564,7 +16564,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15058,'Поляне'),
 	 (0,15059,'Полянки'),
 	 (0,15060,'Поляново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15061,'Полянское'),
 	 (4481,15062,'Поляны'),
 	 (1073,15063,'Полярные Зори'),
@@ -16575,7 +16575,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15068,'Поморцево'),
 	 (0,15069,'Поморье'),
 	 (0,15070,'Помра');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15071,'Помчище'),
 	 (0,15072,'Поназырево (пгт)'),
 	 (0,15073,'Поначево'),
@@ -16586,7 +16586,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15078,'Поникла'),
 	 (0,15079,'Понино'),
 	 (0,15080,'Понкратово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15081,'Пономарев'),
 	 (0,15082,'Пономарева'),
 	 (0,15083,'Пономаревка'),
@@ -16597,7 +16597,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15088,'Понуровка'),
 	 (0,15089,'Понурово'),
 	 (3835,15090,'Поныри');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15091,'Понькино'),
 	 (0,15092,'Понятовка'),
 	 (0,15093,'Попадьино'),
@@ -16608,7 +16608,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15098,'Попигай'),
 	 (0,15099,'Попки'),
 	 (0,15100,'Поплевино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15101,'Поплевинский'),
 	 (0,15102,'Попов'),
 	 (0,15103,'Попов Порог'),
@@ -16619,7 +16619,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15108,'Поповкино'),
 	 (0,15109,'Попово'),
 	 (0,15110,'Попово-Лежачи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15111,'Поповская'),
 	 (3996,15112,'Попутная'),
 	 (0,15113,'Пор-Искитим'),
@@ -16630,7 +16630,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15118,'Порздни'),
 	 (0,15119,'Порзово'),
 	 (0,15120,'Порог');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15121,'Порожки'),
 	 (0,15122,'Порожнее'),
 	 (0,15123,'Пороз'),
@@ -16641,7 +16641,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15128,'Порослицы'),
 	 (0,15129,'Поросозеро'),
 	 (0,15130,'Поротниково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15131,'Порошево'),
 	 (0,15132,'Порошина'),
 	 (0,15133,'Порошино'),
@@ -16652,7 +16652,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15138,'Портянур'),
 	 (0,15139,'Поручиково'),
 	 (1100,15140,'Порхов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15141,'Поршур-Тукля'),
 	 (0,15142,'Порым'),
 	 (0,15143,'Посад'),
@@ -16663,7 +16663,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15148,'Последниково'),
 	 (0,15149,'Посольское'),
 	 (4930,15150,'Поспелиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15151,'Поспелихинский'),
 	 (0,15152,'Поспеловка'),
 	 (0,15153,'Поспелово'),
@@ -16674,7 +16674,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15158,'Посудичи'),
 	 (0,15159,'Посьет'),
 	 (0,15160,'Потанино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6678,15161,'Потапов'),
 	 (6736,15162,'Потапово'),
 	 (0,15163,'Потапово (Потаповское с/п)'),
@@ -16685,7 +16685,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15168,'Потодеево'),
 	 (0,15169,'Потрусово'),
 	 (0,15170,'Потудань');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3738,15171,'Потьма'),
 	 (0,15172,'Поцеп'),
 	 (0,15173,'Поча'),
@@ -16696,7 +16696,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15178,'Почет'),
 	 (0,15179,'Починичи'),
 	 (0,15180,'Починки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15181,'Починная Сопка'),
 	 (1112,15182,'Починок'),
 	 (0,15183,'Починок-Быбыть'),
@@ -16707,7 +16707,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15188,'Пошатово'),
 	 (0,15189,'Пощупово'),
 	 (0,15190,'Поянсола');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15191,'Поярково'),
 	 (0,15192,'Правая Кушья'),
 	 (0,15193,'Правая Райчиха'),
@@ -16718,7 +16718,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15198,'Правобережное'),
 	 (0,15199,'Правовосточное'),
 	 (0,15200,'Правокубанский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3891,15201,'Правокумское'),
 	 (0,15202,'Правохеттинский'),
 	 (0,15203,'Правые Кумаки'),
@@ -16729,7 +16729,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3892,15208,'Преградное'),
 	 (0,15209,'Предгорное'),
 	 (0,15210,'Предгорный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15211,'Предивинск'),
 	 (0,15212,'Предпорожный'),
 	 (0,15213,'Прелестное'),
@@ -16740,7 +16740,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15218,'Преображенский'),
 	 (0,15219,'Преображенский (Учхоз)'),
 	 (0,15220,'Преображенское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15221,'Преображенье'),
 	 (0,15222,'Преполовенка'),
 	 (0,15223,'Преснецово'),
@@ -16751,7 +16751,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15228,'Приазовская'),
 	 (5223,15229,'Приамурский'),
 	 (0,15230,'Приангарский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5098,15231,'Приаргунск'),
 	 (5141,15232,'Прибельский'),
 	 (0,15233,'Приближная'),
@@ -16762,7 +16762,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15238,'Привальное'),
 	 (0,15239,'Приветнинское'),
 	 (0,15240,'Приветное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4144,15241,'Приводино'),
 	 (0,15242,'Привокзальный'),
 	 (1763,15243,'Приволжск'),
@@ -16773,7 +16773,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15248,'Привольная'),
 	 (0,15249,'Привольное'),
 	 (0,15250,'Привольный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15251,'Пригорки'),
 	 (0,15252,'Пригорное'),
 	 (0,15253,'Пригородная'),
@@ -16784,7 +16784,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15258,'Пригорье'),
 	 (0,15259,'Приданниково'),
 	 (0,15260,'Придолинный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15261,'Придорожная'),
 	 (0,15262,'Придорожное'),
 	 (0,15263,'Придорожный'),
@@ -16795,7 +16795,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15268,'Приисковый'),
 	 (0,15269,'Прикалаусский'),
 	 (0,15270,'Прикамский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5359,15271,'Прикаспийский'),
 	 (3998,15272,'Прикубанский'),
 	 (0,15273,'Прикубанский (Прикубанское с/п)'),
@@ -16806,7 +16806,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15278,'Прилесье'),
 	 (0,15279,'Прилук'),
 	 (2222,15280,'Прилуки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15281,'Прилуцкая'),
 	 (0,15282,'Прималкинское'),
 	 (0,15283,'Приманыч'),
@@ -16817,7 +16817,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1455,15288,'Приморско-Ахтарск'),
 	 (0,15289,'Приморье'),
 	 (0,15290,'Принцевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15291,'Приобский'),
 	 (0,15292,'Приобское'),
 	 (5016,15293,'Приобье'),
@@ -16828,7 +16828,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15298,'Приомский'),
 	 (0,15299,'Приполярный'),
 	 (0,15300,'Приреченск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15301,'Приреченский'),
 	 (0,15302,'Приречное'),
 	 (0,15303,'Приречный'),
@@ -16839,7 +16839,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15308,'Пристанционный'),
 	 (0,15309,'Пристань'),
 	 (0,15310,'Пристань 2-я');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15311,'Пристенное'),
 	 (0,15312,'Пристеновский'),
 	 (3729,15313,'Пристень'),
@@ -16850,7 +16850,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15318,'Приудинск'),
 	 (4083,15319,'Приупский'),
 	 (0,15320,'Приуральск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15321,'Приуральский'),
 	 (0,15322,'Приуральское'),
 	 (0,15323,'Прихабы'),
@@ -16861,7 +16861,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15328,'Приэтокский'),
 	 (0,15329,'Приют'),
 	 (0,15330,'Приют-Шуран');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5194,15331,'Приютное'),
 	 (2680,15332,'Приютово'),
 	 (0,15333,'Пробуждение'),
@@ -16872,7 +16872,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15338,'Прогресс'),
 	 (0,15339,'Прогресс (поселок)'),
 	 (0,15340,'Прозорово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15341,'Проказна'),
 	 (0,15342,'Прокопье'),
 	 (0,15343,'Прокопьевка'),
@@ -16883,7 +16883,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15348,'Прокуткино'),
 	 (0,15349,'Пролей-Каша'),
 	 (4130,15350,'Пролетарий');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15351,'Пролетарка'),
 	 (1547,15352,'Пролетарск'),
 	 (3053,15353,'Пролетарский'),
@@ -16894,7 +16894,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15358,'Промысловка'),
 	 (3695,15359,'Промышленная'),
 	 (0,15360,'Промышленный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15361,'Пронин'),
 	 (0,15362,'Пронино'),
 	 (4482,15363,'Пронск'),
@@ -16905,7 +16905,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15368,'Проскоково'),
 	 (0,15369,'Проскурино'),
 	 (0,15370,'Прослауха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15371,'Просница'),
 	 (0,15372,'Проспихино'),
 	 (0,15373,'Просторный'),
@@ -16916,7 +16916,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15378,'Протва'),
 	 (0,15379,'Протекино'),
 	 (0,15380,'Протичка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15381,'Протопоповка'),
 	 (0,15382,'Протопопово'),
 	 (0,15383,'Протоцкие'),
@@ -16927,7 +16927,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15388,'Проходное'),
 	 (3707,15389,'Прохоровка'),
 	 (0,15390,'Прохорово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15391,'Прохоры'),
 	 (3999,15392,'Прочноокопская'),
 	 (0,15393,'Прошенино'),
@@ -16938,7 +16938,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15398,'Прудки'),
 	 (0,15399,'Прудовое'),
 	 (0,15400,'Пруды');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15401,'Пружинино'),
 	 (0,15402,'Пружинки'),
 	 (0,15403,'Прусынок'),
@@ -16949,7 +16949,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15408,'Прямая Балка'),
 	 (3837,15409,'Прямицыно'),
 	 (0,15410,'Прямухино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15411,'Прянзерки'),
 	 (0,15412,'Псаучье-Дахе'),
 	 (3289,15413,'Псебай'),
@@ -16960,7 +16960,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15418,'Пселец'),
 	 (0,15419,'Псемен'),
 	 (0,15420,'Психоневрологический дом-интернат');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15421,'Псковки'),
 	 (0,15422,'Псыгансу'),
 	 (5497,15423,'Псыж'),
@@ -16971,7 +16971,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15428,'Псычох'),
 	 (0,15429,'Псяк'),
 	 (0,15430,'Птань');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15431,'Птикент'),
 	 (0,15432,'Птицкое'),
 	 (0,15433,'Птичник'),
@@ -16982,7 +16982,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15438,'Пугачевская'),
 	 (0,15439,'Пугачевский'),
 	 (0,15440,'Пудем');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15441,'Пудино'),
 	 (0,15442,'Пудлинговый'),
 	 (0,15443,'Пудовка'),
@@ -16993,7 +16993,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15448,'Пузачи'),
 	 (0,15449,'Пузево'),
 	 (0,15450,'Пузская Слобода');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15451,'Пуйккола'),
 	 (0,15452,'Пукино'),
 	 (0,15453,'Пукса'),
@@ -17004,7 +17004,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15458,'Пульниково'),
 	 (0,15459,'Пуляева'),
 	 (0,15460,'Пунгино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15461,'Пундуга'),
 	 (0,15462,'Пура'),
 	 (0,15463,'Пурга'),
@@ -17015,7 +17015,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15468,'Пурнема'),
 	 (6641,15469,'Пуровск'),
 	 (5031,15470,'Пурпе');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15471,'Пуршево'),
 	 (0,15472,'Пусошур'),
 	 (0,15473,'Пустобаево'),
@@ -17026,7 +17026,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1101,15478,'Пустошка'),
 	 (0,15479,'Пустошь'),
 	 (0,15480,'Пустынь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15481,'Путевка'),
 	 (6011,15482,'Путилково'),
 	 (0,15483,'Путилово'),
@@ -17037,7 +17037,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15488,'Путь Ленина'),
 	 (0,15489,'Путь Октября'),
 	 (0,15490,'Путь Правды');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15491,'Путь Социализма'),
 	 (0,15492,'Путятин'),
 	 (4483,15493,'Путятино'),
@@ -17048,7 +17048,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1764,15498,'Пучеж'),
 	 (0,15499,'Пушанино'),
 	 (0,15500,'Пушкарево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15501,'Пушкари'),
 	 (0,15502,'Пушкарное'),
 	 (3728,15503,'Пушкинские Горы'),
@@ -17059,7 +17059,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15508,'Пушной'),
 	 (0,15509,'Пуштулим'),
 	 (0,15510,'Пущино (деревня)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15511,'Пущино (село)'),
 	 (0,15512,'Пчева'),
 	 (0,15513,'Пчевжа'),
@@ -17070,7 +17070,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15518,'Пшизов'),
 	 (0,15519,'Пшичо'),
 	 (0,15520,'Пыбья');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15521,'Пыелдино'),
 	 (0,15522,'Пылково'),
 	 (0,15523,'Пыра'),
@@ -17081,7 +17081,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1102,15528,'Пыталово'),
 	 (0,15529,'Пыталовские Хутора'),
 	 (0,15530,'Пыховка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15531,'Пычас'),
 	 (0,15532,'Пышак'),
 	 (0,15533,'Пышкет'),
@@ -17092,7 +17092,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15538,'Пышминская'),
 	 (4360,15539,'Пыщуг'),
 	 (0,15540,'Пьянково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15541,'Пьяново'),
 	 (0,15542,'Пяжелка'),
 	 (0,15543,'Пяйве'),
@@ -17103,7 +17103,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3894,15548,'Пятигорский'),
 	 (0,15549,'Пятигоры'),
 	 (0,15550,'Пятидорожное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15551,'Пятилетка'),
 	 (0,15552,'Пятилетка (деревня)'),
 	 (0,15553,'Пятиморск'),
@@ -17114,7 +17114,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15558,'Пятково'),
 	 (0,15559,'Пятницкое'),
 	 (0,15560,'Пятовск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3940,15561,'Пятовский'),
 	 (0,15562,'Пяша'),
 	 (0,15563,'Р.Богдашкино'),
@@ -17125,7 +17125,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15568,'Работьково'),
 	 (0,15569,'Рабочеостровск'),
 	 (0,15570,'Рабочий');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15571,'Рабочий Поселок'),
 	 (0,15572,'Равилово'),
 	 (0,15573,'Равнец'),
@@ -17136,7 +17136,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15578,'Радежа'),
 	 (0,15579,'Радиомайка'),
 	 (0,15580,'Радица-Крыловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15581,'Радищев'),
 	 (0,15582,'Радищево'),
 	 (5980,15583,'Радовицкий'),
@@ -17147,7 +17147,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6055,15588,'Радуга'),
 	 (0,15589,'Радумля'),
 	 (0,15590,'Радутино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6454,15591,'Радченко'),
 	 (0,15592,'Радченское'),
 	 (0,15593,'Радьковка'),
@@ -17158,7 +17158,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15598,'Раевский'),
 	 (0,15599,'Ражево'),
 	 (0,15600,'Разбегаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15601,'Разбираевка'),
 	 (0,15602,'Разведчик'),
 	 (0,15603,'Развилка'),
@@ -17169,7 +17169,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2703,15608,'Раздольное'),
 	 (0,15609,'Раздольный'),
 	 (0,15610,'Раздор');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15611,'Раздорное'),
 	 (0,15612,'Раздорская'),
 	 (0,15613,'Раздоры'),
@@ -17180,7 +17180,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15618,'Размахнино'),
 	 (5446,15619,'Разметелево'),
 	 (0,15620,'Разномойка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5358,15621,'Разночиновка'),
 	 (3685,15622,'Разумное'),
 	 (0,15623,'Разумовка'),
@@ -17191,7 +17191,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15628,'Рай (деревня)'),
 	 (0,15629,'Райгород'),
 	 (0,15630,'Райков');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15631,'Райконкоски'),
 	 (0,15632,'Райманово'),
 	 (0,15633,'Районная'),
@@ -17202,7 +17202,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15638,'Ракитное 1-е'),
 	 (0,15639,'Ракиты'),
 	 (0,15640,'Раковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15641,'Раково'),
 	 (0,15642,'Раково-Таврический'),
 	 (0,15643,'Ракпас'),
@@ -17213,7 +17213,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15648,'Рамено'),
 	 (0,15649,'Раменский'),
 	 (0,15650,'Раменской агрохимстанции');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15651,'Раменье'),
 	 (2102,15652,'Рамешки'),
 	 (0,15653,'Рамза'),
@@ -17224,7 +17224,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15658,'Рамушево'),
 	 (0,15659,'Рангазар'),
 	 (0,15660,'Ранжурово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15661,'Раннее'),
 	 (0,15662,'Ранцево'),
 	 (0,15663,'Рапатово'),
@@ -17235,7 +17235,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15668,'Расково'),
 	 (0,15669,'Раслово'),
 	 (0,15670,'Распопинская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15671,'Распопы'),
 	 (4548,15672,'Рассвет'),
 	 (0,15673,'Рассказиха'),
@@ -17246,7 +17246,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15678,'Рассыпное'),
 	 (5346,15679,'Растопуловка'),
 	 (0,15680,'Расторопово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6880,15681,'Растуново'),
 	 (0,15682,'Расулево'),
 	 (0,15683,'Расховец'),
@@ -17257,7 +17257,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15688,'Ратницкое'),
 	 (0,15689,'Ратово'),
 	 (0,15690,'Ратта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15691,'Ратчино'),
 	 (0,15692,'Рауталахти'),
 	 (0,15693,'Рафайлово'),
@@ -17268,7 +17268,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15698,'Рахмановка'),
 	 (6796,15699,'Рахманово'),
 	 (5447,15700,'Рахья');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15701,'Рачеево'),
 	 (5400,15702,'Раякоски'),
 	 (0,15703,'РББ'),
@@ -17279,7 +17279,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15708,'Ребристый'),
 	 (4931,15709,'Ребриха'),
 	 (0,15710,'Ревда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15711,'Ревезень'),
 	 (0,15712,'Ревны'),
 	 (0,15713,'Революционное'),
@@ -17290,7 +17290,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4380,15718,'Редкино'),
 	 (0,15719,'Редкодубье'),
 	 (0,15720,'Редутово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15721,'Редькино'),
 	 (0,15722,'Редькино (Редькинский с/с)'),
 	 (0,15723,'Резвый'),
@@ -17301,7 +17301,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15728,'Река Дема'),
 	 (0,15729,'Рековичи (село)'),
 	 (0,15730,'Реконструктор');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15731,'Реконструкция'),
 	 (0,15732,'Рекорд'),
 	 (0,15733,'Рембуево'),
@@ -17312,7 +17312,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15738,'Репенка'),
 	 (0,15739,'Репец'),
 	 (0,15740,'Репецкая Плата');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15741,'Репинка'),
 	 (6106,15742,'Репино'),
 	 (0,15743,'Репихово (деревня)'),
@@ -17323,7 +17323,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3817,15748,'Репьевка'),
 	 (0,15749,'Репьевка Колхозная'),
 	 (0,15750,'Репьево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15751,'Репяховка'),
 	 (0,15752,'Республиканский'),
 	 (0,15753,'Ретлоб'),
@@ -17334,7 +17334,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15758,'Рефлектор'),
 	 (2735,15759,'Рефтинский'),
 	 (0,15760,'Речане');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15761,'Реченский'),
 	 (2289,15762,'Речица'),
 	 (0,15763,'Речицы'),
@@ -17345,7 +17345,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15768,'Речной'),
 	 (0,15769,'Речушка'),
 	 (0,15770,'Решающий');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15771,'Решетино'),
 	 (4418,15772,'Решетиха'),
 	 (0,15773,'Решетки'),
@@ -17356,7 +17356,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15778,'Решма'),
 	 (0,15779,'Решоткино'),
 	 (0,15780,'Ржава');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15781,'Ржавец'),
 	 (0,15782,'Ржавец (поселок)'),
 	 (0,15783,'Ржавка'),
@@ -17367,7 +17367,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15788,'Ржевка'),
 	 (0,15789,'Ржевское'),
 	 (0,15790,'Ривицкий');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15791,'Рига'),
 	 (0,15792,'Ригач'),
 	 (0,15793,'Ризоватово'),
@@ -17378,7 +17378,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15798,'Римгорское'),
 	 (0,15799,'Римско-Корсаковка'),
 	 (0,15800,'Рисовый');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15801,'Ритупе'),
 	 (0,15802,'Рича'),
 	 (0,15803,'Робчик'),
@@ -17389,7 +17389,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (129,15808,'Ровно'),
 	 (6197,15809,'Ровное'),
 	 (0,15810,'Ровны');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15811,'Рог-Измайловский'),
 	 (0,15812,'Рогалево'),
 	 (0,15813,'Рогалик'),
@@ -17400,7 +17400,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2677,15818,'Рогачево'),
 	 (0,15819,'Рогачевский'),
 	 (4058,15820,'Рогнедино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15821,'Рогов'),
 	 (0,15822,'Роговатое'),
 	 (0,15823,'Рогово'),
@@ -17411,7 +17411,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15828,'Рогожино'),
 	 (0,15829,'Рогожка'),
 	 (0,15830,'Рогожкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15831,'Рогозиха'),
 	 (0,15832,'Рогозовка'),
 	 (0,15833,'Рогозцы'),
@@ -17422,7 +17422,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3263,15838,'Родинское'),
 	 (0,15839,'Родионовка'),
 	 (0,15840,'Родионово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4550,15841,'Родионово-Несветайская'),
 	 (0,15842,'Родионовский'),
 	 (0,15843,'Родичи'),
@@ -17433,7 +17433,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15848,'Родниковое Озеро'),
 	 (3438,15849,'Родниковская'),
 	 (0,15850,'Родниковский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15851,'Родниковское'),
 	 (0,15852,'Родниковые Пруды'),
 	 (0,15853,'Родниковый'),
@@ -17444,7 +17444,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15858,'Родовое'),
 	 (0,15859,'Родоманово'),
 	 (0,15860,'Родыки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15861,'Рождественка'),
 	 (0,15862,'Рождественно'),
 	 (6602,15863,'Рождествено'),
@@ -17455,7 +17455,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15868,'Рождественский'),
 	 (0,15869,'Рождественское'),
 	 (0,15870,'Рождество');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15871,'Роженцово'),
 	 (0,15872,'Рожки'),
 	 (0,15873,'Рожнев лог'),
@@ -17466,7 +17466,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15878,'Розгребли'),
 	 (0,15879,'Розенгардовка'),
 	 (0,15880,'Розенталь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15881,'Розет'),
 	 (2721,15882,'Розовка'),
 	 (0,15883,'Розовое'),
@@ -17477,7 +17477,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4932,15888,'Романово'),
 	 (4551,15889,'Романовская'),
 	 (0,15890,'Романовский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15891,'Романовское'),
 	 (0,15892,'Романовы Дарки'),
 	 (0,15893,'Романцево'),
@@ -17488,7 +17488,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15898,'Ромашовка'),
 	 (2994,15899,'Ромны'),
 	 (0,15900,'Ромодан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3740,15901,'Ромоданово'),
 	 (0,15902,'Ронга'),
 	 (0,15903,'Ропча'),
@@ -17499,7 +17499,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15908,'Рослятино'),
 	 (0,15909,'Росноб'),
 	 (0,15910,'Российка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15911,'Российский'),
 	 (0,15912,'Россолово (поселок)'),
 	 (0,15913,'Россоши'),
@@ -17510,7 +17510,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15918,'Россошь (село)'),
 	 (0,15919,'Росстани'),
 	 (0,15920,'Ростилово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15921,'Ростов'),
 	 (0,15922,'Ростовановское'),
 	 (4724,15923,'Ростовка'),
@@ -17521,7 +17521,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15928,'Рочево'),
 	 (0,15929,'Рочегда'),
 	 (2079,15930,'Рошаль');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15931,'Рошни-Чу'),
 	 (0,15932,'Роща'),
 	 (0,15933,'Рощино'),
@@ -17532,7 +17532,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15938,'Рубас'),
 	 (0,15939,'Рубашевка'),
 	 (0,15940,'Рубежинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2513,15941,'Рубежное'),
 	 (0,15942,'Рубилово'),
 	 (0,15943,'Рублевка'),
@@ -17543,7 +17543,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15948,'Ругозеро'),
 	 (0,15949,'Рудавец'),
 	 (0,15950,'Рудавский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15951,'Рудинка'),
 	 (0,15952,'Рудино (поселок)'),
 	 (0,15953,'Рудная Пристань'),
@@ -17554,7 +17554,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15958,'Рудник Солонечный'),
 	 (0,15959,'Рудниково'),
 	 (0,15960,'Рудничное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4464,15961,'Рудничный'),
 	 (4881,15962,'Рудногорск'),
 	 (0,15963,'Рудное'),
@@ -17565,7 +17565,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15968,'Рудяное'),
 	 (0,15969,'Ружино'),
 	 (2066,15970,'Руза');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15971,'Рукель'),
 	 (0,15972,'Рукино'),
 	 (0,15973,'Рукополь'),
@@ -17576,7 +17576,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15978,'Руново'),
 	 (0,15979,'Рунский'),
 	 (0,15980,'Русаково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15981,'Русановка'),
 	 (0,15982,'Русаново'),
 	 (0,15983,'Русичи'),
@@ -17587,7 +17587,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15988,'Русская Борковка'),
 	 (0,15989,'Русская Буйловка'),
 	 (0,15990,'Русская Васильевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,15991,'Русская Гвоздевка'),
 	 (0,15992,'Русская Журавка'),
 	 (0,15993,'Русская Ляжмарь'),
@@ -17598,7 +17598,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,15998,'Русская Тавра'),
 	 (0,15999,'Русская Теча'),
 	 (0,16000,'Русская Халань');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16001,'Русская Шуйма'),
 	 (0,16002,'Русские Алгаши'),
 	 (0,16003,'Русские Дубровки'),
@@ -17609,7 +17609,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16008,'Русские Чукалы'),
 	 (0,16009,'Русские Шои'),
 	 (0,16010,'Русские Янгуты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4184,16011,'Русский Акташ'),
 	 (0,16012,'Русский Байтуган'),
 	 (0,16013,'Русский Брод'),
@@ -17620,7 +17620,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16018,'Русский Кукмор'),
 	 (0,16019,'Русский Потам'),
 	 (0,16020,'Русский Сарс');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16021,'Русский Турек'),
 	 (0,16022,'Русский Шелдаис'),
 	 (0,16023,'Русский Шуган'),
@@ -17631,7 +17631,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16028,'Русское'),
 	 (0,16029,'Русское (село)'),
 	 (0,16030,'Русское Азелеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16031,'Русское Добрино'),
 	 (0,16032,'Русское Караево'),
 	 (0,16033,'Русское Маклаково'),
@@ -17642,7 +17642,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16038,'Русское Устье'),
 	 (0,16039,'Русскоигнашкино'),
 	 (0,16040,'Рустай (Останкинский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16041,'Русятино'),
 	 (0,16042,'Рутул'),
 	 (0,16043,'Рухань'),
@@ -17653,7 +17653,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16048,'Ручки'),
 	 (0,16049,'Ручьи'),
 	 (0,16050,'Рушуль');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16051,'Руэм'),
 	 (4686,16052,'Рыбалово'),
 	 (0,16053,'Рыбачий'),
@@ -17664,7 +17664,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16058,'Рыбинское Заручье'),
 	 (0,16059,'Рыбки'),
 	 (0,16060,'Рыбкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16061,'Рыбная Ватага'),
 	 (4185,16062,'Рыбная Слобода'),
 	 (0,16063,'Рыбниковское'),
@@ -17675,7 +17675,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16068,'Рыжково'),
 	 (3897,16069,'Рыздвяный'),
 	 (0,16070,'Рызлей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16071,'Рыкайлово'),
 	 (0,16072,'Рыкань'),
 	 (0,16073,'Рылево'),
@@ -17686,7 +17686,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16078,'Рыляки'),
 	 (0,16079,'Рымникский'),
 	 (0,16080,'Рындино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16081,'Рынки'),
 	 (0,16082,'Рынок'),
 	 (0,16083,'Рыпушкалицы'),
@@ -17697,7 +17697,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16088,'Рыскужино'),
 	 (6894,16089,'Рыткучи'),
 	 (0,16090,'Рычково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16091,'Рышково'),
 	 (0,16092,'Рюхов'),
 	 (0,16093,'Рябинино'),
@@ -17708,7 +17708,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5304,16098,'Рябовский'),
 	 (0,16099,'Рябцево'),
 	 (0,16100,'Рябчевск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16101,'Рябчи'),
 	 (0,16102,'Рябчинка'),
 	 (0,16103,'Ряд'),
@@ -17719,7 +17719,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16108,'Рязаново'),
 	 (0,16109,'Рязановская'),
 	 (0,16110,'Рязановский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3290,16111,'Рязанская'),
 	 (0,16112,'Рязанские Сады'),
 	 (0,16113,'Рязанцево'),
@@ -17730,7 +17730,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16118,'Рясня'),
 	 (0,16119,'Рятамак'),
 	 (0,16120,'С/з Пятилетка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16121,'Сабабаш'),
 	 (0,16122,'Сабаево'),
 	 (0,16123,'Сабай'),
@@ -17741,7 +17741,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16128,'Сабашево'),
 	 (6653,16129,'Сабик'),
 	 (0,16130,'Сабинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16131,'Саблино'),
 	 (0,16132,'Саблинское'),
 	 (0,16133,'Сабнова'),
@@ -17752,7 +17752,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16138,'Сабурово'),
 	 (0,16139,'Сабуровщино'),
 	 (0,16140,'Савалеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16141,'Савали'),
 	 (4419,16142,'Саваслейка'),
 	 (0,16143,'Савватеевка'),
@@ -17763,7 +17763,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16148,'Саввинская Слобода'),
 	 (0,16149,'Саввушка'),
 	 (0,16150,'Савгачево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16151,'Савдя'),
 	 (0,16152,'Савельевка'),
 	 (0,16153,'Савельево'),
@@ -17774,7 +17774,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4591,16158,'Савинка'),
 	 (4372,16159,'Савино'),
 	 (0,16160,'Савиново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16161,'Савинская'),
 	 (4147,16162,'Савинский'),
 	 (0,16163,'Савкино'),
@@ -17785,7 +17785,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16168,'Саврасово'),
 	 (0,16169,'Савруха'),
 	 (0,16170,'Савруши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16171,'Сагада'),
 	 (0,16172,'Сагайдачное'),
 	 (0,16173,'Сагайское'),
@@ -17796,7 +17796,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5629,16178,'Сагопши'),
 	 (0,16179,'Сагуны (слобода)'),
 	 (0,16180,'Сагутьево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16181,'Сада'),
 	 (0,16182,'Садаковский'),
 	 (0,16183,'Садгород'),
@@ -17807,7 +17807,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16188,'Садовый'),
 	 (0,16189,'Садовый (поселок)'),
 	 (0,16190,'Садон');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16191,'Садоягодное'),
 	 (0,16192,'Сажино'),
 	 (0,16193,'Сажное'),
@@ -17818,7 +17818,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16198,'Сазоново (деревня)'),
 	 (0,16199,'Саиновка'),
 	 (0,16200,'Саит-Баба');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16201,'Саит-Курзя'),
 	 (0,16202,'Саиткулово'),
 	 (0,16203,'Саитово'),
@@ -17829,7 +17829,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16208,'Сайдып'),
 	 (0,16209,'Сайлыг'),
 	 (0,16210,'Сайраново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16211,'Сайтаково'),
 	 (0,16212,'Сайтаркент'),
 	 (0,16213,'Сайылык'),
@@ -17840,7 +17840,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4284,16218,'Сакмара'),
 	 (0,16219,'Саконы'),
 	 (0,16220,'Сакты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16221,'Салабайкасы'),
 	 (0,16222,'Салавирь'),
 	 (0,16223,'Салазгорь'),
@@ -17851,7 +17851,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16228,'Салауши'),
 	 (0,16229,'Салба'),
 	 (0,16230,'Салганы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16231,'Салда'),
 	 (0,16232,'Салдакаево'),
 	 (0,16233,'Салдыкель'),
@@ -17862,7 +17862,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16238,'Салих'),
 	 (0,16239,'Салмановка'),
 	 (0,16240,'Салманы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16241,'Салми'),
 	 (0,16242,'Салобеляк'),
 	 (0,16243,'Саловка'),
@@ -17873,7 +17873,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16248,'Салтакъял'),
 	 (0,16249,'Салтановка'),
 	 (0,16250,'Салтово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16251,'Салтозеро'),
 	 (0,16252,'Салтыки'),
 	 (0,16253,'Салтыковка'),
@@ -17884,7 +17884,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16258,'Салын Тугтун'),
 	 (0,16259,'Сальевка'),
 	 (0,16260,'Сальники');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16261,'Сальский Кагальник'),
 	 (0,16262,'Сальское'),
 	 (2968,16263,'Сальяны'),
@@ -17895,7 +17895,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16268,'Самара (село)'),
 	 (0,16269,'Самарино'),
 	 (0,16270,'Самарка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2778,16271,'Самарканд'),
 	 (0,16272,'Самаро-Ивановка'),
 	 (0,16273,'Самарский'),
@@ -17906,7 +17906,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16278,'Самбург'),
 	 (0,16279,'Самбуров'),
 	 (0,16280,'Саметь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16281,'Самкова'),
 	 (0,16282,'Самково'),
 	 (0,16283,'Самково (поселок)'),
@@ -17917,7 +17917,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16288,'Самозлейка'),
 	 (6065,16289,'Самойловка'),
 	 (0,16290,'Самолва');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16291,'Самолуково'),
 	 (0,16292,'Самолшенский'),
 	 (0,16293,'Самородовка'),
@@ -17928,7 +17928,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16298,'Самохвалово'),
 	 (0,16299,'Самоцвет'),
 	 (0,16300,'Сампур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16301,'Самсоновка'),
 	 (0,16302,'Самсоново'),
 	 (0,16303,'Самсоновская'),
@@ -17939,7 +17939,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16308,'Санага'),
 	 (0,16309,'Санамер'),
 	 (0,16310,'Санаторий Глуховская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16311,'Санаторий Нагорное'),
 	 (0,16312,'Санатория имени Герцена'),
 	 (0,16313,'Санатория Кирицы'),
@@ -17950,7 +17950,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16318,'Сандайка'),
 	 (4553,16319,'Сандата'),
 	 (0,16320,'Сандово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16321,'Сандогора'),
 	 (0,16322,'Сандугач'),
 	 (0,16323,'Санино'),
@@ -17961,7 +17961,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16328,'Санниково'),
 	 (0,16329,'Санномыск'),
 	 (0,16330,'Сановка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16331,'Санское'),
 	 (0,16332,'Санталовский'),
 	 (0,16333,'Санчи'),
@@ -17972,7 +17972,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16338,'Сапогов'),
 	 (4484,16339,'Сапожок'),
 	 (0,16340,'Саприно (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16341,'Сапрон'),
 	 (0,16342,'Сапроново'),
 	 (0,16343,'Сапрыкино'),
@@ -17983,7 +17983,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16348,'Сара (село)'),
 	 (0,16349,'Сара (станция)'),
 	 (0,16350,'Сарабикулово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16351,'Сарагаш'),
 	 (0,16352,'Сараево'),
 	 (4485,16353,'Сараи'),
@@ -17994,7 +17994,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16358,'Сарана'),
 	 (0,16359,'Саранпауль'),
 	 (0,16360,'Саранское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16361,'Сараны'),
 	 (0,16362,'Сарапулка'),
 	 (0,16363,'Сараса'),
@@ -18005,7 +18005,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16368,'Сарафановка'),
 	 (0,16369,'Сарафаново'),
 	 (0,16370,'Сарафоново (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16371,'Сараха'),
 	 (0,16372,'Сараши'),
 	 (0,16373,'Сарбай'),
@@ -18016,7 +18016,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16378,'Саргамыш'),
 	 (4729,16379,'Саргатское'),
 	 (0,16380,'Саргая');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16381,'Сарданга'),
 	 (0,16382,'Сардаркент'),
 	 (0,16383,'Сардаял'),
@@ -18027,7 +18027,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16388,'Сарлей'),
 	 (0,16389,'Сарлы'),
 	 (0,16390,'Сарма (поселок)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5479,16391,'Сармаково'),
 	 (0,16392,'Сарманай'),
 	 (4186,16393,'Сарманово'),
@@ -18038,7 +18038,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5844,16398,'Сарс'),
 	 (0,16399,'Сарсаз'),
 	 (0,16400,'Сарсак-Омга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16401,'Сарсы-Вторые'),
 	 (0,16402,'Сарт-Абдрашево'),
 	 (0,16403,'Сартам'),
@@ -18049,7 +18049,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5498,16408,'Сары-Тюз'),
 	 (0,16409,'Сары-Чумыш'),
 	 (0,16410,'Сарыбалык');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16411,'Сарыг-Сеп'),
 	 (0,16412,'Сарыево'),
 	 (0,16413,'Сарылах'),
@@ -18060,7 +18060,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5181,16418,'Сасыколи'),
 	 (0,16419,'Сасылыкан'),
 	 (0,16420,'Сатагай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3872,16421,'Сатинка'),
 	 (4420,16422,'Сатис'),
 	 (0,16423,'Сатламышево'),
@@ -18071,7 +18071,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16428,'Саук-Дере'),
 	 (0,16429,'Саургачи'),
 	 (0,16430,'Сауш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4965,16431,'Сафакулево'),
 	 (0,16432,'Сафаровка'),
 	 (0,16433,'Сафарово'),
@@ -18082,7 +18082,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16438,'Сахалинка'),
 	 (0,16439,'Сахапта'),
 	 (0,16440,'Сахарный Завод');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16441,'Сахаровка'),
 	 (0,16442,'Сахзаводской'),
 	 (0,16443,'Сахули'),
@@ -18093,7 +18093,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4771,16448,'Саянский'),
 	 (0,16449,'Саянское'),
 	 (0,16450,'Саяны');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6942,16451,'Сбега'),
 	 (0,16452,'Сборный'),
 	 (0,16453,'Свапуще'),
@@ -18104,7 +18104,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16458,'Свердликово'),
 	 (0,16459,'Свердлова'),
 	 (0,16460,'Свердловка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16461,'Свердлово'),
 	 (6378,16462,'Свердловский'),
 	 (0,16463,'Свердловское'),
@@ -18115,7 +18115,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16468,'Светлая'),
 	 (0,16469,'Светлая Заря'),
 	 (0,16470,'Светлая Поляна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16471,'Светлица'),
 	 (0,16472,'Светловодское'),
 	 (0,16473,'Светлогорка'),
@@ -18126,7 +18126,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16478,'Светлое'),
 	 (0,16479,'Светлое Озеро'),
 	 (0,16480,'Светлолобово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16481,'Светлоозерское'),
 	 (4466,16482,'Светлополянск'),
 	 (0,16483,'Светлоречное'),
@@ -18137,7 +18137,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16488,'Светлый Путь Ленина'),
 	 (2651,16489,'Светлый Яр'),
 	 (2011,16490,'Светогорск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16491,'Светозарево'),
 	 (0,16492,'Светоч'),
 	 (0,16493,'Светочева Гора'),
@@ -18148,7 +18148,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1137,16498,'Свирск'),
 	 (0,16499,'Свирьстрой'),
 	 (0,16500,'Свистовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16501,'Свишни'),
 	 (0,16502,'Свищевка'),
 	 (0,16503,'Свиягино'),
@@ -18159,7 +18159,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16508,'Свободный Труд'),
 	 (3898,16509,'Свободы'),
 	 (0,16510,'Свозово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16511,'свх Воробьевский Центральная усадьба'),
 	 (0,16512,'свх Герейханова 1-й'),
 	 (0,16513,'свх Грибановский Первомайское отделение'),
@@ -18170,7 +18170,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16518,'свх Нижнедевицкий'),
 	 (0,16519,'свх Опыт'),
 	 (0,16520,'свх Победа 1 отделение');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16521,'свх Пугачевский Центральная усадьба'),
 	 (0,16522,'свх Чкаловский'),
 	 (0,16523,'Святица'),
@@ -18181,7 +18181,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16528,'Святоруссовка'),
 	 (0,16529,'Святославка'),
 	 (0,16530,'Святск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2756,16531,'Себеж'),
 	 (0,16532,'Себежи'),
 	 (0,16533,'Себеусад'),
@@ -18192,7 +18192,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16538,'Север'),
 	 (0,16539,'Северин'),
 	 (0,16540,'Северка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16541,'Северная'),
 	 (4287,16542,'Северное'),
 	 (0,16543,'Северные Печи'),
@@ -18203,7 +18203,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16548,'Северный-Коспашский'),
 	 (0,16549,'Северо'),
 	 (0,16550,'Северо-Агеевский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5558,16551,'Северо-Восточные Сады'),
 	 (3711,16552,'Северо-Енисейский'),
 	 (4085,16553,'Северо-Задонск'),
@@ -18214,7 +18214,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16558,'Северокавказский'),
 	 (0,16559,'Североморск-3'),
 	 (4661,16560,'Северомуйск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4148,16561,'Североонежск'),
 	 (0,16562,'Северотатарское'),
 	 (0,16563,'Северская'),
@@ -18225,7 +18225,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16568,'Сегеляр'),
 	 (0,16569,'Сегизбай'),
 	 (0,16570,'Сеготь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16571,'Сегян-Кюель'),
 	 (0,16572,'Седанка'),
 	 (0,16573,'Седаново'),
@@ -18236,7 +18236,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16578,'Седловщина'),
 	 (0,16579,'Седмиховка'),
 	 (0,16580,'Седью');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16581,'Седяк-Баш'),
 	 (0,16582,'Седяш'),
 	 (0,16583,'Сезенево'),
@@ -18247,7 +18247,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16588,'Сейва'),
 	 (0,16589,'Сейда'),
 	 (0,16590,'Сёйка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16591,'Сейм'),
 	 (5253,16592,'Сеймчан'),
 	 (0,16593,'Сейтяково'),
@@ -18258,7 +18258,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16598,'Селеево'),
 	 (0,16599,'Селезениха'),
 	 (0,16600,'Селезневка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16601,'Селезнево'),
 	 (0,16602,'Селезни'),
 	 (0,16603,'Селезниха'),
@@ -18269,7 +18269,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16608,'Селема'),
 	 (4655,16609,'Селенгинск'),
 	 (0,16610,'Селенгуши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16611,'Селендума'),
 	 (0,16612,'Селенки'),
 	 (0,16613,'Селец'),
@@ -18280,7 +18280,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16618,'Селивановская'),
 	 (4381,16619,'Селижарово'),
 	 (0,16620,'Селикла');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16621,'Селинда'),
 	 (0,16622,'Селино'),
 	 (0,16623,'Селинское'),
@@ -18291,7 +18291,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16628,'Селихово'),
 	 (0,16629,'Селиховы Дворы'),
 	 (0,16630,'Селище');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16631,'Селище (Борское с/п)'),
 	 (0,16632,'Селищи'),
 	 (0,16633,'Селиярово'),
@@ -18302,7 +18302,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16638,'Селычка'),
 	 (0,16639,'Сельменьга'),
 	 (0,16640,'Сельниково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16641,'Сельский Рогачик'),
 	 (0,16642,'Сельхозпочинок'),
 	 (0,16643,'Сельхозтехника'),
@@ -18313,7 +18313,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16648,'Сёльыб'),
 	 (0,16649,'Селявное (Селявинский с/с)'),
 	 (0,16650,'Селявное (Старохворостанский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16651,'Селятино (поселок)'),
 	 (0,16652,'Семгамахи'),
 	 (0,16653,'Семейкино'),
@@ -18324,7 +18324,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16658,'Семенихино'),
 	 (0,16659,'Семенка'),
 	 (0,16660,'Семенкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16661,'Семенково'),
 	 (0,16662,'Семенково (Старосельское с/п)'),
 	 (0,16663,'Семенниково'),
@@ -18335,7 +18335,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16668,'Семено-Петровский'),
 	 (0,16669,'Семеновка'),
 	 (0,16670,'Семеново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16671,'Семеновское'),
 	 (0,16672,'Семеновское (село)'),
 	 (0,16673,'Семеновщина'),
@@ -18346,7 +18346,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16678,'Семигорск'),
 	 (0,16679,'Семигорский'),
 	 (0,16680,'Семидесятное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1549,16681,'Семикаракорск'),
 	 (0,16682,'Семикинского Лесничества'),
 	 (0,16683,'Семилей'),
@@ -18357,7 +18357,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16688,'Семино'),
 	 (0,16689,'Семиозерка'),
 	 (0,16690,'Семиозерный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16691,'Семиозерье'),
 	 (0,16692,'Семион'),
 	 (0,16693,'Семисводный'),
@@ -18368,7 +18368,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5453,16698,'Семрино'),
 	 (0,16699,'Семушино'),
 	 (0,16700,'Семцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16701,'Семытино'),
 	 (0,16702,'Семьинское'),
 	 (0,16703,'Семьяны'),
@@ -18379,7 +18379,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16708,'Сендимиркино'),
 	 (0,16709,'Сенино'),
 	 (2268,16710,'Сенно');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16711,'Сенное'),
 	 (0,16712,'Сенной'),
 	 (0,16713,'Сентелек'),
@@ -18390,7 +18390,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16718,'Сеньково'),
 	 (0,16719,'Сеп'),
 	 (0,16720,'Сеполь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16721,'Сепыч'),
 	 (1526,16722,'Серафимович'),
 	 (0,16723,'Серафимовка'),
@@ -18401,7 +18401,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16728,'Серга'),
 	 (0,16729,'Сергеевица'),
 	 (0,16730,'Сергеевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16731,'Сергеево'),
 	 (0,16732,'Сергеевский'),
 	 (0,16733,'Сергей-Поле'),
@@ -18412,7 +18412,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16738,'Сергиев Посад-7'),
 	 (0,16739,'Сергиевка'),
 	 (0,16740,'Сергиево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3044,16741,'Сергиевск'),
 	 (6844,16742,'Сергиевская'),
 	 (0,16743,'Сергиевский'),
@@ -18423,7 +18423,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16748,'Сергиополь'),
 	 (0,16749,'Серго-Ивановское'),
 	 (0,16750,'Сергово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5609,16751,'Сергокала'),
 	 (0,16752,'Сергушкино'),
 	 (0,16753,'Серда'),
@@ -18434,7 +18434,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16758,'Серебряково'),
 	 (0,16759,'Серебрянка'),
 	 (0,16760,'Серебряное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16761,'Серебрянский'),
 	 (0,16762,'Серебрянское'),
 	 (0,16763,'Серебряные Ключи'),
@@ -18445,7 +18445,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16768,'Середейский'),
 	 (0,16769,'Серединовка'),
 	 (0,16770,'Середичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16771,'Середка'),
 	 (0,16772,'Середкина'),
 	 (0,16773,'Середкино Слепни'),
@@ -18456,7 +18456,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16778,'Сержантово'),
 	 (0,16779,'Сержень-Юрт'),
 	 (0,16780,'Сериково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16781,'Серково'),
 	 (0,16782,'Серменево'),
 	 (0,16783,'Серноводск'),
@@ -18467,7 +18467,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16788,'Серпейск'),
 	 (0,16789,'Серпиевка'),
 	 (0,16790,'Серповое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16791,'Серпухов-15'),
 	 (2012,16792,'Сертолово'),
 	 (5202,16793,'Серышево'),
@@ -18478,7 +18478,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16798,'Сестренка'),
 	 (2507,16799,'Сестрорецк'),
 	 (0,16800,'Сетище');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16801,'Сетка'),
 	 (0,16802,'Сетовка'),
 	 (0,16803,'Сетовное'),
@@ -18489,7 +18489,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4421,16808,'Сеченово'),
 	 (0,16809,'Сеща (поселок)'),
 	 (0,16810,'Сеятель Северный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6464,16811,'Сёяха'),
 	 (0,16812,'Сиалеевская Пятина'),
 	 (0,16813,'Сибады'),
@@ -18500,7 +18500,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16818,'Сибирцево 1-е'),
 	 (0,16819,'Сибирцево 2-е'),
 	 (0,16820,'Сибирцево-3');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16821,'Сибирь (деревня)'),
 	 (0,16822,'Сибиряк'),
 	 (0,16823,'Сива'),
@@ -18511,7 +18511,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16828,'Сивинь'),
 	 (0,16829,'Сивково'),
 	 (0,16830,'Сиволобов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16831,'Сивомаскинский'),
 	 (0,16832,'Сивохино'),
 	 (0,16833,'Сивух'),
@@ -18522,7 +18522,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16838,'Сидельниково'),
 	 (0,16839,'Сидима'),
 	 (0,16840,'Сидоренково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16841,'Сидорково'),
 	 (0,16842,'Сидоровка'),
 	 (0,16843,'Сидорово'),
@@ -18533,7 +18533,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16848,'Сизево'),
 	 (0,16849,'Сизый Бугор'),
 	 (0,16850,'Сизьма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16851,'Сизябск'),
 	 (0,16852,'Сийидкент'),
 	 (0,16853,'Сикертан'),
@@ -18544,7 +18544,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16858,'Сильково'),
 	 (1406,16859,'Сим'),
 	 (0,16860,'Сима');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16861,'Симаково'),
 	 (0,16862,'Симбирка'),
 	 (0,16863,'Симбухово'),
@@ -18555,7 +18555,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16868,'Симоново'),
 	 (0,16869,'Симонтовка'),
 	 (0,16870,'Симулино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16871,'Сингапай'),
 	 (0,16872,'Сингуль Татарский'),
 	 (0,16873,'Синда'),
@@ -18566,7 +18566,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16878,'Синеглазово'),
 	 (0,16879,'Синегорск'),
 	 (4554,16880,'Синегорский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16881,'Синегорье'),
 	 (5930,16882,'Синезерки'),
 	 (0,16883,'Синенькие'),
@@ -18577,7 +18577,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16888,'Синицына'),
 	 (0,16889,'Синичино'),
 	 (0,16890,'Синодское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16891,'Синск'),
 	 (0,16892,'Синцово'),
 	 (0,16893,'Синцовская'),
@@ -18588,7 +18588,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16898,'Синявка'),
 	 (4555,16899,'Синявское'),
 	 (0,16900,'Сипавское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16901,'Сираги'),
 	 (0,16902,'Сиреневый'),
 	 (0,16903,'Сиреники'),
@@ -18599,7 +18599,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16908,'Сиртыч'),
 	 (0,16909,'Сита'),
 	 (6876,16910,'Ситне-Щелканово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16911,'Ситники (Ситниковский с/с)'),
 	 (0,16912,'Ситниково'),
 	 (0,16913,'Ситня'),
@@ -18610,7 +18610,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16918,'Сицкое'),
 	 (0,16919,'Сия'),
 	 (0,16920,'Сиява');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16921,'Сказ'),
 	 (0,16922,'Скала'),
 	 (0,16923,'Скалистый'),
@@ -18621,7 +18621,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16928,'Скворечное'),
 	 (0,16929,'Скворцовка'),
 	 (0,16930,'Скворцово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16931,'Скляево'),
 	 (0,16932,'Скнаровка'),
 	 (0,16933,'Скобелевка'),
@@ -18632,7 +18632,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16938,'Сколково'),
 	 (0,16939,'Скоморошки'),
 	 (0,16940,'Скопкортная');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16941,'Скорняково'),
 	 (3861,16942,'Скородное'),
 	 (0,16943,'Скородум'),
@@ -18643,7 +18643,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16948,'Скреблово'),
 	 (0,16949,'Скреплево (Александровское с/п)'),
 	 (0,16950,'Скрипачи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16951,'Скрипкино'),
 	 (0,16952,'Скрипниково'),
 	 (0,16953,'Скрябино'),
@@ -18654,7 +18654,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2748,16958,'Славгород'),
 	 (4934,16959,'Славгородское'),
 	 (0,16960,'Славинск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16961,'Славитино'),
 	 (0,16962,'Славкино'),
 	 (0,16963,'Славковичи'),
@@ -18665,7 +18665,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16968,'Славынево'),
 	 (6252,16969,'Славянка'),
 	 (0,16970,'Славянский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16971,'Славянское'),
 	 (0,16972,'Сладкая Балка'),
 	 (0,16973,'Сладкий'),
@@ -18676,7 +18676,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16978,'Слакбаш'),
 	 (0,16979,'Сланцевый Рудник'),
 	 (0,16980,'Сланцы (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16981,'Слаутино'),
 	 (0,16982,'Слаутное'),
 	 (0,16983,'Слащевская'),
@@ -18687,7 +18687,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16988,'Слище'),
 	 (0,16989,'Слобода'),
 	 (0,16990,'Слобода (Перцевское МО)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,16991,'Слобода Архангельская'),
 	 (0,16992,'Слобода Волчья'),
 	 (0,16993,'Слобода Екатерининская'),
@@ -18698,7 +18698,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,16998,'Слободище'),
 	 (0,16999,'Слободка'),
 	 (0,17000,'Слободские Дубровки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17001,'Слободчики'),
 	 (0,17002,'Словинка'),
 	 (0,17003,'Слоновка'),
@@ -18709,7 +18709,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1138,17008,'Слюдянка'),
 	 (0,17009,'Слюдяной'),
 	 (0,17010,'Слюсарево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17011,'Смагино'),
 	 (0,17012,'Смаглеевка'),
 	 (0,17013,'Смазнево'),
@@ -18720,7 +18720,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17018,'Смена'),
 	 (0,17019,'Сметанино'),
 	 (0,17020,'Смидович');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17021,'Смиркино'),
 	 (0,17022,'Смирненькое'),
 	 (0,17023,'Смирновка'),
@@ -18731,7 +18731,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2327,17028,'Смолевичи'),
 	 (0,17029,'Смоленец'),
 	 (0,17030,'Смоленка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3291,17031,'Смоленская'),
 	 (0,17032,'Смоленский'),
 	 (4935,17033,'Смоленское'),
@@ -18742,7 +18742,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17038,'Смольное'),
 	 (0,17039,'Смольный'),
 	 (0,17040,'Смоляниново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17041,'Смолянка'),
 	 (0,17042,'Смоляновка'),
 	 (0,17043,'Сморкачи'),
@@ -18753,7 +18753,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17048,'Смуравьево-2'),
 	 (0,17049,'Смычка'),
 	 (6576,17050,'Смышляевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17051,'Снагость'),
 	 (0,17052,'Снегиревка'),
 	 (6336,17053,'Снегири'),
@@ -18764,7 +18764,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2143,17058,'Снежное'),
 	 (0,17059,'Снежный'),
 	 (0,17060,'Снижа');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17061,'Сновицы'),
 	 (0,17062,'Сновское'),
 	 (0,17063,'Снопок Новый'),
@@ -18775,7 +18775,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17068,'Соболево'),
 	 (0,17069,'Соболи'),
 	 (0,17070,'Соболиное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17071,'Соболоох'),
 	 (0,17072,'Собчаково'),
 	 (0,17073,'Советка'),
@@ -18786,7 +18786,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17078,'Советское'),
 	 (0,17079,'Советское Руно'),
 	 (0,17080,'Совза');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17081,'Совполье'),
 	 (0,17082,'Совхоз «Агроном»'),
 	 (0,17083,'Совхоз «Коммунар»'),
@@ -18797,7 +18797,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17088,'Совхоза «1 Мая»'),
 	 (0,17089,'Совхоза «2-ая Пятилетка»'),
 	 (0,17090,'Совхоза «Архангельский»');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17091,'Совхоза «Астапово»'),
 	 (0,17092,'Совхоза «Буденновец»'),
 	 (0,17093,'Совхоза «Воронежский»'),
@@ -18808,7 +18808,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17098,'Совхоза «Россия»'),
 	 (0,17099,'Совхоза «Рязанский»'),
 	 (0,17100,'Совхоза «Сормовский Пролетарий»');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17101,'Совхоза «Татарстан»'),
 	 (0,17102,'Совхоза имени Кирова'),
 	 (0,17103,'Совхоза имени Ленина'),
@@ -18819,7 +18819,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17108,'Совхозное'),
 	 (4733,17109,'Совхозный'),
 	 (0,17110,'Совье');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17111,'Согдиондон'),
 	 (0,17112,'Согом'),
 	 (0,17113,'Согорки (поселок)'),
@@ -18830,7 +18830,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17118,'Содом'),
 	 (0,17119,'Созимский'),
 	 (0,17120,'Созоново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17121,'Сойга'),
 	 (0,17122,'Сойгино'),
 	 (0,17123,'Сойма'),
@@ -18841,7 +18841,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17128,'Соколка'),
 	 (0,17129,'Соколки'),
 	 (0,17130,'Соколова');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17131,'Соколова (Колчеданская с/а)'),
 	 (0,17132,'Соколовка'),
 	 (4936,17133,'Соколово'),
@@ -18852,7 +18852,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17138,'Сокольниково'),
 	 (4422,17139,'Сокольское'),
 	 (0,17140,'Сокольское Лесничество');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17141,'Сокоч'),
 	 (0,17142,'Сокрутовка'),
 	 (0,17143,'Сокский'),
@@ -18863,7 +18863,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17148,'Солгон'),
 	 (0,17149,'Солдари'),
 	 (0,17150,'Солдатка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3900,17151,'Солдато-Александровское'),
 	 (0,17152,'Солдатово'),
 	 (5480,17153,'Солдатская'),
@@ -18874,7 +18874,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3146,17158,'Соленое'),
 	 (0,17159,'Соленое Займище'),
 	 (0,17160,'Соленоозерное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17161,'Соленый'),
 	 (0,17162,'Солзан'),
 	 (1780,17163,'Солигалич'),
@@ -18885,7 +18885,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3901,17168,'Солнечнодольск'),
 	 (0,17169,'Солнечное'),
 	 (2956,17170,'Солнечный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17171,'Солнцевка'),
 	 (0,17172,'Солнцево'),
 	 (0,17173,'Солобоево'),
@@ -18896,7 +18896,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17178,'Соловцово'),
 	 (0,17179,'Соловчиха'),
 	 (0,17180,'Соловьевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17181,'Соловьево'),
 	 (0,17182,'Соловьевск'),
 	 (0,17183,'Соловьиха'),
@@ -18907,7 +18907,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17188,'Солодча'),
 	 (0,17189,'Солодянка'),
 	 (0,17190,'Соломаты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3902,17191,'Соломенское'),
 	 (0,17192,'Соломинка'),
 	 (0,17193,'Солонец-Поляна'),
@@ -18918,7 +18918,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17198,'Солонское'),
 	 (0,17199,'Солонцовский'),
 	 (0,17200,'Солонцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17201,'Солоти'),
 	 (0,17202,'Солоуха'),
 	 (0,17203,'Солохи'),
@@ -18929,7 +18929,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1572,17208,'Соль-Илецк'),
 	 (1018,17209,'Сольвычегодск'),
 	 (1057,17210,'Сольцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17211,'Соляная'),
 	 (5182,17212,'Солянка'),
 	 (0,17213,'Соляное'),
@@ -18940,7 +18940,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17218,'Сомовка'),
 	 (3819,17219,'Сомово'),
 	 (0,17220,'Сон');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17221,'Сонино'),
 	 (2808,17222,'Сонково'),
 	 (0,17223,'Сончино'),
@@ -18951,7 +18951,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17228,'Сорговый'),
 	 (0,17229,'Соревнование'),
 	 (0,17230,'Сорово (поселок)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17231,'Сорога'),
 	 (0,17232,'Сорогожское'),
 	 (0,17233,'Сорожино'),
@@ -18962,7 +18962,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17238,'Сорочий Лог'),
 	 (0,17239,'Сорочинка'),
 	 (0,17240,'Сорочино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1573,17241,'Сорочинск'),
 	 (0,17242,'Сорочиха'),
 	 (0,17243,'Сорочкино'),
@@ -18973,7 +18973,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17248,'Сорум'),
 	 (0,17249,'Соседка'),
 	 (0,17250,'Сосенки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1875,17251,'Сосенский'),
 	 (0,17252,'Сосково'),
 	 (0,17253,'Сосмаги'),
@@ -18984,7 +18984,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4022,17258,'Сосново'),
 	 (4656,17259,'Сосново-Озерское'),
 	 (1164,17260,'Сосновоборск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17261,'Сосновоборское'),
 	 (4423,17262,'Сосновское'),
 	 (0,17263,'Сосновый'),
@@ -18995,7 +18995,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17268,'Сосны'),
 	 (4734,17269,'Сосьва'),
 	 (0,17270,'Сотниково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5675,17271,'Сотниковское'),
 	 (5921,17272,'Сотницыно'),
 	 (0,17273,'Сотнур'),
@@ -19006,7 +19006,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3147,17278,'Софиевка'),
 	 (0,17279,'Софийск'),
 	 (0,17280,'Софпорог');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17281,'Софрино (поселок)'),
 	 (0,17282,'Софрино-1'),
 	 (0,17283,'Софроново'),
@@ -19017,7 +19017,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17288,'Сохондо'),
 	 (0,17289,'Сохрановка'),
 	 (0,17290,'Соцгородок');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17291,'Соцземледельский'),
 	 (0,17292,'Социалистический'),
 	 (0,17293,'Сочихино'),
@@ -19028,7 +19028,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17298,'Спартак'),
 	 (0,17299,'Спас'),
 	 (0,17300,'Спас-Виталий');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1876,17301,'Спас-Деменск'),
 	 (0,17302,'Спас-Загорье'),
 	 (0,17303,'Спас-Заулок'),
@@ -19039,7 +19039,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17308,'Спасо-Барда'),
 	 (0,17309,'Спасовщина'),
 	 (0,17310,'Спаспоруб');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17311,'Спасс (село)'),
 	 (0,17312,'Спасс-Раменье'),
 	 (1584,17313,'Спасск'),
@@ -19050,7 +19050,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17318,'Спасское (Линдовский с/с)'),
 	 (0,17319,'Спасское-Лутовиново'),
 	 (0,17320,'Спешково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17321,'Спешневка'),
 	 (0,17322,'Спешнево-Ивановское'),
 	 (0,17323,'Спиридонова Буда'),
@@ -19061,7 +19061,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17328,'Спицино'),
 	 (0,17329,'Спицыно'),
 	 (0,17330,'Спицынский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17331,'Сплавной'),
 	 (0,17332,'Сплавнуха'),
 	 (3439,17333,'Спокойная'),
@@ -19072,7 +19072,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17338,'Среднебелая'),
 	 (0,17339,'Среднебелое'),
 	 (0,17340,'Среднебелое-2');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17341,'Среднее Аверкино'),
 	 (0,17342,'Среднее Азяково'),
 	 (0,17343,'Среднее Балтаево'),
@@ -19083,7 +19083,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17348,'Среднеичинск'),
 	 (1184,17349,'Среднеколымск'),
 	 (0,17350,'Среднекрасилово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17351,'Среднесибирский'),
 	 (0,17352,'Среднеуранский'),
 	 (6018,17353,'Среднецарицынский'),
@@ -19094,7 +19094,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17358,'Средние Кирмени'),
 	 (0,17359,'Средние Пахачи'),
 	 (0,17360,'Средние Тарманы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17361,'Средние Татмыши'),
 	 (0,17362,'Средние Тиганы'),
 	 (0,17363,'Средние Тимерсяны'),
@@ -19105,7 +19105,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17368,'Средний Арадирих'),
 	 (0,17369,'Средний Багряж'),
 	 (6202,17370,'Средний Баскунчак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5761,17371,'Средний Бугалыш'),
 	 (4689,17372,'Средний Васюган'),
 	 (0,17373,'Средний Егорлык'),
@@ -19116,7 +19116,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17378,'Средний Кушкет'),
 	 (0,17379,'Средний Маныч'),
 	 (0,17380,'Средний Постол');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17381,'Средний Пшалым'),
 	 (0,17382,'Средний Сайдыс'),
 	 (0,17383,'Средний Сантимир'),
@@ -19127,7 +19127,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17388,'Средний Челбас'),
 	 (0,17389,'Средний Юрткуль'),
 	 (0,17390,'Средняя Агинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3732,17391,'Средняя Ахтуба'),
 	 (0,17392,'Средняя Борзя'),
 	 (3688,17393,'Средняя Елюзань'),
@@ -19138,7 +19138,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17398,'Средняя Олекма'),
 	 (0,17399,'Средняя Ольшанка'),
 	 (0,17400,'Средняя Терешка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17401,'Средняя Тойма'),
 	 (0,17402,'Средняя Турша'),
 	 (0,17403,'Средняя Усьва'),
@@ -19149,7 +19149,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4939,17408,'Сростки'),
 	 (0,17409,'Сросты'),
 	 (0,17410,'Стабна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17411,'Став-Дурт'),
 	 (0,17412,'Ставотино'),
 	 (2692,17413,'Ставрово'),
@@ -19160,7 +19160,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17418,'Стайки'),
 	 (0,17419,'Стаканово'),
 	 (0,17420,'Стальной Конь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17421,'Стальское'),
 	 (0,17422,'Стан'),
 	 (0,17423,'Стан-Бехтемир'),
@@ -19171,7 +19171,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17428,'Станки'),
 	 (0,17429,'Становая'),
 	 (0,17430,'Становка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3855,17431,'Становое'),
 	 (0,17432,'Становое (Вохтожское МО)'),
 	 (0,17433,'Становой Колодезь'),
@@ -19182,7 +19182,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17438,'Станция Скуратово'),
 	 (0,17439,'Старая Андреевка'),
 	 (0,17440,'Старая Балыкла');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17441,'Старая Безгинка'),
 	 (0,17442,'Старая Белица'),
 	 (0,17443,'Старая Белогорка'),
@@ -19193,7 +19193,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17448,'Старая Ведуга'),
 	 (0,17449,'Старая Гольчиха'),
 	 (0,17450,'Старая Гута');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17451,'Старая Гыя'),
 	 (0,17452,'Старая Жуковка'),
 	 (0,17453,'Старая Заимка'),
@@ -19204,7 +19204,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17458,'Старая Каменка'),
 	 (0,17459,'Старая Кармала'),
 	 (0,17460,'Старая Качеевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17461,'Старая Киреметь'),
 	 (0,17462,'Старая Копь'),
 	 (0,17463,'Старая Криуша'),
@@ -19215,7 +19215,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17468,'Старая Ляля'),
 	 (6078,17469,'Старая Майна'),
 	 (0,17470,'Старая Малукса');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17471,'Старая Маслянка'),
 	 (0,17472,'Старая Матвеевка'),
 	 (0,17473,'Старая Меловая'),
@@ -19226,7 +19226,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17478,'Старая Отрада'),
 	 (3733,17479,'Старая Полтавка'),
 	 (0,17480,'Старая Порубежка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17481,'Старая Потловка'),
 	 (0,17482,'Старая Райчиха'),
 	 (0,17483,'Старая Рачейка'),
@@ -19237,7 +19237,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17488,'Старая Рябка'),
 	 (0,17489,'Старая Сазоновка'),
 	 (0,17490,'Старая Салаусь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17491,'Старая Самаевка'),
 	 (0,17492,'Старая Сахча'),
 	 (0,17493,'Старая Селя'),
@@ -19248,7 +19248,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17498,'Старая Тепловка'),
 	 (0,17499,'Старая Теризморга'),
 	 (0,17500,'Старая Тойда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17501,'Старая Торопа'),
 	 (0,17502,'Старая Турья'),
 	 (0,17503,'Старая Тушка'),
@@ -19259,7 +19259,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17508,'Старая Чесноковка'),
 	 (0,17509,'Старая Чигла'),
 	 (0,17510,'Старая Шадрина');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17511,'Старая Шентала'),
 	 (0,17512,'Старая Шудья'),
 	 (0,17513,'Старая Ювала'),
@@ -19270,7 +19270,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17518,'Старицкое'),
 	 (0,17519,'Старки'),
 	 (0,17520,'Старково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17521,'Старо-Волжский'),
 	 (0,17522,'Старо-Кувинск'),
 	 (0,17523,'Старо-Мрясево'),
@@ -19281,7 +19281,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17528,'Староаннинская'),
 	 (0,17529,'Староаширово'),
 	 (0,17530,'Старобабичево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17531,'Старобазаново'),
 	 (0,17532,'Старобаишево'),
 	 (5144,17533,'Старобалтачево'),
@@ -19292,7 +19292,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17538,'Старобжегокай'),
 	 (0,17539,'Старобикметово'),
 	 (0,17540,'Старобогдановка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17541,'Староборискино'),
 	 (2678,17542,'Старовеличковская'),
 	 (0,17543,'Староверческая'),
@@ -19303,7 +19303,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17548,'Старогорнасталево'),
 	 (0,17549,'Старогумерово'),
 	 (0,17550,'Старогусево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6785,17551,'Стародворцовский'),
 	 (0,17552,'Стародевичье'),
 	 (3294,17553,'Стародеревянковская'),
@@ -19314,7 +19314,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17558,'Старое'),
 	 (0,17559,'Старое Абдулово'),
 	 (0,17560,'Старое Аделяково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17561,'Старое Афонькино'),
 	 (0,17562,'Старое Ахматово'),
 	 (0,17563,'Старое Ахпердино'),
@@ -19325,7 +19325,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17568,'Старое Демкино'),
 	 (0,17569,'Старое Дракино'),
 	 (3692,17570,'Старое Дрожжаное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17571,'Старое Дубовое'),
 	 (0,17572,'Старое Еремкино'),
 	 (0,17573,'Старое Ермаково'),
@@ -19336,7 +19336,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17578,'Старое Измайлово'),
 	 (0,17579,'Старое Ильдеряково'),
 	 (0,17580,'Старое Ильмово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17581,'Старое Исаково'),
 	 (0,17582,'Старое Кадеево'),
 	 (0,17583,'Старое Казеево'),
@@ -19347,7 +19347,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17588,'Старое Матюшкино'),
 	 (0,17589,'Старое Мелково'),
 	 (0,17590,'Старое Мокшино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17591,'Старое Мутище'),
 	 (0,17592,'Старое Погорелово'),
 	 (0,17593,'Старое Пшенево'),
@@ -19358,7 +19358,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17598,'Старое Сафарово'),
 	 (0,17599,'Старое Село'),
 	 (0,17600,'Старое Семенкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17601,'Старое Синдрово'),
 	 (0,17602,'Старое Славкино'),
 	 (0,17603,'Старое Суркино'),
@@ -19369,7 +19369,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17608,'Старое Узеево'),
 	 (0,17609,'Старое Усманово'),
 	 (0,17610,'Старое Хмелевое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17611,'Старое Хотмирово'),
 	 (0,17612,'Старое Чамзино'),
 	 (0,17613,'Старое Чурилино'),
@@ -19380,7 +19380,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17618,'Старое Шугурово'),
 	 (0,17619,'Старое Эштебенькино'),
 	 (0,17620,'Старое Якушкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17621,'Старое Янашево'),
 	 (0,17622,'Старое-Татаурово'),
 	 (4486,17623,'Старожилово'),
@@ -19391,7 +19391,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17628,'Старокальмиярово'),
 	 (0,17629,'Старокарасук'),
 	 (0,17630,'Старокатаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17631,'Старокленское'),
 	 (3440,17632,'Старокорсунская'),
 	 (0,17633,'Старокрайчиково'),
@@ -19402,7 +19402,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17638,'Старокулево'),
 	 (0,17639,'Старокульшарипово'),
 	 (0,17640,'Старокурмашево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17641,'Старокуручево'),
 	 (0,17642,'Старокутлумбетьево'),
 	 (0,17643,'Старокучербаево'),
@@ -19413,7 +19413,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2642,17648,'Староминская'),
 	 (0,17649,'Старомихайловский'),
 	 (0,17650,'Старомочалей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17651,'Старомукменево'),
 	 (0,17652,'Старомунасипово'),
 	 (0,17653,'Старомусино'),
@@ -19424,7 +19424,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17658,'Староновицкая'),
 	 (0,17659,'Старооткустино'),
 	 (3905,17660,'Старопавловская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17661,'Староперуново'),
 	 (0,17662,'Старопершино'),
 	 (4808,17663,'Старопестерево'),
@@ -19435,7 +19435,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5762,17668,'Старопышминск'),
 	 (0,17669,'Старорусское'),
 	 (0,17670,'Старорямова');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17671,'Староселье'),
 	 (0,17672,'Старосемейкино'),
 	 (0,17673,'Старосеменкино'),
@@ -19446,7 +19446,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17678,'Старостуденецкие Выселки'),
 	 (5878,17679,'Старосубхангулово'),
 	 (0,17680,'Старосултангулово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17681,'Старосысоевка'),
 	 (0,17682,'Старотазларово'),
 	 (0,17683,'Старотатышево'),
@@ -19457,7 +19457,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17688,'Старотомниково'),
 	 (0,17689,'Старотумбагушево'),
 	 (0,17690,'Старотураево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17691,'Старотуруханск'),
 	 (0,17692,'Староуртаево'),
 	 (0,17693,'Староустье'),
@@ -19468,7 +19468,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17698,'Старочервово'),
 	 (6827,17699,'Старочеркасская'),
 	 (0,17700,'Старочернеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17701,'Старошареево'),
 	 (0,17702,'Старошешминск'),
 	 (0,17703,'Старощербаково'),
@@ -19479,7 +19479,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17708,'Староюрьево 1'),
 	 (0,17709,'Староякупово'),
 	 (0,17710,'Староянбаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17711,'Староянтузово'),
 	 (0,17712,'Старояшкино'),
 	 (0,17713,'Старцево'),
@@ -19490,7 +19490,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17718,'Старые Багазы'),
 	 (5937,17719,'Старые Бобовичи'),
 	 (0,17720,'Старые Богады');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17721,'Старые Бугады'),
 	 (0,17722,'Старые Бурасы'),
 	 (0,17723,'Старые Верхиссы'),
@@ -19501,7 +19501,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17728,'Старые Ишли'),
 	 (0,17729,'Старые Казанчи'),
 	 (0,17730,'Старые Какерли');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17731,'Старые Какси'),
 	 (0,17732,'Старые Камышлы'),
 	 (0,17733,'Старые Карачи'),
@@ -19512,7 +19512,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17738,'Старые Маты'),
 	 (0,17739,'Старые Озинки'),
 	 (0,17740,'Старые Омутищи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17741,'Старые Пичуры'),
 	 (0,17742,'Старые Псарьки'),
 	 (0,17743,'Старые Савруши'),
@@ -19523,7 +19523,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17748,'Старые Тойси'),
 	 (0,17749,'Старые Туймазы'),
 	 (0,17750,'Старые Тукмаклы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17751,'Старые Турдаки'),
 	 (0,17752,'Старые Узели'),
 	 (0,17753,'Старые Урмары'),
@@ -19534,7 +19534,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17758,'Старые Шалты'),
 	 (0,17759,'Старые Юмралы'),
 	 (0,17760,'Старые Юрковичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17761,'Старые Ятчи'),
 	 (0,17762,'Старый Акбуляк'),
 	 (0,17763,'Старый Акульшет'),
@@ -19545,7 +19545,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17768,'Старый Белый Яр'),
 	 (0,17769,'Старый Березняк'),
 	 (0,17770,'Старый Бисер');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17771,'Старый Буртек'),
 	 (0,17772,'Старый Буян'),
 	 (0,17773,'Старый Варяш'),
@@ -19556,7 +19556,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17778,'Старый Ирюк'),
 	 (0,17779,'Старый Искитим'),
 	 (0,17780,'Старый Иштеряк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17781,'Старый Кавдык'),
 	 (0,17782,'Старый Каишкуль'),
 	 (0,17783,'Старый Калкаш'),
@@ -19567,7 +19567,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17788,'Старый Кармыж'),
 	 (0,17789,'Старый Кашир'),
 	 (0,17790,'Старый Киструс');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17791,'Старый Кривец'),
 	 (0,17792,'Старый Кувак'),
 	 (0,17793,'Старый Куклюк'),
@@ -19578,7 +19578,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17798,'Старый Мичан'),
 	 (0,17799,'Старый Мостяк'),
 	 (0,17800,'Старый Мухамет');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17801,'Старый Надым'),
 	 (0,17802,'Старый Онохой'),
 	 (0,17803,'Старый Остров'),
@@ -19589,7 +19589,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17808,'Старый Студенец'),
 	 (0,17809,'Старый Тартасс'),
 	 (0,17810,'Старый Татарский Адам');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17811,'Старый Тогул'),
 	 (0,17812,'Старый Торъял'),
 	 (0,17813,'Старый Уоян'),
@@ -19600,7 +19600,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17818,'Старый Хопер'),
 	 (0,17819,'Старый Хутор'),
 	 (0,17820,'Старый Черек');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17821,'Старый Четырман'),
 	 (0,17822,'Старый Чирчим'),
 	 (0,17823,'Старый Шагирт'),
@@ -19611,7 +19611,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17828,'Стегаловка'),
 	 (0,17829,'Стеженский'),
 	 (0,17830,'Стежки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17831,'Стеклозавод'),
 	 (0,17832,'Стеклозавода'),
 	 (0,17833,'Стеклянная Радица'),
@@ -19622,7 +19622,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17838,'Стемасс'),
 	 (0,17839,'Стемасы'),
 	 (0,17840,'Стенки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17841,'Стеньгурт'),
 	 (0,17842,'Стенькино'),
 	 (0,17843,'Степаненки'),
@@ -19633,7 +19633,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17848,'Степановская'),
 	 (0,17849,'Степановский'),
 	 (0,17850,'Степанцево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17851,'Степанщино'),
 	 (0,17852,'Степаньково'),
 	 (0,17853,'Степачево'),
@@ -19644,7 +19644,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17858,'Степногутово'),
 	 (0,17859,'Степное'),
 	 (0,17860,'Степное Матюнино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4941,17861,'Степное Озеро'),
 	 (0,17862,'Степное Тугаево'),
 	 (6839,17863,'Степной'),
@@ -19655,7 +19655,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17868,'Степняки'),
 	 (0,17869,'Степурино'),
 	 (0,17870,'Степь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5152,17871,'Стерлибашево'),
 	 (0,17872,'Стехново'),
 	 (0,17873,'Стечна'),
@@ -19666,7 +19666,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17878,'Стойба'),
 	 (6315,17879,'Столбище'),
 	 (0,17880,'Столбищи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6589,17881,'Столбовая'),
 	 (0,17882,'Столбово'),
 	 (0,17883,'Столбы'),
@@ -19677,7 +19677,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17888,'Сторожевая'),
 	 (0,17889,'Сторожевая-2'),
 	 (0,17890,'Сторожевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17891,'Сторожевое'),
 	 (0,17892,'Сторожевое 1-е'),
 	 (0,17893,'Сторожевое 2-е'),
@@ -19688,7 +19688,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17898,'Стоянцы'),
 	 (0,17899,'Страхов'),
 	 (0,17900,'Страхово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17901,'Страховский'),
 	 (0,17902,'Страшевичи'),
 	 (0,17903,'Стрела'),
@@ -19699,7 +19699,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3862,17908,'Стрелецкое'),
 	 (0,17909,'Стрелихинское'),
 	 (3821,17910,'Стрелица');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17911,'Стрелица Первая'),
 	 (3442,17912,'Стрелка'),
 	 (0,17913,'Стрелка-Чуня'),
@@ -19710,7 +19710,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17918,'Стрельноширокое'),
 	 (0,17919,'Стрельская'),
 	 (0,17920,'Стрельцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17921,'Стремилово'),
 	 (0,17922,'Стремутка'),
 	 (0,17923,'Стретенка'),
@@ -19721,7 +19721,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17928,'Стригуны'),
 	 (4468,17929,'Стрижи'),
 	 (0,17930,'Стризнево (Старосельское с/п)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17931,'Стрикино'),
 	 (0,17932,'Строево'),
 	 (0,17933,'Строевское'),
@@ -19732,7 +19732,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6634,17938,'Стромынь'),
 	 (0,17939,'Строчково'),
 	 (0,17940,'Струбково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4029,17941,'Струги Красные'),
 	 (0,17942,'Стругова Буда'),
 	 (0,17943,'Струженка'),
@@ -19743,7 +19743,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17948,'Студенка'),
 	 (0,17949,'Студенки'),
 	 (0,17950,'Студено-Ивановка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17951,'Студеное'),
 	 (0,17952,'Студенок'),
 	 (0,17953,'Студенцы'),
@@ -19754,7 +19754,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17958,'Ступино (село)'),
 	 (0,17959,'Ступинская'),
 	 (0,17960,'Ступишино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17961,'Стур-Дигора'),
 	 (0,17962,'Стычновский'),
 	 (0,17963,'Стюхино'),
@@ -19765,7 +19765,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17968,'Субботники'),
 	 (0,17969,'Суборь'),
 	 (0,17970,'Субуктуй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6617,17971,'Субханкулово'),
 	 (0,17972,'Суво'),
 	 (0,17973,'Суводи'),
@@ -19776,7 +19776,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17978,'Суворовский'),
 	 (0,17979,'Суворовское'),
 	 (0,17980,'Суг-Аксы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,17981,'Сугайкасы'),
 	 (0,17982,'Суганка'),
 	 (0,17983,'Сугаш'),
@@ -19787,7 +19787,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17988,'Сугушла'),
 	 (0,17989,'Суд-Николаевка'),
 	 (0,17990,'Суда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6830,17991,'Судай'),
 	 (0,17992,'Судбище'),
 	 (1887,17993,'Суджа'),
@@ -19798,7 +19798,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,17998,'Судислово'),
 	 (0,17999,'Судниково'),
 	 (0,18000,'Судницына');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18001,'Судоверфь'),
 	 (1736,18002,'Судогда'),
 	 (0,18003,'Судосево'),
@@ -19809,7 +19809,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18008,'Суерка'),
 	 (0,18009,'Суетка'),
 	 (0,18010,'Суетово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18011,'Сужа'),
 	 (0,18012,'Сузаново'),
 	 (0,18013,'Сузгарье'),
@@ -19820,7 +19820,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4052,18018,'Суземка'),
 	 (0,18019,'Сузоп'),
 	 (2946,18020,'Сузун');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18021,'Суйга'),
 	 (0,18022,'Суйда (поселок)'),
 	 (0,18023,'Сукино'),
@@ -19831,7 +19831,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18028,'Сукпак'),
 	 (0,18029,'Сукромля'),
 	 (0,18030,'Сукромны');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18031,'Суксу'),
 	 (2732,18032,'Суксун'),
 	 (0,18033,'Сулай'),
@@ -19842,7 +19842,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18038,'Сулейман'),
 	 (0,18039,'Сулеймановка'),
 	 (0,18040,'Сулейманово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18041,'Сулея'),
 	 (0,18042,'Сулзат'),
 	 (0,18043,'Сулин'),
@@ -19853,7 +19853,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18048,'Султанаево'),
 	 (0,18049,'Султанай'),
 	 (0,18050,'Султанбеково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18051,'Султангулово'),
 	 (0,18052,'Султанмуратово'),
 	 (0,18053,'Султанянгиюрт'),
@@ -19864,7 +19864,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18058,'Сулюково'),
 	 (0,18059,'Суляевка'),
 	 (0,18060,'Суляевский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18061,'Сумароково'),
 	 (0,18062,'Сумбатль'),
 	 (0,18063,'Сумино'),
@@ -19875,7 +19875,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (132,18068,'Сумы'),
 	 (0,18069,'Суна'),
 	 (0,18070,'Сунарчи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18071,'Сунгай'),
 	 (0,18072,'Сунгурова'),
 	 (0,18073,'Сунжа'),
@@ -19886,7 +19886,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18078,'Суола (Мельжехсинский наслег)'),
 	 (0,18079,'Суола (Морукский наслег)'),
 	 (0,18080,'Суордах');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1089,18081,'Суоярви'),
 	 (0,18082,'Суповский'),
 	 (4040,18083,'Супонево'),
@@ -19897,7 +19897,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18088,'Сурава'),
 	 (0,18089,'Сурадеево'),
 	 (0,18090,'Суражевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18091,'Сураново'),
 	 (0,18092,'Сургодь'),
 	 (0,18093,'Сургулук'),
@@ -19908,7 +19908,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18098,'Суринск'),
 	 (0,18099,'Сурково'),
 	 (0,18100,'Сурменевский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18101,'Суроватиха (станция)'),
 	 (1527,18102,'Суровикино'),
 	 (0,18103,'Сурок'),
@@ -19919,7 +19919,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5630,18108,'Сурхахи'),
 	 (0,18109,'Сурхачи'),
 	 (0,18110,'Сурьянино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18111,'Сусады Эбалак'),
 	 (4363,18112,'Сусанино'),
 	 (0,18113,'Сусат'),
@@ -19930,7 +19930,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1947,18118,'Сусуман'),
 	 (0,18119,'Сутбук'),
 	 (0,18120,'Сутоки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18121,'Сутормино'),
 	 (0,18122,'Сутуруоха'),
 	 (0,18123,'Сутчево'),
@@ -19941,7 +19941,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18128,'Сухаринка'),
 	 (0,18129,'Сухарыш'),
 	 (0,18130,'Сухая');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18131,'Сухая Атя'),
 	 (0,18132,'Сухая Березовка'),
 	 (3908,18133,'Сухая Буйвола'),
@@ -19952,7 +19952,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18138,'Сухая Чемровка'),
 	 (0,18139,'Сухие Челбасы'),
 	 (1877,18140,'Сухиничи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18141,'Сухиновка'),
 	 (0,18142,'Сухмень'),
 	 (4427,18143,'Сухобезводное'),
@@ -19963,7 +19963,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18148,'Суховерково'),
 	 (0,18149,'Суховерхово'),
 	 (0,18150,'Сухово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18151,'Суходол'),
 	 (0,18152,'Суходолье'),
 	 (0,18153,'Суходольный'),
@@ -19974,7 +19974,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18158,'Сухой Донец'),
 	 (1303,18159,'Сухой Лог'),
 	 (0,18160,'Сухой Семенек');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18161,'Сухоногово (поселок)'),
 	 (0,18162,'Сухоной'),
 	 (0,18163,'Сухоноска'),
@@ -19985,7 +19985,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18168,'Сухотское'),
 	 (0,18169,'Сухринское'),
 	 (0,18170,'Сухтелинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18171,'Сучкино'),
 	 (0,18172,'Сучково'),
 	 (0,18173,'Суш'),
@@ -19996,7 +19996,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18178,'Сущево'),
 	 (0,18179,'Сущево (село)'),
 	 (0,18180,'Счастливое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18181,'Съезжее'),
 	 (0,18182,'Сыаганнах'),
 	 (0,18183,'Сыбайкасы'),
@@ -20007,7 +20007,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18188,'Сыдыбыл'),
 	 (0,18189,'Сызганка'),
 	 (0,18190,'Сызги');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18191,'Сыйрышбаш'),
 	 (0,18192,'Сылва'),
 	 (0,18193,'Сылгы-Ытар'),
@@ -20018,7 +20018,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18198,'Сынково'),
 	 (0,18199,'Сынташтамак'),
 	 (0,18200,'Сынтул');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18201,'Сыня'),
 	 (0,18202,'Сыпучи'),
 	 (0,18203,'Сыпчегур'),
@@ -20029,7 +20029,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18208,'Сырейка'),
 	 (0,18209,'Сыреси'),
 	 (0,18210,'Сырково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18211,'Сыропятское (село)'),
 	 (0,18212,'Сыростан'),
 	 (0,18213,'Сырское'),
@@ -20040,7 +20040,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18218,'Сыры'),
 	 (0,18219,'Сырьяны'),
 	 (1304,18220,'Сысерть');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18221,'Сысоевка'),
 	 (0,18222,'Сысоево'),
 	 (0,18223,'Сысоевский'),
@@ -20051,7 +20051,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18228,'Сытомино'),
 	 (0,18229,'Сытьково'),
 	 (0,18230,'Сычева');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1116,18231,'Сычевка'),
 	 (0,18232,'Сычево'),
 	 (0,18233,'Сюзьва'),
@@ -20062,7 +20062,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18238,'Сюля'),
 	 (4210,18239,'Сюмси'),
 	 (0,18240,'Сюнай-Сале');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18241,'Сюрбей-Токаево'),
 	 (0,18242,'Сюрда'),
 	 (0,18243,'Сюрек'),
@@ -20073,7 +20073,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18248,'Сявалкасы'),
 	 (0,18249,'Сягаевка'),
 	 (0,18250,'Сядемка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18251,'Сям-Можга'),
 	 (4332,18252,'Сямжа'),
 	 (0,18253,'Сяпся'),
@@ -20084,7 +20084,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18258,'Сятракасы (Сятракасинское с/п)'),
 	 (0,18259,'т/б Алексин Бор'),
 	 (0,18260,'т/б Дорожник');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18261,'Табага'),
 	 (0,18262,'Табар-Черки'),
 	 (0,18263,'Табарле'),
@@ -20095,7 +20095,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18268,'Таборы'),
 	 (0,18269,'Табулга'),
 	 (0,18270,'Табулда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4942,18271,'Табуны'),
 	 (0,18272,'Табынск'),
 	 (0,18273,'Таваканово'),
@@ -20106,7 +20106,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18278,'Тавинск'),
 	 (0,18279,'Тавн-Гашун'),
 	 (0,18280,'Таволжанка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18281,'Таволжанский'),
 	 (0,18282,'Таволожанка'),
 	 (0,18283,'Тавричанка'),
@@ -20117,7 +20117,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18288,'Тагаево'),
 	 (0,18289,'Тагай'),
 	 (0,18290,'Таган');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18291,'Таганрогский'),
 	 (0,18292,'Тагара'),
 	 (0,18293,'Тагархай'),
@@ -20128,7 +20128,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18298,'Тагна'),
 	 (0,18299,'Тадколо'),
 	 (0,18300,'Тадмагитль');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18301,'Таежно-Михайловка'),
 	 (0,18302,'Таежное'),
 	 (4774,18303,'Таежный'),
@@ -20139,7 +20139,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5032,18308,'Тазовский'),
 	 (0,18309,'Таишево'),
 	 (0,18310,'Тайгинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18311,'Тайдаково'),
 	 (4810,18312,'Тайжина'),
 	 (0,18313,'Тайкаш'),
@@ -20150,7 +20150,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18318,'Таймылыр'),
 	 (0,18319,'Тайна'),
 	 (0,18320,'Тайново (Ситниковский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18321,'Тайняшево'),
 	 (0,18322,'Тайсара'),
 	 (0,18323,'Тайсуганово'),
@@ -20161,7 +20161,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18328,'Такагурт'),
 	 (0,18329,'Такалай'),
 	 (0,18330,'Такашур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18331,'Такино'),
 	 (0,18332,'Такмык'),
 	 (2648,18333,'Таксимо'),
@@ -20172,7 +20172,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18338,'Такушево'),
 	 (0,18339,'Талаги'),
 	 (0,18340,'Талажанка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18341,'Талакан'),
 	 (3590,18342,'Талалаевка'),
 	 (0,18343,'Талалихино'),
@@ -20183,7 +20183,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18348,'Талда'),
 	 (0,18349,'Талдан'),
 	 (0,18350,'Талдинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2076,18351,'Талдом'),
 	 (5021,18352,'Талинка'),
 	 (0,18353,'Талица (поселок)'),
@@ -20194,7 +20194,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18358,'Таллы-Сыза'),
 	 (0,18359,'Таллык'),
 	 (0,18360,'Талман-Борзя');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2553,18361,'Таловая'),
 	 (5075,18362,'Таловка'),
 	 (0,18363,'Таловское'),
@@ -20205,7 +20205,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18368,'Талон'),
 	 (0,18369,'Талпаки'),
 	 (0,18370,'Талсух');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18371,'Талы'),
 	 (0,18372,'Талый'),
 	 (0,18373,'Тальжино'),
@@ -20216,7 +20216,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18378,'Тамазатюбе'),
 	 (0,18379,'Тамакульское'),
 	 (6101,18380,'Тамала');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18381,'Тамалакан'),
 	 (0,18382,'Таманский'),
 	 (3665,18383,'Тамань'),
@@ -20227,7 +20227,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18388,'Тамбовский'),
 	 (0,18389,'Тамбовский Лесхоз'),
 	 (0,18390,'Тамбукан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18391,'Тамдысай'),
 	 (0,18392,'Тамир'),
 	 (0,18393,'Тамтачет'),
@@ -20238,7 +20238,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18398,'Танайково'),
 	 (0,18399,'Таналык'),
 	 (0,18400,'Танга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18401,'Тангатарово'),
 	 (0,18402,'Танги'),
 	 (0,18403,'Танги-Чу'),
@@ -20249,7 +20249,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18408,'Танеевка'),
 	 (0,18409,'Танзыбей'),
 	 (0,18410,'Танрыкулово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18411,'Тансарино'),
 	 (0,18412,'Танты'),
 	 (0,18413,'Тануси'),
@@ -20260,7 +20260,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18418,'Таптанай'),
 	 (0,18419,'Таптугары'),
 	 (0,18420,'Таптыково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18421,'Тапхар'),
 	 (0,18422,'Тара (село)'),
 	 (0,18423,'Тараданово'),
@@ -20271,7 +20271,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18428,'Тараса'),
 	 (0,18429,'Тарасиха'),
 	 (0,18430,'Тарасково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18431,'Тарасовка'),
 	 (0,18432,'Тарасово'),
 	 (0,18433,'Тарасово-Меловское'),
@@ -20282,7 +20282,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18438,'Тараховка'),
 	 (5064,18439,'Тарбагатай'),
 	 (0,18440,'Тарбальджей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18441,'Таргай'),
 	 (0,18442,'Таргиз'),
 	 (0,18443,'Таремское'),
@@ -20293,7 +20293,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18448,'Тарма'),
 	 (0,18449,'Тармакуль'),
 	 (4334,18450,'Тарногский Городок');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18451,'Тарнополь'),
 	 (5656,18452,'Тарское'),
 	 (0,18453,'Тарталей'),
@@ -20304,7 +20304,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18458,'Тарханская Потьма'),
 	 (0,18459,'Тарханы'),
 	 (0,18460,'Тас-Юрях');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18461,'Тасагар'),
 	 (0,18462,'Тасбулак'),
 	 (4775,18463,'Тасеево'),
@@ -20315,7 +20315,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18468,'Таскино'),
 	 (0,18469,'Тастуба'),
 	 (0,18470,'Тасута');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18471,'Тат-Верх-Гоньба'),
 	 (0,18472,'Тат-Китня'),
 	 (0,18473,'Татал'),
@@ -20326,7 +20326,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6878,18478,'Татариново'),
 	 (0,18479,'Татарка'),
 	 (0,18480,'Татарки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18481,'Татаро-Никольское'),
 	 (1212,18482,'Татарск'),
 	 (0,18483,'Татарская Багана'),
@@ -20337,7 +20337,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18488,'Татарская Караболка'),
 	 (4288,18489,'Татарская Каргала'),
 	 (0,18490,'Татарская Лака');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18491,'Татарская Мушуга'),
 	 (0,18492,'Татарская Пишля'),
 	 (0,18493,'Татарская Тавла'),
@@ -20348,7 +20348,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18498,'Татарские Суксы'),
 	 (0,18499,'Татарские Челны'),
 	 (0,18500,'Татарские Юнки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18501,'Татарские Ямалы'),
 	 (0,18502,'Татарский Калмаюр'),
 	 (0,18503,'Татарский Канадей'),
@@ -20359,7 +20359,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18508,'Татарский Сайман'),
 	 (0,18509,'Татарский Толкиш'),
 	 (0,18510,'Татарский Шмалак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18511,'Татарский Шуган'),
 	 (0,18512,'Татарский Шуран'),
 	 (0,18513,'Татарское'),
@@ -20370,7 +20370,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18518,'Татарское Маклаково'),
 	 (0,18519,'Татарское Танаево'),
 	 (0,18520,'Татарское Урайкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18521,'Татарское Утяшкино'),
 	 (0,18522,'Татарское Ходяшево'),
 	 (0,18523,'Татарстан'),
@@ -20381,7 +20381,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18528,'Татищево'),
 	 (0,18529,'Татлыбаево'),
 	 (0,18530,'Татляр');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18531,'Татнинов'),
 	 (0,18532,'Татыр-Узяк'),
 	 (0,18533,'Татьяновка'),
@@ -20392,7 +20392,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18538,'Тауш'),
 	 (0,18539,'Таушкасы'),
 	 (0,18540,'Тахта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18541,'Тахтагул'),
 	 (0,18542,'Тахтала'),
 	 (5559,18543,'Тахтамукай'),
@@ -20403,7 +20403,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18548,'Ташбулатово'),
 	 (0,18549,'Ташеба'),
 	 (0,18550,'Ташелан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18551,'Ташелка'),
 	 (0,18552,'Ташенка'),
 	 (0,18553,'Ташетканы'),
@@ -20414,7 +20414,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18558,'Ташкирмень'),
 	 (0,18559,'Ташкич'),
 	 (0,18560,'Ташкичу');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4289,18561,'Ташла'),
 	 (0,18562,'Ташлияр'),
 	 (0,18563,'Ташлы'),
@@ -20425,7 +20425,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18568,'Таштугай'),
 	 (6764,18569,'Таштып'),
 	 (0,18570,'Таштюбе');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18571,'Тащилово'),
 	 (0,18572,'Таянды'),
 	 (0,18573,'Таяты'),
@@ -20436,7 +20436,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18578,'Тверская'),
 	 (0,18579,'Тверской'),
 	 (0,18580,'Творишино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18581,'Теба'),
 	 (0,18582,'Тебекмахи'),
 	 (1473,18583,'Теберда'),
@@ -20447,7 +20447,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4735,18588,'Тевриз'),
 	 (0,18589,'Тегерменево'),
 	 (0,18590,'Тегешево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18591,'Теги'),
 	 (0,18592,'Тегро-Озеро'),
 	 (4690,18593,'Тегульдет'),
@@ -20458,7 +20458,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18598,'Текос'),
 	 (0,18599,'Тектюр (Техтюр)'),
 	 (0,18600,'Текун');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18601,'Телегино'),
 	 (0,18602,'Тележиха'),
 	 (0,18603,'Телей-Диринг'),
@@ -20469,7 +20469,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18608,'Телешовка'),
 	 (0,18609,'Телиги'),
 	 (0,18610,'Теликовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18611,'Тельвиска'),
 	 (0,18612,'Тельма (Тельминское МО)'),
 	 (0,18613,'Тельман'),
@@ -20480,7 +20480,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18618,'Телягу'),
 	 (0,18619,'Теляжье'),
 	 (0,18620,'Теляково (Теляковская с/т)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18621,'Телятники'),
 	 (0,18622,'Телятово'),
 	 (0,18623,'Теляшево'),
@@ -20491,7 +20491,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4008,18628,'Темиргоевская'),
 	 (190,18629,'Темиртау'),
 	 (0,18630,'Темкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18631,'Темник'),
 	 (0,18632,'Темники'),
 	 (0,18633,'Темнолесская'),
@@ -20502,7 +20502,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18638,'Темяшево'),
 	 (0,18639,'Тенгинка'),
 	 (0,18640,'Тенгинская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18641,'Тенеево'),
 	 (0,18642,'Тенишево'),
 	 (0,18643,'Тенкели'),
@@ -20513,7 +20513,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18648,'Теняево'),
 	 (0,18649,'Тепелево'),
 	 (0,18650,'Тепериш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18651,'Тепикинская'),
 	 (0,18652,'Теплая'),
 	 (5847,18653,'Теплая гора'),
@@ -20524,7 +20524,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18658,'Теплово'),
 	 (0,18659,'Теплогорье'),
 	 (4087,18660,'Теплое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18661,'Теплоозерск'),
 	 (0,18662,'Теплостанского свх'),
 	 (0,18663,'Теплые Ключи'),
@@ -20535,7 +20535,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3856,18668,'Тербуны'),
 	 (0,18669,'Тербяс'),
 	 (0,18670,'Тервеничи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6466,18671,'Терволово'),
 	 (0,18672,'Теребаево'),
 	 (0,18673,'Теребени'),
@@ -20546,7 +20546,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1468,18678,'Терек'),
 	 (5613,18679,'Терекли-Мектеб'),
 	 (0,18680,'Тереклы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18681,'Терекское'),
 	 (0,18682,'Теректа'),
 	 (0,18683,'Терелесовский'),
@@ -20557,7 +20557,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18688,'Терентьевское'),
 	 (6295,18689,'Тереньга'),
 	 (0,18690,'Терептино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18691,'Терехово'),
 	 (0,18692,'Теречное'),
 	 (0,18693,'Терешково'),
@@ -20568,7 +20568,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18698,'Терменево'),
 	 (0,18699,'Терней'),
 	 (0,18700,'Терновая');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3148,18701,'Терновка'),
 	 (0,18702,'Терновое'),
 	 (0,18703,'Терновой'),
@@ -20579,7 +20579,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18708,'Терпилицы'),
 	 (6811,18709,'Терса'),
 	 (0,18710,'Терсалгай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18711,'Терси'),
 	 (5657,18712,'Терская'),
 	 (0,18713,'Терский'),
@@ -20590,7 +20590,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18718,'Терют'),
 	 (0,18719,'Теряево'),
 	 (0,18720,'Тесово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18721,'Тесово-4'),
 	 (0,18722,'Тесово-Нетыльский'),
 	 (0,18723,'Тесовский'),
@@ -20601,7 +20601,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18728,'Тетрино'),
 	 (0,18729,'Тетюшское'),
 	 (0,18730,'Техникумовский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18731,'Техтюр'),
 	 (0,18732,'Теченский'),
 	 (0,18733,'Теша'),
@@ -20612,7 +20612,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18738,'Тигино'),
 	 (0,18739,'Тигрицкое'),
 	 (0,18740,'Тидиб');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18741,'Тизек'),
 	 (0,18742,'Тиинск'),
 	 (6758,18743,'Тикси'),
@@ -20623,7 +20623,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18748,'Тилутль'),
 	 (3840,18749,'Тим'),
 	 (0,18750,'Тиманова Гора');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18751,'Тимашевка'),
 	 (0,18752,'Тимашево'),
 	 (1458,18753,'Тимашевск'),
@@ -20634,7 +20634,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18758,'Тимирязева'),
 	 (0,18759,'Тимирязево'),
 	 (0,18760,'Тимирязевский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18761,'Тимково'),
 	 (0,18762,'Тимонино'),
 	 (0,18763,'Тимоново'),
@@ -20645,7 +20645,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18768,'Тимошкино'),
 	 (0,18769,'Тимшер'),
 	 (0,18770,'Тимяшево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18771,'Тинит'),
 	 (0,18772,'Тинская'),
 	 (0,18773,'Тинской'),
@@ -20656,7 +20656,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4809,18778,'Тисуль'),
 	 (0,18779,'Тит-Ары'),
 	 (0,18780,'Тит-Эбя');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18781,'Титан'),
 	 (0,18782,'Титаревка'),
 	 (0,18783,'Титов'),
@@ -20667,7 +20667,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18788,'Тихвинка'),
 	 (0,18789,'Тихменево'),
 	 (0,18790,'Тихон');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18791,'Тихонова Пустынь'),
 	 (0,18792,'Тихоновка'),
 	 (0,18793,'Тихоново'),
@@ -20678,7 +20678,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18798,'Тишково'),
 	 (5678,18799,'Тищенское'),
 	 (0,18800,'Тияпино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18801,'Тлайлух'),
 	 (0,18802,'Тлибишо'),
 	 (0,18803,'Тлох'),
@@ -20689,7 +20689,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18808,'Тлярата'),
 	 (0,18809,'Тлярош'),
 	 (0,18810,'Тляумбетово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18811,'Тлях'),
 	 (0,18812,'Тменикау'),
 	 (0,18813,'То-Поле'),
@@ -20700,7 +20700,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18818,'Тобурданово'),
 	 (0,18819,'Товарково'),
 	 (0,18820,'Товарково 1-е');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4088,18821,'Товарковский'),
 	 (0,18822,'Тогодь'),
 	 (4943,18823,'Тогул'),
@@ -20711,7 +20711,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18828,'Тойвола'),
 	 (0,18829,'Тойгильдино'),
 	 (0,18830,'Тойда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18831,'Тойкино'),
 	 (0,18832,'Тойси'),
 	 (0,18833,'Тойси-Паразуси'),
@@ -20722,7 +20722,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18838,'Токи'),
 	 (0,18839,'Токко'),
 	 (0,18840,'Токма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18841,'Токмакла'),
 	 (0,18842,'Токмово (село)'),
 	 (0,18843,'Токское'),
@@ -20733,7 +20733,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18848,'Токчин'),
 	 (0,18849,'Толба'),
 	 (5149,18850,'Толбазы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18851,'Толбухино'),
 	 (0,18852,'Толвуя'),
 	 (0,18853,'Толдзгун'),
@@ -20744,7 +20744,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4850,18858,'Толмачево'),
 	 (0,18859,'Толмачи'),
 	 (0,18860,'Толоконцево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18861,'Толон'),
 	 (0,18862,'Толон (Бахсытского наслега)'),
 	 (0,18863,'Толон (Чакырского наслега)'),
@@ -20755,7 +20755,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18868,'Толстая Дубрава'),
 	 (0,18869,'Толстая Дуброва'),
 	 (0,18870,'Толстиково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18871,'Толстихино'),
 	 (0,18872,'Толстовка'),
 	 (0,18873,'Толстово-Васюковское'),
@@ -20766,7 +20766,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18878,'Толсты'),
 	 (0,18879,'Толстый Луг'),
 	 (0,18880,'Толстый Мыс');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18881,'Толька'),
 	 (0,18882,'Тольский Майдан'),
 	 (0,18883,'Том'),
@@ -20777,7 +20777,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18888,'Томилово'),
 	 (0,18889,'Томинский'),
 	 (0,18890,'Томичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1185,18891,'Томмот'),
 	 (0,18892,'Томсино'),
 	 (0,18893,'Томская'),
@@ -20788,7 +20788,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18898,'Томылово'),
 	 (0,18899,'Тондошка'),
 	 (4429,18900,'Тонкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18901,'Тоннельный'),
 	 (4430,18902,'Тоншаево'),
 	 (4336,18903,'Тоншалово'),
@@ -20799,7 +20799,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18908,'Топиллы'),
 	 (0,18909,'Топканово'),
 	 (1247,18910,'Топки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18911,'Топкинская'),
 	 (0,18912,'Топлое'),
 	 (0,18913,'Тополевка'),
@@ -20810,7 +20810,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18918,'Тополовка'),
 	 (6673,18919,'Топольное'),
 	 (0,18920,'Топольный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18921,'Топоринка'),
 	 (0,18922,'Топорнино'),
 	 (0,18923,'Топорово'),
@@ -20821,7 +20821,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4944,18928,'Топчиха'),
 	 (0,18929,'Тораево'),
 	 (0,18930,'Торбаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3722,18931,'Торбеево'),
 	 (0,18932,'Торбино (деревня)'),
 	 (0,18933,'Торгалыг'),
@@ -20832,7 +20832,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18938,'Торгун'),
 	 (0,18939,'Торинкасы'),
 	 (0,18940,'Торковичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18941,'Тормосин'),
 	 (0,18942,'Тором'),
 	 (0,18943,'Торопаца'),
@@ -20843,7 +20843,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18948,'Тортым'),
 	 (0,18949,'Торфяное'),
 	 (0,18950,'Торфяной');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18951,'Торханы'),
 	 (0,18952,'Торчино'),
 	 (0,18953,'Торшиловский'),
@@ -20854,7 +20854,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18958,'Тотурбийкала'),
 	 (1750,18959,'Тотьма'),
 	 (0,18960,'Тоунан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18961,'Тоурак'),
 	 (0,18962,'Тохой'),
 	 (0,18963,'Тохорюкта'),
@@ -20865,7 +20865,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4290,18968,'Тоцкое'),
 	 (4291,18969,'Тоцкое Второе'),
 	 (0,18970,'Точильное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18971,'Тошнер'),
 	 (0,18972,'ТПИГ'),
 	 (0,18973,'Травкино'),
@@ -20876,7 +20876,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18978,'Тракт'),
 	 (0,18979,'Трактовая'),
 	 (0,18980,'Трактор');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18981,'Тракторострой'),
 	 (0,18982,'Транспортный'),
 	 (0,18983,'Требиат'),
@@ -20887,7 +20887,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18988,'Тренькасы'),
 	 (0,18989,'Тренькино'),
 	 (0,18990,'Трепольский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,18991,'Трескино'),
 	 (0,18992,'Тресково'),
 	 (0,18993,'Тресоруково'),
@@ -20898,7 +20898,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,18998,'Третьи Левые Ламки'),
 	 (0,18999,'Третьяки'),
 	 (0,19000,'Третьяково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19001,'Трефиловка'),
 	 (0,19002,'Трехбалтаево'),
 	 (0,19003,'Трехизб-Шемурша'),
@@ -20909,7 +20909,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19008,'Трехсельское'),
 	 (0,19009,'Трехстенки'),
 	 (0,19010,'Трещевский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19011,'Три Ключа'),
 	 (0,19012,'Три Озера'),
 	 (5356,19013,'Три Протока'),
@@ -20920,7 +20920,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19018,'Трифоново'),
 	 (0,19019,'Троекурово'),
 	 (0,19020,'Троекурово (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19021,'Троельга'),
 	 (0,19022,'Троица'),
 	 (3299,19023,'Троицкая'),
@@ -20931,7 +20931,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19028,'Троицкий Сунгур'),
 	 (0,19029,'Троицкий-Урай'),
 	 (5364,19030,'Троицко-Печорск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3393,19031,'Троицкое'),
 	 (0,19032,'Троицкое 2-е'),
 	 (0,19033,'Троицкое-Бачурино'),
@@ -20942,7 +20942,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19038,'Тростенец'),
 	 (0,19039,'Тростники'),
 	 (0,19040,'Тростное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19041,'Тростье'),
 	 (0,19042,'Тростянка'),
 	 (0,19043,'Тростянский'),
@@ -20953,7 +20953,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19048,'Трубачево'),
 	 (0,19049,'Трубетчино'),
 	 (0,19050,'Трубецкое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19051,'Трубино'),
 	 (0,19052,'Трубичино'),
 	 (0,19053,'Трубников Бор'),
@@ -20964,7 +20964,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19058,'Трудилово'),
 	 (3300,19059,'Трудобеликовский'),
 	 (0,19060,'Трудовик');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19061,'Трудовое'),
 	 (0,19062,'Трудовой'),
 	 (0,19063,'Трудолюбово'),
@@ -20975,7 +20975,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19068,'Трунтаишево'),
 	 (0,19069,'Трускляй'),
 	 (0,19070,'Труслейка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19071,'Трусово'),
 	 (0,19072,'Трутнево'),
 	 (0,19073,'Труфанова'),
@@ -20986,7 +20986,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19078,'Трясиновский'),
 	 (0,19079,'Туарма'),
 	 (0,19080,'Тубанаевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19081,'Туббольница'),
 	 (0,19082,'Тубинск'),
 	 (0,19083,'Тубинский'),
@@ -20997,7 +20997,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19088,'Тугалово'),
 	 (0,19089,'Тугач'),
 	 (5071,19090,'Тугнуй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19091,'Тугозвоново'),
 	 (0,19092,'Туголесский Бор'),
 	 (0,19093,'Туголуково'),
@@ -21008,7 +21008,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19098,'Тугур'),
 	 (0,19099,'Тугустемир'),
 	 (0,19100,'Тугутуй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19101,'Туембаш'),
 	 (4469,19102,'Тужа'),
 	 (0,19103,'Тужинка'),
@@ -21019,7 +21019,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5338,19108,'Тузуклей'),
 	 (0,19109,'Туим'),
 	 (0,19110,'Туискерос');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19111,'Туйла'),
 	 (0,19112,'Туйметкино'),
 	 (0,19113,'Тукаево'),
@@ -21030,7 +21030,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19118,'Туковский'),
 	 (0,19119,'Тукса'),
 	 (0,19120,'Туктагулово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19121,'Туктарово-Урдала'),
 	 (0,19122,'Туктубаево'),
 	 (0,19123,'Тукуз'),
@@ -21041,7 +21041,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19128,'Тулагино'),
 	 (0,19129,'Тулата'),
 	 (0,19130,'Тулбай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19131,'Тулдун'),
 	 (0,19132,'Тулебля (станция)'),
 	 (0,19133,'Тулиновка'),
@@ -21052,7 +21052,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19138,'Тулубьево'),
 	 (0,19139,'Тулугановка'),
 	 (0,19140,'Тулумбаиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19141,'Тулуна'),
 	 (0,19142,'Тульгузбаш'),
 	 (0,19143,'Тульский'),
@@ -21063,7 +21063,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19148,'Тумак'),
 	 (0,19149,'Тумаково'),
 	 (0,19150,'Туманино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4113,19151,'Туманный'),
 	 (0,19152,'Тумановка'),
 	 (0,19153,'Туманово'),
@@ -21074,7 +21074,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4431,19158,'Тумботино'),
 	 (0,19159,'Туменлер'),
 	 (0,19160,'Тумнин');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19161,'Тумул'),
 	 (0,19162,'Тумутук'),
 	 (0,19163,'Тунгала'),
@@ -21085,7 +21085,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19168,'Тунгуска'),
 	 (0,19169,'Тунгусово'),
 	 (0,19170,'Тундинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19171,'Тундрино'),
 	 (0,19172,'Тундриха'),
 	 (0,19173,'Тундутово'),
@@ -21096,7 +21096,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19178,'Туора-Кюель'),
 	 (0,19179,'Тупик'),
 	 (0,19180,'Тупиковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19181,'Тупицино'),
 	 (0,19182,'Тупки'),
 	 (0,19183,'Тура'),
@@ -21107,7 +21107,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19188,'Турат'),
 	 (0,19189,'Турата'),
 	 (0,19190,'Турбанка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19191,'Турбаслы'),
 	 (0,19192,'Турга'),
 	 (0,19193,'Тургеневка'),
@@ -21118,7 +21118,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5808,19198,'Тургояк'),
 	 (0,19199,'Тургужан'),
 	 (0,19200,'Турдаково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19201,'Турдей (МО Турдейское)'),
 	 (0,19202,'Турецкое'),
 	 (0,19203,'Турзан'),
@@ -21129,7 +21129,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19208,'Туринский'),
 	 (0,19209,'Туристический Пансионат «Клязьминское водохранилище»'),
 	 (0,19210,'Туричино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3199,19211,'Турка'),
 	 (6198,19212,'Турки'),
 	 (0,19213,'Туркинский'),
@@ -21140,7 +21140,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19218,'Турлатово'),
 	 (0,19219,'Турма'),
 	 (0,19220,'Турмасово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19221,'Турмыши'),
 	 (0,19222,'Турнаево'),
 	 (0,19223,'Турналы'),
@@ -21151,7 +21151,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19228,'Турово'),
 	 (0,19229,'Туросна'),
 	 (4821,19230,'Турочак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19231,'Туртапка'),
 	 (4989,19232,'Туртас'),
 	 (0,19233,'Туртино'),
@@ -21162,7 +21162,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4657,19238,'Турунтаево'),
 	 (0,19239,'Туруф'),
 	 (4776,19240,'Туруханск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19241,'Турья'),
 	 (0,19242,'Тут-Халтуй'),
 	 (0,19243,'Тутагачево'),
@@ -21173,7 +21173,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19248,'Тутончаны'),
 	 (0,19249,'Тутура'),
 	 (0,19250,'Туфаново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19251,'Тухани'),
 	 (0,19252,'Тухун (поселок)'),
 	 (5057,19253,'Тучково'),
@@ -21184,7 +21184,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19258,'Туэкта'),
 	 (0,19259,'Туяляс'),
 	 (0,19260,'Тхоревка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19261,'Тыайа'),
 	 (0,19262,'Тыва (поселок)'),
 	 (0,19263,'Тыгда'),
@@ -21195,7 +21195,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19268,'Тыловыл-Пельга'),
 	 (0,19269,'Тымлат'),
 	 (5268,19270,'Тымовское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19271,'Тымпы'),
 	 (0,19272,'Тынбаево'),
 	 (0,19273,'Тынкобь'),
@@ -21206,7 +21206,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19278,'Тырма'),
 	 (0,19279,'Тырново'),
 	 (1469,19280,'Тырныауз');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19281,'Тысячный'),
 	 (0,19282,'Тэгда'),
 	 (0,19283,'Тэдино'),
@@ -21217,7 +21217,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19288,'Тюбеляс'),
 	 (5809,19289,'Тюбук'),
 	 (0,19290,'Тюбяй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19291,'Тюбяк-Чекурча'),
 	 (0,19292,'Тюинск'),
 	 (0,19293,'Тюй'),
@@ -21228,7 +21228,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19298,'Тюльган (поселок)'),
 	 (0,19299,'Тюльгаш'),
 	 (0,19300,'Тюльди');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19301,'Тюлькино'),
 	 (0,19302,'Тюльково'),
 	 (0,19303,'Тюльпан'),
@@ -21239,7 +21239,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19308,'Тюменево'),
 	 (0,19309,'Тюменевский Поселок 2-й'),
 	 (0,19310,'Тюменка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19311,'Тюменский'),
 	 (0,19312,'Тюменцева'),
 	 (4945,19313,'Тюменцево'),
@@ -21250,7 +21250,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19318,'Тюмерево'),
 	 (0,19319,'Тюнгур'),
 	 (6901,19320,'Тюнгюлю');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19321,'Тюндюк'),
 	 (0,19322,'Тюнево'),
 	 (0,19323,'Тюнино'),
@@ -21261,7 +21261,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19328,'Тюрюшля'),
 	 (0,19329,'Тютюниково'),
 	 (4777,19330,'Тюхтет');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19331,'Тюхтят'),
 	 (0,19332,'Тюш'),
 	 (0,19333,'Тюшевка'),
@@ -21272,7 +21272,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19338,'Тямша'),
 	 (0,19339,'Тярлево'),
 	 (0,19340,'Тятер-Арасланово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19341,'Тятербашево'),
 	 (0,19342,'Тяхта'),
 	 (0,19343,'У Речки Даниловка'),
@@ -21283,7 +21283,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19348,'Убеево'),
 	 (0,19349,'Убеженская'),
 	 (6242,19350,'Убинское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19351,'Ублиска'),
 	 (2959,19352,'Ува'),
 	 (0,19353,'Ува-Тукля'),
@@ -21294,7 +21294,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19358,'Уваровка'),
 	 (0,19359,'Уваровский'),
 	 (0,19360,'Уваровское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19361,'Увары'),
 	 (4990,19362,'Уват'),
 	 (0,19363,'Увелье'),
@@ -21305,7 +21305,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19368,'Углегорский'),
 	 (0,19369,'Углезаводск'),
 	 (0,19370,'Углекаменск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4558,19371,'Углеродовский'),
 	 (5848,19372,'Углеуральский'),
 	 (0,19373,'Углицкий'),
@@ -21316,7 +21316,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6821,19378,'Угодичи'),
 	 (0,19379,'Уголок'),
 	 (0,19380,'Угольное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5286,19381,'Угольные Копи'),
 	 (0,19382,'Угольные Копи 2-й'),
 	 (0,19383,'Угольные Копи 3-й'),
@@ -21327,7 +21327,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19388,'Угревище'),
 	 (0,19389,'Угрюмово'),
 	 (0,19390,'Угуй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19391,'Угут'),
 	 (0,19392,'Ударник'),
 	 (0,19393,'Ударное'),
@@ -21338,7 +21338,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19398,'Удельно-Дуваней'),
 	 (0,19399,'Удельные Уты'),
 	 (0,19400,'Уджей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19401,'Удимский'),
 	 (0,19402,'Удино'),
 	 (0,19403,'Удинск'),
@@ -21349,7 +21349,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19408,'Удмуртский Пибаньшур'),
 	 (0,19409,'Удмуртский Сурвай'),
 	 (0,19410,'Удмуртский Таймобаш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19411,'Удмуртский Ятцаз'),
 	 (3444,19412,'Удобная'),
 	 (0,19413,'Удобное'),
@@ -21360,7 +21360,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19418,'Удугучин'),
 	 (6440,19419,'Уемский'),
 	 (0,19420,'Ужа');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19421,'Ужаниха'),
 	 (0,19422,'Ужовка'),
 	 (0,19423,'Ужуга'),
@@ -21371,7 +21371,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19428,'Узкий Луг'),
 	 (0,19429,'Узкое'),
 	 (0,19430,'Узлова');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19431,'Узловой'),
 	 (0,19432,'Узморье'),
 	 (0,19433,'Узнезя'),
@@ -21382,7 +21382,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19438,'Узюково'),
 	 (0,19439,'Узяк'),
 	 (0,19440,'Узян');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19441,'Узянбаш'),
 	 (0,19442,'Узяр'),
 	 (5849,19443,'Уинское'),
@@ -21393,7 +21393,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19448,'Уйское'),
 	 (0,19449,'Ук'),
 	 (0,19450,'Укан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19451,'Уколово'),
 	 (0,19452,'Уколок'),
 	 (2674,19453,'Украинка'),
@@ -21404,7 +21404,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19458,'Уктур'),
 	 (0,19459,'Укурей'),
 	 (0,19460,'Укурик');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19461,'Укыр'),
 	 (4822,19462,'Улаган'),
 	 (0,19463,'Улаклы-Чишма'),
@@ -21415,7 +21415,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19468,'Улановка'),
 	 (0,19469,'Уланок'),
 	 (0,19470,'Улах-Ан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19471,'Улахан-Ан'),
 	 (0,19472,'Улахан-Кюель'),
 	 (0,19473,'Улача'),
@@ -21426,7 +21426,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19478,'Уленкуль'),
 	 (0,19479,'Улентуй'),
 	 (5100,19480,'Улёты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19481,'Улзытэ'),
 	 (0,19482,'Улитино'),
 	 (0,19483,'Уллу-Теркеме'),
@@ -21437,7 +21437,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19488,'Уллучара'),
 	 (0,19489,'Улу-Елга'),
 	 (5881,19490,'Улу-Теляк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19491,'Улу-Юл'),
 	 (0,19492,'Улугушское'),
 	 (0,19493,'Улуз'),
@@ -21448,7 +21448,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19498,'Ульдурга'),
 	 (0,19499,'Ульдючины'),
 	 (4886,19500,'Улькан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19501,'Улькунды'),
 	 (0,19502,'Ульт-Ягун'),
 	 (0,19503,'Ульхун-Партия'),
@@ -21459,7 +21459,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19508,'Ульянино'),
 	 (0,19509,'Ульянково'),
 	 (0,19510,'Ульянова');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19511,'Ульяновка'),
 	 (0,19512,'Ульяново'),
 	 (0,19513,'Ульяновская'),
@@ -21470,7 +21470,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19518,'Улюнхан'),
 	 (0,19519,'Уляп'),
 	 (0,19520,'Улятуй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19521,'Уляхино'),
 	 (0,19522,'Умай'),
 	 (0,19523,'Уманский'),
@@ -21481,7 +21481,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19528,'Уметбаево'),
 	 (0,19529,'Умирово'),
 	 (0,19530,'Умлекан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19531,'Умыган'),
 	 (0,19532,'Унал'),
 	 (0,19533,'Унара'),
@@ -21492,7 +21492,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19538,'Унда'),
 	 (0,19539,'Ундино-Поселье'),
 	 (0,19540,'Ундозеро');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19541,'Ундоры'),
 	 (0,19542,'Унежма (поселок)'),
 	 (0,19543,'Унер'),
@@ -21503,7 +21503,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19548,'Уницкое'),
 	 (0,19549,'Уницы'),
 	 (0,19550,'Ункурда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19551,'Унорож'),
 	 (0,19552,'Уношево'),
 	 (0,19553,'Унцукуль'),
@@ -21514,7 +21514,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19558,'Унэгэтэй'),
 	 (0,19559,'Уолба'),
 	 (0,19560,'Уолбут');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19561,'Уорга'),
 	 (0,19562,'Упканкуль'),
 	 (5541,19563,'Упорная'),
@@ -21525,7 +21525,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19568,'Упрямово'),
 	 (5255,19569,'Уптар'),
 	 (0,19570,'Упша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19571,'Ур-Бедари'),
 	 (5405,19572,'Ура-Губа'),
 	 (0,19573,'Ураги'),
@@ -21536,7 +21536,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19578,'Уразбахты'),
 	 (0,19579,'Уразгильдино'),
 	 (0,19580,'Уразкасы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19581,'Уразмаметево'),
 	 (0,19582,'Уразметьево'),
 	 (0,19583,'Уразовка'),
@@ -21547,7 +21547,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5766,19588,'Уралец'),
 	 (0,19589,'Ураловка'),
 	 (0,19590,'Уралы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (193,19591,'Уральск'),
 	 (0,19592,'Уральский'),
 	 (0,19593,'Уральское'),
@@ -21558,7 +21558,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19598,'Урахи'),
 	 (0,19599,'Урахча'),
 	 (0,19600,'Ураш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19601,'Урваново'),
 	 (0,19602,'Урвань'),
 	 (0,19603,'Ургаза'),
@@ -21569,7 +21569,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19608,'Ургин'),
 	 (0,19609,'Ургун'),
 	 (0,19610,'Ургуново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19611,'Ургуш'),
 	 (0,19612,'Урдо-Ага'),
 	 (0,19613,'Урдома (поселок городского типа)'),
@@ -21580,7 +21580,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19618,'Урелики'),
 	 (2688,19619,'Уренгой'),
 	 (0,19620,'Урено-Карлинское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1701,19621,'Урень'),
 	 (1677,19622,'Уржум'),
 	 (0,19623,'Уржумское'),
@@ -21591,7 +21591,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19628,'Уришка'),
 	 (0,19629,'Уркан'),
 	 (0,19630,'Уркарах');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19631,'Урлапово'),
 	 (0,19632,'Урлейка'),
 	 (0,19633,'Урлу-Аспак'),
@@ -21602,7 +21602,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19638,'Урман'),
 	 (0,19639,'Урман-Бишкадак'),
 	 (0,19640,'Урманаево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19641,'Урманный'),
 	 (0,19642,'Урмантау'),
 	 (0,19643,'Урманчино'),
@@ -21613,7 +21613,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19648,'Урмиязы'),
 	 (0,19649,'Урмышла'),
 	 (0,19650,'Урняк');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19651,'Уро'),
 	 (0,19652,'Уровские Ключи'),
 	 (0,19653,'Урожайное'),
@@ -21624,7 +21624,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19658,'Урсала'),
 	 (0,19659,'Урсдон'),
 	 (0,19660,'Урск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19661,'Уртазым'),
 	 (0,19662,'Уртакуль'),
 	 (0,19663,'Урталга'),
@@ -21635,7 +21635,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19668,'Урунск'),
 	 (0,19669,'Уруп'),
 	 (0,19670,'Урупский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1503,19671,'Урус-Мартан'),
 	 (0,19672,'Урусово'),
 	 (0,19673,'Урусово (село)'),
@@ -21646,7 +21646,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19678,'Уруша'),
 	 (0,19679,'Урхнища'),
 	 (0,19680,'Урхучимахи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19681,'Урцаки'),
 	 (0,19682,'Уршады'),
 	 (0,19683,'Уршак'),
@@ -21657,7 +21657,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19688,'Урываево'),
 	 (0,19689,'Урывка'),
 	 (0,19690,'Урывский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19691,'Урынок'),
 	 (0,19692,'Урьяды'),
 	 (0,19693,'Урюм'),
@@ -21668,7 +21668,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19698,'УС-103'),
 	 (0,19699,'Ус-Кюель'),
 	 (0,19700,'Усадище');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19701,'Усадор'),
 	 (6465,19702,'Усады'),
 	 (0,19703,'Усак-Кичу'),
@@ -21679,7 +21679,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19708,'Усатово'),
 	 (0,19709,'Усачевская'),
 	 (0,19710,'Усвятские Нивы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4120,19711,'Усвяты'),
 	 (0,19712,'Усемикент'),
 	 (0,19713,'Усениново'),
@@ -21690,7 +21690,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5615,19718,'Усиша'),
 	 (0,19719,'Ускюль'),
 	 (6622,19720,'Усланка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19721,'Услон'),
 	 (0,19722,'Усман Ташлы'),
 	 (0,19723,'Усмангали'),
@@ -21701,7 +21701,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19728,'Усово'),
 	 (0,19729,'Усовы'),
 	 (5366,19730,'Усогорск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19731,'Усожа'),
 	 (0,19732,'Усола'),
 	 (0,19733,'Усолка'),
@@ -21712,7 +21712,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19738,'Успеновка'),
 	 (0,19739,'Успенская'),
 	 (0,19740,'Успенский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19741,'Успенское'),
 	 (0,19742,'Успенье'),
 	 (0,19743,'Уссурийский'),
@@ -21723,7 +21723,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19748,'Усть Борзя'),
 	 (0,19749,'Усть Грязнуха'),
 	 (6759,19750,'Усть-Абакан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19751,'Усть-Алейка'),
 	 (0,19752,'Усть-Алексеево'),
 	 (0,19753,'Усть-Алтан'),
@@ -21734,7 +21734,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19758,'Усть-Белая'),
 	 (0,19759,'Усть-Белое'),
 	 (0,19760,'Усть-Березовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5234,19761,'Усть-Большерецк'),
 	 (0,19762,'Усть-Брянь'),
 	 (0,19763,'Усть-Буб'),
@@ -21745,7 +21745,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19768,'Усть-Бюр'),
 	 (0,19769,'Усть-Ваеньга'),
 	 (0,19770,'Усть-Весляна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19771,'Усть-Волчиха'),
 	 (0,19772,'Усть-Вымь'),
 	 (0,19773,'Усть-Гавриловка'),
@@ -21756,7 +21756,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4559,19778,'Усть-Донецкий'),
 	 (0,19779,'Усть-Дунгуй'),
 	 (0,19780,'Усть-Ерга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19781,'Усть-Ермилиха'),
 	 (0,19782,'Усть-Есь'),
 	 (0,19783,'Усть-Журавлиха'),
@@ -21767,7 +21767,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19788,'Усть-Ижма'),
 	 (0,19789,'Усть-Изес'),
 	 (0,19790,'Усть-Илга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19791,'Усть-Илыч'),
 	 (0,19792,'Усть-Иля'),
 	 (0,19793,'Усть-Инцы'),
@@ -21778,7 +21778,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19798,'Усть-Кажа'),
 	 (2655,19799,'Усть-Калманка'),
 	 (0,19800,'Усть-Каменка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5228,19801,'Усть-Камчатск'),
 	 (0,19802,'Усть-Камышенка'),
 	 (0,19803,'Усть-Камышта'),
@@ -21789,7 +21789,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6938,19808,'Усть-Карск'),
 	 (0,19809,'Усть-Катунь'),
 	 (5851,19810,'Усть-Качка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6737,19811,'Усть-Кемь'),
 	 (6577,19812,'Усть-Кинельский'),
 	 (0,19813,'Усть-Киран'),
@@ -21800,7 +21800,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19818,'Усть-Куйга'),
 	 (0,19819,'Усть-Кулатка'),
 	 (5706,19820,'Усть-Кулом');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19821,'Усть-Кульск'),
 	 (0,19822,'Усть-Кумир'),
 	 (0,19823,'Усть-Курдюм'),
@@ -21811,7 +21811,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19828,'Усть-Ламенка'),
 	 (0,19829,'Усть-Лопью'),
 	 (5459,19830,'Усть-Луга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19831,'Усть-Луковка'),
 	 (0,19832,'Усть-Лыжа'),
 	 (0,19833,'Усть-Лэкчим'),
@@ -21822,7 +21822,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19838,'Усть-Миасское'),
 	 (0,19839,'Усть-Миль'),
 	 (0,19840,'Усть-Мосиха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19841,'Усть-Муны'),
 	 (0,19842,'Усть-Муравлянка'),
 	 (0,19843,'Усть-Мута'),
@@ -21833,7 +21833,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19848,'Усть-Нем'),
 	 (3708,19849,'Усть-Нера'),
 	 (0,19850,'Усть-Нея');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19851,'Усть-Ницинское'),
 	 (0,19852,'Усть-Нюкжа'),
 	 (0,19853,'Усть-Обор'),
@@ -21844,7 +21844,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19858,'Усть-Паденьга'),
 	 (0,19859,'Усть-Пера'),
 	 (0,19860,'Усть-Пинега');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19861,'Усть-Пит'),
 	 (0,19862,'Усть-Погожье'),
 	 (0,19863,'Усть-Порозиха'),
@@ -21855,7 +21855,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19868,'Усть-Река'),
 	 (0,19869,'Усть-Сахрай'),
 	 (0,19870,'Усть-Сема');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19871,'Усть-Серта'),
 	 (0,19872,'Усть-Силайка'),
 	 (0,19873,'Усть-Соболевка'),
@@ -21866,7 +21866,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19878,'Усть-Таловка'),
 	 (0,19879,'Усть-Тамак'),
 	 (0,19880,'Усть-Тандовка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19881,'Усть-Тара'),
 	 (6016,19882,'Усть-Тарка'),
 	 (0,19883,'Усть-Тасуркай'),
@@ -21877,7 +21877,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19888,'Усть-Турка'),
 	 (0,19889,'Усть-Тым'),
 	 (4887,19890,'Усть-Уда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19891,'Усть-Уза'),
 	 (0,19892,'Усть-Уйское'),
 	 (0,19893,'Усть-Урень'),
@@ -21888,7 +21888,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19898,'Усть-Хакчан'),
 	 (0,19899,'Усть-Хмелевка'),
 	 (0,19900,'Усть-Хоперская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6934,19901,'Усть-Цильма'),
 	 (0,19902,'Усть-Чагырка'),
 	 (4947,19903,'Усть-Чарышская Пристань'),
@@ -21899,7 +21899,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19908,'Усть-Чуль'),
 	 (0,19909,'Усть-Шиш'),
 	 (0,19910,'Усть-Шоноша (поселок)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19911,'Усть-Шоношская'),
 	 (0,19912,'Усть-Эгита'),
 	 (0,19913,'Усть-Элегест'),
@@ -21910,7 +21910,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19918,'Усть-Яруль'),
 	 (0,19919,'Устье'),
 	 (0,19920,'Устье Видлицы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19921,'Устьевое'),
 	 (0,19922,'Устьинский'),
 	 (0,19923,'Устьянка'),
@@ -21921,7 +21921,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1751,19928,'Устюжна'),
 	 (0,19929,'Устюцкое'),
 	 (0,19930,'Усуг');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19931,'Усугли'),
 	 (0,19932,'Усун'),
 	 (0,19933,'Усун-Кюель'),
@@ -21932,7 +21932,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19938,'Ут-Сала'),
 	 (0,19939,'Утаево'),
 	 (0,19940,'Утай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19941,'Утамыш'),
 	 (0,19942,'Утан'),
 	 (0,19943,'Утар-Аты'),
@@ -21943,7 +21943,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19948,'Утернясь'),
 	 (0,19949,'Утес'),
 	 (0,19950,'Утехово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19951,'Утешево'),
 	 (0,19952,'Утиновка'),
 	 (0,19953,'Утичье'),
@@ -21954,7 +21954,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19958,'Уточка'),
 	 (0,19959,'Утта'),
 	 (0,19960,'Утузы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19961,'Утулик'),
 	 (0,19962,'Утускун'),
 	 (0,19963,'Утыз Имяни'),
@@ -21965,7 +21965,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19968,'Утягулово'),
 	 (0,19969,'Утяково'),
 	 (0,19970,'Утянка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19971,'Утяшино'),
 	 (0,19972,'Утяшкино'),
 	 (0,19973,'Уфа-Шигири'),
@@ -21976,7 +21976,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19978,'Ухменьга'),
 	 (0,19979,'Уховский'),
 	 (4488,19980,'Ухолово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19981,'Ухта (село)'),
 	 (0,19982,'Ухтинка'),
 	 (0,19983,'Ухтуй'),
@@ -21987,7 +21987,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,19988,'Участок № 26'),
 	 (0,19989,'Участок № 4'),
 	 (0,19990,'Участок Боровое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,19991,'Участок Верхнеокинский'),
 	 (0,19992,'Участок-Балта'),
 	 (0,19993,'Учебное'),
@@ -21998,7 +21998,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5501,19998,'Учкекен'),
 	 (0,19999,'Учкент'),
 	 (0,20000,'Учкулан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20001,'Учкулево'),
 	 (0,20002,'Учпили'),
 	 (0,20003,'Учуган-Асаново'),
@@ -22009,7 +22009,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20008,'Ушаковка'),
 	 (0,20009,'Ушаково'),
 	 (0,20010,'Ушаково (Шварихинский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20011,'Ушаковское'),
 	 (0,20012,'Ушарбай'),
 	 (0,20013,'Ушарова'),
@@ -22020,7 +22020,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20018,'Ушниг'),
 	 (0,20019,'Ушумун'),
 	 (0,20020,'Ушхайта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20021,'Ушья'),
 	 (0,20022,'Ущевицы'),
 	 (0,20023,'Ущерпье'),
@@ -22031,7 +22031,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20028,'Уютное'),
 	 (0,20029,'Уютный'),
 	 (0,20030,'Уязыбашево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20031,'Уязытамак'),
 	 (0,20032,'Уян'),
 	 (1166,20033,'Уяр'),
@@ -22042,7 +22042,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20038,'Фабричные Выселки'),
 	 (0,20039,'Фабричный'),
 	 (0,20040,'Фадеевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20041,'Фадеево'),
 	 (0,20042,'Фадеевский'),
 	 (0,20043,'Фадюшино'),
@@ -22053,7 +22053,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20048,'Фалилеево'),
 	 (0,20049,'Фанагорийское'),
 	 (0,20050,'Фаначет');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20051,'Фанерное'),
 	 (0,20052,'Фанерный Завод'),
 	 (0,20053,'Фарково'),
@@ -22064,7 +22064,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20058,'Фатнево'),
 	 (0,20059,'Фащевка'),
 	 (0,20060,'Февральск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20061,'Федино'),
 	 (0,20062,'Федово'),
 	 (0,20063,'Федорки'),
@@ -22075,7 +22075,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20068,'Федорово'),
 	 (0,20069,'Федоровск'),
 	 (0,20070,'Федоровская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2685,20071,'Федоровский'),
 	 (0,20072,'Федоровское'),
 	 (0,20073,'Федорцево'),
@@ -22086,7 +22086,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20078,'Федосово'),
 	 (0,20079,'Федотково'),
 	 (4337,20080,'Федотово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20081,'Федотово (поселок)'),
 	 (0,20082,'Федотовская'),
 	 (0,20083,'Федотьево'),
@@ -22097,7 +22097,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20088,'Федькино'),
 	 (0,20089,'Федюково'),
 	 (0,20090,'Федяшево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20091,'Феклуха'),
 	 (0,20092,'Фельдмаршальский'),
 	 (0,20093,'Фенево'),
@@ -22108,7 +22108,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2812,20098,'Ферзиково'),
 	 (0,20099,'Ферма'),
 	 (0,20100,'Фершампенуаз');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20101,'Фестивальный'),
 	 (0,20102,'Фетинино'),
 	 (0,20103,'Фиагдон'),
@@ -22119,7 +22119,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20108,'Филейка'),
 	 (0,20109,'Филимоновка'),
 	 (0,20110,'Филимоново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20111,'Филимоновская'),
 	 (0,20112,'Филимоновский'),
 	 (0,20113,'Филин'),
@@ -22130,7 +22130,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20118,'Филиппково'),
 	 (0,20119,'Филиппова Гора'),
 	 (0,20120,'Филипповичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20121,'Филипповка'),
 	 (0,20122,'Филиппово'),
 	 (0,20123,'Филипповск'),
@@ -22141,7 +22141,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20128,'Филоново'),
 	 (0,20129,'Филоновская'),
 	 (0,20130,'Филошенка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20131,'Филькино'),
 	 (0,20132,'Филя'),
 	 (0,20133,'Филята'),
@@ -22152,7 +22152,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20138,'Фите'),
 	 (0,20139,'Фитиж'),
 	 (0,20140,'Фишнево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20141,'Фоевичи'),
 	 (5852,20142,'Фоки'),
 	 (0,20143,'Фомин'),
@@ -22163,7 +22163,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20148,'Фомино-Негачевка'),
 	 (0,20149,'Фоминский'),
 	 (0,20150,'Фоминское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20151,'Фомиха'),
 	 (0,20152,'Фомкино'),
 	 (0,20153,'Фонвизино'),
@@ -22174,7 +22174,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20158,'Форштадт'),
 	 (0,20159,'Фосфоритный'),
 	 (0,20160,'Фофанцево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20161,'Фошня'),
 	 (0,20162,'Фощеватово'),
 	 (0,20163,'Фрол'),
@@ -22185,7 +22185,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20168,'Фруктовая'),
 	 (0,20169,'Фрунзе'),
 	 (0,20170,'Фрунзенский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20171,'Фрязево'),
 	 (6298,20172,'Фряново'),
 	 (0,20173,'Фунтики'),
@@ -22196,7 +22196,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20178,'Фыркал'),
 	 (0,20179,'х-во Мамонтово'),
 	 (0,20180,'х-во Уржагимахи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20181,'Хаапалампи'),
 	 (0,20182,'Хабаз'),
 	 (0,20183,'Хабазино'),
@@ -22207,7 +22207,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20188,'Хабаровск (деревня)'),
 	 (0,20189,'Хабаровск-43 (Таежное)'),
 	 (0,20190,'Хабаровский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4948,20191,'Хабары'),
 	 (5502,20192,'Хабез'),
 	 (0,20193,'Хабоцкое'),
@@ -22218,7 +22218,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20198,'Хадахан'),
 	 (0,20199,'Хаджалмахи'),
 	 (0,20200,'Хаджико');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20201,'Хадиял'),
 	 (1462,20202,'Хадыженск'),
 	 (0,20203,'Хадын'),
@@ -22229,7 +22229,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20208,'Хайдак'),
 	 (0,20209,'Хайрюзовка'),
 	 (0,20210,'Хайрюзово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20211,'Хайта'),
 	 (0,20212,'Хайыр'),
 	 (0,20213,'Хайыракан'),
@@ -22240,7 +22240,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20218,'Халево'),
 	 (0,20219,'Халеевичи'),
 	 (0,20220,'Халикеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20221,'Халилово'),
 	 (0,20222,'Халимбекаул'),
 	 (0,20223,'Халино'),
@@ -22251,7 +22251,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20228,'Хамавюрт'),
 	 (0,20229,'Хамамат-Юрт'),
 	 (0,20230,'Хамидие');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20231,'Хамитово'),
 	 (0,20232,'Хамкетинская'),
 	 (0,20233,'Хамней'),
@@ -22262,7 +22262,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20238,'Ханак'),
 	 (0,20239,'Ханата'),
 	 (0,20240,'Хандагай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20241,'Хандагайты'),
 	 (0,20242,'Хандальск'),
 	 (6319,20243,'Хандыга'),
@@ -22273,7 +22273,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5563,20248,'Ханская'),
 	 (6616,20249,'Хантайское Озеро'),
 	 (5033,20250,'Ханымей');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20251,'Ханьков'),
 	 (0,20252,'Хапиль'),
 	 (0,20253,'Хапово'),
@@ -22284,7 +22284,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20258,'Хар-Булук'),
 	 (0,20259,'Хара-Алдан'),
 	 (0,20260,'Хара-Бырка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20261,'Хара-Шибирь'),
 	 (0,20262,'Харагун'),
 	 (0,20263,'Харазаргай'),
@@ -22295,7 +22295,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20268,'Харанут'),
 	 (0,20269,'Харат'),
 	 (0,20270,'Харауз');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20271,'Харахи'),
 	 (0,20272,'Харацай'),
 	 (0,20273,'Харашибирь'),
@@ -22306,7 +22306,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20278,'Харбатово'),
 	 (0,20279,'Харбук'),
 	 (0,20280,'Харбяты');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20281,'Харгана'),
 	 (0,20282,'Хардиково'),
 	 (0,20283,'Хареты'),
@@ -22317,7 +22317,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20288,'Харитоновка'),
 	 (0,20289,'Харитоново'),
 	 (0,20290,'Харитоново (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20291,'Харламово'),
 	 (0,20292,'Харлапково'),
 	 (0,20293,'Харлово'),
@@ -22328,7 +22328,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2687,20298,'Харп'),
 	 (0,20299,'Харпичан'),
 	 (0,20300,'Харсаим');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20301,'Харута'),
 	 (0,20302,'Харциз Первый'),
 	 (0,20303,'Харыялах'),
@@ -22339,7 +22339,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20308,'Харьковское'),
 	 (0,20309,'Харьяга'),
 	 (0,20310,'Хасан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20311,'Хасанай'),
 	 (0,20312,'Хасаншаих'),
 	 (5481,20313,'Хасанья'),
@@ -22350,7 +22350,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20318,'Хаталдон'),
 	 (1167,20319,'Хатанга'),
 	 (0,20320,'Хатас');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20321,'Хатассы'),
 	 (0,20322,'Хатманово'),
 	 (0,20323,'Хатуей'),
@@ -22361,7 +22361,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6899,20328,'Хатын-Сысы'),
 	 (0,20329,'Хатырка'),
 	 (0,20330,'Хатыстыр');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20331,'Хахалы'),
 	 (0,20332,'Хахита'),
 	 (0,20333,'Хачемзий'),
@@ -22372,7 +22372,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20338,'Хватовка'),
 	 (0,20339,'Хвередж'),
 	 (4132,20340,'Хвойная');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20341,'Хвойный'),
 	 (0,20342,'Хворостянка'),
 	 (0,20343,'Хворостянка (село)'),
@@ -22383,7 +22383,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20348,'Хвощи'),
 	 (0,20349,'Хебатли'),
 	 (0,20350,'Хебда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20351,'Хелетури'),
 	 (0,20352,'Хелюля (пгт)'),
 	 (0,20353,'Херпучи'),
@@ -22394,7 +22394,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20358,'Хив'),
 	 (0,20359,'Хидиб'),
 	 (0,20360,'Хийденсельга');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20361,'Хийтола'),
 	 (0,20362,'Хилгана'),
 	 (0,20363,'Хили-Пенджик'),
@@ -22405,7 +22405,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20368,'Химинститута'),
 	 (0,20369,'Хинганск'),
 	 (0,20370,'Хиндах');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20371,'Хинель'),
 	 (0,20372,'Хирино'),
 	 (0,20373,'Хирлеппоси'),
@@ -22416,7 +22416,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20378,'Хитровщина'),
 	 (0,20379,'Хкем'),
 	 (0,20380,'Хлебино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20381,'Хлебниково'),
 	 (0,20382,'Хлебновка'),
 	 (0,20383,'Хлебное'),
@@ -22427,7 +22427,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20388,'Хлеборобное'),
 	 (0,20389,'Хлебородное'),
 	 (0,20390,'Хлевище');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3857,20391,'Хлевное'),
 	 (0,20392,'Хлипицы'),
 	 (0,20393,'Хлопуново'),
@@ -22438,7 +22438,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20398,'Хмара'),
 	 (0,20399,'Хмелева'),
 	 (0,20400,'Хмелевицы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20401,'Хмелевка'),
 	 (0,20402,'Хмелево'),
 	 (0,20403,'Хмелевое'),
@@ -22449,7 +22449,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20408,'Хмельники'),
 	 (0,20409,'Хмельницкое'),
 	 (0,20410,'Хмызов');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20411,'Хмыловка'),
 	 (0,20412,'Хнов'),
 	 (0,20413,'Хобот Богоявленское'),
@@ -22460,7 +22460,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20418,'Ховрино'),
 	 (0,20419,'Хову-Аксы'),
 	 (0,20420,'Хогот');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20421,'Ходары'),
 	 (0,20422,'Ходжа-Казмаляр'),
 	 (5565,20423,'Ходзь'),
@@ -22471,7 +22471,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20428,'Хозьмино'),
 	 (0,20429,'Хойто-Ага'),
 	 (0,20430,'Хойто-Гол');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20431,'Хокта'),
 	 (5039,20432,'Холбон'),
 	 (0,20433,'Холдынка'),
@@ -22482,7 +22482,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20438,'Холмечи'),
 	 (0,20439,'Холмина'),
 	 (0,20440,'Холмогой');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20441,'Холмогорская'),
 	 (0,20442,'Холмогорское'),
 	 (5119,20443,'Холмогоры'),
@@ -22493,7 +22493,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20448,'Холоднородниковское'),
 	 (0,20449,'Холодные Ключи'),
 	 (0,20450,'Холодный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20451,'Холостой Майдан'),
 	 (0,20452,'Холохоленка'),
 	 (0,20453,'Холстовка'),
@@ -22504,7 +22504,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20458,'Хомустах'),
 	 (0,20459,'Хомутинино'),
 	 (0,20460,'Хомутинка (село)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20461,'Хомутино'),
 	 (0,20462,'Хомутниково'),
 	 (3841,20463,'Хомутовка'),
@@ -22515,7 +22515,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20468,'Хонделен'),
 	 (0,20469,'Хондергей'),
 	 (0,20470,'Хоногор');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6906,20471,'Хонуу'),
 	 (5068,20472,'Хонхолой'),
 	 (0,20473,'Хонч Нур'),
@@ -22526,7 +22526,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20478,'Хор'),
 	 (0,20479,'Хор-Тагна'),
 	 (0,20480,'Хордогой');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20481,'Хорево'),
 	 (0,20482,'Хоредж'),
 	 (5382,20483,'Хорей-Вер'),
@@ -22537,7 +22537,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20488,'Хормалы'),
 	 (0,20489,'Хорновар-Шигали'),
 	 (0,20490,'Хоро');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20491,'Хоробут'),
 	 (0,20492,'Хорогочи'),
 	 (0,20493,'Хорода'),
@@ -22548,7 +22548,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20498,'Хорошее'),
 	 (0,20499,'Хорошенькое'),
 	 (0,20500,'Хороши');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20501,'Хороший Ключ'),
 	 (0,20502,'Хорошки'),
 	 (0,20503,'Хорпия'),
@@ -22559,7 +22559,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20508,'Хосрех'),
 	 (0,20509,'Хотеева'),
 	 (0,20510,'Хотеево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20511,'Хотень'),
 	 (0,20512,'Хотетово'),
 	 (0,20513,'Хотилицы'),
@@ -22570,7 +22570,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20518,'Хотмыжск'),
 	 (0,20519,'Хотода'),
 	 (0,20520,'Хоточчу');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20521,'Хотушь'),
 	 (0,20522,'Хотылево'),
 	 (3953,20523,'Хотынец'),
@@ -22581,7 +22581,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3963,20528,'Хохол'),
 	 (0,20529,'Хохол-Тростянка'),
 	 (2489,20530,'Хохольский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20531,'Хохорск'),
 	 (0,20532,'Хохотуй'),
 	 (4211,20533,'Хохряки'),
@@ -22592,7 +22592,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20538,'Хошун-Узур'),
 	 (0,20539,'Хоэ'),
 	 (0,20540,'Хпедж');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20541,'Хпюк'),
 	 (0,20542,'Храброво'),
 	 (0,20543,'Храмцово'),
@@ -22603,7 +22603,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20548,'Хренево'),
 	 (0,20549,'Хреново'),
 	 (0,20550,'Хреновое');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20551,'Хрещатое'),
 	 (0,20552,'Хрещатый'),
 	 (0,20553,'Хрипань'),
@@ -22614,7 +22614,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20558,'Хрущевка'),
 	 (4089,20559,'Хрущево'),
 	 (0,20560,'Хрущево-Подлесное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20561,'Хрюг'),
 	 (0,20562,'Хрящевка'),
 	 (0,20563,'Хтун'),
@@ -22625,7 +22625,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20568,'Худайбердинский'),
 	 (0,20569,'Худанки'),
 	 (0,20570,'Худиг');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20571,'Худоеланское'),
 	 (0,20572,'Худуц'),
 	 (0,20573,'Хужир'),
@@ -22636,7 +22636,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20578,'Хулисма'),
 	 (0,20579,'Хулхута'),
 	 (5659,20580,'Хумалаг');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20581,'Хумара'),
 	 (0,20582,'Хуна'),
 	 (0,20583,'Хунгия'),
@@ -22647,7 +22647,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20588,'Хурзук'),
 	 (0,20589,'Хури'),
 	 (0,20590,'Хурик');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20591,'Хурикау'),
 	 (0,20592,'Хурмули'),
 	 (0,20593,'Хуртага'),
@@ -22658,7 +22658,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20598,'Хусаиново'),
 	 (0,20599,'Хустиль'),
 	 (0,20600,'Хутор');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20601,'Хутор-Бор'),
 	 (0,20602,'Хутор-Лимовое'),
 	 (0,20603,'Хутора'),
@@ -22669,7 +22669,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20608,'Хутрах'),
 	 (0,20609,'Хутхул'),
 	 (0,20610,'Хучель');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20611,'Хучни'),
 	 (0,20612,'Хушенга'),
 	 (0,20613,'Хушет'),
@@ -22680,7 +22680,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20618,'Хюре-Хюр'),
 	 (0,20619,'Ц-Духовка'),
 	 (0,20620,'Ца-Гордали');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5196,20621,'Цаган Аман'),
 	 (0,20622,'Цаган Усн'),
 	 (0,20623,'Цаган-Морин'),
@@ -22691,7 +22691,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20628,'Цаган-Челутай'),
 	 (0,20629,'Цагатуй'),
 	 (0,20630,'Цакир');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20631,'Цалык'),
 	 (0,20632,'Цанак'),
 	 (0,20633,'Цанатль'),
@@ -22702,7 +22702,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20638,'Царево'),
 	 (0,20639,'Царевщина'),
 	 (0,20640,'Царевщино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20641,'Царицыно'),
 	 (0,20642,'Царицыно Озеро'),
 	 (0,20643,'Цахур'),
@@ -22713,7 +22713,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20648,'Цветковский'),
 	 (0,20649,'Цветники'),
 	 (0,20650,'Цветногорск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20651,'Цветное'),
 	 (0,20652,'Цветнополье'),
 	 (0,20653,'Цветовка'),
@@ -22724,7 +22724,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20658,'Цвылево (поселок)'),
 	 (0,20659,'Цебари'),
 	 (0,20660,'Цевло');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20661,'Цекеево (село)'),
 	 (0,20662,'Цекоб'),
 	 (0,20663,'Целегора'),
@@ -22735,7 +22735,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20668,'Целягюн'),
 	 (0,20669,'Цемдолина'),
 	 (0,20670,'Цементный');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20671,'Цемзавод'),
 	 (0,20672,'Ценогора'),
 	 (0,20673,'Центорой'),
@@ -22746,7 +22746,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20678,'Центральной усадьбы племзавода имени Максима Горького'),
 	 (0,20679,'Центральной усадьбы совхоза «40 лет Октября»'),
 	 (0,20680,'Центральной усадьбы совхоза «Мир»');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20681,'Центральной усадьбы совхоза «Озёры»'),
 	 (4432,20682,'Центральный'),
 	 (0,20683,'Центральный Хазан'),
@@ -22757,7 +22757,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20688,'Церковное'),
 	 (5542,20689,'Цибанобалка'),
 	 (0,20690,'Цибикнур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20691,'Цибино'),
 	 (1658,20692,'Цивильск'),
 	 (0,20693,'Цизгари'),
@@ -22768,7 +22768,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20698,'Циммермановка'),
 	 (0,20699,'Цингалы'),
 	 (0,20700,'Цинит');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20701,'Цинка'),
 	 (0,20702,'Циолковский (Углегорск)'),
 	 (0,20703,'Ципья'),
@@ -22779,7 +22779,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20708,'Цовкра 1-я'),
 	 (0,20709,'Цовкра 2-я'),
 	 (0,20710,'Цокто-Хангил');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5070,20711,'Цолга'),
 	 (0,20712,'Цолода'),
 	 (0,20713,'Црау'),
@@ -22790,7 +22790,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20718,'Цуканово'),
 	 (0,20719,'Цуканово-Бобрик'),
 	 (0,20720,'Цулда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20721,'Цуликана'),
 	 (0,20722,'Цумада'),
 	 (0,20723,'Цумилух'),
@@ -22801,7 +22801,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20728,'Цухта'),
 	 (0,20729,'Цухтыг'),
 	 (0,20730,'Цыпка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20731,'ЦЭС'),
 	 (0,20732,'Чаа-Суур'),
 	 (0,20733,'Чаа-Холь'),
@@ -22812,7 +22812,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20738,'Чаган'),
 	 (0,20739,'Чагаси'),
 	 (0,20740,'Чагда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20741,'Чагода (рп)'),
 	 (0,20742,'Чагорта'),
 	 (0,20743,'Чагоян'),
@@ -22823,7 +22823,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20748,'Чажайский лесоучасток'),
 	 (0,20749,'Чажегова'),
 	 (4692,20750,'Чажемто');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20751,'Чазево'),
 	 (0,20752,'Чаинка'),
 	 (0,20753,'Чай'),
@@ -22834,7 +22834,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20758,'Чайковская'),
 	 (0,20759,'Чайковский (поселок)'),
 	 (0,20760,'Чайковского');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20761,'Чайное'),
 	 (0,20762,'Чаканиха'),
 	 (0,20763,'Чакино'),
@@ -22845,7 +22845,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20768,'Чалбышево'),
 	 (0,20769,'Чалганы'),
 	 (0,20770,'Чалда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20771,'Чалдонка'),
 	 (0,20772,'Чалмалы'),
 	 (0,20773,'Чалманарат'),
@@ -22856,7 +22856,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20778,'Чамерево'),
 	 (0,20779,'Чамерово'),
 	 (6200,20780,'Чамзинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20781,'Чамлык Никольское'),
 	 (4009,20782,'Чамлыкская'),
 	 (0,20783,'Чамча'),
@@ -22867,7 +22867,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20788,'Чантырья'),
 	 (2512,20789,'Чаны'),
 	 (0,20790,'Чапаев');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20791,'Чапаевка'),
 	 (6473,20792,'Чапаево'),
 	 (0,20793,'Чапаевский'),
@@ -22878,7 +22878,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20798,'Чаппанда'),
 	 (0,20799,'Чапчылган'),
 	 (0,20800,'Чара');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20801,'Чаравали'),
 	 (0,20802,'Чаргары'),
 	 (0,20803,'Чардым'),
@@ -22889,7 +22889,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20808,'Чарышский'),
 	 (3070,20809,'Чарышское'),
 	 (0,20810,'Часовенная');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20811,'Часовня (Хаврогорский с/с)'),
 	 (0,20812,'Часово'),
 	 (0,20813,'Частая Дубрава'),
@@ -22900,7 +22900,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20818,'Часы'),
 	 (0,20819,'Чаузово'),
 	 (0,20820,'Чаур');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20821,'Чаусово'),
 	 (0,20822,'Чахловка'),
 	 (0,20823,'Чахчах-Казмаляр'),
@@ -22911,7 +22911,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20828,'Чащина'),
 	 (0,20829,'Чащино'),
 	 (0,20830,'Чаянка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20831,'Чебаки'),
 	 (0,20832,'Чебаклы'),
 	 (0,20833,'Чебаково'),
@@ -22922,7 +22922,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4293,20838,'Чебеньки'),
 	 (0,20839,'Чеберчино'),
 	 (0,20840,'Чебоксарово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20841,'Чебоксары (деревня)'),
 	 (0,20842,'Чеботаевка'),
 	 (0,20843,'Чеботаревка'),
@@ -22933,7 +22933,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20848,'Чебургольская'),
 	 (0,20849,'Чебыково'),
 	 (0,20850,'Чеганда');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20851,'Чеганлы'),
 	 (5275,20852,'Чегдомын'),
 	 (1470,20853,'Чегем'),
@@ -22944,7 +22944,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20858,'Чеканиха'),
 	 (0,20859,'Чекашево'),
 	 (2645,20860,'Чекмагуш');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20861,'Чекмаревка'),
 	 (0,20862,'Чекмени'),
 	 (0,20863,'Чекон'),
@@ -22955,7 +22955,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20868,'Челва'),
 	 (0,20869,'Челдак'),
 	 (0,20870,'Челка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20871,'Челкаково'),
 	 (0,20872,'Челкасы'),
 	 (0,20873,'Челмодеевский Майдан'),
@@ -22966,7 +22966,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20878,'Челобитьево'),
 	 (0,20879,'Челпаново'),
 	 (0,20880,'Челутай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20881,'Челутай (24 км)'),
 	 (0,20882,'Челутай (3 км)'),
 	 (0,20883,'Челхов'),
@@ -22977,7 +22977,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20888,'Чемашиха'),
 	 (0,20889,'Чембилей'),
 	 (0,20890,'Чемдальск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20891,'Чемеево'),
 	 (0,20892,'Чемерна'),
 	 (0,20893,'Чемлыж'),
@@ -22988,7 +22988,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20898,'Чемульга'),
 	 (0,20899,'Чемурша'),
 	 (0,20900,'Чендек');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20901,'Ченцы'),
 	 (0,20902,'Чепелево'),
 	 (0,20903,'Чепец'),
@@ -22999,7 +22999,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20908,'Чепорово'),
 	 (0,20909,'Чепош'),
 	 (0,20910,'Чепца');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20911,'Чепчуги'),
 	 (0,20912,'Черби'),
 	 (0,20913,'Червизюль'),
@@ -23010,7 +23010,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20918,'Червленое'),
 	 (0,20919,'Червово'),
 	 (0,20920,'Червянка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20921,'Черга'),
 	 (0,20922,'Чергали'),
 	 (5035,20923,'Чердаклы'),
@@ -23021,7 +23021,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20928,'Черевково'),
 	 (0,20929,'Чередово'),
 	 (3842,20930,'Черемисиново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20931,'Черемисское'),
 	 (0,20932,'Черемичкино'),
 	 (0,20933,'Черемишево'),
@@ -23032,7 +23032,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20938,'Черемухи'),
 	 (0,20939,'Черемуховка'),
 	 (4781,20940,'Черемухово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20941,'Черемушка'),
 	 (4891,20942,'Черемушки'),
 	 (0,20943,'Черемушкино'),
@@ -23043,7 +23043,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20948,'Череново'),
 	 (1214,20949,'Черепаново'),
 	 (0,20950,'Черепановский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5954,20951,'Черепеть'),
 	 (0,20952,'Череповище'),
 	 (0,20953,'Черепянь'),
@@ -23054,7 +23054,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20958,'Черкасск'),
 	 (0,20959,'Черкасская'),
 	 (0,20960,'Черкасское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20961,'Черкасское Поречное'),
 	 (138,20962,'Черкассы'),
 	 (0,20963,'Черкесовский'),
@@ -23065,7 +23065,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20968,'Черки-Кильдуразы'),
 	 (0,20969,'Черкизово'),
 	 (0,20970,'Черкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20971,'Черкутино'),
 	 (0,20972,'Черлак'),
 	 (0,20973,'Черлакское'),
@@ -23076,7 +23076,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20978,'Чермошное'),
 	 (0,20979,'Чернава'),
 	 (0,20980,'Чернавка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20981,'Чернавское'),
 	 (0,20982,'Чернаки'),
 	 (0,20983,'Чернаковка'),
@@ -23087,7 +23087,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,20988,'Черная Курья'),
 	 (0,20989,'Черная Маза'),
 	 (0,20990,'Черная Речка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,20991,'Черная Слобода'),
 	 (0,20992,'Черная Холуница'),
 	 (0,20993,'Чернево'),
@@ -23098,7 +23098,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (3216,20998,'Черниговка'),
 	 (0,20999,'Черниговская'),
 	 (0,21000,'Черниговский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21001,'Черниговское'),
 	 (0,21002,'Чернино'),
 	 (0,21003,'Черницк'),
@@ -23109,7 +23109,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21008,'Черноборский'),
 	 (0,21009,'Черновая'),
 	 (0,21010,'Черновец');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21011,'Черновка'),
 	 (0,21012,'Черново'),
 	 (0,21013,'Черновский'),
@@ -23120,7 +23120,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21018,'Черное'),
 	 (0,21019,'Черное Озеро'),
 	 (4011,21020,'Черноерковская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21021,'Черноземный'),
 	 (0,21022,'Чернозерье'),
 	 (4782,21023,'Черноисточинск'),
@@ -23131,7 +23131,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21028,'Чернолес'),
 	 (3912,21029,'Чернолесское'),
 	 (0,21030,'Чернолучинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4012,21031,'Черноморский'),
 	 (0,21032,'Черномуж'),
 	 (0,21033,'Черноозерка'),
@@ -23142,7 +23142,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21038,'Чернореченская'),
 	 (6594,21039,'Чернореченский'),
 	 (0,21040,'Черноречинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21041,'Черноречье'),
 	 (0,21042,'Черноусовка'),
 	 (0,21043,'Черноусово'),
@@ -23153,7 +23153,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4433,21048,'Чернуха'),
 	 (0,21049,'Чернцы'),
 	 (0,21050,'Черный Ануй');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21051,'Черный Ерик'),
 	 (0,21052,'Черный Ключ'),
 	 (0,21053,'Черный Мыс'),
@@ -23164,7 +23164,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21058,'Черныш'),
 	 (0,21059,'Чернышев'),
 	 (0,21060,'Чернышевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21061,'Чернышево'),
 	 (5101,21062,'Чернышевск'),
 	 (0,21063,'Чернышевский'),
@@ -23175,7 +23175,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4593,21068,'Чернышковский'),
 	 (0,21069,'Чернышово-Починки'),
 	 (4090,21070,'Чернь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21071,'Черняевка'),
 	 (0,21072,'Черняево'),
 	 (3683,21073,'Чернянка'),
@@ -23186,7 +23186,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21078,'Чертановка'),
 	 (4562,21079,'Чертково'),
 	 (0,21080,'Чертовицы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21081,'Чертовищи'),
 	 (0,21082,'Чертолино'),
 	 (5982,21083,'Черусти'),
@@ -23197,7 +23197,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21088,'Чесменка'),
 	 (0,21089,'Чесноки'),
 	 (0,21090,'Чесноковка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21091,'Чесноково'),
 	 (0,21092,'Четай'),
 	 (0,21093,'Четкарино'),
@@ -23208,7 +23208,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21098,'Чехов-2'),
 	 (0,21099,'Чехов-3'),
 	 (6888,21100,'Чехов-7');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21101,'Чехов-8'),
 	 (0,21102,'Чеховка'),
 	 (0,21103,'Чехово'),
@@ -23219,7 +23219,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21108,'Чечкино'),
 	 (6946,21109,'Чечулино'),
 	 (0,21110,'Чешлама');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21111,'Чибижек'),
 	 (0,21112,'Чибирлей'),
 	 (0,21113,'Чибирь'),
@@ -23230,7 +23230,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21118,'Чик (поселок)'),
 	 (0,21119,'Чика'),
 	 (0,21120,'Чикан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21121,'Чикаревка'),
 	 (0,21122,'Чикичей'),
 	 (0,21123,'Чикман'),
@@ -23241,7 +23241,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21128,'Чилгир'),
 	 (0,21129,'Чилино'),
 	 (0,21130,'Чильба');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21131,'Чильчи'),
 	 (0,21132,'Чим'),
 	 (0,21133,'Чинар'),
@@ -23252,7 +23252,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21138,'Чиндалей'),
 	 (0,21139,'Чиндант 1-й'),
 	 (0,21140,'Чиндант 2-й');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21141,'Чиндат'),
 	 (0,21142,'Чиндяново'),
 	 (0,21143,'Чинеево'),
@@ -23263,7 +23263,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21148,'Чираг'),
 	 (0,21149,'Чири-Юрт'),
 	 (0,21150,'Чириково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21151,'Чиричкасы'),
 	 (0,21152,'Чирката'),
 	 (0,21153,'Чиркей'),
@@ -23274,7 +23274,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21158,'Чиршкасы'),
 	 (0,21159,'Чиршкасы (Чиршкасинская с/а)'),
 	 (0,21160,'Чисмена');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21161,'Чистая Грива'),
 	 (0,21162,'Чистая Поляна'),
 	 (0,21163,'Чистик'),
@@ -23285,7 +23285,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21168,'Чистое Борское (Редькинский с/с)'),
 	 (0,21169,'Чистое Поле'),
 	 (0,21170,'Чистое Поле (Линдовский с/с)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21171,'Чистоозерка'),
 	 (3071,21172,'Чистоозерное'),
 	 (0,21173,'Чистоозерный'),
@@ -23296,7 +23296,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21178,'Чистостем'),
 	 (4365,21179,'Чистые Боры'),
 	 (0,21180,'Чистые Ключи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21181,'Чистые Пруды'),
 	 (0,21182,'Чистюнька'),
 	 (0,21183,'Чистяково'),
@@ -23307,7 +23307,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21188,'Чихачево'),
 	 (0,21189,'Чичерино'),
 	 (0,21190,'Чичканы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21191,'Чичкова'),
 	 (0,21192,'Чичково'),
 	 (0,21193,'Чишили'),
@@ -23318,7 +23318,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2679,21198,'Чишмы'),
 	 (0,21199,'Чкалов'),
 	 (6650,21200,'Чкалово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1702,21201,'Чкаловск'),
 	 (0,21202,'Чкаловский'),
 	 (0,21203,'Чкаловское'),
@@ -23329,7 +23329,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (6917,21208,'Чокурдах'),
 	 (0,21209,'Чолун Хамур'),
 	 (0,21210,'Чомпот');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5616,21211,'Чонтаул'),
 	 (0,21212,'Чох'),
 	 (4826,21213,'Чоя'),
@@ -23340,7 +23340,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21218,'Чубарово'),
 	 (0,21219,'Чубовка'),
 	 (0,21220,'Чуваки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21221,'Чуварлеи'),
 	 (0,21222,'Чуварлей Майдан'),
 	 (0,21223,'Чуваш Карамалы'),
@@ -23351,7 +23351,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21228,'Чувашская Сорма'),
 	 (0,21229,'Чувашская Чебоксарка'),
 	 (0,21230,'Чувашские Ишаки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21231,'Чувашские Кищаки'),
 	 (0,21232,'Чувашские Тимяши'),
 	 (0,21233,'Чувашский Брод'),
@@ -23362,7 +23362,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21238,'Чувашское Шапкино'),
 	 (0,21239,'Чувек'),
 	 (0,21240,'Чугайнов Хутор');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21241,'Чуганак'),
 	 (5263,21242,'Чугуевка'),
 	 (0,21243,'Чугунаево'),
@@ -23373,7 +23373,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21248,'Чудиново (Чудиновский с/с)'),
 	 (1060,21249,'Чудово'),
 	 (0,21250,'Чуево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21251,'Чуево-Алабушка'),
 	 (0,21252,'Чужегово'),
 	 (0,21253,'Чужья'),
@@ -23384,7 +23384,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21258,'Чукар'),
 	 (0,21259,'Чукреевское'),
 	 (0,21260,'Чулат');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21261,'Чулеш'),
 	 (0,21262,'Чулино'),
 	 (0,21263,'Чулки-Соколово'),
@@ -23395,7 +23395,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21268,'Чулпан'),
 	 (0,21269,'Чулпаново'),
 	 (1215,21270,'Чулым');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5297,21271,'Чульман'),
 	 (0,21272,'Чума-Елга'),
 	 (0,21273,'Чумаево'),
@@ -23406,7 +23406,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21278,'Чумартово'),
 	 (0,21279,'Чумашки'),
 	 (0,21280,'Чумикан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21281,'Чумли'),
 	 (0,21282,'Чумляк'),
 	 (0,21283,'Чунаки'),
@@ -23417,7 +23417,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21288,'Чупаево'),
 	 (0,21289,'Чупалейка'),
 	 (0,21290,'Чупино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21291,'Чуповка'),
 	 (0,21292,'Чуприяновка'),
 	 (0,21293,'Чупрово'),
@@ -23428,7 +23428,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21298,'Чуракаево'),
 	 (0,21299,'Чураки'),
 	 (0,21300,'Чураково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5295,21301,'Чурапча'),
 	 (0,21302,'Чурачики'),
 	 (0,21303,'Чурашево'),
@@ -23439,7 +23439,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21308,'Чурино'),
 	 (0,21309,'Чурманское'),
 	 (5938,21310,'Чуровичи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21311,'Чуровское'),
 	 (0,21312,'Чурсья'),
 	 (0,21313,'Чуртан'),
@@ -23450,7 +23450,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21318,'Чусовитино'),
 	 (0,21319,'Чусовое'),
 	 (0,21320,'Чусовской');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21321,'Чутай'),
 	 (0,21322,'Чутановка'),
 	 (0,21323,'Чутеево'),
@@ -23461,7 +23461,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21328,'Чухлэм'),
 	 (0,21329,'Чухонастовка'),
 	 (0,21330,'Чучкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4490,21331,'Чучково'),
 	 (0,21332,'Чушевицы'),
 	 (0,21333,'Чушково'),
@@ -23472,7 +23472,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21338,'Чычымах'),
 	 (0,21339,'Чюйя'),
 	 (0,21340,'Шаами-Юрт');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21341,'Шабагиш'),
 	 (0,21342,'Шабаево'),
 	 (0,21343,'Шабановка'),
@@ -23483,7 +23483,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21348,'Шабердино'),
 	 (0,21349,'Шаблиевка'),
 	 (0,21350,'Шаблыкино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4783,21351,'Шабровский'),
 	 (0,21352,'Шабур'),
 	 (0,21353,'Шабурново'),
@@ -23494,7 +23494,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21358,'Шагаево'),
 	 (0,21359,'Шагалка'),
 	 (0,21360,'Шагалово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1173,21361,'Шагонар'),
 	 (0,21362,'Шадейка'),
 	 (0,21363,'Шадки'),
@@ -23505,7 +23505,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21368,'Шадричи'),
 	 (0,21369,'Шадруха'),
 	 (0,21370,'Шадчи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21371,'Шадымо-Рыскино'),
 	 (0,21372,'Шаитик'),
 	 (0,21373,'Шаитли'),
@@ -23516,7 +23516,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21378,'Шайма (Угольский с/с)'),
 	 (0,21379,'Шайменский'),
 	 (0,21380,'Шаймуратово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21381,'Шаймурзино'),
 	 (0,21382,'Шайтанка'),
 	 (0,21383,'Шайтаново'),
@@ -23527,7 +23527,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21388,'Шалаболино'),
 	 (0,21389,'Шалажи'),
 	 (0,21390,'Шалакуша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21391,'Шаламово'),
 	 (0,21392,'Шаламы'),
 	 (0,21393,'Шалап'),
@@ -23538,7 +23538,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21398,'Шалговаара (поселок)'),
 	 (0,21399,'Шалдеж'),
 	 (0,21400,'Шалдежка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21401,'Шалегово (село)'),
 	 (1504,21402,'Шали'),
 	 (0,21403,'Шаликово (деревня)'),
@@ -23549,7 +23549,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5483,21408,'Шалушка'),
 	 (0,21409,'Шалы'),
 	 (0,21410,'Шальский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4784,21411,'Шаля'),
 	 (0,21412,'Шаманка'),
 	 (0,21413,'Шамары'),
@@ -23560,7 +23560,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21418,'Шамокша'),
 	 (0,21419,'Шамонино'),
 	 (0,21420,'Шамордино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21421,'Шамратово'),
 	 (0,21422,'Шамхал'),
 	 (5618,21423,'Шамхал-Термен'),
@@ -23571,7 +23571,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21428,'Шангалы'),
 	 (0,21429,'Шангас'),
 	 (0,21430,'Шангода');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21431,'Шандрово'),
 	 (0,21432,'Шанский Завод'),
 	 (0,21433,'Шанталово'),
@@ -23582,7 +23582,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21438,'Шаповалово'),
 	 (0,21439,'Шапошниковка'),
 	 (0,21440,'Шапошниково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21441,'Шапсугская'),
 	 (0,21442,'Шапта'),
 	 (0,21443,'Шапша'),
@@ -23593,7 +23593,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21448,'Шара-Тогот'),
 	 (0,21449,'Шарагай'),
 	 (5081,21450,'Шарагол');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5066,21451,'Шаралдай'),
 	 (5139,21452,'Шаран'),
 	 (0,21453,'Шаранбаш-Князево'),
@@ -23604,7 +23604,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21458,'Шарапова Охота'),
 	 (0,21459,'Шараповка'),
 	 (0,21460,'Шарапово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21461,'Шарапово (село)'),
 	 (0,21462,'Шарахалсун'),
 	 (0,21463,'Шарашенский'),
@@ -23615,7 +23615,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4212,21468,'Шаркан'),
 	 (0,21469,'Шарлово'),
 	 (4294,21470,'Шарлык');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21471,'Шармаши'),
 	 (0,21472,'Шарнут'),
 	 (0,21473,'Шаровичи (село)'),
@@ -23626,7 +23626,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21478,'Шартаново'),
 	 (0,21479,'Шарчино'),
 	 (0,21480,'Шаршада');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21481,'Шаста'),
 	 (0,21482,'Шастово'),
 	 (0,21483,'Шаталовка'),
@@ -23637,7 +23637,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21488,'Шатмантамак'),
 	 (0,21489,'Шатнево'),
 	 (0,21490,'Шатобал');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21491,'Шатовка'),
 	 (0,21492,'Шатой'),
 	 (0,21493,'Шатракасы'),
@@ -23648,7 +23648,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5979,21498,'Шатурторф'),
 	 (0,21499,'Шатьмапоси'),
 	 (0,21500,'Шаумян');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21501,'Шаумяновский'),
 	 (0,21502,'Шаумянский'),
 	 (0,21503,'Шаури'),
@@ -23659,7 +23659,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21508,'Шахматово'),
 	 (0,21509,'Шахово'),
 	 (6110,21510,'Шаховская');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21511,'Шаховский'),
 	 (0,21512,'Шаховское'),
 	 (0,21513,'Шахровка'),
@@ -23670,7 +23670,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21518,'Шахтерск'),
 	 (0,21519,'Шахтерский'),
 	 (0,21520,'Шахтинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21521,'Шахтный'),
 	 (0,21522,'Шацк'),
 	 (0,21523,'Шацкая'),
@@ -23681,7 +23681,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21528,'Швариха'),
 	 (4091,21529,'Шварцевский'),
 	 (0,21530,'Шведино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21531,'Шебалин'),
 	 (4827,21532,'Шебалино'),
 	 (1827,21533,'Шебекино'),
@@ -23692,7 +23692,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21538,'Шевели'),
 	 (0,21539,'Шевляково'),
 	 (0,21540,'Шевнино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21541,'Шевченко'),
 	 (0,21542,'Шевченковское'),
 	 (0,21543,'Шевырино'),
@@ -23703,7 +23703,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21548,'Шейбухта'),
 	 (0,21549,'Шейно'),
 	 (0,21550,'Шека');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21551,'Шекаловка'),
 	 (0,21552,'Шексна (пгт)'),
 	 (0,21553,'Шекшема'),
@@ -23714,7 +23714,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21558,'Шелангер'),
 	 (0,21559,'Шелашский'),
 	 (0,21560,'Шелемишево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21561,'Шелемишевские Хутора'),
 	 (0,21562,'Шелепино'),
 	 (0,21563,'Шелестово'),
@@ -23725,7 +23725,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21568,'Шелокша'),
 	 (0,21569,'Шеломки'),
 	 (0,21570,'Шеломы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21571,'Шелопугино'),
 	 (0,21572,'Шелота'),
 	 (0,21573,'Шелоховская'),
@@ -23736,7 +23736,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2503,21578,'Шемаха'),
 	 (0,21579,'Шембеть'),
 	 (0,21580,'Шеменово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21581,'Шеметово'),
 	 (0,21582,'Шеми'),
 	 (4191,21583,'Шемордан'),
@@ -23747,7 +23747,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1019,21588,'Шенкурск'),
 	 (3031,21589,'Шентала'),
 	 (4014,21590,'Шепси');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21591,'Шептуховка'),
 	 (0,21592,'Шерагул'),
 	 (0,21593,'Шерауты'),
@@ -23758,7 +23758,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21598,'Шереганово'),
 	 (4814,21599,'Шерегеш'),
 	 (0,21600,'Шерекино (деревня)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21601,'Шереметьевка'),
 	 (0,21602,'Шереметьево'),
 	 (0,21603,'Шеркалы'),
@@ -23769,7 +23769,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21608,'Шерстки'),
 	 (0,21609,'Шерстни (деревня)'),
 	 (0,21610,'Шерья');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21611,'Шестаки'),
 	 (0,21612,'Шестаковка'),
 	 (0,21613,'Шестаково'),
@@ -23780,7 +23780,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21618,'Шешурга'),
 	 (6903,21619,'Шея'),
 	 (0,21620,'Шиба');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21621,'Шибаево'),
 	 (0,21622,'Шибертуй'),
 	 (0,21623,'Шибково'),
@@ -23791,7 +23791,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21628,'Шивия'),
 	 (0,21629,'Шигаево'),
 	 (0,21630,'Шигали');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5050,21631,'Шигоны'),
 	 (0,21632,'Шидловка'),
 	 (0,21633,'Шидрово'),
@@ -23802,7 +23802,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21638,'Шикши'),
 	 (0,21639,'Шила'),
 	 (0,21640,'Шилан');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21641,'Шилега'),
 	 (0,21642,'Шилекша'),
 	 (1201,21643,'Шилка'),
@@ -23813,7 +23813,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21648,'Шиловка'),
 	 (3703,21649,'Шилово'),
 	 (0,21650,'Шилово-Курья');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21651,'Шилокша'),
 	 (0,21652,'Шилыково'),
 	 (0,21653,'Шильда'),
@@ -23824,7 +23824,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21658,'Шимбилик'),
 	 (0,21659,'Шимихюр'),
 	 (0,21660,'Шимки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21661,'Шимкусы'),
 	 (0,21662,'Шимолино'),
 	 (4436,21663,'Шиморское'),
@@ -23835,7 +23835,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21668,'Шингак-Куль'),
 	 (0,21669,'Шингальчи'),
 	 (0,21670,'Шиндалово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21671,'Шинеры'),
 	 (0,21672,'Шинкбалакада'),
 	 (0,21673,'Шиньша'),
@@ -23846,7 +23846,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21678,'Шипуниха'),
 	 (0,21679,'Шипунова'),
 	 (3669,21680,'Шипуново');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21681,'Шипуновская'),
 	 (6181,21682,'Шира'),
 	 (0,21683,'Ширбово'),
@@ -23857,7 +23857,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21688,'Ширково'),
 	 (0,21689,'Широбоков'),
 	 (0,21690,'Широкая');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21691,'Широкий'),
 	 (0,21692,'Широкий Буерак'),
 	 (0,21693,'Широкий Карамыш'),
@@ -23868,7 +23868,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21698,'Широкий Яр'),
 	 (0,21699,'Широко-Бахолдинский'),
 	 (0,21700,'Широково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21701,'Широковский'),
 	 (0,21702,'Широковское'),
 	 (3151,21703,'Широкое'),
@@ -23879,7 +23879,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21708,'Ширтаны'),
 	 (0,21709,'Ширыштык'),
 	 (0,21710,'Ширяева');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (3176,21711,'Ширяево'),
 	 (0,21712,'Ширяевский'),
 	 (0,21713,'Ширяиха'),
@@ -23890,7 +23890,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1612,21718,'Шиханы'),
 	 (0,21719,'Шихикент'),
 	 (0,21720,'Шихобалово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21721,'Шихово'),
 	 (0,21722,'Шишинер'),
 	 (0,21723,'Шишино'),
@@ -23901,7 +23901,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21728,'Шишкино'),
 	 (0,21729,'Шишково-Дуброво'),
 	 (0,21730,'Шишлово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21731,'Шишмарево'),
 	 (0,21732,'Шишовка'),
 	 (0,21733,'Шкаланка'),
@@ -23912,7 +23912,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21738,'Школьное'),
 	 (0,21739,'Школьный'),
 	 (6571,21740,'Шкотово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21741,'Шкрябино'),
 	 (0,21742,'Шкуновка'),
 	 (4016,21743,'Шкуринская'),
@@ -23923,7 +23923,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21748,'Шлиппово'),
 	 (2018,21749,'Шлиссельбург'),
 	 (0,21750,'Шлыки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21751,'Шляпино'),
 	 (0,21752,'Шляпники'),
 	 (0,21753,'Шмаковка'),
@@ -23934,7 +23934,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21758,'Шмойлово'),
 	 (0,21759,'Шмотовка'),
 	 (0,21760,'Шовкра');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21761,'Шовское'),
 	 (0,21762,'Шогринское'),
 	 (0,21763,'Шодрода'),
@@ -23945,7 +23945,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21768,'Шокино'),
 	 (0,21769,'Шокурово'),
 	 (0,21770,'Шокша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21771,'Шолга'),
 	 (0,21772,'Шолохово'),
 	 (4563,21773,'Шолоховский'),
@@ -23956,7 +23956,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5406,21778,'Шонгуй'),
 	 (0,21779,'Шопино'),
 	 (0,21780,'Шопша');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21781,'Шордаково'),
 	 (0,21782,'Шордауши'),
 	 (0,21783,'Шордур'),
@@ -23967,7 +23967,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21788,'Шоруньжа'),
 	 (0,21789,'Шорчекасы'),
 	 (0,21790,'Шоршелы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21791,'Шоссе'),
 	 (0,21792,'Шостье'),
 	 (0,21793,'Шотова'),
@@ -23978,7 +23978,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21798,'Шошино'),
 	 (0,21799,'Шошка'),
 	 (0,21800,'Шпагино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21801,'Шпалозавод'),
 	 (0,21802,'Шпалозавода (Кантауровский с/с)'),
 	 (0,21803,'Шпаньково'),
@@ -23989,7 +23989,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21808,'Штул'),
 	 (0,21809,'Штурбино'),
 	 (0,21810,'Штурм');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21811,'Штурмовой'),
 	 (0,21812,'Штыково'),
 	 (0,21813,'Шуарсола'),
@@ -24000,7 +24000,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21818,'Шубинское'),
 	 (0,21819,'Шубное'),
 	 (0,21820,'Шуваево');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5776,21821,'Шувакиш'),
 	 (0,21822,'Шувалов'),
 	 (0,21823,'Шувалово'),
@@ -24011,7 +24011,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21828,'Шугозеро'),
 	 (0,21829,'Шугур'),
 	 (0,21830,'Шугурово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21831,'Шудаяг'),
 	 (0,21832,'Шудек'),
 	 (0,21833,'Шуерецкое'),
@@ -24022,7 +24022,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21838,'Шукавка'),
 	 (0,21839,'Шукты'),
 	 (0,21840,'Шулганово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21841,'Шулка'),
 	 (0,21842,'Шулма'),
 	 (0,21843,'Шулынды'),
@@ -24033,7 +24033,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21848,'Шумаево'),
 	 (0,21849,'Шумаки'),
 	 (0,21850,'Шумаково');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21851,'Шумановка'),
 	 (0,21852,'Шумарово'),
 	 (0,21853,'Шумашь'),
@@ -24044,7 +24044,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21858,'Шумилиха'),
 	 (0,21859,'Шумилово'),
 	 (0,21860,'Шумихинский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21861,'Шумково'),
 	 (0,21862,'Шумное'),
 	 (0,21863,'Шумный'),
@@ -24055,7 +24055,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (4370,21868,'Шумячи'),
 	 (0,21869,'Шунга'),
 	 (0,21870,'Шунема');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21871,'Шунеры'),
 	 (0,21872,'Шунтук'),
 	 (0,21873,'Шуньга'),
@@ -24066,7 +24066,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21878,'Шуринка'),
 	 (0,21879,'Шуриновка'),
 	 (0,21880,'Шурма');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (6855,21881,'Шурскол'),
 	 (5310,21882,'Шуруповский'),
 	 (0,21883,'Шурыгино'),
@@ -24077,7 +24077,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21888,'Шутихинское'),
 	 (0,21889,'Шутовщина'),
 	 (0,21890,'Шуурмак');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21891,'Шухободь'),
 	 (0,21892,'Шухово'),
 	 (0,21893,'Шухруповское'),
@@ -24088,7 +24088,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21898,'Шушмабаш'),
 	 (0,21899,'Шушнур'),
 	 (0,21900,'Шушь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4225,21901,'Шыгырдан'),
 	 (0,21902,'Шыргайта'),
 	 (0,21903,'Шэръяг'),
@@ -24099,7 +24099,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21908,'Щеглово'),
 	 (0,21909,'Щеглово (поселок)'),
 	 (0,21910,'Щегловский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21911,'Щеголек'),
 	 (0,21912,'Щедровка'),
 	 (0,21913,'Щеколдино'),
@@ -24110,7 +24110,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21918,'Щелыково'),
 	 (0,21919,'Щельябож'),
 	 (0,21920,'Щельяюр');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21921,'Щениково'),
 	 (0,21922,'Щенники'),
 	 (0,21923,'Щербаки'),
@@ -24121,7 +24121,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21928,'Щербинино'),
 	 (0,21929,'Щербиновка'),
 	 (0,21930,'Щербиновский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21931,'Щетинка'),
 	 (0,21932,'Щетинкина'),
 	 (0,21933,'Щетинкино'),
@@ -24132,7 +24132,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (1889,21938,'Щигры'),
 	 (0,21939,'Щукино'),
 	 (5407,21940,'Щукозеро');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21941,'Щурово'),
 	 (0,21942,'Щучанка'),
 	 (0,21943,'Щучинские Пески'),
@@ -24143,7 +24143,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21948,'Ыджыдъяг'),
 	 (0,21949,'Ыллымах'),
 	 (0,21950,'Ымыяхтах');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21951,'Ынахсыт'),
 	 (0,21952,'Ыныкчан'),
 	 (0,21953,'Ынырга'),
@@ -24154,7 +24154,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21958,'Эбдалая'),
 	 (0,21959,'Эбелях'),
 	 (0,21960,'Эвдик');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2442,21961,'Эвенск'),
 	 (0,21962,'Эворон'),
 	 (5287,21963,'Эгвекинот'),
@@ -24165,7 +24165,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21968,'Эдучанка'),
 	 (0,21969,'Эдэрмэг'),
 	 (0,21970,'Эжанцы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5632,21971,'Экажево'),
 	 (0,21972,'Экибулак'),
 	 (0,21973,'Экимчан'),
@@ -24176,7 +24176,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (2097,21978,'Электрогорск'),
 	 (5974,21979,'Электроизолятор'),
 	 (2048,21980,'Электроугли');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21981,'Эликманар'),
 	 (0,21982,'Элисенваара'),
 	 (0,21983,'Элистанжи'),
@@ -24187,7 +24187,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21988,'Эльбрус'),
 	 (0,21989,'Эльбрусский'),
 	 (0,21990,'Эльбурган');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,21991,'Эльген'),
 	 (0,21992,'Эльгинский'),
 	 (6921,21993,'Эльгяй'),
@@ -24198,7 +24198,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,21998,'Эльтон'),
 	 (5662,21999,'Эльхотово'),
 	 (0,22000,'Элэсун');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22001,'Эмеково'),
 	 (0,22002,'Эминхюр'),
 	 (0,22003,'Эмиссы'),
@@ -24209,7 +24209,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22008,'Энгеной'),
 	 (0,22009,'Энгозеро'),
 	 (0,22010,'Энгорок');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22011,'Энгуразово'),
 	 (0,22012,'Эндирей'),
 	 (2753,22013,'Энем'),
@@ -24220,7 +24220,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22018,'Энтузиастов'),
 	 (0,22019,'Энхэ Тала'),
 	 (0,22020,'Эпимахово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22021,'Эрги-Барлык'),
 	 (0,22022,'Эрдниевский'),
 	 (0,22023,'Эрзин'),
@@ -24231,7 +24231,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22028,'Эркешево'),
 	 (0,22029,'Эрмели'),
 	 (0,22030,'Эрна');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22031,'Эрпели'),
 	 (0,22032,'Эрсакон'),
 	 (0,22033,'Эрхирик'),
@@ -24242,7 +24242,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22038,'Эсто-Алтай'),
 	 (109,22039,'Эстония'),
 	 (0,22040,'Эстонка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22041,'Эстонский'),
 	 (0,22042,'Эсэ-Хайя'),
 	 (3914,22043,'Этока'),
@@ -24253,7 +24253,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22048,'Эчкаюн'),
 	 (0,22049,'Эшмикеево'),
 	 (0,22050,'Ээрбек');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22051,'Ю-Тольен'),
 	 (0,22052,'Ю-Чабья'),
 	 (0,22053,'Юбери'),
@@ -24264,7 +24264,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22058,'Юг'),
 	 (4437,22059,'Юганец'),
 	 (0,22060,'Юганская Обь');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22061,'Югдон'),
 	 (6340,22062,'Юго-Камский'),
 	 (0,22063,'Юго-Северная'),
@@ -24275,7 +24275,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22068,'Югыдъяг'),
 	 (0,22069,'Юдановка'),
 	 (0,22070,'Юдинка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22071,'Юдино'),
 	 (0,22072,'Юдиново'),
 	 (0,22073,'Юдиха'),
@@ -24286,7 +24286,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22078,'Южно-Александровка'),
 	 (0,22079,'Южно-Дубровное'),
 	 (0,22080,'Южно-Енисейск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (2649,22081,'Южно-Курильск'),
 	 (0,22082,'Южно-Морской'),
 	 (0,22083,'Южно-Плетнево'),
@@ -24297,7 +24297,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22088,'Южный'),
 	 (0,22089,'Южный Аргалей'),
 	 (0,22090,'Южный Урал');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22091,'Южный-Коспашский'),
 	 (0,22092,'Юкагир'),
 	 (0,22093,'Юкаликулево'),
@@ -24308,7 +24308,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22098,'Юксеево'),
 	 (0,22099,'Юкта'),
 	 (0,22100,'Юктали');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22101,'Юламаново'),
 	 (0,22102,'Юлбат'),
 	 (0,22103,'Юлдаш'),
@@ -24319,7 +24319,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22108,'Юледур'),
 	 (0,22109,'Юлово'),
 	 (0,22110,'Юловский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22111,'Юлты'),
 	 (0,22112,'Юлук'),
 	 (0,22113,'Юлуково'),
@@ -24330,7 +24330,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22118,'Юмадыбаш'),
 	 (0,22119,'Юмаково'),
 	 (0,22120,'Юманай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22121,'Юмас'),
 	 (0,22122,'Юматово'),
 	 (0,22123,'Юмашево'),
@@ -24341,7 +24341,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22128,'Юность'),
 	 (0,22129,'Юность Комсомольская'),
 	 (0,22130,'Юнусово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22131,'Юный'),
 	 (0,22132,'Юный Пионер'),
 	 (0,22133,'Юр'),
@@ -24352,7 +24352,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22138,'Юргинский'),
 	 (4994,22139,'Юргинское'),
 	 (4243,22140,'Юрино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22141,'Юрки'),
 	 (0,22142,'Юркино'),
 	 (0,22143,'Юрковка'),
@@ -24363,7 +24363,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22148,'Юрминка'),
 	 (0,22149,'Юрмы'),
 	 (0,22150,'Юровка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22151,'Юрово'),
 	 (0,22152,'Юрома'),
 	 (0,22153,'Юрочкино'),
@@ -24374,7 +24374,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22158,'Юрцово'),
 	 (1770,22159,'Юрьевец'),
 	 (3152,22160,'Юрьевка');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22161,'Юрьево'),
 	 (0,22162,'Юрьево-Девичье'),
 	 (3706,22163,'Юрья'),
@@ -24385,7 +24385,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22168,'Юсово'),
 	 (0,22169,'Юста'),
 	 (0,22170,'Юстик');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22171,'Юсупово'),
 	 (5854,22172,'Юсьва'),
 	 (4226,22173,'Юськасы'),
@@ -24396,7 +24396,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22178,'Юхари-Картас'),
 	 (0,22179,'Юхари-Стал'),
 	 (0,22180,'Юхмачи');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (1879,22181,'Юхнов'),
 	 (0,22182,'Юхово'),
 	 (0,22183,'Юхта'),
@@ -24407,7 +24407,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22188,'Юшково'),
 	 (0,22189,'Юшкозеро'),
 	 (0,22190,'Юшта');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22191,'Ябалаклы'),
 	 (0,22192,'Ябалаково'),
 	 (0,22193,'Яблоневка'),
@@ -24418,7 +24418,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22198,'Яблоново'),
 	 (4564,22199,'Яблоновский'),
 	 (0,22200,'Яблоновый Гай');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22201,'Яблоня'),
 	 (0,22202,'Яблочное'),
 	 (0,22203,'Ябоган'),
@@ -24429,7 +24429,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22208,'Явленка'),
 	 (0,22209,'Явлено-Покровка'),
 	 (0,22210,'Яган');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22211,'Яган-Докья'),
 	 (0,22212,'Ягановка'),
 	 (0,22213,'Яганово'),
@@ -24440,7 +24440,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22218,'Ягодинка'),
 	 (0,22219,'Ягодная Поляна'),
 	 (0,22220,'Ягодное');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22221,'Ягодный'),
 	 (0,22222,'Яготино'),
 	 (0,22223,'Ягубовка'),
@@ -24451,7 +24451,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22228,'Ядрышникова'),
 	 (0,22229,'Ядыгерь'),
 	 (0,22230,'Яжелбицы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22231,'Язаевка'),
 	 (0,22232,'Язово'),
 	 (0,22233,'Язула'),
@@ -24462,7 +24462,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22238,'Якиманская Слобода'),
 	 (0,22239,'Якимовка'),
 	 (0,22240,'Якимово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22241,'Яковка'),
 	 (6455,22242,'Яковлевка'),
 	 (0,22243,'Яковлево'),
@@ -24473,7 +24473,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22248,'Яконово'),
 	 (0,22249,'Яконур'),
 	 (5186,22250,'Яксатово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22251,'Якуньель'),
 	 (0,22252,'Якупово'),
 	 (0,22253,'Якутино'),
@@ -24484,7 +24484,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22258,'Якшимбетово'),
 	 (0,22259,'Якшина'),
 	 (0,22260,'Якшино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22261,'Якшур'),
 	 (4214,22262,'Якшур-Бодья'),
 	 (0,22263,'Ялак'),
@@ -24495,7 +24495,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22268,'Ялмта'),
 	 (0,22269,'Яловка'),
 	 (0,22270,'Ялта (поселок)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22271,'Ялым'),
 	 (0,22272,'Яльгелево'),
 	 (3674,22273,'Яльчики'),
@@ -24506,7 +24506,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22278,'Ямайкино'),
 	 (0,22279,'Ямакай'),
 	 (0,22280,'Яман');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22281,'Ямансаз'),
 	 (0,22282,'Ямансарово'),
 	 (0,22283,'Яманчурино'),
@@ -24517,7 +24517,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22288,'Ямбург'),
 	 (0,22289,'Ямбухтино'),
 	 (0,22290,'Яминский');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22291,'Ямки'),
 	 (6567,22292,'Ямкино'),
 	 (0,22293,'Ямм'),
@@ -24528,7 +24528,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22298,'Ямское'),
 	 (0,22299,'Ямуга (деревня)'),
 	 (0,22300,'Ямурзино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22301,'Ямщина'),
 	 (0,22302,'Ямы'),
 	 (0,22303,'Яна'),
@@ -24539,7 +24539,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22308,'Янга-Сала'),
 	 (0,22309,'Янгантау'),
 	 (0,22310,'Янгасы');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22311,'Янгаулово'),
 	 (0,22312,'Янгель'),
 	 (0,22313,'Янгельский'),
@@ -24550,7 +24550,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22318,'Янгорчино'),
 	 (0,22319,'Янгоры'),
 	 (0,22320,'Янгулово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5633,22321,'Яндаре'),
 	 (0,22322,'Яндоба'),
 	 (0,22323,'Яндовище'),
@@ -24561,7 +24561,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (5461,22328,'Янино-1'),
 	 (0,22329,'Янишево'),
 	 (0,22330,'Янишполе');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22331,'Янкуль'),
 	 (0,22332,'Яново'),
 	 (0,22333,'Яново-Грушевский'),
@@ -24572,7 +24572,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22338,'Янтарный'),
 	 (4227,22339,'Янтиково'),
 	 (0,22340,'Янтык');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22341,'Янтышево'),
 	 (0,22342,'Янурусово'),
 	 (0,22343,'Янцевары'),
@@ -24583,7 +24583,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22348,'Яныбаево'),
 	 (0,22349,'Яныбай'),
 	 (0,22350,'Яныкайсола');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22351,'Яныль'),
 	 (0,22352,'Янымово'),
 	 (0,22353,'Янышево'),
@@ -24594,7 +24594,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22358,'Ярабайкасы'),
 	 (0,22359,'Яраг-Казмаляр'),
 	 (1678,22360,'Яранск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22361,'Яраткулова'),
 	 (0,22362,'Яратово'),
 	 (0,22363,'Ярашъю'),
@@ -24605,7 +24605,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22368,'Ярище'),
 	 (0,22369,'Ярки'),
 	 (0,22370,'Яркино');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4853,22371,'Ярково'),
 	 (0,22372,'Яркуг'),
 	 (0,22373,'Яркуль'),
@@ -24616,7 +24616,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22378,'Яровское'),
 	 (0,22379,'Яровщина'),
 	 (0,22380,'Яровщина (Алеховщинское с/п)');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22381,'Ярополец'),
 	 (0,22382,'Ярославичи'),
 	 (0,22383,'Ярославка'),
@@ -24627,7 +24627,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22388,'Ярославы'),
 	 (0,22389,'Ярский Льнозавод'),
 	 (0,22390,'Ярское');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22391,'Ярской 1-й'),
 	 (0,22392,'Яруквалар'),
 	 (1117,22393,'Ярцево'),
@@ -24638,7 +24638,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22398,'Ясашная'),
 	 (0,22399,'Ясашная Ташла'),
 	 (0,22400,'Ясенки');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22401,'Ясеновка'),
 	 (0,22402,'Ясенок'),
 	 (4018,22403,'Ясенская'),
@@ -24649,7 +24649,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22408,'Ясно'),
 	 (0,22409,'Ясногорка'),
 	 (1931,22410,'Ясногорск');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (4815,22411,'Ясногорский'),
 	 (0,22412,'Ясное'),
 	 (0,22413,'Ясные Зори'),
@@ -24660,7 +24660,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22418,'Ястребино (деревня)'),
 	 (0,22419,'Ястребовка'),
 	 (0,22420,'Ястребово');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (0,22421,'Ясырев'),
 	 (0,22422,'Яумбаево'),
 	 (0,22423,'Яуши'),
@@ -24671,7 +24671,7 @@ INSERT INTO public.city (id_hh,id_edwica,name) VALUES
 	 (0,22428,'Яцено'),
 	 (0,22429,'Ячейка'),
 	 (0,22430,'Ячменюха');
-INSERT INTO public.city (id_hh,id_edwica,name) VALUES
+INSERT INTO h_city (id_hh,id_edwica,name) VALUES
 	 (5198,22431,'Яшалта'),
 	 (0,22432,'Яшевка'),
 	 (0,22433,'Яшерганово'),

@@ -2,14 +2,15 @@ package postgres
 
 import (
 	"fmt"
+	
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/models"
 )
 
 func GetCities() (cities []models.City){
-	db := connect()
+	db := Connect2()
 	defer db.Close()
 
-	query := fmt.Sprintf("SELECT * FROM %s WHERE id_hh != 0", TableCity)
+	query := fmt.Sprintf("SELECT * FROM %s WHERE id_hh != 0 ORDER BY id_hh LIMIT 1000", TableCity)
 	rows, err := db.Query(query)
 	checkErr(err)
 	for rows.Next() {

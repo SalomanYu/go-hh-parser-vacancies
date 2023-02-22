@@ -2,13 +2,14 @@ package postgres
 
 import (
 	"fmt"
-	"github.com/SalomanYu/go-hh-parser-vacancies/src/models"
 	"strings"
+
+	"github.com/SalomanYu/go-hh-parser-vacancies/src/models"
 )
 
 
 func SetParsedStatusToProfession(id int) {
-	db := connect()
+	db := Connect2()
 	defer db.Close()
 
 	query := fmt.Sprintf(`UPDATE "%s" SET parsed = true WHERE id = %d`, TableProfessions, id)
@@ -21,7 +22,7 @@ func SetParsedStatusToProfession(id int) {
 
 
 func GetProfessions() (professions []models.Profession) {
-	db := connect()
+	db := Connect2()
 	defer db.Close()
 
 	query := fmt.Sprintf("SELECT id, name, other_names, level, parent_id FROM %s WHERE parsed = false", TableProfessions)

@@ -2,32 +2,23 @@ package api
 
 import (
 	"fmt"
+	"strings"
+
+	"github.com/tidwall/gjson"
+
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/logger"
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/models"
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/postgres"
-	"strings"
-	"time"
 
-	"github.com/tidwall/gjson"
 )
+
 
 func scrapeVacancy(url string, city_edwica int, id_profession int)  { 
 	var vacancy models.Vacancy
+	checkCaptcha(url)
 	json, err := GetJson(url)
 	if err != nil {
 		logger.Log.Printf("Ошибка при подключении к странице %s.\nТекст ошибки: %s", err, url)
-	}
-	if checkManyRequestsError(json) {
-		time.Sleep(60)
-		fmt.Println("Слишком много запросов в секунду. Делаем паузу на 60 секунд")
-		json, err = GetJson(url) 
-		if err != nil {
-			logger.Log.Printf("Ошибка при подключении к странице %s.\nТекст ошибки: %s", err, url)
-		}
-		if checkManyRequestsError(json) {
-			logger.Log.Printf("Не смогли спарсить вакансию: %s\nТекст ошибки: %s", url, json)
-			return
-		} 
 	}
 
 	salary := getSalary(json)
@@ -46,14 +37,6 @@ func scrapeVacancy(url string, city_edwica int, id_profession int)  {
 	postgres.SaveOneVacancy(vacancy)
 }
 
-func checkManyRequestsError(json string) bool {
-	err := gjson.Get(json ,"errors.0.type").String()
-	if err == "" {
-		return false
-	} else {
-		return true
-	}
-}
 
 func getSalary(vacancyJson string) (salary models.Salary) {
 	salary.Currency = gjson.Get(vacancyJson, "salary.currency").String()

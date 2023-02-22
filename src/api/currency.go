@@ -1,10 +1,10 @@
 package api
 
 import (
+	"github.com/tidwall/gjson"
+
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/logger"
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/models"
-
-	"github.com/tidwall/gjson"
 )
 
 const dictionariesUrl = "https://api.hh.ru/dictionaries"

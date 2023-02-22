@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"regexp"
 	"strings"
 	"sync"
 	"time"
@@ -12,13 +13,11 @@ import (
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/postgres"
 )
 
-const GroupSize = 6
+const GroupSize = 10
 
 func main(){
 	start := time.Now().Unix()
 	logger.Log.Printf("Старт программы")
-
-
 	UpdateCurrency()
 	professions := postgres.GetProfessions()
 	for _, prof := range professions {
@@ -39,6 +38,7 @@ func UpdateCurrency() {
 	}
 
 	currency := api.GetCurrencies()
+
 	postgres.UpdateCurrencyRate(currency)
 	logger.Log.Print("Валюта в БД была обновлена")
 }
@@ -74,14 +74,36 @@ func groupCities() (groups [][]models.City) {
 }
 
 func parseProfessionInCity(city models.City, profession models.Profession, wg *sync.WaitGroup) {
-	logger.Log.Printf("Ищем профессию `%s` в городе %s", profession.Name, city.Name)
-	api.GetVacanciesByQuery(city, profession.Name, profession.Id)
-	for _, other_name := range profession.OtherNames {
-		if len(other_name) <= 3 || strings.ToLower(strings.TrimSpace(other_name)) == strings.ToLower(strings.TrimSpace(profession.Name))  {
+	profession.OtherNames = append(profession.OtherNames, profession.Name)
+	unique_professions := unique_list(profession.OtherNames)
+	for _, prof := range unique_professions {
+		if len(prof) <= 3 {
 			continue
 		}
-		logger.Log.Printf("Ищем профессию `%s` в городе %s", other_name, city.Name)
-		api.GetVacanciesByQuery(city, other_name, profession.Id)
+		logger.Log.Printf("Ищем профессию `[id:%d]%s` в городе %s", profession.Id, prof, city.Name)
+		api.GetVacanciesByQuery(city, prof, profession.Id)
 	}
 	wg.Done()
+}
+
+func unique_list(list []string) []string {
+	var unique []string
+	var re = regexp.MustCompile(`(?m) +`)
+
+	for _, item := range list {
+		no_symbol := strings.ReplaceAll(item, "-", " ")
+		trim := re.ReplaceAllString(no_symbol, " ")
+		low := strings.ToLower(trim)
+		has_match := false
+		for _, item2 := range unique {
+			if item2 == low {
+				has_match = true
+				break
+			}
+		}
+		if !has_match {
+			unique = append(unique, low)
+		}
+	}
+	return unique
 }

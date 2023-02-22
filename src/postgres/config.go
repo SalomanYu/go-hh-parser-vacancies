@@ -6,8 +6,10 @@ import (
 	"os"
 	"strconv"
 
+	"github.com/SalomanYu/go-hh-parser-vacancies/src/logger"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
+	_ "github.com/go-sql-driver/mysql"
 )
 
 func init() {
@@ -28,14 +30,21 @@ var (
 	password string
 	dbname  string
 
-	TableCity = "city"
-	TableProfessions = "position"
-	TableCurrencies = "currencies"
-	TableVacancy = "vacancy"
+	// TableCity = "city"
+	// TableProfessions = "position"
+	// TableCurrencies = "currencies"
+	// TableVacancy = "vacancy"
+
+	TableCity = "h_city"
+	TableProfessions = "h_position"
+	TableCurrencies = "h_currency"
+	TableVacancy = "h_vacancy"
+
 )
 
 func checkErr(err error) {
 	if err != nil {
+		logger.Log.Fatal(err)
 		panic(err)
 	}
 }
@@ -45,4 +54,11 @@ func connect() (db *sql.DB){
 	db, err := sql.Open("postgres", conn)
 	checkErr(err)
 	return
+}
+
+func Connect2() (db *sql.DB){
+	db, err := sql.Open("mysql", "edwica_root:b00m5gQ40WB1@tcp(83.220.175.75:3306)/edwica")
+	checkErr(err)
+	db.Ping()
+	return db
 }
