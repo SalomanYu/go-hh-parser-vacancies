@@ -3,25 +3,25 @@ package postgres
 import (
 	"database/sql"
 	"fmt"
-	"os"
-	"strconv"
+	// "os"
+	// "strconv"
 
 	"github.com/SalomanYu/go-hh-parser-vacancies/src/logger"
-	"github.com/joho/godotenv"
+	// "github.com/joho/godotenv"
 	_ "github.com/lib/pq"
 	_ "github.com/go-sql-driver/mysql"
 )
 
-func init() {
-	err := godotenv.Load(".env")
-	checkErr(err)
-	host = os.Getenv("POSTGRES_HOST")
-	port, _ = strconv.Atoi(os.Getenv("POSTGRES_PORT"))
-	user = os.Getenv("POSTGRES_USER")
-	password = os.Getenv("POSTGRES_PASSWORD")
-	dbname = os.Getenv("POSTGRES_DATABASE")
-	fmt.Println(host)
-}
+// func init() {
+// 	err := godotenv.Load(".env")
+// 	checkErr(err)
+// 	host = os.Getenv("POSTGRES_HOST")
+// 	port, _ = strconv.Atoi(os.Getenv("POSTGRES_PORT"))
+// 	user = os.Getenv("POSTGRES_USER")
+// 	password = os.Getenv("POSTGRES_PASSWORD")
+// 	dbname = os.Getenv("POSTGRES_DATABASE")
+// 	fmt.Println(host)
+// }
 
 var (
 	host string
@@ -59,6 +59,6 @@ func connect() (db *sql.DB){
 func Connect2() (db *sql.DB){
 	db, err := sql.Open("mysql", "edwica_root:b00m5gQ40WB1@tcp(83.220.175.75:3306)/edwica")
 	checkErr(err)
-	db.Ping()
+	// db.SetMaxOpenConns(10)
 	return db
 }
